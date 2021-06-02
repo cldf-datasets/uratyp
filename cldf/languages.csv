@@ -1,12 +1,12 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-1,Soikkola Ingrian,,59.78,28.53,soyk1238,izh
-2,West Votic,,59.6,28.68,west2391,vot
-3,Voro South Estonian,,57.85,27,voro1241,vro
+1,Soikkola Ingrian,,59.78,28.53,ingr1248,izh
+2,West Votic,,59.6,28.68,voti1245,vot
+3,Voro South Estonian,,57.85,27,sout2679,vro
 4,Livvi-Karelian,,61.75,32.59,livv1243,olo
 5,Courland Livonian,,57.57,22.03,livv1244,liv
 6,Ludian,,61.81,33.94,ludi1246,lud
-7,Central Veps,,60.34,34.79,cent1812,vep
-8,North Karelian,,65.17,30.87,nort2673,krl
+7,Central Veps,,60.34,34.79,veps1250,vep
+8,North Karelian,,65.17,30.87,kare1335,krl
 9,Tver Karelian,,57.06,35.86,tver1240,krl
 10,Estonian,,58.95,25.51,esto1258,myv
 11,Finnish,,62.52,25.75,finn1318,fin
@@ -16,20 +16,19 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
 15,South Saami,,62.88,13.7,sout2674,sma
 16,North Saami,,68.72,22.11,nort2671,sme
 17,Skolt Saami,,68.83,29.72,skol1241,sms
-18,Meadow Mari,,56.72,48.49,gras1239,mhr
-19,Hill Mari,,56.41,46.47,kozy1238,mrj
+18,Meadow Mari,,56.72,48.49,east2328,mhr
+19,Hill Mari,,56.41,46.47,west2392,mrj
 20,Erzya,,54.74,45.88,erzy1239,myv
 21,Moksha,,54.15,43.87,moks1248,mdf
 22,Komi-Zyrian,,64.05,54.95,komi1268,kpv
-23,Komi-Permyak,,59.96,54.51,komi1269,koi
-24,Udmurt,,57.11,52.89,udmu1245,udm
-25,Hungarian,,46.91,19.66,hung1274,hun
-26,East Mansi,,60.2,65.49,?,?
-27,North Mansi,,63.64,61.75,mans1258,mns
-28,Kazym Khanty,,62.43,66.12,khan1273,kca
-29,Surgut Khanty,,61.25,73.35,surg1248,?
-30,Forest Enets,,68.55,85.83,fore1265,enf
-31,Tundra Nenets,,66.18,71.02,nene1249,yrk
-32,South Selkup,,58.4,82.52,kety1234,sel
-33,Kamas,,55.07,94.83,kama1351,xas
-34,Nganasan,,73.14,86.21,ngan1291,nio
+23,Udmurt,,57.11,52.89,udmu1245,udm
+24,Hungarian,,46.91,19.66,hung1274,hun
+25,East Mansi,,60.2,65.49,?,?
+26,North Mansi,,63.64,61.75,mans1258,mns
+27,Kazym Khanty,,62.43,66.12,khan1273,kca
+28,Surgut Khanty,,61.25,73.35,surg1248,?
+29,Forest Enets,,68.55,85.83,fore1265,enf
+30,Tundra Nenets,,66.18,71.02,nene1249,yrk
+31,South Selkup,,58.4,82.52,selk1253,sel
+32,Kamas,,55.07,94.83,kama1351,xas
+33,Nganasan,,72.12,102.83,ngan1291,nio

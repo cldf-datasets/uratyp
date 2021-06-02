@@ -1,12 +1,12 @@
 ID,Name,Glottocode,ISO-639-3,Latitude,Longitude
-1,Soikkola Ingrian,soyk1238,izh,59.78,28.53
-2,West Votic,west2391,vot,59.6,28.68
-3,Voro South Estonian,voro1241,vro,57.85,27
+1,Soikkola Ingrian,ingr1248,izh,59.78,28.53
+2,West Votic,voti1245,vot,59.6,28.68
+3,Voro South Estonian,sout2679,vro,57.85,27
 4,Livvi-Karelian,livv1243,olo,61.75,32.59
 5,Courland Livonian,livv1244,liv,57.57,22.03
 6,Ludian,ludi1246,lud,61.81,33.94
-7,Central Veps,cent1812,vep,60.34,34.79
-8,North Karelian,nort2673,krl,65.17,30.87
+7,Central Veps,veps1250,vep,60.34,34.79
+8,North Karelian,kare1335,krl,65.17,30.87
 9,Tver Karelian,tver1240,krl,57.06,35.86
 10,Estonian,esto1258,myv,58.95,25.51
 11,Finnish,finn1318,fin,62.52,25.75
@@ -16,20 +16,19 @@ ID,Name,Glottocode,ISO-639-3,Latitude,Longitude
 15,South Saami,sout2674,sma,62.88,13.7
 16,North Saami,nort2671,sme,68.72,22.11
 17,Skolt Saami,skol1241,sms,68.83,29.72
-18,Meadow Mari,gras1239,mhr,56.72,48.49
-19,Hill Mari,kozy1238,mrj,56.41,46.47
+18,Meadow Mari,east2328,mhr,56.72,48.49
+19,Hill Mari,west2392,mrj,56.41,46.47
 20,Erzya,erzy1239,myv,54.74,45.88
 21,Moksha,moks1248,mdf,54.15,43.87
 22,Komi-Zyrian,komi1268,kpv,64.05,54.95
-23,Komi-Permyak,komi1269,koi,59.96,54.51
-24,Udmurt,udmu1245,udm,57.11,52.89
-25,Hungarian,hung1274,hun,46.91,19.66
-26,East Mansi,?,?,60.2,65.49
-27,North Mansi,mans1258,mns,63.64,61.75
-28,Kazym Khanty,khan1273,kca,62.43,66.12
-29,Surgut Khanty,surg1248,?,61.25,73.35
-30,Forest Enets,fore1265,enf,68.55,85.83
-31,Tundra Nenets,nene1249,yrk,66.18,71.02
-32,South Selkup,kety1234,sel,58.4,82.52
-33,Kamas,kama1351,xas,55.07,94.83
-34,Nganasan,ngan1291,nio,73.14,86.21
+23,Udmurt,udmu1245,udm,57.11,52.89
+24,Hungarian,hung1274,hun,46.91,19.66
+25,East Mansi,?,?,60.2,65.49
+26,North Mansi,mans1258,mns,63.64,61.75
+27,Kazym Khanty,khan1273,kca,62.43,66.12
+28,Surgut Khanty,surg1248,?,61.25,73.35
+29,Forest Enets,fore1265,enf,68.55,85.83
+30,Tundra Nenets,nene1249,yrk,66.18,71.02
+31,South Selkup,selk1253,sel,58.4,82.52
+32,Kamas,kama1351,xas,55.07,94.83
+33,Nganasan,ngan1291,nio,72.12,102.83
