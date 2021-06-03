@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "c0a11a6",
+            "dc:created": "73e9b1f",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-3-g8da6d68a3c",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.9.4"
         },
         {
             "dc:title": "python-packages",
