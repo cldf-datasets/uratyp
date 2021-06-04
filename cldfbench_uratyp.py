@@ -19,6 +19,7 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf['LanguageTable', 'Glottocode'].null = ['?']
         args.writer.cldf['LanguageTable', 'ISO639P3code'].null = ['?']
+        args.writer.cldf.add_columns('LanguageTable', 'Subfamily')
 
         lmap = {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
