@@ -6,7 +6,7 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Subfamily
 5,Courland_Livonian,,57.57,22.03,livv1244,liv,Finnic
 6,Ludian,,61.81,33.94,ludi1246,lud,Finnic
 7,Central_Veps,,60.34,34.79,veps1250,vep,Finnic
-8,North_Karelian,,65.17,30.87,kare1335,krl,Finnic
+8,North_Karelian,,65.17,30.87,nort2673,krl,Finnic
 9,Tver_Karelian,,57.06,35.86,tver1240,krl,Finnic
 10,Estonian,,58.95,25.51,esto1258,myv,Finnic
 11,Finnish,,62.52,25.75,finn1318,fin,Finnic
@@ -29,6 +29,6 @@ ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Subfamily
 28,Surgut_Khanty,,61.25,73.35,surg1248,?,Ugric
 29,Forest_Enets,,68.55,85.83,fore1265,enf,Samoyed
 30,Tundra_Nenets,,66.18,71.02,nene1249,yrk,Samoyed
-31,South_Selkup,,58.40,82.52,kety1234,sel,Samoyed
+31,South_Selkup,,58.40,82.52,sout3262,sel,Samoyed
 32,Kamas,,55.07,94.83,kama1351,xas,Samoyed
 33,Nganasan,,72.12,102.83,ngan1291,nio,Samoyed

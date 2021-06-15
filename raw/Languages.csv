@@ -6,7 +6,7 @@ ID,Name,Subfamily,Glottocode,ISO-639-3,Latitude,Longitude
 5,Courland_Livonian,Finnic,livv1244,liv,57.57,22.03
 6,Ludian,Finnic,ludi1246,lud,61.81,33.94
 7,Central_Veps,Finnic,veps1250,vep,60.34,34.79
-8,North_Karelian,Finnic,kare1335,krl,65.17,30.87
+8,North_Karelian,Finnic,nort2673,krl,65.17,30.87
 9,Tver_Karelian,Finnic,tver1240,krl,57.06,35.86
 10,Estonian,Finnic,esto1258,myv,58.95,25.51
 11,Finnish,Finnic,finn1318,fin,62.52,25.75
@@ -29,6 +29,6 @@ ID,Name,Subfamily,Glottocode,ISO-639-3,Latitude,Longitude
 28,Surgut_Khanty,Ugric,surg1248,?,61.25,73.35
 29,Forest_Enets,Samoyed,fore1265,enf,68.55,85.83
 30,Tundra_Nenets,Samoyed,nene1249,yrk,66.18,71.02
-31,South_Selkup,Samoyed,kety1234,sel,58.40,82.52
+31,South_Selkup,Samoyed,sout3262,sel,58.40,82.52
 32,Kamas,Samoyed,kama1351,xas,55.07,94.83
 33,Nganasan,Samoyed,ngan1291,nio,72.12,102.83
