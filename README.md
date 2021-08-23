@@ -13,7 +13,10 @@ The database can be explored in several ways. One option is browse the database 
 
 ### How to cite UraTyp
 
-> Miina et al. 2021. Uralic typological data sets.
+> Norvik et al. 2021. The Uralic typology in the light of new comprehensive data sets. Journal of Uralic Linguistics. (under review)
+
+### Funders and supporters
+Kipot ja kielet (‘Pots and languages’) project, funded by the University of Turku (2018–2020), the URKO (Uralilainen Kolmio = ‘Uralic Triangle’) project, funded by the Academy of Finland (2020–2022); The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
 
 ### Terms of use
 
