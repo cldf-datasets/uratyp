@@ -1,6 +1,7 @@
 import pathlib
 
 from clldutils.text import split_text
+from csvw.dsv import reader
 
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
@@ -14,6 +15,10 @@ GB_LANGUAGE_MAP = {
     'voro1241': 'sout2679',
     'west2392': 'kozy1238',
 }
+
+
+def read(p, **kw):
+    return list(reader(p, dicts=True, **kw))
 
 
 def gb_codes(s):
@@ -63,72 +68,33 @@ class Dataset(BaseDataset):
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
 
-        args.writer.objects['ContributionTable'].append(dict(
-            ID='UT', Name='Uralic Areal Typology'
-        ))
-        args.writer.objects['ContributionTable'].append(dict(
-            ID='GB', Name='Grambank'
-        ))
+        for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
+            args.writer.objects['ContributionTable'].append(dict(ID=sd, Name=contrib))
 
-        for param in self.raw_dir.read_csv('Features.csv', dicts=True):
-            param['Contribution_ID'] = 'UT'
-            args.writer.objects['ParameterTable'].append(param)
-            for code, name in [('1', 'yes'), ('0', 'no')]:
-                args.writer.objects['CodeTable'].append(dict(
-                    ID='{}-{}'.format(param['ID'], code),
-                    Name=code,
-                    Description=name,
-                    Parameter_ID=param['ID'],
-                ))
-        gb_features = set()
-        for row in self.raw_dir.read_csv('gb.csv', dicts=True):
-            #Feature_ID,Feature,Possible Values
-            gb_features.add(row['Feature_ID'])
-            args.writer.objects['ParameterTable'].append(dict(
-                ID=row['Feature_ID'],
-                Name=row['Feature'],
-                Contribution_ID='GB',
-            ))
-            try:
-                for code, name in gb_codes(row['Possible Values']):
-                    args.writer.objects['CodeTable'].append(dict(
-                        ID='{}-{}'.format(row['Feature_ID'], code),
-                        Name=code,
-                        Description=name,
-                        Parameter_ID=row['Feature_ID'],
-                    ))
-            except:
-                print(row)
-                raise
-        for row in self.raw_dir.read_csv('Finaldata.csv', dicts=True):
-            for k in row:
-                lid = lmap[row['language']]
-                if k.startswith('UT'):
-                    if row[k] in ['', 'N/A']:  # don't even include the rows
-                        continue
-                    if '?' in row[k]:
-                        continue
-                    args.writer.objects['ValueTable'].append(dict(
-                        ID='{}-{}'.format(lid, k),
-                        Language_ID=lid,
-                        Parameter_ID=k,
-                        Value=row[k],
-                        Code_ID='{}-{}'.format(k, row[k]),
-                    ))
-        seen = set()
-        for sheet in self.raw_dir.glob('RK*.csv'):
-            gc = sheet.stem.split('_')[-1].replace('.tsv', '')
-            gc = GB_LANGUAGE_MAP.get(gc, gc)
-            if gc in lmap and gc not in seen:
-                seen.add(gc)
-                for row in self.raw_dir.read_csv(sheet.name, dicts=True):
-                    if row['Value'] and row['Feature_ID'] in gb_features:
-                        args.writer.objects['ValueTable'].append(dict(
-                            ID='{}-{}'.format(lmap[gc], row['Feature_ID']),
-                            Language_ID=lmap[gc],
-                            Parameter_ID=row['Feature_ID'],
-                            Value=row['Value'],
-                            Code_ID='{}-{}'.format(row['Feature_ID'], row['Value']) if row['Value'] != '?' else None,
+            for param in read(self.raw_dir / sd / 'Features.csv'):
+                param['Contribution_ID'] = sd
+                args.writer.objects['ParameterTable'].append(param)
+                if sd == 'UT':
+                    for code, name in [('1', 'yes'), ('0', 'no')]:
+                        args.writer.objects['CodeTable'].append(dict(
+                            ID='{}-{}'.format(param['ID'], code),
+                            Name=code,
+                            Description=name,
+                            Parameter_ID=param['ID'],
                         ))
-            else:
-                print('skipping {}'.format(sheet))
+
+            for row in read(self.raw_dir / sd / 'Finaldata.csv'):
+                for k in row:
+                    lid = lmap[row['language']]
+                    if k.startswith('UT'):
+                        if row[k] in ['', 'N/A']:  # don't even include the rows
+                            continue
+                        if '?' in row[k]:
+                            continue
+                        args.writer.objects['ValueTable'].append(dict(
+                            ID='{}-{}'.format(lid, k),
+                            Language_ID=lid,
+                            Parameter_ID=k,
+                            Value=row[k],
+                            Code_ID='{}-{}'.format(k, row[k]) if sd == 'UT' else None,
+                        ))

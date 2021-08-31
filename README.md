@@ -9,11 +9,11 @@ We hope that the database proves to be a useful tool in research and teaching fo
 
 ### How to use UraTyp
 
-The database can be explored in several ways. One option is browse the database according to languages. Clicking on “Languages” on the navigation bar and then selecting a language enables one to see all the answers provided for the respective language. Another option is to search according to “Parameters” and study the general picture parameter by parameter. Clicking on the name of the parameter takes to the general description and map, while the box “values” gives a quick overview of the general distribution. It is also possible to explore the “Sources” that were used for writing the descriptions of parameters or giving linguistic examples for UT questions. 
+The database can be explored in several ways. One option is browse the interactive database at https://uralic.clld.org according to languages. Clicking on “Languages” on the navigation bar and then selecting a language enables one to see all the answers provided for the respective language. Another option is to search according to “Parameters” and study the general picture parameter by parameter. Clicking on the name of the parameter takes to the general description and map, while the box “values” gives a quick overview of the general distribution. It is also possible to explore the “Sources” that were used for writing the descriptions of parameters or giving linguistic examples for UT questions. 
 
 ### How to cite UraTyp
 
-> Norvik et al. 2021. The Uralic typology in the light of new comprehensive data sets. Journal of Uralic Linguistics. (under review)
+> Norvik et al. 2021. The Uralic typology in the light of new comprehensive data sets.
 
 ### Funders and supporters
 Kipot ja kielet (‘Pots and languages’) project, funded by the University of Turku (2018–2020), the URKO (Uralilainen Kolmio = ‘Uralic Triangle’) project, funded by the Academy of Finland (2020–2022); The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
