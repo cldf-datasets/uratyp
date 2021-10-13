@@ -1,0 +1,179 @@
+ID,Name,Moksha,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,Niina Aasmäe,,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Niina Aasmäe,,
+UT003,Can finite verbs agree in number with the nominal object?,1,Niina Aasmäe,śormad-sa śorma-ť;write-PRES/FUT.1SG>3SG letter-DEF.GEN.SG;I will write the letter;| śormad-sajńǝ śorma-ťńǝń;write-PRS/FUT.DEF.1SG>3PL letter-DEF.GEN.PL;I will write the letters;,
+UT004,Can an adnominal property word agree with the noun in case?,0,Niina Aasmäe,,
+UT005,Are there cases that do not show agreement in terms of case?,1,Niina Aasmäe,parǝ ši-ťńǝ-stǝ;good day-DEF.ELA.PL;on the good days;,In attributive clauses the modifyer has no case/number marker.
+UT006,Can adpositions be used to mark core verbal arguments?,1,Niina Aasmäe,esǝ + PX: uč-i esǝ-ń/mo-ń esǝ wait-PRS.3SG PP-PX.3SG>1SG/I-GEN.SG PP 'is waiting for me' is used as a case of pronominal zero; transitive verbs in the definite conjugation show the person and number of the direct object: učǝ-samam wait-DEF.3SG>1SG '(s/he) will wait for (me).',
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Niina Aasmäe,korxt-an marxtǝ-nzǝ;speak-PRS.1SG with-PX.3SG.GEN;I (will) speak with him/her;,Possessive suffixes can be added to a range of postpositions to show the person and number of an oblique argument.
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Niina Aasmäe,näj-ǝźǝ c´ora-t´ mašina-sǝ ardǝmstǝ-źǝ/-nzǝ;I.NOM see-DEF.PST1.1SG>3SG man-DEF.GEN.SG car-INDF.INE.SG drive-GER.PX.1SG>3SG/3SG>3SG;I saw the man on my/his driving a car;,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,1,Niina Aasmäe,,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Niina Aasmäe,,
+UT011,Does object marking correlate with aspectuality?,1,Niina Aasmäe,,
+UT012,Does the marking of the object depend on the verb conjugation form?,0,Niina Aasmäe,,
+UT013,Is there differential subject marking?,1,Niina Aasmäe,," Miina: Näidete põhjalt vähemalt ei selgu, et kääne erineks. Erinevad definiitsuse poolest. Viimasel juhul on tegemist omamisega. Mariann veel kirjutas: Ersässä mielestäni objekti aina pysyy samana. On muutamia esimerkkejä, joissa kvanttorin yhteydessä voi olla ablatiivi, mutta tämä on mokšassa paljon yleisempi kuin ersässä. Mokšan esimerkki: A joťń-i mašina-da ťä Rabočäj uľća-va kizǝ-sta kizǝ-s aŕś-i
+koľ śada lama […]
+and go-3SG car-ABL this Rabočäj street-PROL year-ELA year-ILL think-3SG always COMP lot
+‘And he is thinking that all the time more cars are driving through this Rabočäj street from year to year […]’ En tiedä, voiko tällainen subjekti esiintyä mokšassa ilman kvanttoria. Kiinnostaa kyllä. 
+
+1) Šuftǝ-ś kas-i pandǝ pŕä-sǝ. tree-DEF.NOM.SG grow-PRS.3SG mountain.NOM pŕä-INDF.INE.SG 'The tree grows on a mountain top'. 2) Pandǝ pŕä-sǝ kas-i šuvtǝ. mountain.NOM head-INDF.INE.SG grow-PRS.3SG tree.INDF.NOM.SG 'on the top of the mountain a tree grows.' 3) Mo-ń uľǝ-ť maŕ šuftǝ-ńǝ I-GEN be-PRS.3PL apple tree-PX.1SG>3PL 'I have apple trees.'"
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Niina Aasmäe,aľǝ-ś ńäjǝ-źǝ oftǝ-ť di tu-ś laśkǝ-ź;man-DEF.NOM.SG see-DEF.PST1.3SG>3SG bear-DEF.GEN(=ACC).SG and go-PST1.3SG run-GER;the man saw the bear and went (away) running;|aľǝ-ś ovtǝ-ť ńäjǝmstǝ-nzǝ tu-ś laśkǝ-ź;man-DEF.NOM.SG bear-DEF.GEN(ACC).SG see-GER-3SG>3SG go-PST1.3SG run-GER;The man seeing the bear went away running;,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Niina Aasmäe,,
+UT016,Is there a grammatical device for habituality?,1,Niina Aasmäe,jakś-ǝľǝń;go-PST2.1SG;I used to go;,PST2 expresses habituality.
+UT017,Is there a grammatical device for frequentative?,1,Niina Aasmäe,sa-šǝnd-ǝms;come-FRQ-INF;come several times;,Progressive-frequentative is also expressed by PST2.
+UT018,Is there a grammatical device for progressivity?,1,Niina Aasmäe,"Son ud-ǝľ, mźardǝ suva-ń kud-u;s/he.NOM sleep-PST2.3SG when enter-PST1.1SG;S/he was sleeping when I entered;",PST2 can be used to express progressivity and repeated actions.
+UT019,Is it common to use a verb in the present tense for future time reference?,1,Niina Aasmäe,moĺ-an kud-u;go-PRS.1SG  home-INDF.LAT;I go/am going/will go home;,The forms of present cover both present and future time.
+UT020,Is there a grammatical device for immediate future?,0,Niina Aasmäe,,
+UT021,Is there a grammatical device for pluperfect?,0,Niina Aasmäe,,PST1/PST2 express indefinite/progressive as well as completed actions refferring to past (not sequence in time). 
+UT022,Can aspect be expressed overtly on the negative marker?,1,Niina Aasmäe,,"Negations: aš 'be missing', apak 'not (done), iź-PST1:  aš-ǝl´iń kud-sǝ be_missing-PST2.1SG  home-INDF.INE '(I) was not (staying) at home'); apak-ǝľ suva-k NEG-PST2.3SG enter 'was not in'; jakǝ-ľǝť ťeatra-v? -- iź-ǝľǝń go-PST2.2SG theatre-LAT -- NEG-PST2.1SG 'Did you (usually) go to the theatre? _ No, (I did not).'"
+UT023,Can tense be expressed overtly on the negative marker?,1,Niina Aasmäe,aš-an/-ǝl´ǝń;NEG-PRS.1SG/-PST2.1SG;I am/was missing;|iź-iť/-iľ-iť korxta;NEG-PST1.2SG/-PST2.2SG speak.CNG;(You) did not speak/were not speaking; ,
+UT024,Is there grammatical marking of mirativity?,0,Niina Aasmäe,,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,Niina Aasmäe,mora-ľeksǝľǝń morǝ;sing-DES.1SG song-ACC;I wanted (=was about) to sing a song;,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Niina Aasmäe,"Ul´-ǝl´ mäl´-ǝźǝ, mol´ǝ-ľǝń v'äľi;be-CONJ.3SG wish-PX.1SG>3SG go-CONJ.1SG village-INDF.LAT.SG;If I wanted to, I would visit the country-side;",
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Niina Aasmäe,"Mor-ańďäŕa-ľǝť morǝ, mon maŕa-ľǝťǝ;sing-COND.-CONJ.2SG song.ACC I.NOM hear-DEF.CONJ.1SG>2SG;If (you) had sung a song, I would have heard you;",
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Niina Aasmäe,morǝ-ťńǝ mora-ma-t;song-DEF.NOM.PL sing-DEB-3PL;The songs must be sung;,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Niina Aasmäe,,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,Niina Aasmäe,suva-v-an;enter-PRS.-v-1SG;I can enter;|Moń-ǝńďi t´evǝ-ś t´ijǝ-v-ǝ;I-DAT work-DEF.NOM.SG do-v-PRS.3SG;I can do the work;,"The marker -v- to express capability, possibility"
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Niina Aasmäe,ul´ǝ-zǝ be-OPT.3SG;let it/him/her be;|suva-zǝ;enter-OPT.3SG;let him/her enter;,The optative z.
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Niina Aasmäe,ul´ǝ-zan šumbra;be-OPT.1SG healthy;let me be healthy;,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Niina Aasmäe,,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Niina Aasmäe,,
+UT035,Is there reflexive conjugation?,0,Niina Aasmäe,,
+UT036,Are there syntactically ditransitive verbs?,1,Niina Aasmäe,,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Niina Aasmäe,"андсамасть 'te syötätte minua/meitä', андсамазь 'he syöttävät meitä/minua'",There is syncretism between 2pl/3pl object with 2sg/2pl object.
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Niina Aasmäe,,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,Niina Aasmäe,ťijńǝ-saź stańǝ;do-DEF.3PL>3SG this;they do it like this;,
+UT040,Can second person singular verb forms be used in generic meaning?,1,Niina Aasmäe,ujǝń-ďäŕ-at ičkǝźǝ - a sav-at meki;swim-COND.2SG far NEG come-PRS.2SG back;If (you)  swim (=one swims) far away - you (=s/he) won't (be able to) come back;,
+UT042,Are clauses with only infinitive predicates possible?,1,Niina Aasmäe,t´ejǝ-m;do-DEB;(It) must be done;,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Niina Aasmäe,Mol´-an Insar-u ramśǝ-mǝ;go-PRS.1SG Insar-LAT do_shopping-INF2;I will go to Insar to do shopping;,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Niina Aasmäe,piź-ǝ;rain-PRS.3SG;It's raining;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Niina Aasmäe,,The copula is covert: son mokšǝ (s/he.NOM Moksha.PRS.3SG) 's/he is a Moksha'.
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Niina Aasmäe,ton uĺ-at kud-sǝ?;you be-PRS.2SG home-INE;will you  be at home;,"The overt present forms of the copula express grammatical future; the predicate nominals have the cliticized PRS and PST forms of uĺ-ǝms: kud-s-an (home-INE-PRS.SG) 'I am at home', kud-sǝ-ĺiń (home-INE-PST2.1SG) 'I was at home'."
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,Niina Aasmäe,kudo-so;home-INDF.INE.PRS.3SG;S/he (is) at home;,Covert forms are used with 3SG. Overt copula: ušo-s-an < ušo-so-(ul´)an outside-INE-PRS.1SG 'I am outside'. Existential 'be': toso uľ-i ľej there be-PRS.3SG river.NOM 'there is a river there'. 
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,Niina Aasmäe,,Pet´a-t-Mar´a-t Petja-PL Mar´a-PL 'Pete and Mary'; Pet´a Mar´a marto Petja.NOM Mar´a.NOM with 'Pete with Mary'; Pet´a lovn-i di śormad-i (Pete.NOM read-PRS.3SG and =Russ. da  write-PRS.3SG 'Pete reads and writes'.
+UT049,Does existential negation have a separate operator?,1,Niina Aasmäe,"as a finite verb, aš/-ǝt NEG.PRS.3SG/-PL 'is/are missing', as a nominal category: aš-an miss-PRS.1SG 'I am missing', aš-ǝĺǝń NEG-PST2.1SG 'I was missing'.",
+UT050,Can standard negation be asymmetric in the present tense?,0,Niina Aasmäe,,"In the present tense, negation is symmetric, e.g. kort-an : af kort-an (speak-PRS.1SG : NEG speak-PRS.1SG) 'I speak : I don't speak'."
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,Niina Aasmäe,"e.g. the present participle: af korxti-ćǝ NEG speak-PTCP1 'not speaking, taciturn', af večku-ft NEG like-PTCP1 'not likeable'.",
+UT052,Is there a special negator that combines with non-finite forms?,1,Niina Aasmäe,"apak 'not' + PTCP2/GER: ťij-ǝź do-PTCP2, apak t´ijǝ (tev) NEG do.CNG (work) 'work that has not been done'; laśk-ǝź run-GER, apak laśk-k NEG run.CNG 'not running'. The copular NEG construction is asymmetric: kińiga-ś soda-ź/apak soda-k book-DEF.NOM.SG know-PTCP2-PRS.1SG/NEG PTCP2-k 'The book is known/not known'.",
+UT053,Are there special negative non-finite forms?,0,Niina Aasmäe,,
+UT054,Is there an impersonal passive construction?,1,Niina Aasmäe,"1) the GEN Subject + 3PL:  Kši-ť pań-saź bread-DEF.GEN.SG bake-PRS/FUT.3PL>3SG '(The) bread will be baked.'  2) the NOM subject +  the passive-reflexive suffix -v,  also expressing possibility: Kši-ś pań-ǝvi bread-DEF.NOM.SG bake-PASS.3SG '(The) bread will be baked', 3):  the DAT subject +  the passive-reflexive suffix -v: moń-ǝńďi kši a pań-ǝvi I-DAT.SG bread.NOM/ACC NEG bake-PASS.3SG '(I) won't be able to bake bread.'",
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Niina Aasmäe,"Mariann kirjutas, et seda näidet peaks veidi parandama: mokša: uči loman', učǝf loman'
+
+uči-ća lomań wait-PTCP1 person.INDF.NOM.SG 'a waiting person', učo-ź/-ń lomań-eś wait-PTCP2 person-DEF.NOM.SG 'the person whom (they) wait' > učo-ź-eś wait-PTCP2.DEF. 'the one whom (they) wait'  ",
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",?,Niina Aasmäe,,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Niina Aasmäe,,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Niina Aasmäe,,
+UT059,Is there a future participle?,0,Niina Aasmäe,,
+UT060,Are there participles that can encode their subject by possessive suffixes?,1,Niina Aasmäe,e.g.: keľgǝma lomań-ǝźǝ love-PTCP1 person-PX.1SG>3SG.NOM > keľgǝma-źǝ 'love-PTCP-PX.1SG>3SG 'my beloved (person)'; mora-f mor-ǝnzǝ sing-PTCP2.3SG>3PL  song-PX.3SG>3SG > moraf-ǝnzǝ 'the songs s/he sang'; sam-ǝz-ǝnzǝ come-ILL-PX.3SG>3SG 'until (s/he) comes_back'.,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,Niina Aasmäe,, aľǝ-źǝ iśak luv-ǝź kińiga-ś father-PX.1SG>3SG.NOM yesterday read-PTCP2 book-GEF.NOM/ACC 'The book my father read yesterday.' aľǝ-źǝ kińiga-ś luv-ǝź iśak father-PX.1SG>3SG.NOM book-DEF.NOM.SG read-PTCP2-PRS.3SG yesterday 'My father's book was read yesterday'.
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Niina Aasmäe,,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Niina Aasmäe,"luv-ǝma kińiga read-PTCP book.INDF.NOM.SG 'a reader', kińiga-ń luv-ǝma book-INDF.GEN.SG 'the reading of a book' ",
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Niina Aasmäe,"Mariann kirjutas, et peaks veidi parandama: 
+Mokša: moraj loman', moraj/morajs'
+
+mori-ća (lomań/-eś) sing-PTCP1 (person.NOM.INDF/-DEF) '(a/the) singing (person)', mori-ća/-ś 'a/the singer'",
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,Niina Aasmäe,,
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,Niina Aasmäe,sajx-ť maŕ;take-IMPER.2SG apple.INDF.ACC.SG;Take an apple;,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Niina Aasmäe,the negation used with the imperative allows using the OBJ between the negation and connegative: ťa-t ki-ť jumaftǝ NEG-IMP.SG way-DEF.GEN.SG lose.CNG 'Don't lose the way'. ,
+UT068,Are there preverbs?,0,Niina Aasmäe,,
+UT069,Are there verbal prefixes?,0,Niina Aasmäe,,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Niina Aasmäe,,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,Niina Aasmäe,example: iď-ǝť štam-ǝc child-DEF.GEN.SG washing-PX.3SG>3SG a) the child's washing itself'; b) '(his/her) washing the child.',
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,Niina Aasmäe,e.g. Mon keľg-sa kofija-dǝ simema-ť  I.NOM like-PRS.DEF.1SG>3SG coffee-INDF.ABL drinking-DEF.GEN.SG (=ACC.SG) 'I am fond of  drinking coffee = I like + Obj.,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Niina Aasmäe,"aľa-ś śiŕǝ man-DEF.NOM.SG old.PRS.3SG 'the man is old', aľa-ťńǝ śiŕ-ǝť man-DEF.NOM.PL tall-PRS.3PL 'the men are old'.",
+UT074,Is it possible to form synthetic superlative?,0,Niina Aasmäe,,
+UT075,Can adpositions have person/number marking?,1,Niina Aasmäe,see 76,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Niina Aasmäe,"Äkki võiks panna natuke lihtsamad näited. Mariann kirjutas:  E M vakss 'luo', E vaksso, M vakssa 'luona' E vakssto, M vakssta 'luota'
+
+Examples of PP expressing goal: inksǝ-nzǝ for-PX.3SG 'for him/her'; source: ej-stǝ-st out_of-PX.3PL.ELA 'out of them', location: potm-ǝs-ǝst in-PX.3PL.INE 'in them';  lang-s-ǝst on-PX.3PL.INE 'on them'.",
+UT077,Is case compounding possible?,1,Niina Aasmäe,Multiple case markers: peŕǝ-va-ťńǝ-ń-stǝ meźǝvǝk iź kadǝ (vegetable) garden-PROL-DEF.PL-INDF.GEN-INDF.ELA nothing NEG-PST1.3SG leave.CNG 'of those (that were) in the gardens (it) left nothing.',
+UT078,Are there case categories only found in pronouns?,0,Niina Aasmäe,,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Niina Aasmäe,,"However, in the case of numerals 2 to 5 also ablative can be used."
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Niina Aasmäe,"With the numerals 2 through 10 the noun is used in SG: kaftǝ śťiŕxť 'two girls', kemǝń panar 'ten shirts' ; the other series of numerals can be used in SG/PL: śadǝ lomań/-ť  'a hundred persons'.",Miina: Kui tavaline singular siiski on? Mariann: I have heard using the plural with numerals 2-10. Just searched the corpus and in Moksha e.g. kafta avat is rather common. Also Niina's example with kafta in Moksha is used with plural.
+UT081,Is there a genitive case that has an affix?,1,Niina Aasmäe,narmǝń-ǝń pizǝ bird-INDF.GEN nest.NOM 'a bird's nest'; narmǝń-ǝť  pizǝ-c 'the bird's nest; narmǝń-ǝnzǝ pizǝ-ťńǝ bird-'his/her bird's/birds' nest'.,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,1,Niina Aasmäe,"1)aľ-ǝńďi/-ǝťi man-DAT.INDF.SG/-DEF.SG 'to a/the man', aľ-ǝństǝ father-PX.3SG>3SG.DAT 'to his/her father'; 2) kud-stǝ kud-s house-INDF.ELA.SG house-INDF.ILL.SG 'from house to house',DEF. DAT=ILL not differentiated: pačkǝď-ś kud-ǝťńǝńďi reach-PST1.3SG house-DEF.ILL/DAT.PL '(they) reached the houses'. ",
+UT083,Is there a terminative case?,0,Niina Aasmäe,,"The terminative meaning is conveyed by the INDF.DAT (-s) and DEF.ILL (-ťi, -ťńǝńďi), e.g. pačkǝď-iń škola-s/-ťi (reach-PST1.1SG school-INDF.ILL.SG/DEF.DAT.SG) 'I reached a/the school'."
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Niina Aasmäe,Abessive -ftǝmǝ: škola-ftǝmǝ 'without school'.,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,Niina Aasmäe,"Prolative -va/-ga/-ka/gä: šama-va 'down the face', mastǝr-ga 'throughout the country', kenkš-ka 'through the door', viŕ-gä 'through the forest'.",
+UT086,Is there a locative case that marks goal?,1,Niina Aasmäe,peŕǝ-s garden-INDF.ILL 'into/up to a garden',
+UT087,Is there a locative case that marks location?,1,Niina Aasmäe,"The INE -so/-se marks not only location (see 91), but also instrument: mašina-sǝ ' by car', kev-sǝ 'of stone).",
+UT088,Is there a locative case that marks source?,1,Niina Aasmäe,"The ELA -stǝ/-ctǝ marking source: veď-stǝ 'out of the water', piľg-ctǝ 'out of, by the leg'; time: ńiľǝ-stǝ 'at four o'clock'; reference is marked by ABL: korxt-an keľ-ďǝ speak.PRS.1SG language-INDF.ABL.SG '(I) am talking about a language', śim-an veď-tǝ drink-PST1.1SG water-INDF.ABL.  'I am drinking (some) water'.",
+UT089,Is there case syncretism of goal and location marking?,0,Niina Aasmäe,,
+UT090,Is there case syncretism of location and source marking?,0,Niina Aasmäe,,
+UT091,Are there two sets of local cases?,0,Niina Aasmäe,,
+UT092,Is there a third set of local cases?,0,Niina Aasmäe,,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,0,Niina Aasmäe,,"The inessive -sǝ also conveys instrumental function, e.g. salmǝks-sǝ (needle-INS) 'by/with a needle'."
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",1,Niina Aasmäe,,"
+The postposition marxtǝ 'with' marks accompaniment: iď-ǝnzǝ marxtǝ child-PX.3SG>3SG.GEN 'with his/her child'."
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Niina Aasmäe,Translative -ks conveys the result of change: vasta-ś ťijǝv-ś mazi-ks place-DEF.NOM.SG become-PST1.3SG beautiful-INDF.NOM.TRA 'the place became beautiful'; ťijǝv-ś jońu lomań-eks (s/he) become-PST.3SG intelligent person.INDF.TRA.SG '(she) became an intelligent person.',
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Niina Aasmäe,,
+UT097,Is there a separate morphological marker for expressing equative meaning?,1,Niina Aasmäe,"The comparative -ška: kemǝń-ška 'nearly, about ten; aľ-ǝnc eška father-PX.3SG>3SG. PP '(s/he is) of about father's height'.",
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Niina Aasmäe,,The dative is used (see UT082).
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,1,Niina Aasmäe,"The definite declension, which identifies the object in focus: oš 'a city, oš-ǝś 'the city'.",
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Niina Aasmäe,,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Niina Aasmäe,,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,0,Niina Aasmäe,,
+UT103,Is non-singular possession marked in the possessive declension?,1,Niina Aasmäe,"Non-singular possession is marked differently from SG possession: kud-ǝźǝ/-ǝńǝ house-PX.3SG>3SG.NOM/-PX.3SG>3PL.NOM 'my house/-s'. 10 cases: NOM, GEN, DAT, ABL, INE, ELA, ILL, PROL, COMP, ABE. Syncretic forms: non-singular possession (multiple possessor-multiple possessed) overlaps with (multiple possessor - singular possessed): jalga-n'kǝ/-n'ťǝ/-snǝ friend-PX.1/2/3PL>3SG/3PL 'our friend/-s'; e.g jalga-ńkǝ sa-ś friend-PX.1PL>3SG.NOM come-PST1.3SG 'our friend came', jalga-ńkǝ sa-śť friend-PX.1PL>3PL.NOM come-PST1.3PL 'our friens came.'",
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Niina Aasmäe,,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Niina Aasmäe,,"However, there is also definite conjugation."
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,Niina Aasmäe,"meźǝ 'what': meźǝ ťä? 'What is this?', kijǝ 'who': Kijǝ ťä? 'Who is this?' ",
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Niina Aasmäe,,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Niina Aasmäe,,"Kona 'who, that, which' is used with animates: lomań-ǝś/uča-ś, kona sa-ś ťäzǝ (person/ox-DEF.NOM.SG who/which/that come-PST1.3SG here) 'The person/sheep who/which came here', as well as inanimates: ťäl-ǝś kona jota-ś  (winter-DEF.NOM.3SG which pass-PST1.3SG) 'the winter that is over'."
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Niina Aasmäe,"The demonstrative pronouns ťä 'this', ńä-ťńä 'these, DEF', śä  'that', śä-tńä 'those, DEF' can be used independently: ťä  meźǝvǝk ašǝź juksta this.DEF.NOM anything-ACC.SG NEG forget-PRS.3SG 'This (one) did not forget anything.'",
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,Niina Aasmäe,,"The possessive suffixes follow the case suffixes: moda-dǝ-nk 'land-PX.2PL>3SG/PL.ABL 'about your land, -s', except the GEN (-ń) and DAT (-ńďi), with the case suffix following the PX suffix: pakśa-źǝ-ń/-ńďi 'field-PX.1SG>3SG 'my field's/to my field,-s'. "
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Niina Aasmäe,"The main declension has only the PL marker (-t/-ť) in the NOM:  viŕx-ť 'forest-PL.' The DEF.SG and PL suffixes occur in NOM, GEN, DAT/ILL; the NOM, GEN, DAT/ILL.SG (-ś, -ť, -ťi) are added to the stem. In PL, the number/DEF marker -ťńǝ (NOM) is followed by the case marker: -ń (GEN), -ńďi (DAT): šuft-ťńǝ-ńďi 'to the trees'. The other cases are formed with postpositions: viŕx-ńǝń esa forest-GEN.PL + esa.PP 'in the woods'. ",
+UT112,Are there different words for mother’s brother and father’s brother?,?,,,
+UT113,Are there different words for younger and older relative for other relations than siblings?,?,,,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,,,"There is only distinction for 'old', i.e. tašta 'old (inanimate), s'ir'ä 'old (animate), cf. od 'new, young'."
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,?,,,
+UT116,Is there contrastive length of consonants?,0,Niina Aasmäe,,
+UT117,Is there contrastive length of vowels?,0,Niina Aasmäe,,
+UT118,Is there contrast between short and long unstressed vowels?,0,Niina Aasmäe,,
+UT119,Is there contrast in duration of geminate consonants?,0,Niina Aasmäe,,
+UT120,Are there more than two phonological quantities?,0,Niina Aasmäe,,
+UT121,Are there extralong syllables?,0,Niina Aasmäe,,
+UT122,Is the main foot structure trochaic?,1,Niina Aasmäe,,see 125
+UT123,Is there lexically distinctive word stress?,0,Niina Aasmäe,,
+UT124,Is there morphologically conditioned stress?,0,Niina Aasmäe,,"The variants of the emphatic particle (clitic), -ga, -ge, -ka, -ke, -vok, -nga 'even, too': mon-ga 'me, too' tend to have primary or secondary stress."
+UT125,Is there fixed primary stress?,0,Niina Aasmäe,,"The first syllable tends to be stressed if the word is uttered as a dictionary item;  in speech, mostly disyllabic feet with a stressed and unstressed syllable alternate: MOn sǝrxk-An insAru. - Mon sƏrxk-an InsarU 'I will go to Insar'."
+UT126,Is there stress in heavy syllables?,0,Niina Aasmäe,,
+UT127,Is there non-initial primary stress?,0,Niina Aasmäe,,"A tendency to stress the non-first syllable is noticeable in words with the high vowels i, u in the first syllable and the low vowels a, ä in a non-first syllable: śijÄ 'silver', kujA 'fat'. However, rhythmic initial-syllable stress functions in these words as well.  "
+UT128,Is there palatal vowel harmony?,1,Niina Aasmäe,,"Front vowel harmony is largely realized through the allophones of ǝ occurring after palatalized/non-palatalized C: kud-ǝń 'house, GEN', viŕ-ǝń 'forest, GEN' (ǝ is higher after the palatalized ŕ). "
+UT129,Is there velar vowel harmony?,1,Niina Aasmäe,kepǝďǝms,"Back vowel harmony, including a: kud-u 'home, LAT', kud-ga 'home, PROL' is counteracted by vowel reduction in non-first unstressed syllables, where ǝ and a occur after both  palatalized and non-palatalized C:  kepǝďǝ-ms 'to raise, lift', kudńa-sǝt 'in your small house', käďńa-sǝt 'in your small hand'."
+UT130,Is there labial vowel harmony?,0,Niina Aasmäe,,
+UT131,Are there rising diphthongs?,0,Niina Aasmäe,,
+UT132,Are there lowering diphthongs?,0,Niina Aasmäe,,
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Niina Aasmäe,,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Niina Aasmäe,,"Radical reduction: in unstressed syllables, full vowels tend to be replaced by ǝ:  moľ-ǝksǝľǝń go-DESID.PST2.1SG '(I) wanted to go', they may also be deleted:  kǝrga > krga 'neck'."
+UT135,Is there front high rounded vowel ü [y]?,0,Niina Aasmäe,,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,Niina Aasmäe,,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,Niina Aasmäe,,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,Niina Aasmäe,,
+UT139,Is there back low round vowel [ɒ]?,0,Niina Aasmäe,,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,Niina Aasmäe,keď [kedʲ] vs. käď [kædʲ]," e - ä: keď 'hand, arm' - käď 'leather, skin'; keme 'strong', käme 'a high boot'; ľem 'name' - läm 'soup'; contrastive subsets are not numerous; DIALECT VARIATION of e - ä: veškǝ-ms - väškǝ-ms 'to whistle' , vär - ver, veŕ 'blood'"
+UT141,Are there word-initial consonant clusters?,1,Niina Aasmäe,šra [ʃra],"CC(C) occur in the beginning of loans, onomatopoeia, words with unclear etymology, composite words (mainly due to V elision in the first syllable): šra/šira 'table', vŕgas/vǝŕgas, Erzya: veŕgiz 'wolf',  mźarǝ 'how many/much'."
+UT142,Are there word-internal consonant clusters in syllable onset?,1,Niina Aasmäe,ľadǝnk.šnǝms,"ľadǝnk.šnǝms 'to stay, FREQ.'"
+UT143,Are there consonant clusters in syllable coda?,1,Niina Aasmäe,kantf.tǝms,kantf.tǝms 'make one carry'
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,Niina Aasmäe,kutftǝmǝ,"occurring mainly between suffixes or a stem and a suffix(as the result of V elision): kut-ftǝmǝ house-ABE 'without a house, homeless'"
+UT145,Are there word-final clusters of three or more consonants?,1,Niina Aasmäe, pankst,"CCC(C) occurring mainly between suffixes or a stem and a suffix (as the result of V elision): panks-t 'pieces of cloth, PL), śińť-ft 'broken, PL'"
+UT146,Are there palatalized dentals?,1,Niina Aasmäe,"śťiŕ [ˈsʲtʲirʲ] 'a girl, daugter'","ť ď ś ź ć ń ŕ ľ: śiśǝm 'seven', śťiŕ 'a girl, daughter', kańń-ǝms 'to carry, wear, FREQ.', kuľǝms 'to hear', ćatkǝ 'a spark'"
+UT147,Are there palatalized labials and velars?,0,Niina Aasmäe,,"Before front vowels and palatalized C, labials and velars may be palatalized: ve 'night' > v'e, kev 'stone' > k'ev'."
+UT148,Is there palatal stop [c]?,0,Niina Aasmäe,,"In dialects, non-palatalized - palatalized c: kačam 'smoke' - kočom 'a slice of bread', čičav 'bug'."
+UT149,Is there palatal nasal [ɲ]?,0,Niina Aasmäe,,
+UT150,Is there palatal lateral [ʎ]?,0,Niina Aasmäe,,
+UT151,Is there phonemic velar nasal [ŋ]?,0,Niina Aasmäe,,"Positional nasalization of n + k: ponkst 'trousers', kenkš 'a door', n + g: ťingǝ 'threshing floor'."
+UT152,Is there dental affricate [t͡s]?,1,Niina Aasmäe,"ćebäŕ 'good', ćukǝr 'a bun'",
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Niina Aasmäe,čaka-ms 'to knock',
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Niina Aasmäe,"ši 'day', karšǝ 'opposite'",
+UT155,"Are there voiced plosives [b, g, d]?",1,Niina Aasmäe,"bajťak 'many, much', koda-ms 'to knit', kagǝd 'paper'",
+UT156,Is there glottal stop [ˀ]?,0,Niina Aasmäe,,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Niina Aasmäe,,
+UT158,Is there a constraint on word-initial r?,0,Niina Aasmäe,,"ravžǝ 'black', rdaz 'mud', rna-ms 'to roar', ruz 'Russian'"
+UT159,Is there laryngeal fricative [h]?,0,Niina Aasmäe,,
+UT160,Is there voiced velar fricative [ɣ]?,0,Niina Aasmäe,,
+UT161,Is there voiceless velar fricative [x]?,1,Niina Aasmäe,xoľams [ˈxo.lʲams] 'to whip',
+UT162,Is there voiced dental fricative [ð]?,0,Niina Aasmäe,,
+UT163,Is there phonemic labio-velar approximant [w]?,0,Niina Aasmäe,,positional v > w: ravžǝ > rawžǝ 'black'
+UT164,Is there voiceless labiodental fricative [f]?,1,Niina Aasmäe,"fkä 'one', šuftǝ 'tree'",
+UT165,Is there radical qualitative consonant gradation?,0,Niina Aasmäe,,
+UT166,Is there quantitative consonant gradation?,0,Niina Aasmäe,,
