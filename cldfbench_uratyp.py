@@ -83,6 +83,9 @@ class Dataset(BaseDataset):
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
 
+        gb_features = {
+            r['Feature_ID']: list(gb_codes(r['Possible Values']))
+            for r in self.raw_dir.read_csv('gb.csv', dicts=True)}
         eid = 0
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
             args.writer.objects['ContributionTable'].append(dict(ID=sd, Name=contrib))
@@ -91,7 +94,10 @@ class Dataset(BaseDataset):
                 param['Contribution_ID'] = sd
                 args.writer.objects['ParameterTable'].append(param)
                 if sd == 'UT':
-                    for code, name in [('1', 'yes'), ('0', 'no')]:
+                    codes = [('1', 'yes'), ('0', 'no')]
+                else:
+                    codes = gb_features[param['ID']]
+                for code, name in codes:
                         args.writer.objects['CodeTable'].append(dict(
                             ID='{}-{}'.format(param['ID'], code),
                             Name=code,
@@ -103,13 +109,13 @@ class Dataset(BaseDataset):
                 for k in row:
                     if k in ['language', 'subfam']:
                         continue
+                    if ('?' in row[k]) or ('!!' in row[k]):
+                        continue
                     d = {}
                     lid = lmap[row['language']]
                     if k.startswith('UT'):
                         d = data[row['language']][k]
                         if row[k] in ['', 'N/A']:  # don't even include the rows
-                            continue
-                        if '?' in row[k]:
                             continue
                         assert list(d.values())[2] == row[k]
                         #assert row[k] != '1' or d['Example'], str(d)
@@ -151,8 +157,8 @@ class Dataset(BaseDataset):
                         ID='{}-{}'.format(lid, k),
                         Language_ID=lid,
                         Parameter_ID=k,
-                        Value=row[k],
-                        Code_ID='{}-{}'.format(k, row[k]) if sd == 'UT' else None,
+                        Value=str(int(float(row[k]))),
+                        Code_ID='{}-{}'.format(k, int(float(row[k]))),
                         Comment=d.get('Comment'),
                         Example_ID=str(eid) if d.get('Example') else None,
                     ))

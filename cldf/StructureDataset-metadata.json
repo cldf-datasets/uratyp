@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-3-g18b9fa6",
+            "dc:created": "v0.2-4-g606f8d5",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 10872,
+            "dc:extent": 10765,
             "tableSchema": {
                 "columns": [
                     {
@@ -241,7 +241,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 330,
+            "dc:extent": 728,
             "tableSchema": {
                 "columns": [
                     {
