@@ -1,4 +1,5 @@
 import pathlib
+import collections
 
 from clldutils.text import split_text
 from csvw.dsv import reader
@@ -40,8 +41,19 @@ class Dataset(BaseDataset):
         pass
 
     def cmd_makecldf(self, args):
+        data = collections.defaultdict(dict)
+        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
+            for row in reader(p, dicts=True):
+                data[p.stem][row['ID']] = row
         args.writer.cldf.add_component('LanguageTable')
         args.writer.cldf.add_component('CodeTable')
+        args.writer.cldf.add_component(
+            'ExampleTable',
+            {
+                'name': 'Analyzed_Word_IPA',
+                'separator': '\t',
+            }
+        )
         t = args.writer.cldf.add_component('ContributionTable')
         t.common_props['dc:description'] = \
             "UraTyp combines typological data collected with two separate questionnaires. " \
@@ -60,6 +72,9 @@ class Dataset(BaseDataset):
         args.writer.cldf['LanguageTable', 'ISO639P3code'].null = ['?']
         # args.writer.cldf['LanguageTable', 'Macroarea'].null = ['Eurasia']
         args.writer.cldf.add_columns('LanguageTable', 'Subfamily')
+        args.writer.cldf.add_columns(
+            'ValueTable',
+            {'name': 'Example_ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
 
         lmap = {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
@@ -68,6 +83,7 @@ class Dataset(BaseDataset):
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
 
+        eid = 0
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
             args.writer.objects['ContributionTable'].append(dict(ID=sd, Name=contrib))
 
@@ -87,14 +103,53 @@ class Dataset(BaseDataset):
                 for k in row:
                     lid = lmap[row['language']]
                     if k.startswith('UT'):
+                        d = data[row['language']][k]
                         if row[k] in ['', 'N/A']:  # don't even include the rows
                             continue
                         if '?' in row[k]:
                             continue
+                        assert list(d.values())[2] == row[k]
+                        #assert row[k] != '1' or d['Example'], str(d)
+                        if d['Example']:
+                            ex = d['Example'].strip()
+                            if ex and ex.lower() != 'example':
+                                eid += 1
+                                try:
+                                    analyzed, gloss, translation = ex.split('\n' if '\n' in ex else ';')[:3]
+                                    ipa = None
+                                    if '[' in analyzed:
+                                        analyzed, _, ipa = analyzed.partition('[')
+                                        analyzed = analyzed.strip()
+                                        ipa = ipa.replace(']', '').strip()
+                                    a = analyzed.strip().split()
+                                    g = gloss.strip().split()
+                                    if len(a) != len(g):
+                                        #print(a)
+                                        #print(g)
+                                        #print('---')
+                                        raise ValueError()
+                                    args.writer.objects['ExampleTable'].append(dict(
+                                        ID=str(eid),
+                                        Language_ID=lid,
+                                        Primary_Text=analyzed.strip(),
+                                        Analyzed_Word=a,
+                                        Analyzed_Word_IPA=ipa.split() if ipa else [],
+                                        Gloss=gloss.strip().split(),
+                                        Translated_Text=translation.strip(),
+                                    ))
+                                except:
+                                    args.writer.objects['ExampleTable'].append(dict(
+                                        ID=str(eid),
+                                        Language_ID=lid,
+                                        Primary_Text=ex,
+                                    ))
+
                         args.writer.objects['ValueTable'].append(dict(
                             ID='{}-{}'.format(lid, k),
                             Language_ID=lid,
                             Parameter_ID=k,
                             Value=row[k],
                             Code_ID='{}-{}'.format(k, row[k]) if sd == 'UT' else None,
+                            Comment=d.get('Comment'),
+                            Example_ID=str(eid) if d['Example'] else None,
                         ))
