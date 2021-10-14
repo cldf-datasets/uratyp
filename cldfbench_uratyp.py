@@ -101,6 +101,9 @@ class Dataset(BaseDataset):
 
             for row in read(self.raw_dir / sd / 'Finaldata.csv'):
                 for k in row:
+                    if k in ['language', 'subfam']:
+                        continue
+                    d = {}
                     lid = lmap[row['language']]
                     if k.startswith('UT'):
                         d = data[row['language']][k]
@@ -144,12 +147,12 @@ class Dataset(BaseDataset):
                                         Primary_Text=ex,
                                     ))
 
-                        args.writer.objects['ValueTable'].append(dict(
-                            ID='{}-{}'.format(lid, k),
-                            Language_ID=lid,
-                            Parameter_ID=k,
-                            Value=row[k],
-                            Code_ID='{}-{}'.format(k, row[k]) if sd == 'UT' else None,
-                            Comment=d.get('Comment'),
-                            Example_ID=str(eid) if d['Example'] else None,
-                        ))
+                    args.writer.objects['ValueTable'].append(dict(
+                        ID='{}-{}'.format(lid, k),
+                        Language_ID=lid,
+                        Parameter_ID=k,
+                        Value=row[k],
+                        Code_ID='{}-{}'.format(k, row[k]) if sd == 'UT' else None,
+                        Comment=d.get('Comment'),
+                        Example_ID=str(eid) if d.get('Example') else None,
+                    ))
