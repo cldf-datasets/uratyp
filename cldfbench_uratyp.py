@@ -30,6 +30,32 @@ def gb_codes(s):
         yield n.strip(), label.strip()
 
 
+def check_example(p, d):
+    if d['Example']:
+        ex = d['Example'].strip()
+        if ex and ex.lower() != 'example':
+            try:
+                analyzed, gloss, translation = ex.split('\n' if '\n' in ex else ';')[:3]
+                ipa = None
+                if '[' in analyzed:
+                    analyzed, _, ipa = analyzed.partition('[')
+                    analyzed = analyzed.strip()
+                    ipa = ipa.replace(']', '').strip()
+                a = analyzed.strip().split()
+                g = gloss.strip().split()
+                if len(a) != len(g):
+                    print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name, d['ID'], ' '.join(a), ' '.join(g)))
+                    # print(a)
+                    # print(g)
+                    # print('---')
+                    #raise ValueError()
+            except:
+                print('{}:{}:misformatted IGT: "{}"'.format(p.name, d['ID'], ex.replace('\n', r'\n')))
+
+
+NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0', '?CHECK, possibly 1', '?CHECK']
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "uratyp"
@@ -44,7 +70,11 @@ class Dataset(BaseDataset):
         data = collections.defaultdict(dict)
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
             for row in reader(p, dicts=True):
+                #
+                # FIXME: check examples right here!
+                #
                 data[p.stem][row['ID']] = row
+                check_example(p, row)
         args.writer.cldf.add_component('LanguageTable')
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
@@ -109,8 +139,8 @@ class Dataset(BaseDataset):
                 for k in row:
                     if k in ['language', 'subfam']:
                         continue
-                    if ('?' in row[k]) or ('!!' in row[k]):
-                        continue
+                    #if ('?' in row[k]) or ('!!' in row[k]):
+                    #    continue
                     d = {}
                     lid = lmap[row['language']]
                     if k.startswith('UT'):
@@ -157,8 +187,8 @@ class Dataset(BaseDataset):
                         ID='{}-{}'.format(lid, k),
                         Language_ID=lid,
                         Parameter_ID=k,
-                        Value=str(int(float(row[k]))),
-                        Code_ID='{}-{}'.format(k, int(float(row[k]))),
+                        Value='?' if row[k] in NA else str(int(float(row[k]))),
+                        Code_ID=None if row[k] in NA else '{}-{}'.format(k, int(float(row[k]))),
                         Comment=d.get('Comment'),
                         Example_ID=str(eid) if d.get('Example') else None,
                     ))
