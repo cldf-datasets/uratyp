@@ -6,7 +6,7 @@
         "linguistics"
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Miina et al. 2021. Uralic typological data sets.</p>\n</blockquote>",
+    "description": "<p<When you use the dataset, please also cite to the following paper introducing the data collection process:</p><blockquote><p>Miina Norvik, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen and Outi Vesakoski (ms. 2021) Uralic typology in the light of new comprehensive data sets (submitted to <emph>Journal of Uralic Linguistics</emph>)</p></blockquote><p>The status of the manuscript will be updated here and at <a href='https://bedlan.net/'>https://bedlan.net/</a>.</p>",
     "license": {
         "id": "CC-BY-4.0"
     }
