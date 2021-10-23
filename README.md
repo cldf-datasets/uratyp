@@ -69,25 +69,29 @@ X|Subgroup|Language|UT|Language expert(s)|GB|Language expert(s)
 ||||33||30|
 
 ## Contents
-The raw version of the dataset (found in the `raw` folder of the repository) is organized into folders and tables. All tables are provided as separate CSV (comma-separated values) files.
+The raw version of the dataset (found in the `raw` folder of the repository) is organized into folders and tables; the data structure is described below in detail. All tables are provided as separate CSV (comma-separated values) files.
 
 ### `UT`
 
 This folder contains files that constitute the UT part of the UraTyp.<br/>
 1. `Features.csv`<br/> 
-Includes features, i.e. questions used to collect the UT data; the first column also provides the feature ID. The last column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed. 
+Includes features, i.e. questions used to collect the UT data; the first column also provides the feature ID. The last column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed.<br/>
+
+Detailed descriptions of features can be found in the `doc` folder situated .......... Each description also contains information on what was considered when coding the respective feature.
 
 2. `Finaldata.csv`<br/>
 Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID). 
 
 3. `language_tables`<br/>
 This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:
-> (i) the `ID` of the feature<br/>
-> (ii) the `name`of the feature<br/> 
-> (iii) an answer, i.e. value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')<br/>
-> (iv) `source` of information; in the case of personal contact, the respective column contains the name of the language expert<br/>
-> (v) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are also provided with the International Phonetic Alphabet<br/>
-> (vi) a `comment` whenever necessary.
+(i) the `ID` of the feature<br/>
+(ii) the `name`of the feature<br/> 
+(iii) the answer, i.e. value represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
+(iv) the `source` of information<br/>
+(v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
+(vi) a `comment` whenever necessary.
+
+The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib`. Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from teh file `Contributors.md`.
 
 ### `GB`
 
