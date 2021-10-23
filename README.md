@@ -91,7 +91,7 @@ This folder contains a separate table for each language from where the data was 
 (v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
 (vi) a `comment` whenever necessary.
 
-The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib`. Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from teh file `Contributors.md`.
+The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib` situated in ...... Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from the file `Contributors.md`.
 
 ### `GB`
 
