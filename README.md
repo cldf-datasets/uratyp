@@ -1,26 +1,26 @@
-# UraTyp - Uralic Typological database
+# Uralic Typological (UraTyp) datasets
 
-The UraTyp database contains 360 features mainly on morphology, syntax, and phonology collected from 33 Uralic languages/language varieties. The database grew out from the cooperation with the Grambank team (https://glottobank.org/) who set out to collect data from about half of the world’s languages. The goal of building the UraTyp database was to create a family-specific database.
+The UraTyp datasets include information on 360 features spanning the domains of morphology, syntax, phonology, and lexicon collected from all the branches of the Uralic languages. 195 out of 360 features were collected using the Grambank (GB) list of features, which was developed by the Grambank team (https://glottobank.org/) to collect data from about half of the world’s languages. The remaining 165 features were developed by the author team of the UraTyp database to further explore the variation within the Uralic language family  (hereinafter referred to the UT list of features). The interactive database built on these datasets is available at https://uralic.clld.org.
 
-The UraTyp database contains information collected with two separate questionnaires. 195 features in UraTyp originate from the questionnaire developed by the Grambank team (hereinafter GB questionnaire), whereas the author team of the UraTyp database created 165 features (hereinafter UT). As features in both questionnaires were formed as binary questions designed to be answered with “yes, this function/feature is present in the language” or “no, this function/feature is not present in the language” the two datasets could be easily joined to form a single coherent database. 
-
-The UraTyp database is the first comprehensive database that presents comparative structural data on the Uralic language family from all its branches. 
-We hope that the database proves to be a useful tool in research and teaching for typologists, Uralists, as well as everyone else interested in the Uralic languages. 
-
-The database can be explored in several ways. One option is browse the interactive database at https://uralic.clld.org according to languages. Clicking on “Languages” on the navigation bar and then selecting a language enables one to see all the answers provided for the respective language. Another option is to search according to “Parameters” and study the general picture parameter by parameter. Clicking on the name of the parameter takes to the general description and map, while the box “values” gives a quick overview of the general distribution. It is also possible to explore the “Sources” that were used for writing the descriptions of parameters or giving linguistic examples for UT questions. 
-The UraTyp 1.0 is a database of the Uralic languages. The data include a total of 360 features collected from all the branches of the Uralic languages. The features belong to two different sets: those used in the collection of the global Grambank database (195 features) and those designed to explore variation within the Uralic language family (165 features). Most of the features are formed as binary questions on morphology, syntax, phonology, and some also on lexicon. 
-
-The database has its origins in the typology dataset compiled by the research initiative BELDAN (Biological Evolution and the Diversification of Languages, www.bedlan.net) thanks to seed money allocated by Kone Foundation in 2013. The actual work for building UraTyp 1.0 started in 2018 within the framework of the project Kipot ja kielet ‘Pots and languages’ funded by the University of Turku in 2018–2020. It was a joint initiative between the University of Turku, University of Tartu, and Uppsala University. It also involved cooperation with the global Grambank (GB) initiative who had set the goal to collect data from about half of the world’s languages (https://glottobank.org/#grambank). The GB feature list was developed at the Department of Cultural and Linguistic Evolution at the Max Planck Institute for the Science of Human History and at the Max Planck Institute for Evolutionary Anthropology. The aims of building UraTyp were to supplement the GB list of features with Uralic-specific features (UT) to enable more fine-grained family-specific research and to provide the data collected from the Uralic languages in one place. This meant following the principles set by the Grambank team in order to make the two datasets compatible. 
-
-### How to cite UraTyp
+## How to cite UraTyp datasets
 
 > Miina Norvik, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen and Outi Vesakoski: Uralic typology in the light of new comprehensive data sets (submitted ms to Journal of Uralic Linguistics)
 
-### Building the UraTyp
+# Overview
+
+Building the UraTyp database and developing the UT list of features has its origins in the typology dataset compiled by the research initiative BELDAN (Biological Evolution and the Diversification of Languages, www.bedlan.net) thanks to seed money allocated by Kone Foundation in 2013. The actual work with building the database started in 2018 within the framework of the project Kipot ja kielet ‘Pots and languages’ (funded by the University of Turku in 2018–2020) as a joint initiative between the University of Turku, University of Tartu, and Uppsala University. It also involved cooperation with the global Grambank (GB) initiative as the UT list of features was meant to supplement the GB list of features. The latter was developed at the Department of Cultural and Linguistic Evolution at the Max Planck Institute for the Science of Human History and at the Max Planck Institute for Evolutionary Anthropology. In order to make the two datasets compatible, cooperation also meant studying the general principles of coding used by the Grambank team.
+
+
+
+The aims of building UraTyp were to supplement the GB list of features with Uralic-specific features (UT) to enable more fine-grained family-specific research and to provide the data collected from the Uralic languages in one place.
+
+
 
 The UT questionnaire contains 165 features that have been collected from the 33 Uralic languages. The process of developing the UT questionnaire and collecting the data was coordinated by Miina Norvik. The UT questionnaire was designed and managed by Gerson Klumpp, Helle Metslang, Miina Norvik, Karl Pajusalu, and Eva Saar. The GB principles were introduced by Harald Hammarström, Michael Dunn, and Rogier Blokland. Feedback for the UT questionnaire was provided by Jeremy Bradley and Ksenia Shagal. The UT questions were coded by Miina Norvik, Minerva Piha, and Eva Saar. The Uralic data collected using the GB questionnaire was mostly done by Richard Kowalik, and partly also by Miina Norvik. 
 
 Coding the UT features was mainly done with the help of language experts, the project members themselves also acted as language experts. The full list of contributors is presented in the separate file `Contributors`. 
+
+As features in both questionnaires were formed as binary questions designed to be answered with “yes, this function/feature is present in the language” or “no, this function/feature is not present in the language” the two datasets could be easily joined to form a single coherent database. 
 
 To ensure consistency in coding the features it was necessary to agree on several coding-related principles, such as the linguistic variety or the ‘doculect’ one is coding. The doculect is defined as a ‘documented lect’ described in a specific source (Cysouw & Good 2013). Any grammar or data source will inherently reflect a certain linguistic variety, also with respect to time/a chronolect. Our decision was to code the modern-day standard language whenever possible; if something was very prominent in the spoken langauge, this was also considered. As regards Uralic languages that are not in active use anymore (e.g. Ingrian), have gone extinct (Kamas) or have no literary standard but exist in the form of several dialects (e.g. Ludic), we chose one particular language variety and considered what is/was characteristic or more widely spread in it. In some instances, this meant coding the language of the mid-20th century. Still, the (written) material used to code Eastern Mansi is older than 100 years. Foreign influence was another issue that had to be dealt with in several occasions. We decided not to consider very recent foreign influence or loss of features that goes hand in hand with language death. Still, as it was not always easy to decide the comments section was used to provide extra information whenever needed.   
 
@@ -28,8 +28,11 @@ The primary goal was to have the questions as clear and specific as possible, e.
 
 Differently from the data collecetd with the GB questionnaire, the UT data is also provided with examples whenever a feature was present. This were seen as a valuable addition. Furthermore, examples proved very useful whenever there was a need to make changes. The examples were usually extracted by the language expert, or by the coder and afterwards checked with the language expert. These examples originate from various kinds of sources: grammar books and sketches, language corpora, research articles, text collections etc.; in the case the language expert was a native speaker, constructed examples were also allowed. Examples illustrating morphological or syntactic features were provided with glosses, while phonological characteristics are presented using the International Phonetic Alphabet. Additional information is provided in the Comment column. All the sources that were used for answering the UT questions are presented in a separate file 
 
+The UraTyp database is the first comprehensive database that presents comparative structural data on the Uralic language family from all its branches. 
+We hope that the database proves to be a useful tool in research and teaching for typologists, Uralists, as well as everyone else interested in the Uralic languages. 
+
 ### Contributors
-X|Subgroup|Language|UT|Language expert(s)|GB|Language expert(s)
+ID|Subgroup|Language|UT|Language expert(s)|GB|Language expert(s)
 ---|---|---|---|---|---|---
 1|Finnic|Finnish|✔|Mervi de Heer, Minerva Piha|✔|Mervi de Heer
 2|Finnic|Estonian|✔|Helle Metslang, Miina Norvik, Karl Pajusalu, Eva Saar|✔|Miina Norvik, Eva Saar
@@ -68,8 +71,8 @@ X|Subgroup|Language|UT|Language expert(s)|GB|Language expert(s)
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
 ||||33||30|
 
-## Contents
-The raw version of the dataset (found in the `raw` folder of the repository) is organized into folders and tables; the data structure is described below in detail. All tables are provided as separate CSV (comma-separated values) files.
+# Contents
+The raw version of the dataset (found in the **`raw`** folder of the repository) is organized into folders and tables; the data structure is described below in detail. All tables are provided as separate CSV (comma-separated values) files.
 
 ### `UT`
 
@@ -77,7 +80,7 @@ This folder contains files that constitute the UT part of the UraTyp.<br/>
 1. `Features.csv`<br/> 
 Includes features, i.e. questions used to collect the UT data; the first column also provides the feature ID. The last column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed.<br/>
 
-Detailed descriptions of features can be found in the `doc` folder situated .......... Each description also contains information on what was considered when coding the respective feature.
+Detailed descriptions of features can be found in the `doc` folder. Each description also contains information on what was considered when coding the respective feature.
 
 2. `Finaldata.csv`<br/>
 Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID). 
@@ -91,7 +94,7 @@ This folder contains a separate table for each language from where the data was 
 (v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
 (vi) a `comment` whenever necessary.
 
-The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib` situated in ...... Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from the file `Contributors.md`.
+The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib`. Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from the file `Contributors.md`.
 
 ### `GB`
 
@@ -99,16 +102,16 @@ This folder contains files that constitute the GB part of the UraTyp.
 
 1. `Features.csv`
 
-3. `Finaldata.csv`
+2. `Finaldata.csv`
 
 ### `Languages.csv`
 
 This file contains information on the languages from where the data was collected using the UT questionnaire and/or GB questionnaire. The table includes the names of the languages, their subfamilies, Glottocodedes, ISO language codes, latitudes and longitudes. 
 
-### Funders and supporters
+# Funders and supporters
 Kipot ja kielet (‘Pots and languages’) project, funded by the University of Turku (2018–2020); the URKO (Uralilainen Kolmio = ‘Uralic Triangle’) project, funded by the Academy of Finland (2020–2022); The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
 
-### Terms of use
+# Terms of use
 
 This dataset is licensed under a CC-BY-4.0 license
 
