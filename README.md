@@ -83,7 +83,7 @@ Detailed descriptions of features can be found in the `doc` folder situated ....
 Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID). 
 
 3. `language_tables`<br/>
-This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:
+This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
 (i) the `ID` of the feature<br/>
 (ii) the `name`of the feature<br/> 
 (iii) the answer, i.e. value represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
