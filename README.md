@@ -82,12 +82,12 @@ Presents all the data collected using the UT questionnaire in one table. It cont
 
 3. `language_tables`
 Contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:
-a) `ID`of the feature
-b) `name`of the feature 
-c) value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')
-d) `source`of information; in the case of personal contact, the respective column contains the name of the language expert
-e) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glossed examples, while phonological examples contain IPA
-f) a `comment` whenever necessary
+> a) `ID`of the feature
+> b) `name`of the feature 
+> c) value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')
+> d) `source`of information; in the case of personal contact, the respective column contains the name of the language expert
+> e) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glossed examples, while phonological examples contain IPA
+> f) a `comment` whenever necessary.
 
 ### `GB`
 
