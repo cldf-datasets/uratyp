@@ -73,21 +73,21 @@ The raw version of the dataset (found in the `raw` folder of the repository) is 
 
 ### `UT`
 
-This folder contains files that constitute the UT part of the UraTyp.
-1. `Features.csv` 
-Includes features, i.e. questions used to collect the UT data. The first column provides the feature ID, the last column also contains information on the broader area of the question (phonology, morphology, syntax, or lexicon). 
+This folder contains files that constitute the UT part of the UraTyp.<br/>
+1. `Features.csv`<br/> 
+Includes features, i.e. questions used to collect the UT data; the first column also provides the feature ID. The last column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed. 
 
-2. `Finaldata.csv`
-Presents all the data collected using the UT questionnaire in one table. It contains information on the language, subfamily, and the values for each feature (represented by question ID). 
+2. `Finaldata.csv`<br/>
+Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID). 
 
-3. `language_tables`
-Contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:
-> a) `ID`of the feature<br/>
-> b) `name`of the feature<br/> 
-> c) value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')<br/>
-> d) `source`of information; in the case of personal contact, the respective column contains the name of the language expert<br/>
-> e) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glossed examples, while phonological examples contain phonetic transcription in International Phonetic Alphabet<br/>
-> f) a `comment` whenever necessary.
+3. `language_tables`<br/>
+This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:
+> (i) the `ID` of the feature<br/>
+> (ii) the `name`of the feature<br/> 
+> (iii) an answer, i.e. value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')<br/>
+> (iv) `source` of information; in the case of personal contact, the respective column contains the name of the language expert<br/>
+> (v) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are also provided with the International Phonetic Alphabet<br/>
+> (vi) a `comment` whenever necessary.
 
 ### `GB`
 
@@ -99,7 +99,7 @@ This folder contains files that constitute the GB part of the UraTyp.
 
 ### `Languages.csv`
 
-This file contains information on the languages from where the data was collected. It includes the names of the languages, their subfamilies, Glottocodedes, ISO language codes, latitudes and longitudes. 
+This file contains information on the languages from where the data was collected using the UT questionnaire and/or GB questionnaire. The table includes the names of the languages, their subfamilies, Glottocodedes, ISO language codes, latitudes and longitudes. 
 
 ### Funders and supporters
 Kipot ja kielet (‘Pots and languages’) project, funded by the University of Turku (2018–2020); the URKO (Uralilainen Kolmio = ‘Uralic Triangle’) project, funded by the Academy of Finland (2020–2022); The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
