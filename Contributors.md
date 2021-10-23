@@ -1,4 +1,4 @@
-X|Subgroup|Langauge|UT|Language expert|GB|Language expert
+ID|Subgroup|Langauge|UT|Language expert|GB|Language expert
 ---|---|---|---|---|---|---
 1|Finnic|Finnish|✔|Mervi de Heer, Minerva Piha|✔|Mervi de Heer
 2|Finnic|Estonian|✔|Helle Metslang, Miina Norvik, Karl Pajusalu, Eva Saar|✔|Miina Norvik, Eva Saar
