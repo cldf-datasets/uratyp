@@ -86,7 +86,7 @@ Contains a separate table for each language from where the data was collected. T
 > b) `name`of the feature<br/> 
 > c) value (1 'yes', 0 'no', ? 'no information', or N/A 'not applicable')<br/>
 > d) `source`of information; in the case of personal contact, the respective column contains the name of the language expert<br/>
-> e) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glossed examples, while phonological examples contain IPA<br/>
+> e) an `example` whenever the answer is 1; the examples falling in the area of morphology or syntax are provided with glossed examples, while phonological examples contain phonetic transcription in International Phonetic Alphabet<br/>
 > f) a `comment` whenever necessary.
 
 ### `GB`
