@@ -3,14 +3,14 @@ import collections
 
 from clldutils.text import split_text
 from csvw.dsv import reader
-
+import re
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
 GB_LANGUAGE_MAP = {
     #GB - UT
-    #Central Mansi [cent2322]
+    # Central Mansi [cent2322]
     #Komi-Permyak [komi1269]
-    #Ume Saami [umes1235]
+    # Ume Saami [umes1235]
     'gras1239': 'east2328',
     'kama1378': 'kama1351',
     'voro1241': 'sout2679',
@@ -33,27 +33,38 @@ def gb_codes(s):
 def check_example(p, d):
     if d['Example']:
         ex = d['Example'].strip()
-        if ex and ex.lower() != 'example':
-            try:
-                analyzed, gloss, translation = ex.split('\n' if '\n' in ex else ';')[:3]
-                ipa = None
-                if '[' in analyzed:
-                    analyzed, _, ipa = analyzed.partition('[')
-                    analyzed = analyzed.strip()
-                    ipa = ipa.replace(']', '').strip()
-                a = analyzed.strip().split()
-                g = gloss.strip().split()
-                if len(a) != len(g):
-                    print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name, d['ID'], ' '.join(a), ' '.join(g)))
-                    # print(a)
-                    # print(g)
-                    # print('---')
-                    #raise ValueError()
-            except:
-                print('{}:{}:misformatted IGT: "{}"'.format(p.name, d['ID'], ex.replace('\n', r'\n')))
+        ut_id = int(d["ID"].split('UT')[1])
+        # ignore all the examples of phonological features in UT
+        if 116 <= ut_id <= 166:
+            pass
+        else:
+            if ex and ex.lower() != 'example':
+                try:
+
+                    # analyzed, gloss, translation = ex.split(
+                    #     '\n' if '\n' in ex else ';')[:3]
+                    analyzed, gloss, translation = re.split('\n|;', ex)[:3]
+                    ipa = None
+                    if '[' in analyzed:
+                        analyzed, _, ipa = analyzed.partition('[')
+                        analyzed = analyzed.strip()
+                        ipa = ipa.replace(']', '').strip()
+                    a = analyzed.strip().split()
+                    g = gloss.strip().split()
+                    if len(a) != len(g):
+                        print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name,
+                                                                                   d['ID'], ' '.join(a), ' '.join(g)))
+                        # print(a)
+                        # print(g)
+                        # print('---')
+                        #raise ValueError()
+                except:
+                    print('{}:{}:misformatted IGT: "{}"'.format(
+                        p.name, d['ID'], ex.replace('\n', r'\n')))
 
 
-NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0', '?CHECK, possibly 1', '?CHECK']
+NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
+      '?CHECK, possibly 1', '?CHECK']
 
 
 class Dataset(BaseDataset):
@@ -118,7 +129,8 @@ class Dataset(BaseDataset):
             for r in self.raw_dir.read_csv('gb.csv', dicts=True)}
         eid = 0
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
-            args.writer.objects['ContributionTable'].append(dict(ID=sd, Name=contrib))
+            args.writer.objects['ContributionTable'].append(
+                dict(ID=sd, Name=contrib))
 
             for param in read(self.raw_dir / sd / 'Features.csv'):
                 param['Contribution_ID'] = sd
@@ -128,18 +140,18 @@ class Dataset(BaseDataset):
                 else:
                     codes = gb_features[param['ID']]
                 for code, name in codes:
-                        args.writer.objects['CodeTable'].append(dict(
-                            ID='{}-{}'.format(param['ID'], code),
-                            Name=code,
-                            Description=name,
-                            Parameter_ID=param['ID'],
-                        ))
+                    args.writer.objects['CodeTable'].append(dict(
+                        ID='{}-{}'.format(param['ID'], code),
+                        Name=code,
+                        Description=name,
+                        Parameter_ID=param['ID'],
+                    ))
 
             for row in read(self.raw_dir / sd / 'Finaldata.csv'):
                 for k in row:
                     if k in ['language', 'subfam']:
                         continue
-                    #if ('?' in row[k]) or ('!!' in row[k]):
+                    # if ('?' in row[k]) or ('!!' in row[k]):
                     #    continue
                     d = {}
                     lid = lmap[row['language']]
@@ -154,18 +166,20 @@ class Dataset(BaseDataset):
                             if ex and ex.lower() != 'example':
                                 eid += 1
                                 try:
-                                    analyzed, gloss, translation = ex.split('\n' if '\n' in ex else ';')[:3]
+                                    analyzed, gloss, translation = ex.split(
+                                        '\n' if '\n' in ex else ';')[:3]
                                     ipa = None
                                     if '[' in analyzed:
-                                        analyzed, _, ipa = analyzed.partition('[')
+                                        analyzed, _, ipa = analyzed.partition(
+                                            '[')
                                         analyzed = analyzed.strip()
                                         ipa = ipa.replace(']', '').strip()
                                     a = analyzed.strip().split()
                                     g = gloss.strip().split()
                                     if len(a) != len(g):
-                                        #print(a)
-                                        #print(g)
-                                        #print('---')
+                                        # print(a)
+                                        # print(g)
+                                        # print('---')
                                         raise ValueError()
                                     args.writer.objects['ExampleTable'].append(dict(
                                         ID=str(eid),
@@ -188,7 +202,8 @@ class Dataset(BaseDataset):
                         Language_ID=lid,
                         Parameter_ID=k,
                         Value='?' if row[k] in NA else str(int(float(row[k]))),
-                        Code_ID=None if row[k] in NA else '{}-{}'.format(k, int(float(row[k]))),
+                        Code_ID=None if row[k] in NA else '{}-{}'.format(
+                            k, int(float(row[k]))),
                         Comment=d.get('Comment'),
                         Example_ID=str(eid) if d.get('Example') else None,
                     ))
