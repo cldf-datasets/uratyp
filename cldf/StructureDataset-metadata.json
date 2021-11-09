@@ -9,13 +9,14 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/cldf-datasets/uratyp",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:source": "sources.bib",
     "dc:title": "uratyp",
     "dcat:accessURL": "https://github.com/cldf-datasets/uratyp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-10-g263a1b7",
+            "dc:created": "v0.2-34-ge74295e",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +29,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -227,6 +228,11 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     },
                     {
                         "datatype": "string",

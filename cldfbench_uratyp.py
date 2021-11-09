@@ -1,10 +1,13 @@
+import re
 import pathlib
 import collections
 
+from pybtex import database
+from clld.lib.bibtex import unescape
 from clldutils.text import split_text
 from csvw.dsv import reader
-import re
 from cldfbench import Dataset as BaseDataset, CLDFSpec
+from pycldf.sources import Source
 
 GB_LANGUAGE_MAP = {
     #GB - UT
@@ -43,7 +46,7 @@ def check_example(p, d):
 
                     # analyzed, gloss, translation = ex.split(
                     #     '\n' if '\n' in ex else ';')[:3]
-                    analyzed, gloss, translation = re.split('\n|;', ex)[:3]
+                    analyzed, gloss, translation = re.split(r'\n|;', ex)[:3]
                     ipa = None
                     if '[' in analyzed:
                         analyzed, _, ipa = analyzed.partition('[')
@@ -79,6 +82,17 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         data = collections.defaultdict(dict)
+        bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
+        refs = collections.defaultdict(list)
+        for key, entry in bibdata.entries.items():
+            src = Source.from_entry(key, entry)
+            for k in src:
+                src[k] = unescape(src[k])
+            for lid in src.get('langref', '').split(','):
+                lid = lid.strip()
+                refs[lid].append(src.id)
+            args.writer.cldf.sources.add(src)
+
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
             for row in reader(p, dicts=True):
                 #
@@ -86,7 +100,13 @@ class Dataset(BaseDataset):
                 #
                 data[p.stem][row['ID']] = row
                 check_example(p, row)
-        args.writer.cldf.add_component('LanguageTable')
+        args.writer.cldf.add_component(
+            'LanguageTable',
+            {
+                'name': 'Source',
+                'separator': ';',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            })
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
             'ExampleTable',
@@ -119,7 +139,9 @@ class Dataset(BaseDataset):
 
         lmap = {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
-            lang['ISO639P3code'] = lang.pop('ISO-639-3')
+            lang['ISO639P3code'] = lang.pop('ISO.639.3')
+            lang['Source'] = refs.get(lang['Name'], [])
+            del lang['citations']
             args.writer.objects['LanguageTable'].append(lang)
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
