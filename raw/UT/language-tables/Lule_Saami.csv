@@ -1,171 +1,170 @@
-"ID","Name","Lule.Saami","Source","Example","Comment"
-"UT001","Is there a distinct category of dual for verbal agreement with a dual subject?",1,"Olle Kejonen","Måj låhkin;1DU.NOM read.DU.PRS;We read;",""
-"UT002","Is non-agreement in number between the nominal subject and verbal predicate possible?",1,"Olle Kejonen","Bárne låhkåba;boy.NOM.PL read.3DU.PRS;The boys read;","Dual is not marked on nominals (other than personal pronouns, reflexive pronouns and reciprocal pronouns). Dual is however marked on verbs, meaning that a subject in the plural may combine with a predicate in the dual."
-"UT003","Can finite verbs agree in number with the nominal object?",0,"Olle Kejonen","",""
-"UT004","Can an adnominal property word agree with the noun in case?",0,"Olle Kejonen","",""
-"UT005","Are there cases that do not show agreement in terms of case?",0,"Olle Kejonen","",""
-"UT006","Can adpositions be used to mark core verbal arguments?",0,"Olle Kejonen","",""
-"UT007","Can adpositions be used to mark non-core/oblique verbal arguments?",1,"Olle Kejonen","Mån manniv iedne lusi;1SG.NOM go.1SG.PST mother.GEN to;I went to my mother.'",""
-"UT008","Can non-finite clauses entail a special way for a core argument (S/A) marking?",0,"Olle Kejonen","",""
-"UT009","Can non-finite clauses entail a special way for a core argument (P) marking?",0,"Olle Kejonen","",""
-"UT010","Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Olle Kejonen","",""
-"UT011","Does object marking correlate with aspectuality? ",0,"Olle Kejonen","",""
-"UT012","Does the marking of the object depend on the verb conjugation form? ",0,"Olle Kejonen","",""
-"UT013","Is there differential subject marking?",0,"Olle Kejonen","",""
-"UT014","Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Olle Kejonen","Gå Herodes Jesusav vuojnij, de sälldát ávvusij;when Herod.NOM.SG Jesus.ACC.SG see.3SG.PST then greatly rejoice.3SG.PST;When Herodᵢ saw Jesus, heᵢ was greatly pleased;Åt, Luke 23:8",""
-"UT015","Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Olle Kejonen","",""
-"UT016","Is there a grammatical device for habituality?",0,"Olle Kejonen","",""
-"UT017","Is there a grammatical device for frequentative?",1,"Olle Kejonen","gähttjalit;;try;|gähttjal-addat;try-FRQ;try (repeatedly);","There are several derivational suffixes, e.g. -addat."
-"UT018","Is there a grammatical device for progressivity?",1,"Olle Kejonen","Mån lav låhkåmin;1SG.NOM be.1SG.PRS read.PROG;I am reading;",""
-"UT019","Is it common to use a verb in the present tense for future time reference? ",1,"Olle Kejonen","Mån boadáv idet;1SG.NOM come.1SG.PRS tomorrow;I come tomorrow;",""
-"UT020","Is there a grammatical device for immediate future?",0,"Olle Kejonen","",""
-"UT021","Is there a grammatical device for pluperfect?",1,"Olle Kejonen","Gå båhtiv, dat lij juo vuolggám;when come.1SG.PST DEM.NOM.SG be.3SG.PST already leave.PRF;When I came, s/he had already left;",""
-"UT022","Can aspect be expressed overtly on the negative marker?",0,"Olle Kejonen","",""
-"UT023","Can tense be expressed overtly on the negative marker?",1,"Olle Kejonen","Iv lågå;NEG.1SG.PRS read.CNG;I do not read;|Ittjiv lågå;NEG.1SG.PST read.CNG;I did not read;","However, that this does not apply to all dialects."
-"UT024","Is there grammatical marking of mirativity?",0,"Olle Kejonen","",""
-"UT025","Is there morphological marking on the verb dedicated to the expression of desire or wish?",0,"Olle Kejonen","",""
-"UT026","Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?",0,"Olle Kejonen","","There is a conditional marker lulu- which is used with the infinitive (or perfect participle) of a verb (e.g. luluv låhkåt COND.1SG read.INF 'I would read'). However, this marker is probably best analyzed as a defective verb, and is hence not considered ""morphological marking"" here."
-"UT027","Are verbs marked in a specific mood in counterfactual conditional clauses?",1,"Olle Kejonen","Jus luluj dán ednamin de ij lulu ga härrán […];if be.COND.3SG DEM.PROX.GEN earth.INE.SG then NEG.3SG.PRS be.COND.CNG even priest.ESS;If he were here on earth, he would not even be a priest […];Åt, Heb 8:4
+ID,Name,Lule.Saami,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,"Olle Kejonen, p.c.",Måj låhkin;1DU.NOM read.DU.PRS;We read;,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"Olle Kejonen, p.c.",Bárne låhkåba;boy.NOM.PL read.3DU.PRS;The boys read;,"Dual is not marked on nominals (other than personal pronouns, reflexive pronouns and reciprocal pronouns). Dual is however marked on verbs, meaning that a subject in the plural may combine with a predicate in the dual."
+UT003,Can finite verbs agree in number with the nominal object?,0,"Olle Kejonen, p.c.",,
+UT004,Can an adnominal property word agree with the noun in case?,0,"Olle Kejonen, p.c.",,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Olle Kejonen, p.c.",,
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Olle Kejonen, p.c.",,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Olle Kejonen, p.c.",Mån manniv iedne lusi;1SG.NOM go.1SG.PST mother.GEN to;I went to my mother.',
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,0,"Olle Kejonen, p.c.",,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Olle Kejonen, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Olle Kejonen, p.c.",,
+UT011,Does object marking correlate with aspectuality? ,0,"Olle Kejonen, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Olle Kejonen, p.c.",,
+UT013,Is there differential subject marking?,0,"Olle Kejonen, p.c.",,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Olle Kejonen, p.c.;Åt, Luke 23:8[example]","Gå Herodes Jesusav vuojnij, de sälldát ávvusij;when Herod.NOM.SG Jesus.ACC.SG see.3SG.PST then greatly rejoice.3SG.PST;When Herodᵢ saw Jesus, heᵢ was greatly pleased;",
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Olle Kejonen, p.c.",,
+UT016,Is there a grammatical device for habituality?,0,"Olle Kejonen, p.c.",,
+UT017,Is there a grammatical device for frequentative?,1,"Olle Kejonen, p.c.",gähttjal-addat;try-FRQ;try (repeatedly);,"There are several derivational suffixes, e.g. -addat."
+UT018,Is there a grammatical device for progressivity?,1,"Olle Kejonen, p.c.",Mån lav låhkåmin;1SG.NOM be.1SG.PRS read.PROG;I am reading;,
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Olle Kejonen, p.c.",Mån boadáv idet;1SG.NOM come.1SG.PRS tomorrow;I come tomorrow;,
+UT020,Is there a grammatical device for immediate future?,0,"Olle Kejonen, p.c.",,
+UT021,Is there a grammatical device for pluperfect?,1,"Olle Kejonen, p.c.","Gå båhtiv, dat lij juo vuolggám;when come.1SG.PST DEM.NOM.SG be.3SG.PST already leave.PRF;When I came, s/he had already left;",
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Olle Kejonen, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,1,"Olle Kejonen, p.c.",Iv lågå;NEG.1SG.PRS read.CNG;I do not read;|Ittjiv lågå;NEG.1SG.PST read.CNG;I did not read;,"However, that this does not apply to all dialects."
+UT024,Is there grammatical marking of mirativity?,0,"Olle Kejonen, p.c.",,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Olle Kejonen, p.c.",,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,"Olle Kejonen, p.c.",,"There is a conditional marker lulu- which is used with the infinitive (or perfect participle) of a verb (e.g. luluv låhkåt COND.1SG read.INF 'I would read'). However, this marker is probably best analyzed as a defective verb, and is hence not considered ""morphological marking"" here."
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,"Olle Kejonen, p.c.;Åt, Heb 8:4[example]","Jus luluj dán ednamin de ij lulu ga härrán;if be.COND.3SG DEM.PROX.GEN earth.INE.SG then NEG.3SG.PRS be.COND.CNG even priest.ESS;If he were here on earth, he would not even be a priest;
 
-","The conditional can be used in counterfactual conditional clauses (cf. however UT026)."
-"UT028","Is there morphological marking on the verb dedicated to the expression of deontic necessity?",0,"Olle Kejonen","",""
-"UT029","Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ",1,"Olle Kejonen","Tjálisj má;write.POT.3SG surely;S/he's probably writing;Spiik 1989: 106",""
-"UT030","Is there morphological marking on the verb dedicated to the expression of deontic possibility? ",0,"Olle Kejonen","",""
-"UT031","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?",1,"Olle Kejonen","Båhtus duv rijkka;come.IMPII.3SG 2SG.GEN kingdom.NOM.SG;Thy kingdom come;Åt, Matt 6:10","There is the third person imperative."
-"UT032","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?",0,"Olle Kejonen","",""
-"UT033","Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ",0,"Olle Kejonen","",""
-"UT034","Is there morphological marking on the verb dedicated to the expression of apprehension?",0,"Olle Kejonen","",""
-"UT035","Is there reflexive conjugation?",0,"Olle Kejonen","",""
-"UT036","Are there syntactically ditransitive verbs?",0,"Olle Kejonen","",""
-"UT037","Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?",0,"Olle Kejonen","",""
-"UT038","Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?",0,"Olle Kejonen","",""
-"UT039","Can third person plural verb forms be used for impersonal reference?",1,"Olle Kejonen","Jávlli, ahte länsska l jábmám;say.3PL.PRS that sheriff.NOM.SG be.3SG.PRS die.PRF;It's said (lit.: they say) that the sherrif has died;Wiklund 1915: 63",""
-"UT040","Can second person singular verb forms be used in generic meaning?",1,"Olle Kejonen","Gå dåhku boadá, de jávrev vuojná;when there come.2SG.PRS then lake.ACC.SG see.2SG.PRS;When you get there, you see the lake;Wiklund 1915: 63",""
-"UT042","Are clauses with only infinitive predicates possible?",0,"Olle Kejonen","",""
-"UT043","Can verbs in purposive subordinate clauses be in bare infinitive form?",1,"Olle Kejonen","Boade bårråt!;come.2SG.IMPI eat.INF;Come and eat!;Wiklund 1915: 116",""
-"UT044","Are there sentences without overt verbal arguments (e.g. weather verbs)?",1,"Olle Kejonen","De rássjot;then rain.3SG.PRS;It's raining now;Spiik 1989: 96",""
-"UT045","Is copula needed for predicate nominals in the 3rd person form of the present tense?",1,"Olle Kejonen","Sån la skåvlik;3SG.NOM be.3SG.PRS teacher.NOM.SG;S/he is a teacher;",""
-"UT046","Is a copula needed for predicate nominals in the past and/or future tense?",1,"Olle Kejonen","Sån lij skåvlik;3SG.NOM be.3SG.PST teacher.NOM.SG;S/he was a teacher;",""
-"UT047","Can locative adverbial phrases act as predicates without a copula?",0,"Olle Kejonen","",""
-"UT048","Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Olle Kejonen","","ja 'and' is used for NPs, VPs and clauses"
-"UT049","Does existential negation have a separate operator?",0,"Olle Kejonen","",""
-"UT050","Can standard negation be asymmetric in the present tense?",1,"Olle Kejonen","Mån lågåv;1SG.NOM read.1SG.PRS;I read;|Mån iv lågå;1SG.NOM NEG.1SG read.CNG;I don't read;",""
-"UT051","Can non-finite dependent clauses use the standard negation construction?",0,"Olle Kejonen","",""
-"UT052","Is there a special negator that combines with non-finite forms?",0,"Olle Kejonen","",""
-"UT053","Are there special negative non-finite forms?",1,"Olle Kejonen","bårå-dak ~ bårå-k;eat-ABE;without eating;","The abessive form of the verb can be used."
-"UT054","Is there an impersonal passive construction?",0,"Olle Kejonen","",""
-"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Olle Kejonen","låhkke mánná;read.PTCP.PRS child.NOM.SG;reading child;Spiik 1989: 42","For example, the present participle is specialized to relativize S/A arguments."
-"UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Olle Kejonen","",""
-"UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Olle Kejonen","",""
-"UT058","Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Olle Kejonen","",""
-"UT059","Is there a future participle?",0,"Olle Kejonen","",""
-"UT060","Are there participles that can encode their subject by possessive suffixes?",0,"Olle Kejonen","",""
-"UT061","Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?",0,"Olle Kejonen","",""
-"UT062","Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?",0,"Olle Kejonen","",""
-"UT063","Are there nonfinite forms that can be used both as participles and action nominalizations?",1,"Olle Kejonen","vuojnnem;see.NMLZ;sight;|munnu vuojnnem álldo;1DU.GEN see.PTCP female.reindeer.NOM.SG;the female reindeer seen by us;Wiklund 1915: 116",""
-"UT064","Are there nonfinite forms that can be used both as participles and agentive nominalizations?",1,"Olle Kejonen","låhkke;;reader;|låhkke mánná;read.PRS.PTCP child.NOM.SG;a/the reading child;Spiik 1989: 42",""
-"UT065","Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Olle Kejonen","",""
-"UT066","Is OV the neutral order in affirmative imperative clauses?",0,"Olle Kejonen","Gåtte suv ja luojte Barabbasav;kill.2SG.IMPI 3SG.ACC and release.2SG.IMPI Barabbas.ACC.SG;Kill him and let Barabbas go!;Åt, Luk 23:18",""
-"UT067","Is it possible to place an object between the negative marker and the main verb in imperative constructions? ",1,"Olle Kejonen","Ale vuoras ålmmåj garra bágoj håla;NEG.IMP.2SG old man.ILL.SG hard word.COM.PL talk.CNG;
-Rebuke not an elder (lit: Do not say harsh words to an elder);Åt, 1 Tim 5:1",""
-"UT068","Are there preverbs?",0,"Olle Kejonen","",""
-"UT069","Are there verbal prefixes?",0,"Olle Kejonen","",""
-"UT070","Is there diminutive (hypocoristic) marking on verbs?",0,"Olle Kejonen","",""
-"UT071","Can modifiers of action nominalization in agent and patient roles both be marked like possessors?",0,"Olle Kejonen","",""
-"UT072","Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,"Olle Kejonen","",""
-"UT073","Do core adjectives agree with the subject noun in number in the predicative position?",1,"Olle Kejonen","Bijla li ruoppsada;car.NOM.PL be.3PL.PRS red.NOM.PL;The cars are red;",""
-"UT074","Is it possible to form synthetic superlative?",1,"Olle Kejonen","tjábbe : tjáppe-p : tjáppe-mus;beautiful : beautiful-COMP : beautiful-SPRL;beautiful : more beautiful : the most beautiful;",""
-"UT075","Can adpositions have person/number marking?",1,"Olle Kejonen","duogen-am;behind-1SG;behind me;|duogen-ihtte;behind-2DU;behind you two;|duogen-isá;behind-3PL;behind them;Grundström 1946-54: 1801","Adpositions can have person/number marking, but this is optional and infrequent."
-"UT076","Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Olle Kejonen","duohkáj;;(to) behind;|duoges;;(from) behind;|
-duogen;;(in) behind;",""
-"UT077","Is case compounding possible?",0,"Olle Kejonen","",""
-"UT078","Are there case categories only found in pronouns?",0,"Olle Kejonen","",""
-"UT079","Does the numeral modification of a noun have an effect on its case selection? ",1,"Olle Kejonen","gålmmå bárne;three.NOM.SG boy.GEN.SG;three boys;Wiklund 1915: 41","In a NP in the nominative, a noun following a numeral higher than 1 is usually analyzed as being in the genitive singular. However, from a synchronic perspective, the genitive singular and nominative plural are syncretic, meaning that an analysis of bárne as boy.NOM.PL would be equally valid."
-"UT080","Is the singular form of the noun also used with numerals bigger than 1?",1,"Olle Kejonen","oastáv guokta guole;buy.1SG.PRS two.GEN.SG fish.GEN.SG;I buy two fishes (lit: fish);",""
-"UT081","Is there a genitive case that has an affix?",0,"Olle Kejonen","",""
-"UT082","Is there a dative case used to express indirect object/receiver/goal (different from a local case)?",0,"Olle Kejonen","",""
-"UT083","Is there a terminative case?",0,"Olle Kejonen","",""
-"UT084","Is there a separate case to indicate without what/who an action takes place / does not take place?",1,"Olle Kejonen","lávka-dak ~ lávka-k;bag-ABE;without bag;|bednaga-htá;dog-ABE;without dog;",""
-"UT085","Is there a separate case to mark the motion along or by the referent of the noun (prolative)?",0,"Olle Kejonen","",""
-"UT086","Is there a locative case that marks goal?",1,"Olle Kejonen","váttsáv huodnah-ij;walk.1SG house-ILL.SG;I walk to a/the house;",""
-"UT087","Is there a locative case that marks location?",1,"Olle Kejonen","le-v huodnah-in;be-1SG house-INE.SG;I am in a/the house;",""
-"UT088","Is there a locative case that marks source?",1,"Olle Kejonen","boadáv huodnah-is;come.1SG.PRS house-ELA.SG;I come from a/the house;",""
-"UT089","Is there case syncretism of goal and location marking?",0,"Olle Kejonen","",""
-"UT090","Is there case syncretism of location and source marking?",0,"Olle Kejonen","",""
-"UT091","Are there two sets of local cases?",0,"Olle Kejonen","",""
-"UT092","Is there a third set of local cases?",0,"Olle Kejonen","",""
-"UT093","Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?",1,"Olle Kejonen","basti-jn;spoon-COM;with a spoon;|máná-jn;child-COM;with a child;",""
-"UT094","Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Olle Kejonen","",""
-"UT095","Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?",1,"Olle Kejonen","Ja härrá jalá låhkkår lij skåvlig-in;and priest.NOM.SG or sexton.NOM.SG be.3SG.PST teacher-ESS;And the priest or the sexton functioned as teacher;Pirak 1993 [1937]: 29",""
-"UT096","Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Olle Kejonen","",""
-"UT097","Is there a separate morphological marker for expressing equative meaning?",0,"Olle Kejonen","",""
-"UT098","Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?",0,"Olle Kejonen","",""
-"UT099","Is there in addition to the basic declension a declension different from a possessive declension? ",0,"Olle Kejonen","",""
-"UT100","Is it possible to use singular with paired body parts/clothing/accessories that accompany them?",0,"Olle Kejonen","",""
-"UT101","Can the marking of the possessor in the attributive construction vary?",0,"Olle Kejonen","",""
-"UT102","Can the possessor in the attributive construction be marked with the nominative?",0,"Olle Kejonen","",""
-"UT103","Is non-singular possession marked in the possessive declension?",1,"Olle Kejonen","vuojnniv oappá-m iektu;see.1SG.PST sister.ACC.SG-POSS.1SG yesterday;I saw my sister yesterday;|vuojnniv oappájd-am iektu;see.1SG.PST sister.ACC.PL-POSS.1SG yesterday;I saw my sisters yesterday;",""
-"UT104","Can 2Sg possessive suffix be used to mark definiteness? ",0,"Olle Kejonen","",""
-"UT105","Can 3Sg possessive suffix be used to mark definiteness? ",0,"Olle Kejonen","",""
-"UT106","Is there animacy distinction in independent interrogative pronouns?",1,"Olle Kejonen","guhti;;who;|mij;;what;",""
-"UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Olle Kejonen","",""
-"UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Olle Kejonen","",""
-"UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?",1,"Olle Kejonen","dat;;s/he; it",""
-"UT110","Is the order of possessive suffix and case suffix across the paradigm the same?",1,"Olle Kejonen","bednag-ist-ám;dog-ELA.SG-POSS.1SG;from my dog;","The order is stem + case + px."
-"UT111","Is the order of number and case suffixes fixed across the paradigm the same?",1,"Olle Kejonen","muora-j-s;tree-PL-ELA;from the trees;","The order is stem + number + case."
-"UT112","Are there different words for mother’s brother and father’s brother?",1,"Olle Kejonen","änoj;;mother's brother;|tjiehtje;;father's younger brother;|iehke;;father's older brother;",""
-"UT113","Are there different words for younger and older relative for other relations than siblings?",1,"Olle Kejonen","goasske;;mother’s older sister;|muohtá;;mother’s younger sister;|iehke;;father’s older brother;|
+",The conditional can be used in counterfactual conditional clauses (cf. however UT026).
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Olle Kejonen, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,1,"Olle Kejonen, p.c.;Spiik 1989: 106[example]",Tjálisj má;write.POT.3SG surely;S/he's probably writing;,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Olle Kejonen, p.c.",,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,"Olle Kejonen, p.c.;Åt, Matt 6:10[example]",Båhtus duv rijkka;come.IMPII.3SG 2SG.GEN kingdom.NOM.SG;Thy kingdom come;,There is the third person imperative.
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Olle Kejonen, p.c.",,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Olle Kejonen, p.c.",,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Olle Kejonen, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Olle Kejonen, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Olle Kejonen, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Olle Kejonen, p.c.",,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Olle Kejonen, p.c.",,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,"Olle Kejonen, p.c.;Wiklund 1915: 63[example]","Jávlli, ahte länsska l jábmám;say.3PL.PRS that sheriff.NOM.SG be.3SG.PRS die.PRF;It's said (lit. they say) that the sherrif has died;",
+UT040,Can second person singular verb forms be used in generic meaning?,1,"Olle Kejonen, p.c.;Wiklund 1915: 63[example]","Gå dåhku boadá, de jávrev vuojná;when there come.2SG.PRS then lake.ACC.SG see.2SG.PRS;When you get there, you see the lake;",
+UT042,Are clauses with only infinitive predicates possible?,0,"Olle Kejonen, p.c.",,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Olle Kejonen, p.c.;Wiklund 1915: 116",Boade bårråt!;come.2SG.IMPI eat.INF;Come and eat!;,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Olle Kejonen, p.c.Spiik 1989: 96[example]",De rássjot;then rain.3SG.PRS;It's raining now;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,"Olle Kejonen, p.c.",Sån la skåvlik;3SG.NOM be.3SG.PRS teacher.NOM.SG;S/he is a teacher;,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Olle Kejonen, p.c.",Sån lij skåvlik;3SG.NOM be.3SG.PST teacher.NOM.SG;S/he was a teacher;,
+UT047,Can locative adverbial phrases act as predicates without a copula?,0,"Olle Kejonen, p.c.",,
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Olle Kejonen, p.c.",,"ja 'and' is used for NPs, VPs and clauses"
+UT049,Does existential negation have a separate operator?,0,"Olle Kejonen, p.c.",,
+UT050,Can standard negation be asymmetric in the present tense?,1,"Olle Kejonen, p.c.",Mån lågåv;1SG.NOM read.1SG.PRS;I read;|Mån iv lågå;1SG.NOM NEG.1SG read.CNG;I don't read;,
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,"Olle Kejonen, p.c.",,
+UT052,Is there a special negator that combines with non-finite forms?,0,"Olle Kejonen, p.c.",,
+UT053,Are there special negative non-finite forms?,1,"Olle Kejonen, p.c.",bårå-dak ~ bårå-k;eat-ABE;without eating;,The abessive form of the verb can be used.
+UT054,Is there an impersonal passive construction?,0,"Olle Kejonen, p.c.",,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Olle Kejonen, p.c.;Spiik 1989: 42[example]",låhkke mánná;read.PTCP.PRS child.NOM.SG;reading child;,"For example, the present participle is specialized to relativize S/A arguments."
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Olle Kejonen, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Olle Kejonen, p.c.",,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Olle Kejonen, p.c.",,
+UT059,Is there a future participle?,0,"Olle Kejonen, p.c.",,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,"Olle Kejonen, p.c.",,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,"Olle Kejonen, p.c.",,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Olle Kejonen, p.c.",,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"Olle Kejonen, p.c.;Wiklund 1915: 116[example]",vuojnnem;see.NMLZ;sight;|munnu vuojnnem álldo;1DU.GEN see.PTCP female.reindeer.NOM.SG;the female reindeer seen by us;,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Olle Kejonen, p.c.;Spiik 1989: 42[example]",låhkke;;reader;|låhkke mánná;read.PRS.PTCP child.NOM.SG;a/the reading child;,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Olle Kejonen, p.c.",,
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Olle Kejonen, p.c.;Åt, Luk 23:18[example]",Gåtte suv ja luojte Barabbasav;kill.2SG.IMP1 3SG.ACC and release.2SG.IMP1 Barabbas.ACC.SG;Kill him and let Barabbas go!;,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Olle Kejonen, p.c.;Åt, 1 Tim 5:1[example]","Ale vuoras ålmmåj garra bágoj håla;NEG.IMP.2SG old man.ILL.SG hard word.COM.PL talk.CNG;
+Rebuke not an elder (lit. Do not say harsh words to an elder);",
+UT068,Are there preverbs?,0,"Olle Kejonen, p.c.",,
+UT069,Are there verbal prefixes?,0,"Olle Kejonen, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Olle Kejonen, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,0,"Olle Kejonen, p.c.",,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,"Olle Kejonen, p.c.",,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Olle Kejonen, p.c.",Bijla li ruoppsada;car.NOM.PL be.3PL.PRS red.NOM.PL;The cars are red;,
+UT074,Is it possible to form synthetic superlative?,1,"Olle Kejonen, p.c.",tjábbe : tjáppe-p : tjáppe-mus;beautiful : beautiful-COMP : beautiful-SPRL;beautiful : more beautiful : the most beautiful;,
+UT075,Can adpositions have person/number marking?,1,"Olle Kejonen, p.c.;Grundström 1946-54: 1801[example]",duogen-am;behind-1SG;behind me;|duogen-ihtte;behind-2DU;behind you two;|duogen-isá;behind-3PL;behind them;,"Adpositions can have person/number marking, but this is optional and infrequent."
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Olle Kejonen, p.c.",duohkáj : duoges :duogen;;(to) behind : (from) behind : (in) behind;,
+UT077,Is case compounding possible?,0,"Olle Kejonen, p.c.",,
+UT078,Are there case categories only found in pronouns?,0,"Olle Kejonen, p.c.",,
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,1,"Olle Kejonen, p.c.;Wiklund 1915: 41[example]",gålmmå bárne;three.NOM.SG boy.GEN.SG;three boys;,"In a NP in the nominative, a noun following a numeral higher than 1 is usually analyzed as being in the genitive singular. However, from a synchronic perspective, the genitive singular and nominative plural are syncretic, meaning that an analysis of bárne as boy.NOM.PL would be equally valid."
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Olle Kejonen, p.c.",oastáv guokta guole;buy.1SG.PRS two.GEN.SG fish.GEN.SG;I buy two fishes (lit. fish);,
+UT081,Is there a genitive case that has an affix?,0,"Olle Kejonen, p.c.",,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Olle Kejonen, p.c.",,
+UT083,Is there a terminative case?,0,"Olle Kejonen, p.c.",,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Olle Kejonen, p.c.",lávka-dak ~ lávka-k;bag-ABE;without bag;|bednaga-htá;dog-ABE;without dog;,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Olle Kejonen, p.c.",,
+UT086,Is there a locative case that marks goal?,1,"Olle Kejonen, p.c.",váttsáv huodnah-ij;walk.1SG house-ILL.SG;I walk to a/the house;,
+UT087,Is there a locative case that marks location?,1,"Olle Kejonen, p.c.",le-v huodnah-in;be-1SG house-INE.SG;I am in a/the house;,
+UT088,Is there a locative case that marks source?,1,"Olle Kejonen, p.c.",boadáv huodnah-is;come.1SG.PRS house-ELA.SG;I come from a/the house;,
+UT089,Is there case syncretism of goal and location marking?,0,"Olle Kejonen, p.c.",,
+UT090,Is there case syncretism of location and source marking?,0,"Olle Kejonen, p.c.",,
+UT091,Are there two sets of local cases?,0,"Olle Kejonen, p.c.",,
+UT092,Is there a third set of local cases?,0,"Olle Kejonen, p.c.",,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Olle Kejonen, p.c.",basti-jn;spoon-COM;with a spoon;|máná-jn;child-COM;with a child;,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Olle Kejonen, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Olle Kejonen, p.c.;Pirak 1993: 29[example]",Ja härrá jalá låhkkår lij skåvlig-in;and priest.NOM.SG or sexton.NOM.SG be.3SG.PST teacher-ESS;And the priest or the sexton functioned as teacher;,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Olle Kejonen, p.c.",,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Olle Kejonen, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Olle Kejonen, p.c.",,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Olle Kejonen, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Olle Kejonen, p.c.",,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Olle Kejonen, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,0,"Olle Kejonen, p.c.",,
+UT103,Is non-singular possession marked in the possessive declension?,1,"Olle Kejonen, p.c.",vuojnniv oappá-m iektu;see.1SG.PST sister.ACC.SG-POSS.1SG yesterday;I saw my sister yesterday;|vuojnniv oappájd-am iektu;see.1SG.PST sister.ACC.PL-POSS.1SG yesterday;I saw my sisters yesterday;,
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Olle Kejonen, p.c.",,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Olle Kejonen, p.c.",,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Olle Kejonen, p.c.",guhti;who.NOM.SG;who;|mij;what.NOM.SG;what;,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Olle Kejonen, p.c.",,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Olle Kejonen, p.c.",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Olle Kejonen, p.c.","dat;3SG.NOM.SG;s/he, it;",
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,"Olle Kejonen, p.c.",bednag-ist-ám;dog-ELA.SG-POSS.1SG;from my dog;,The order is stem + case + px.
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Olle Kejonen, p.c.",muora-j-s;tree-PL-ELA;from the trees;,The order is stem + number + case.
+UT112,Are there different words for mother’s brother and father’s brother?,1,"Olle Kejonen, p.c.",änoj;;mother's brother;|tjiehtje;;father's younger brother;|iehke;;father's older brother;,
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Olle Kejonen, p.c.","goasske;;mother’s older sister;|muohtá;;mother’s younger sister;|iehke;;father’s older brother;|
 tjiehtje;;father’s younger brother;","Standard Lule Saami reveals such distinction. In some varieties however, no age distinction is made."
-"UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?",1,"Olle Kejonen","nuorra – vuoras;;young – old (animate);|ådås – oames;;new – old (inanimate);",""
-"UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?",0,"Olle Kejonen","",""
-"UT116","Is there contrastive length of consonants?",1,"Olle Kejonen","muorra [muorra] tree.NOM.SG vs. muora [muora] tree.GEN.SG",""
-"UT117","Is there contrastive length of vowels?",1,"Olle Kejonen","varra [varra] 'blood' vs. várra [va:rra] 'caution'",""
-"UT118","Is there contrast between short and long unstressed vowels?",1,"Olle Kejonen","guolasj [kuolaʃ] testicle.DIM 'small testicle' vs. guolásj  [kuola:ʃ] fish.DIM 'small fish'",""
-"UT119","Is there contrast in duration of geminate consonants?",1,"Olle Kejonen","biesse [piessie] 'nest' vs. bies'se [pies:sie] 'birch bark'",""
-"UT120","Are there more than two phonological quantities? ",1,"Olle Kejonen","biesse [piessie] 'nest'  vs. bies'se [pies:sie] 'birch bark'",""
-"UT121","Are there extralong syllables? ",1,"Olle Kejonen","siesstet [sies:.tiet] 'save'",""
-"UT122","Is the main foot structure trochaic?",1,"Olle Kejonen","mannat [ˈman.nat] go.INF",""
-"UT123","Is there lexically distinctive word stress?",0,"Olle Kejonen","",""
-"UT124","Is there morphologically conditioned stress?",1,"Olle Kejonen","-goahtet [-'koahtiet]","A few derivational affixes carry stress, e.g. the inchoative -goahtet."
-"UT125","Is there fixed primary stress?",1,"Olle Kejonen","mannat [ˈman.nat] go.INF, mannaba [ˈman.na.pa] go.3DU.PRS, mannabihtte [ˈman.na.ˌpih:.tie] go.2DU.PRS",""
-"UT126","Is there stress in heavy syllables?",0,"Olle Kejonen","",""
-"UT127","Is there non-initial primary stress?",0,"Olle Kejonen","",""
-"UT128","Is there palatal vowel harmony?",0,"Olle Kejonen","",""
-"UT129","Is there velar vowel harmony?",0,"Olle Kejonen","",""
-"UT130","Is there labial vowel harmony? ",0,"Olle Kejonen","",""
-"UT131","Are there rising diphthongs? ",0,"Olle Kejonen","",""
-"UT132","Are there lowering diphthongs?",1,"Olle Kejonen","guolle [kuollie] 'fish'",""
-"UT133","Is there qualitative contrast between subsets of short and long vowels?",0,"Olle Kejonen","",""
-"UT134","Are there full vs. reduced vowels as contrastive subsets? ",0,"Olle Kejonen","",""
-"UT135","Is there front high rounded vowel ü [y]?",0,"Olle Kejonen","",""
-"UT136","Is there front midhigh rounded vowel ö [ø]?",0,"Olle Kejonen","",""
-"UT137","Is there back high unrounded vowel ï [ɯ]?",0,"Olle Kejonen","",""
-"UT138","Is there back midhigh unrounded vowel ë [ɤ]?",0,"Olle Kejonen","",""
-"UT139","Is there back low round vowel [ɒ]?",0,"Olle Kejonen","",""
-"UT140","Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?",0,"Olle Kejonen","","There is a phonetic contrast between [æ] and [e], but there is no phonological opposition as they are in complementary distribution, e.g. [e] in germaj snake.NOM.SG vs. [æ] in gärmmaha snake.GEN.SG can be analysed as allophones of the same phoneme."
-"UT141","Are there word-initial consonant clusters?",1,"Olle Kejonen","sjnjierrá [ʃɲierrá] 'mouse'",""
-"UT142","Are there word-internal consonant clusters in syllable onset?",1,"Olle Kejonen","biejste [piej.stie] devastate.CNG",""
-"UT143","Are there consonant clusters in syllable coda?",1,"Olle Kejonen","tjavelk [tjavelk] 'ridge', muora-js [muorajs] tree-ELA.PL",""
-"UT144","Are there clusters of three or more consonants in a word between vowels?",1,"Olle Kejonen","biejste [piej.stie] devastate.CNG",""
-"UT145","Are there word-final clusters of three or more consonants?",0,"Olle Kejonen","",""
-"UT146","Are there palatalized dentals? ",0,"Olle Kejonen","",""
-"UT147","Are there palatalized labials and velars? ",0,"Olle Kejonen","",""
-"UT148","Is there palatal stop [c]?",0,"Olle Kejonen","",""
-"UT149","Is there palatal nasal [ɲ]?",1,"Olle Kejonen","njuorra [ɲuorra] 'shoal, shallows'","Cf. nuorra /nuorra/ 'young'."
-"UT150"," Is there palatal lateral [ʎ]?",0,"Olle Kejonen","",""
-"UT151","Is there phonemic velar nasal [ŋ]?",1,"Olle Kejonen","maŋen [maŋien] 'after, (together) with'","Cf. manen /manien/ 'why'."
-"UT152","Is there dental affricate [t͡s]?",1,"Olle Kejonen","tsihtse [t͡siht͡sie] 'small bird'",""
-"UT153","Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Olle Kejonen","tjáhtje [ t͡ʃa:ht͡ʃie] 'water'",""
-"UT154","Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?",1,"Olle Kejonen","vuossja [vuoʃʃa] boil.CNG vs. vuossa [vuossa] bag.GEN.SG",""
-"UT155","Are there voiced plosives [b, g, d]?",1,"Olle Kejonen","biebbmo [pieb:muo] 'food', soabbe [soab:bie] 'walking stick'",""
-"UT156","Is there glottal stop [ˀ]?",0,"Olle Kejonen","",""
-"UT157","Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?",0,"Olle Kejonen","",""
-"UT158","Is there a constraint on word-initial r?",0,"Olle Kejonen","",""
-"UT159","Is there laryngeal fricative [h]?",1,"Olle Kejonen","bahá [paha:] 'bad'",""
-"UT160","Is there voiced velar fricative [ɣ]?",0,"Olle Kejonen","",""
-"UT161","Is there voiceless velar fricative [x]?",0,"Olle Kejonen","",""
-"UT162","Is there voiced dental fricative [ð]?",0,"Olle Kejonen","",""
-"UT163","Is there phonemic labio-velar approximant [w]?",0,"Olle Kejonen","",""
-"UT164","Is there voiceless labiodental fricative [f]?",1,"Olle Kejonen","fábmo [fa:pmuo] 'power'",""
-"UT165","Is there radical qualitative consonant gradation?",1,"Olle Kejonen","máksá [ma:k:sa:] pay.3SG.PRS vs. mávsá [ma:vsa:] pay.2SG.PRS",""
-"UT166","Is there quantitative consonant gradation?",1,"Olle Kejonen","guolle [kuollie] fish.NOM.SG vs. guole [kuolie] fish.GEN.SG",""
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Olle Kejonen, p.c.",nuorra : vuoras;;young : old (animate);|ådås : oames;;new : old (inanimate);,
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Olle Kejonen, p.c.",,
+UT116,Is there contrastive length of consonants?,1,"Olle Kejonen, p.c.",muorra [muorra] tree.NOM.SG vs. muora [muora] tree.GEN.SG,
+UT117,Is there contrastive length of vowels?,1,"Olle Kejonen, p.c.",varra [varra] 'blood' vs. várra [va:rra] 'caution',
+UT118,Is there contrast between short and long unstressed vowels?,1,"Olle Kejonen, p.c.",guolasj [kuolaʃ] testicle.DIM 'small testicle' vs. guolásj  [kuola:ʃ] fish.DIM 'small fish',
+UT119,Is there contrast in duration of geminate consonants?,1,"Olle Kejonen, p.c.",biesse [piessie] 'nest' vs. bies'se [pies:sie] 'birch bark',
+UT120,Are there more than two phonological quantities? ,1,"Olle Kejonen, p.c.",biesse [piessie] 'nest'  vs. bies'se [pies:sie] 'birch bark',
+UT121,Are there extralong syllables? ,1,"Olle Kejonen, p.c.",siesstet [sies:.tiet] 'save',
+UT122,Is the main foot structure trochaic?,1,"Olle Kejonen, p.c.",mannat [ˈman.nat] go.INF,
+UT123,Is there lexically distinctive word stress?,0,"Olle Kejonen, p.c.",,
+UT124,Is there morphologically conditioned stress?,1,"Olle Kejonen, p.c.",-goahtet [-'koahtiet],"A few derivational affixes carry stress, e.g. the inchoative -goahtet."
+UT125,Is there fixed primary stress?,1,"Olle Kejonen, p.c.","mannat [ˈman.nat] go.INF, mannaba [ˈman.na.pa] go.3DU.PRS, mannabihtte [ˈman.na.ˌpih:.tie] go.2DU.PRS",
+UT126,Is there stress in heavy syllables?,0,"Olle Kejonen, p.c.",,
+UT127,Is there non-initial primary stress?,0,"Olle Kejonen, p.c.",,
+UT128,Is there palatal vowel harmony?,0,"Olle Kejonen, p.c.",,
+UT129,Is there velar vowel harmony?,0,"Olle Kejonen, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Olle Kejonen, p.c.",,
+UT131,Are there rising diphthongs? ,0,"Olle Kejonen, p.c.",,
+UT132,Are there lowering diphthongs?,1,"Olle Kejonen, p.c.",guolle [kuollie] 'fish',
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Olle Kejonen, p.c.",,
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,"Olle Kejonen, p.c.",,
+UT135,Is there front high rounded vowel ü [y]?,0,"Olle Kejonen, p.c.",,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Olle Kejonen, p.c.",,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Olle Kejonen, p.c.",,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Olle Kejonen, p.c.",,
+UT139,Is there back low round vowel [ɒ]?,0,"Olle Kejonen, p.c.",,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,"Olle Kejonen, p.c.",,"There is a phonetic contrast between [æ] and [e], but there is no phonological opposition as they are in complementary distribution, e.g. [e] in germaj snake.NOM.SG vs. [æ] in gärmmaha snake.GEN.SG can be analysed as allophones of the same phoneme."
+UT141,Are there word-initial consonant clusters?,1,"Olle Kejonen, p.c.",sjnjierrá [ʃɲierrá] 'mouse',
+UT142,Are there word-internal consonant clusters in syllable onset?,1,"Olle Kejonen, p.c.",biejste [piej.stie] devastate.CNG,
+UT143,Are there consonant clusters in syllable coda?,1,"Olle Kejonen, p.c.","tjavelk [tjavelk] 'ridge', muora-js [muorajs] tree-ELA.PL",
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Olle Kejonen, p.c.",biejste [piej.stie] devastate.CNG,
+UT145,Are there word-final clusters of three or more consonants?,0,"Olle Kejonen, p.c.",,
+UT146,Are there palatalized dentals? ,0,"Olle Kejonen, p.c.",,
+UT147,Are there palatalized labials and velars? ,0,"Olle Kejonen, p.c.",,
+UT148,Is there palatal stop [c]?,0,"Olle Kejonen, p.c.",,
+UT149,Is there palatal nasal [ɲ]?,1,"Olle Kejonen, p.c.","njuorra [ɲuorra] 'shoal, shallows'",Cf. nuorra /nuorra/ 'young'.
+UT150, Is there palatal lateral [ʎ]?,0,"Olle Kejonen, p.c.",,
+UT151,Is there phonemic velar nasal [ŋ]?,1,"Olle Kejonen, p.c.","maŋen [maŋien] 'after, (together) with'",Cf. manen /manien/ 'why'.
+UT152,Is there dental affricate [t͡s]?,1,"Olle Kejonen, p.c.",tsihtse [t͡siht͡sie] 'small bird',
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Olle Kejonen, p.c.",tjáhtje [ t͡ʃa:ht͡ʃie] 'water',
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Olle Kejonen, p.c.",vuossja [vuoʃʃa] boil.CNG vs. vuossa [vuossa] bag.GEN.SG,
+UT155,"Are there voiced plosives [b, g, d]?",1,"Olle Kejonen, p.c.","biebbmo [pieb:muo] 'food', soabbe [soab:bie] 'walking stick'",
+UT156,Is there glottal stop [ˀ]?,0,"Olle Kejonen, p.c.",,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Olle Kejonen, p.c.",,
+UT158,Is there a constraint on word-initial r?,0,"Olle Kejonen, p.c.",,
+UT159,Is there laryngeal fricative [h]?,1,"Olle Kejonen, p.c.",bahá [paha:] 'bad',
+UT160,Is there voiced velar fricative [ɣ]?,0,"Olle Kejonen, p.c.",,
+UT161,Is there voiceless velar fricative [x]?,0,"Olle Kejonen, p.c.",,
+UT162,Is there voiced dental fricative [ð]?,0,"Olle Kejonen, p.c.",,
+UT163,Is there phonemic labio-velar approximant [w]?,0,"Olle Kejonen, p.c.",,
+UT164,Is there voiceless labiodental fricative [f]?,1,"Olle Kejonen, p.c.",fábmo [fa:pmuo] 'power',
+UT165,Is there radical qualitative consonant gradation?,1,"Olle Kejonen, p.c.",máksá [ma:k:sa:] pay.3SG.PRS vs. mávsá [ma:vsa:] pay.2SG.PRS,
+UT166,Is there quantitative consonant gradation?,1,"Olle Kejonen, p.c.",guolle [kuollie] fish.NOM.SG vs. guole [kuolie] fish.GEN.SG,
