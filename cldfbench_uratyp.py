@@ -298,41 +298,17 @@ class Dataset(BaseDataset):
                             continue
                         assert list(d.values())[2] == row[k]
                         #assert row[k] != '1' or d['Example'], str(d)
-                        if d['Example']:
-                            ex = d['Example'].strip()
-                            if ex and ex.lower() != 'example':
-                                eid += 1
-                                try:
-                                    analyzed, gloss, translation = ex.split(
-                                        '\n' if '\n' in ex else ';')[:3]
-                                    ipa = None
-                                    if '[' in analyzed:
-                                        analyzed, _, ipa = analyzed.partition(
-                                            '[')
-                                        analyzed = analyzed.strip()
-                                        ipa = ipa.replace(']', '').strip()
-                                    a = analyzed.strip().split()
-                                    g = gloss.strip().split()
-                                    if len(a) != len(g):
-                                        # print(a)
-                                        # print(g)
-                                        # print('---')
-                                        raise ValueError()
-                                    args.writer.objects['ExampleTable'].append(dict(
-                                        ID=str(eid),
-                                        Language_ID=lid,
-                                        Primary_Text=analyzed.strip(),
-                                        Analyzed_Word=a,
-                                        Analyzed_Word_IPA=ipa.split() if ipa else [],
-                                        Gloss=gloss.strip().split(),
-                                        Translated_Text=translation.strip(),
-                                    ))
-                                except:
-                                    args.writer.objects['ExampleTable'].append(dict(
-                                        ID=str(eid),
-                                        Language_ID=lid,
-                                        Primary_Text=ex,
-                                    ))
+                        for ex in examples[row['language'], k]:
+                            pt, analyzed, gloss, translation, comment = ex
+                            eid += 1
+                            args.writer.objects['ExampleTable'].append(dict(
+                                ID=str(eid),
+                                Language_ID=lid,
+                                Primary_Text=pt,
+                                Analyzed_Word=analyzed if isinstance(analyzed, list) else [analyzed],
+                                Gloss=[gloss] if isinstance(gloss, str) else gloss,
+                                Translated_Text=translation.strip(),
+                            ))
 
                     args.writer.objects['ValueTable'].append(dict(
                         ID='{}-{}'.format(lid, k),
