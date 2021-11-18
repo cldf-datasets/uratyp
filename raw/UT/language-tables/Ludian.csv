@@ -46,7 +46,7 @@ UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1
 UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,Alexandra Rodionova,Häin on mečnik;s/he be.3SG forest_ranger;S/he is a forest ranger;,
 UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Alexandra Rodionova,muamo da tuatto oldih karjalaiže-t;mother and father be.PASS.PST Karelian-PL;mother and father were Karelians;,
 UT047,Can locative adverbial phrases act as predicates without a copula?,0,Alexandra Rodionova,,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Alexandra Rodionova,rist'iža i rist'emä;;godfather and godmother;;|tuлe-mme i ota-mme;come-1PL and take-1PL;we come and take;,Conjunctions i and da are used.
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Alexandra Rodionova,rist'iža i rist'emä;;godfather and godmother;|tuлe-mme i ota-mme;come-1PL and take-1PL;we come and take;,Conjunctions i and da are used.
 UT049,Does existential negation have a separate operator?,0,Alexandra Rodionova,,
 UT050,Can standard negation be asymmetric in the present tense?,1,Alexandra Rodionova,ota-n : en ota;take-1SG : NEG.1SG take.CNG;I take : I don't take,
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Alexandra Rodionova,,Such constructions can hardly be attested.
@@ -92,7 +92,7 @@ UT087,Is there a locative case that marks location?,1,Alexandra Rodionova,doroga
 UT088,Is there a locative case that marks source?,1,Alexandra Rodionova,školaspiäi;school-ELA;from the school;,
 UT089,Is there case syncretism of goal and location marking?,0,Alexandra Rodionova,,
 UT090,Is there case syncretism of location and source marking?,1,Alexandra Rodionova,met'šäs;forest-INE/ELA;in the forest/from the forest;,
-UT091,Are there two sets of local cases?,1,Alexandra Rodionova,piha-le: piha-l : piha-lpiäi;yard-ALL : yard-ADE : yard-ABL;to the yard : in the yard : from the yard;|pät'ših : pät'šis : pät'šispiäi;,"However, pihal can mark location as well as source"
+UT091,Are there two sets of local cases?,1,Alexandra Rodionova,piha-le : piha-l : piha-lpiäi;yard-ALL : yard-ADE : yard-ABL;to the yard : in the yard : from the yard;|pät'ših : pät'šis : pät'šispiäi;,"However, pihal can mark location as well as source"
 UT092,Is there a third set of local cases?,1,Alexandra Rodionova,,"However, there is overlap in goal and location marking, e.g. kod'illu can mean 'to near the house' as well as 'near the house'. Source can be marked by -llupiäi, e.g. kod'illupiäi 'from near the house'."
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Alexandra Rodionova,kirveheidenke;ax.PL.COM;with axes;,
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Alexandra Rodionova,,

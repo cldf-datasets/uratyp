@@ -60,7 +60,7 @@ if pay-2SG tax.PL.PRT then feel-2SG yourself.PRT more_securely;If one pays taxes
 "UT052","Is there a special negator that combines with non-finite forms?","1","Miina Norvik, Helle Metslang","Soovita-n su-l mitte muretse-da;advise-1SG you-ADE not worry-INF;I advise you not to worry;",""
 "UT053","Are there special negative non-finite forms?","1","Miina Norvik, Helle Metslang","lõpeta-ma-ta töö;finish-SUP-ABE work;unfinished work",""
 "UT054","Is there an impersonal passive construction?","1","Miina Norvik, Helle Metslang","Siin ela-takse hästi;here live-IPS.PRS well;People live well here (lit. 'It is lived well here');|Kuula-takse muusika-t listen-IPS.PRS music-PRT;The music is being listened;","The object may retain its case and position."
-"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?","1","Miina Norvik, Helle Metslang","luge-v poiss;read-ACT.PST.PTCP;A boy who is reading;|loe-tud kiri;read-PASS.PST.PTCP letter;A letter that has been read
+"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?","1","Miina Norvik, Helle Metslang","luge-v poiss;read-ACT.PST.PTCP;A boy who is reading;|loe-tud kiri;read-PASS.PST.PTCP letter;A letter that has been read;
 ",""
 "UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?","0","Miina Norvik, Helle Metslang","",""
 "UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?","0","Miina Norvik, Helle Metslang","","Can be attested only on rare occasions."
@@ -124,7 +124,7 @@ if pay-2SG tax.PL.PRT then feel-2SG yourself.PRT more_securely;If one pays taxes
 "UT110","Is the order of possessive suffix and case suffix across the paradigm the same?","N/A","Miina Norvik, Helle Metslang","","There are no possessive suffixes."
 "UT111","Is the order of number and case suffixes fixed across the paradigm the same?","1","Miina Norvik, Helle Metslang","lauda-de-le;table-PL-ALL;onto the tables
 ",""
-"UT112","Are there different words for mother’s brother and father’s brother?","1","Miina Norvik, Helle Metslang","onu;;mother's brother;|lell;;father's borther","Still, it is possible to use ""onu"" in both options."
+"UT112","Are there different words for mother’s brother and father’s brother?","1","Miina Norvik, Helle Metslang","onu;;mother's brother;|lell;;father's brother;","Still, it is possible to use ""onu"" in both options."
 "UT113","Are there different words for younger and older relative for other relations than siblings?","0","Miina Norvik, Helle Metslang","",""
 "UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?","0","Miina Norvik, Helle Metslang","","There is distinction only for 'young'."
 "UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?","0","Miina Norvik, Helle Metslang","",""

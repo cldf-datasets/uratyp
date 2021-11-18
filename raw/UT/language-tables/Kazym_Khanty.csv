@@ -1,169 +1,167 @@
-"ID","Name","Kazym.Khanty","Source","Example","Comment"
-"UT001","Is there a distinct category of dual for verbal agreement with a dual subject?",1,"Mária Sipos","kăt weʌpəs-χǫ jăχa-wǫjtan-s-əŋən, …;two hunt-man together-meet-PST-3DU;Two hunters met;Rédei 1968: 42|păʌ-ŋəʌam, păʌ-ŋəʌam, mŭj wer-s-ətən?; ear-DU<1SG ear-DU<1SG what do-PST-2DU;My (two) ears, my (two) ears, what did you do?;HM-O-A 1958: 142",""
-"UT002","Is non-agreement in number between the nominal subject and verbal predicate possible?",1,"Mária Sipos","jak-χɔt-teʌ mir ńăχ-ʌ-ət;dance-house-full people.SG laugh-PRS-3PL;All the people in the house laughed;Rédei 1968: 42|ij kǫr’-n̥ kăt xǫ wǫs-ŋǝn;a village-LOC two man live.PST-3DU;There lived two men in a village;Rédei 1968: 42",""
-"UT003","Can finite verbs agree in number with the nominal object?",1,"Mária Sipos","ăs-śiśki wǫn̥ʌtǝ-ʌ-ʌe , aśeʌ-śiśki ʌawǝʌ-ʌ-ǝʌe; mother-bird teach-PRS-SG<3SG father-bird guard-PRS-SG<3SG;The mother bird teaches it, the father bird guards it;HM-A-O 1973: 114|tăm-pŭš nemasija ʌetŏt-ʌǝmǝn păsan-a xăj-ʌ-ǝʌʌam;this-time deliberately food-PL<31PL table-LAT leave-PRS-PL<1SG;This time I leave our food on the table deliberately;Rédei 1968: 84","In definite conjugation."
-"UT004","Can an adnominal property word agree with the noun in case?",0,"Mária Sipos","",""
-"UT005","Are there cases that do not show agreement in terms of case?",0,"Mária Sipos","",""
-"UT006","Can adpositions be used to mark core verbal arguments?",0,"Mária Sipos","",""
-"UT007","Can adpositions be used to mark non-core/oblique verbal arguments?",1,"Mária Sipos","nawrǝmǝ-s nŭw χŭwat ʌaŋki,…;spring-PST.3SG branch along squirrel;A squirrel sprang along a branch…;Rédei 1968: 100",""
-"UT008","Can non-finite clauses entail a special way for a core argument (S/A) marking?",1,"Mária Sipos","aśe-ʌ tăj-ǝm ʌăχǝr ʌŭweʌa mă-s, ...;father-3SG have-PTCP.PST armour 3SG.DAT give-PST.3SG;He gave him the armour that was owned by his father;Khomljak 2002: 44|χǫ măn-ǝm χǫj-ǝŋ sŭŋ kăš-ti măn-ʌ-ǝm;man walk-PTCP.PST man-DER.ADJ corner look.for-INF go-PRS-1SG;I leave in order to look for a region inhabited by men;Khomljak 2002: 58|mŭj ar χŏjat-n ɔms-ǝm χɔt-ew, mŏʌti wǫʌ ki, kim at măn-ǝʌ!;what many person-LOC sit-PTCP.PST house-1PL something be.PRS.3SG out IMP go-PRS.3SG;No matter by how many people our house has been inhabitated, if there is something (in it) let it go out!;Khomljak 2002: 76
-",""
-"UT009","Can non-finite clauses entail a special way for a core argument (P) marking?",0,"Mária Sipos","",""
-"UT010","Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Mária Sipos","",""
-"UT011","Does object marking correlate with aspectuality? ",0,"Mária Sipos","",""
-"UT012","Does the marking of the object depend on the verb conjugation form? ",0,"Mária Sipos","",""
-"UT013","Is there differential subject marking?",0,"Mária Sipos","",""
-"UT014","Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Mária Sipos","",""
-"UT015","Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Mária Sipos","",""
-"UT016","Is there a grammatical device for habituality?",0,"Mária Sipos","",""
-"UT017","Is there a grammatical device for frequentative?",1,"Mária Sipos","jăŋχ- vs. jăŋχijǝʌ-;;go vs. go frequently;",""
-"UT018","Is there a grammatical device for progressivity?",0,"Mária Sipos","",""
-"UT019","Is it common to use a verb in the present tense for future time reference? ",1,"Mária Sipos","mănʌamǝn, wɔš-a ma măn-ʌ-ǝm…; come.on town-LAT go-PRS-1SG;Come on, I will go to the town, …;",""
-"UT020","Is there a grammatical device for immediate future?",0,"Mária Sipos","",""
-"UT021","Is there a grammatical device for pluperfect?",0,"Mária Sipos","",""
-"UT022","Can aspect be expressed overtly on the negative marker?",0,"Mária Sipos","",""
-"UT023","Can tense be expressed overtly on the negative marker?",0,"Mária Sipos","",""
-"UT024","Is there grammatical marking of mirativity?",0,"Mária Sipos","",""
-"UT025","Is there morphological marking on the verb dedicated to the expression of desire or wish?",0,"Mária Sipos","",""
-"UT026","Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?",0,"Mária Sipos","",""
-"UT027","Are verbs marked in a specific mood in counterfactual conditional clauses?",0,"Mária Sipos","",""
-"UT028","Is there morphological marking on the verb dedicated to the expression of deontic necessity?",0,"Mária Sipos","",""
-"UT029","Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ",0,"Mária Sipos","",""
-"UT030","Is there morphological marking on the verb dedicated to the expression of deontic possibility? ",0,"Mária Sipos","",""
-"UT031","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?",0,"Mária Sipos","",""
-"UT032","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?",0,"Mária Sipos","",""
-"UT033","Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ",0,"Mária Sipos","",""
-"UT034","Is there morphological marking on the verb dedicated to the expression of apprehension?",0,"Mária Sipos","",""
-"UT035","Is there reflexive conjugation?",0,"Mária Sipos","",""
-"UT036","Are there syntactically ditransitive verbs?",0,"Mária Sipos","",""
-"UT037","Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?",1,"Mária Sipos","mă-ʌ-ʌǝn;give-PRS-SG<2DU, give-PRS-SG<3DU, give-PRS-SG<2PL, give-PRS-DU/PL<2DU, give-PRS- DU/PL <3DU, give-PRS- DU/PL <2PL;;Honti 1984: 119|χɔt-ǝn: house-SG<2DU, house-SG<3DU, house-SG<2PL;;|χɔt-ŋəʌǝn;house-DU<2DU, house-DU<3DU, house-DU<2PL;|χɔt-ʌǝn;house-PL<2DU, house-PL<3DU, house-PL<2PL;Honti 1984: 136",""
-"UT038","Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?",0,"Mária Sipos","",""
-"UT039","Can third person plural verb forms be used for impersonal reference?",0,"Mária Sipos","",""
-"UT040","Can second person singular verb forms be used in generic meaning?",0,"Mária Sipos","",""
-"UT042","Are clauses with only infinitive predicates possible?",0,"Mária Sipos","",""
-"UT043","Can verbs in purposive subordinate clauses be in bare infinitive form?",1,"Mária Sipos","χǫ măn-ǝm χǫj-ǝŋ sŭŋ kăš-ti măn-ʌ-ǝm;man go-PTCP.PST man-DER.ADJ corner look.for-INF go-PRS-1SG;I go to look for a region inhabited by men;Xomljak 2002: 58",""
-"UT044","Are there sentences without overt verbal arguments (e.g. weather verbs)?",1,"Mária Sipos","pătʌǝ-s;become.dark-PST.3SG;It became dark;| jɛrtǝ-ʌ;be.raining-PRS.3SG;It is raining;Solovar 2009: 242",""
-"UT045","Is copula needed for predicate nominals in the 3rd person form of the present tense?",0,"Mária Sipos","",""
-"UT046","Is a copula needed for predicate nominals in the past and/or future tense?",1,"Mária Sipos","aśe-ʌ wŭʌi ʌawǝʌ-ti χǫ wǫs;father-3SG reindeer guard-PTCP.PRS man be.PST.3SG;His father was a reindeer herder;Obatina – Prokina 1995: 105",""
-"UT047","Can locative adverbial phrases act as predicates without a copula?",1,"Mária Sipos","năŋ pɛše-n tăta;2SG reindeer-2SG here;Your reindeer is here;Solovar 2009: 44","In certain cases, there is a copula: in nɛŋ-en mil nǫmn wǫʌ (DET woman-2SG cap on.top be.PRS.3SG) ’This woman’s cap is on top.’ (Solovar 2009: 44)"
-"UT048","Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Mária Sipos","aj mɔś neŋ-ije pa pŏr ne-le wǫʌ-ʌ-ǝŋǝn;little mɔś woman-DIM and little pŏr woman-DIM live-PRS-2DU;There live a mɔś-woman and a little pŏr-woman;Rédei 1968: 72|ij χɔta jŏχt-s-ǝt pa χǫʌǝm nŏri tăj-ǝʌ;one house arrive-PST-3PL and three bed have-PRS.3SG;They arrived at a house and it has three beds;Khomljak 2002: 20","In traditional Khanty, coordinating conjunction is rare."
-"UT049","Does existential negation have a separate operator?",1,"Mária Sipos","ninan păʌtaptijǝʌ-ti ŏt-ǝn ŭše ăntǫm;2DU.ACC frighten-PTCP.PRS thing-2DU already NEG.EXIST;The thing that always frightened you doesn’t exist any longer;Khomljak 2002: 54",""
-"UT050","Can standard negation be asymmetric in the present tense?",0,"Mária Sipos","",""
-"UT051","Can non-finite dependent clauses use the standard negation construction?",1,"Mária Sipos","mănem ăn mɔs-ti χŏjat ke jŏχt-ǝs, sej tăχtaŋ χăr-ǝʌ-a măṇš-aʌn̥, … ;1SG.DAT NEG be.likeable-PTCP.PRS man if arrive-PST.3SG sand piece-DER.ADJ place-3PL-LAT tear-IMP.SG<2DU;If I don’t like the man who arrived, tear him into so small pieces like sand;Steinitz 1989: 395
-",""
-"UT052","Is there a special negator that combines with non-finite forms?",0,"Mária Sipos","",""
-"UT053","Are there special negative non-finite forms?",0,"Mária Sipos","",""
-"UT054","Is there an impersonal passive construction?",1,"Mária Sipos","ij at-ǝŋ χătǝʌ măr sŏrm-a jŭw-ǝm χŏjat jŏʌǝn tăj-ʌ-a;one night-DER.ADJ day time death-LAT become-PTCP.PST person at.home have-PRS-PASS.3SG;The dead body is kept at home for a whole day;Rédei 1968: 36",""
-"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,"Mária Sipos","",""
-"UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Mária Sipos","",""
-"UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Mária Sipos","",""
-"UT058","Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Mária Sipos","",""
-"UT059","Is there a future participle?",0,"Mária Sipos","",""
-"UT060","Are there participles that can encode their subject by possessive suffixes?",1,"Mária Sipos","škola-ja jŏχǝt-m-em-ǝn ńawrem-ǝt jŏχǝt-ti pit-ʌ-ǝt;school-LAT arrive-PTCP.PST-1SG-LOC child-PL arrive-INF start-PRS-PL;After I arrive at scool, children (also) start to arrive;Rédei 1968: 50",""
-"UT061","Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?",1,"Mária Sipos","a ʌŭw χǫʌmit ŭw-m-aʌ-n…;but 3SG third cry-PTCP.PST-3SG-LOC;But when he cried for the third time…;Khomljak 2002: 46",""
-"UT062","Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?",0,"Mária Sipos","",""
-"UT063","Are there nonfinite forms that can be used both as participles and action nominalizations?",1,"Mária Sipos","χănneχǫ sŏrm-a ji-ti jŭpijǝn…; person death-LAT become-PTCP.PRS after;After the person died, …;Rédei 1968: 36|... ăʌmǝnti-ki sŏrm-a ji-ti xănnexǫ pa tǫrǝm-ǝn wǫʌ-ti pit-ǝʌ;as-if death-LAT become-PTCP.PRS person other heaven-LOC live-INF start-PRS.3SG;...as if the dying person went to live in another world;Rédei 1968: 36",""
-"UT064","Are there nonfinite forms that can be used both as participles and agentive nominalizations?",0,"Mária Sipos","",""
-"UT065","Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Mária Sipos","",""
-"UT066","Is OV the neutral order in affirmative imperative clauses?",1,"Mária Sipos","aj mɔś -xu, mănem jiŋk tŭw-a!;little mɔś man 1SG.DAT water bring-IMP.2SG;Little mɔś man, bring me water!;Steinitz 1989: 392;",""
-"UT067","Is it possible to place an object between the negative marker and the main verb in imperative constructions? ",0,"Mária Sipos","","Usually the negative marker and the main verb are not separated, e.g. ʌapǝtmit săχ-ǝʌ aʌ ɛŋχ-e, …! (seventh fur.coat-3SG NEG.IMP take.on-SG<2SG) ’Don’t take on his seventh fur coat!’ (Steinitz 1989: 479)."
-"UT068","Are there preverbs?",1,"Mária Sipos","nŏχ pit-ǝs šăš-kišǝŋ iki; up fall-PST.3SG back-hunched old.man;It is the hunchbacked old man that won (lit. fell up);Rédei 1968: 42",""
-"UT069","Are there verbal prefixes?",0,"Mária Sipos","",""
-"UT070","Is there diminutive (hypocoristic) marking on verbs?",0,"Mária Sipos","",""
-"UT071","Can modifiers of action nominalization in agent and patient roles both be marked like possessors?",0,"Mária Sipos","",""
-"UT072","Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,"Mária Sipos","",""
-"UT073","Do core adjectives agree with the subject noun in number in the predicative position?",1,"Mária Sipos","ńawrɛm-ʌaʌ isa sɔrm-ǝt, isa jăm-ǝt;child-PL<3SG all dry-PL all good-PL;Her children are all dry, they are all well;Xomljak 2002: 70",""
-"UT074","Is it possible to form synthetic superlative?",0,"Mária Sipos","",""
-"UT075","Can adpositions have person/number marking?",1,"Mária Sipos","min năŋ χŏśe-n-a măn-ʌ-amǝn;1DU 2SG to-2SG-LAT go-PRS-1DU;We (dual) will go to you;Xomljak 2002: 52",""
-"UT076","Are there separate adpositions to express goal, source, and location (without there being syncretism)?",0,"Mária Sipos","","In the North Khanty nominal paradigm there are only NOM, LOC, LAT cases. Source is expressed with the postposition ewǝʌt 'from', e.g. cf. ŏsǝm iʌpijn 'inside the pillow', ŏsǝm iʌpija 'into the pillow' and ŏsǝm iʌpi ewǝʌt 'from the pillow'."
-"UT077","Is case compounding possible?",0,"Mária Sipos","",""
-"UT078","Are there case categories only found in pronouns?",1,"Mária Sipos","ma;1SG.NOM;I|mănǝt;1SG.ACC;me;|mănem(a);1SG.DAT;to me;","In the N. Khanty nominal paradigm there are only NOM, LOC, LAT cases (e.g. χɔt ’house.NOM’, χɔt-a 'house-LAT', χɔt-ǝn 'house-LOC). Regarding personal pronouns, there are NOM, ACC, DAT cases."
-"UT079","Does the numeral modification of a noun have an effect on its case selection? ",0,"Mária Sipos","",""
-"UT080","Is the singular form of the noun also used with numerals bigger than 1?",1,"Mária Sipos","ij iki;one old.man;one old man|kăt pelǝk;two side;two sides;χǫʌǝm χǫ;three man;three men;",""
-"UT081","Is there a genitive case that has an affix?",0,"Mária Sipos","",""
-"UT082","Is there a dative case used to express indirect object/receiver/goal (different from a local case)?",0,"Mária Sipos","",""
-"UT083","Is there a terminative case?",0,"Mária Sipos","",""
-"UT084","Is there a separate case to indicate without what/who an action takes place / does not take place?",0,"Mária Sipos","",""
-"UT085","Is there a separate case to mark the motion along or by the referent of the noun (prolative)?",0,"Mária Sipos","",""
-"UT086","Is there a locative case that marks goal?",1,"Mária Sipos","χǫʌmit χɔt-a jŏχt-ǝs, …;third house-LAT arrive-PST.3SG;He arrived at the third house, …;Xomljak 2002: 66",""
-"UT087","Is there a locative case that marks location?",1,"Mária Sipos","jŏʌǝn nŏrij-n mŏʌti ɔmǝs-ʌ;inside bed-LOC something sit-PRS.3SG;Inside, something is sitting on the bed;Xomljak 2002: 76",""
-"UT088","Is there a locative case that marks source?",0,"Mária Sipos","",""
-"UT089","Is there case syncretism of goal and location marking?",0,"Mária Sipos","",""
-"UT090","Is there case syncretism of location and source marking?",0,"Mária Sipos","",""
-"UT091","Are there two sets of local cases?",0,"Mária Sipos","",""
-"UT092","Is there a third set of local cases?",0,"Mária Sipos","",""
-"UT093","Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?",0,"Mária Sipos","",""
-"UT094","Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Mária Sipos","",""
-"UT095","Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?",0,"Mária Sipos","",""
-"UT096","Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Mária Sipos","",""
-"UT097","Is there a separate morphological marker for expressing equative meaning?",0,"Mária Sipos","",""
-"UT098","Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?",0,"Mária Sipos","",""
-"UT099","Is there in addition to the basic declension a declension different from a possessive declension? ",0,"Mária Sipos","",""
-"UT100","Is it possible to use singular with paired body parts/clothing/accessories that accompany them?",1,"Mária Sipos","ʌŭw sɛm-ǝʌ-a ăn pit-ǝʌ, śi sɛŋk-ǝʌ;3SG eye-SG<3SG-LAT NEG fall-PRS.3SG PTL strike-PRS.3SG;Although he can’t see (it) (lit.: it doesn’t fall into his eye), keeps on striking;Khomljak 2002: 76
-",""
-"UT101","Can the marking of the possessor in the attributive construction vary?",0,"Mária Sipos","",""
-"UT102","Can the possessor in the attributive construction be marked with the nominative?",1,"Mária Sipos","ăŋkɛ-m aśi;mother-1SG father;my mother’s father;|tăťana ť imofejewna aśi;T.T. father;T.T’s father;Xomljak 2002: 72",""
-"UT103","Is non-singular possession marked in the possessive declension?",1,"Mária Sipos","xɔt-em;house-SG<1SG;my house| xɔt-ŋǝʌam;house-DU<1SG;my two houses;| xɔt-ʌam;house-PL<1SG;my houses;",""
-"UT104","Can 2Sg possessive suffix be used to mark definiteness? ",1,"Mária Sipos","tŭt-en nŏχ ăʌ-e!;fire-2SG PREV light-IMP.SG<2SG;Get the fire going!;Xomljak 2002: 76",""
-"UT105","Can 3Sg possessive suffix be used to mark definiteness? ",1,"Mária Sipos","kŭrk-ǝʌ pa iśi tăχe-ʌ-a śi măn-s;eagle-3SG in-turn similarly place-3SG-LAT PRT go-PST.3SG;Similarly, the eagle has gone to her own place;Xomljak 2002: 70",""
-"UT106","Is there animacy distinction in independent interrogative pronouns?",1,"Mária Sipos","χŏj;;who;|mŭj;;what;",""
-"UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Mária Sipos","",""
-"UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Mária Sipos","",""
-"UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?",0,"Mária Sipos","",""
-"UT110","Is the order of possessive suffix and case suffix across the paradigm the same?",1,"Mária Sipos","χɔp-em-ən;boat-1SG-LOC;in my boat;","stem + possessive suffix + case suffix"
-"UT111","Is the order of number and case suffixes fixed across the paradigm the same?",1,"Mária Sipos","pănt-ət-a;path-PL-LAT;to the paths|pŏχ-ʌaʌ-a;son-PL<3SG-LAT;to his sons;",""
-"UT112","Are there different words for mother’s brother and father’s brother?",1,"Mária Sipos","wǫrti;;younger brother of the mother;DEWOS 182|jaj;;younger brother of the father, elder than Ego;DEWOS 317|apśi;;younger brother of the father, younger than Ego;",""
-"UT113","Are there different words for younger and older relative for other relations than siblings?",1,"Mária Sipos","imi;;elder sister of the mother of Ego|nij;;younger sister of the mother of Ego;DEWOS 98, 982",""
-"UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?",1,"Mária Sipos","aj vs. pirəś;;young vs. old (+anim);| jiʌəp vs. katra;;new vs. old (–anim);",""
-"UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?",0,"Mária Sipos","",""
-"UT116","Is there contrastive length of consonants?",0,"Mária Sipos","",""
-"UT117","Is there contrastive length of vowels?",1,"Mária Sipos","wɔj ’animal’, wŏj ’fat, lard’","In the Kazym dialect, unlike in other North Khanty  dialects, not only the quantity, but also the quality of the corresponding vowels are different."
-"UT118","Is there contrast between short and long unstressed vowels?",0,"Mária Sipos","",""
-"UT119","Is there contrast in duration of geminate consonants?",0,"Mária Sipos","",""
-"UT120","Are there more than two phonological quantities? ",0,"Mária Sipos","",""
-"UT121","Are there extralong syllables? ",1,"Mária Sipos","katra [kaːtra] 'old', wǫnt [βɵːnt] 'forest'",""
-"UT122","Is the main foot structure trochaic?",1,"Mária Sipos","piri [ˈpi.riˑ] ’a kind of wild duck’",""
-"UT123","Is there lexically distinctive word stress?",0,"Mária Sipos","",""
-"UT124","Is there morphologically conditioned stress?",0,"Mária Sipos","",""
-"UT125","Is there fixed primary stress?",0,"Mária Sipos","",""
-"UT126","Is there stress in heavy syllables?",1,"Mária Sipos","păˈsan-ən table-LOC, wetˈraj-ət-ɑ bucket-PL-LAT, aˈnas-ət-a caravan.of.sledges-PL-LAT, păt'ʌam-a dark-LAT (Kaksin 2010: 36–37)",""
-"UT127","Is there non-initial primary stress?",0,"Mária Sipos","",""
-"UT128","Is there palatal vowel harmony?",0,"Mária Sipos","",""
-"UT129","Is there velar vowel harmony?",0,"Mária Sipos","",""
-"UT130","Is there labial vowel harmony? ",0,"Mária Sipos","",""
-"UT131","Are there rising diphthongs? ",0,"Mária Sipos","",""
-"UT132","Are there lowering diphthongs?",0,"Mária Sipos","",""
-"UT133","Is there qualitative contrast between subsets of short and long vowels?",1,"Mária Sipos","kŭr ’foot, leg’ vs. kǫr ’stove’","In the Kazym dialect, unlike in other North Khanty  dialects, not only the quantity, but also the quality of the corresponding vowels are different."
-"UT134","Are there full vs. reduced vowels as contrastive subsets? ",1,"Mária Sipos","",""
-"UT135","Is there front high rounded vowel ü [y]?",0,"Mária Sipos","",""
-"UT136","Is there front midhigh rounded vowel ö [ø]?",0,"Mária Sipos","",""
-"UT137","Is there back high unrounded vowel ï [ɯ]?",0,"Mária Sipos","",""
-"UT138","Is there back midhigh unrounded vowel ë [ɤ]?",0,"Mária Sipos","",""
-"UT139","Is there back low round vowel [ɒ]?",0,"Mária Sipos","",""
-"UT140","Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?",0,"Mária Sipos","","They are allophones, however, they are often differentiated in both the Cyrillic alphabet and in phonetic transcriptions."
-"UT141","Are there word-initial consonant clusters?",0,"Mária Sipos","",""
-"UT142","Are there word-internal consonant clusters in syllable onset?",0,"Mária Sipos","",""
-"UT143","Are there consonant clusters in syllable coda?",0,"Mária Sipos","",""
-"UT144","Are there clusters of three or more consonants in a word between vowels?",0,"Mária Sipos","",""
-"UT145","Are there word-final clusters of three or more consonants?",0,"Mária Sipos","",""
-"UT146","Are there palatalized dentals? ",0,"Mária Sipos","","ť is possible but rare"
-"UT147","Are there palatalized labials and velars? ",0,"Mária Sipos","",""
-"UT148","Is there palatal stop [c]?",0,"Mária Sipos","",""
-"UT149","Is there palatal nasal [ɲ]?",1,"Mária Sipos","ńar ’raw’, ńɔʌ ’arrow’",""
-"UT150"," Is there palatal lateral [ʎ]?",1,"Mária Sipos","ʌ̓awət- ’scold’, ʌ̓aʌ̓əs- ’make war’",""
-"UT151","Is there phonemic velar nasal [ŋ]?",1,"Mária Sipos","mŭŋ ’we’, jaŋ ’ten’","Word-initial ŋ is prohibited."
-"UT152","Is there dental affricate [t͡s]?",0,"Mária Sipos","",""
-"UT153","Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",0,"Mária Sipos","",""
-"UT154","Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?",1,"Mária Sipos","šaj 'tea’ vs. saj ’place behind something’","In the Kazym Khanty dialect there is a distinction between these two sibilants. However, it is not true of all the northern dialects. In the northernmost one (Obdorsk Khanty), there is no š."
-"UT155","Are there voiced plosives [b, g, d]?",0,"Mária Sipos","",""
-"UT156","Is there glottal stop [ˀ]?",0,"Mária Sipos","",""
-"UT157","Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?",0,"Mária Sipos","",""
-"UT158","Is there a constraint on word-initial r?",0,"Mária Sipos","",""
-"UT159","Is there laryngeal fricative [h]?",0,"Mária Sipos","",""
-"UT160","Is there voiced velar fricative [ɣ]?",0,"Mária Sipos","",""
-"UT161","Is there voiceless velar fricative [x]?",1,"Mária Sipos","χɔp 'boat'",""
-"UT162","Is there voiced dental fricative [ð]?",0,"Mária Sipos","",""
-"UT163","Is there phonemic labio-velar approximant [w]?",0,"Mária Sipos","",""
-"UT164","Is there voiceless labiodental fricative [f]?",0,"Mária Sipos","",""
-"UT165","Is there radical qualitative consonant gradation?",0,"Mária Sipos","",""
-"UT166","Is there quantitative consonant gradation?",0,"Mária Sipos","",""
+ID,Name,Kazym.Khanty,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Rédei 1968: 42[example1];HM-O-A 1958: 142[example2],"kăt weʌpəs-χǫ jăχa-wǫjtan-s-əŋən, …;two hunt-man together-meet-PST-3DU;Two hunters met;|păʌ-ŋəʌam, păʌ-ŋəʌam, mŭj wer-s-ətən?; ear-DU<1SG ear-DU<1SG what do-PST-2DU;My (two) ears, my (two) ears, what did you do?;",
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,Rédei 1968: 42,jak-χɔt-teʌ mir ńăχ-ʌ-ət;dance-house-full people.SG laugh-PRS-3PL;All the people in the house laughed;|ij kǫr’-n̥ kăt xǫ wǫs-ŋǝn;a village-LOC two man live.PST-3DU;There lived two men in a village;,
+UT003,Can finite verbs agree in number with the nominal object?,1,HM-A-O 1973: 114[example1];Rédei 1968: 84[example2],"ăs-śiśki wǫn̥ʌtǝ-ʌ-ʌe , aśeʌ-śiśki ʌawǝʌ-ʌ-ǝʌe;mother-bird teach-PRS-SG<3SG father-bird guard-PRS-SG<3SG;The mother bird teaches it, the father bird guards it;|tăm-pŭš nemasija ʌetŏt-ʌǝmǝn păsan-a xăj-ʌ-ǝʌʌam;this-time deliberately food-PL<31PL table-LAT leave-PRS-PL<1SG;This time I leave our food on the table deliberately;",In definite conjugation.
+UT004,Can an adnominal property word agree with the noun in case?,0,"Mária Sipos, p.c.",,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Mária Sipos, p.c.",,
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Mária Sipos, p.c.",,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Rédei 1968: 100,nawrǝmǝ-s nŭw χŭwat ʌaŋki;spring-PST.3SG branch along squirrel;A squirrel sprang along a branch;,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Xomljak 2002: 44[example1];Xomljak 2002: 58[example2];Xomljak 2002: 76[example3],"aśe-ʌ tăj-ǝm ʌăχǝr ʌŭweʌa mă-s, ...;father-3SG have-PTCP.PST armour 3SG.DAT give-PST.3SG;He gave him the armour that was owned by his father;|χǫ măn-ǝm χǫj-ǝŋ sŭŋ kăš-ti măn-ʌ-ǝm;man walk-PTCP.PST man-DER.ADJ corner look.for-INF go-PRS-1SG;I leave in order to look for a region inhabited by men;|mŭj ar χŏjat-n ɔms-ǝm χɔt-ew, mŏʌti wǫʌ ki, kim at măn-ǝʌ!;what many person-LOC sit-PTCP.PST house-1PL something be.PRS.3SG out IMP go-PRS.3SG;No matter by how many people our house has been inhabitated, if there is something (in it) let it go out!;
+",
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Mária Sipos, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Mária Sipos, p.c.",,
+UT011,Does object marking correlate with aspectuality? ,0,"Mária Sipos, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Mária Sipos, p.c.",,
+UT013,Is there differential subject marking?,0,"Mária Sipos, p.c.",,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Mária Sipos, p.c.",,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Mária Sipos, p.c.",,
+UT016,Is there a grammatical device for habituality?,0,"Mária Sipos, p.c.",,
+UT017,Is there a grammatical device for frequentative?,1,"Mária Sipos, p.c.",jăŋχ- : jăŋχijǝʌ-;;go : go frequently;,
+UT018,Is there a grammatical device for progressivity?,0,"Mária Sipos, p.c.",,
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Mária Sipos, p.c.","mănʌamǝn, wɔš-a ma măn-ʌ-ǝm; come.on town-LAT go-PRS-1SG;Come on, I will go to the town;",
+UT020,Is there a grammatical device for immediate future?,0,"Mária Sipos, p.c.",,
+UT021,Is there a grammatical device for pluperfect?,0,"Mária Sipos, p.c.",,
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Mária Sipos, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,0,"Mária Sipos, p.c.",,
+UT024,Is there grammatical marking of mirativity?,0,"Mária Sipos, p.c.",,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Mária Sipos, p.c.",,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,"Mária Sipos, p.c.",,
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,"Mária Sipos, p.c.",,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Mária Sipos, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,0,"Mária Sipos, p.c.",,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Mária Sipos, p.c.",,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,"Mária Sipos, p.c.",,
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Mária Sipos, p.c.",,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Mária Sipos, p.c.",,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Mária Sipos, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Mária Sipos, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Mária Sipos, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,"Honti 1984: 119, 136","mă-ʌ-ʌǝn;give-PRS-SG<2DU, give-PRS-SG<3DU, give-PRS-SG<2PL, give-PRS-DU/PL<2DU, give-PRS- DU/PL <3DU, give-PRS- DU/PL <2PL;;|χɔt-ǝn: house-SG<2DU, house-SG<3DU, house-SG<2PL;;|χɔt-ŋəʌǝn;house-DU<2DU, house-DU<3DU, house-DU<2PL;|χɔt-ʌǝn;house-PL<2DU, house-PL<3DU, house-PL<2PL;",
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Mária Sipos, p.c.",,
+UT039,Can third person plural verb forms be used for impersonal reference?,0,"Mária Sipos, p.c.",,
+UT040,Can second person singular verb forms be used in generic meaning?,0,"Mária Sipos, p.c.",,
+UT042,Are clauses with only infinitive predicates possible?,0,"Mária Sipos, p.c.",,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Xomljak 2002: 58,χǫ măn-ǝm χǫj-ǝŋ sŭŋ kăš-ti măn-ʌ-ǝm;man go-PTCP.PST man-DER.ADJ corner look.for-INF go-PRS-1SG;I go to look for a region inhabited by men;,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Solovar 2009: 242,pătʌǝ-s;become.dark-PST.3SG;It became dark;|jɛrtǝ-ʌ;be.raining-PRS.3SG;It is raining;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Mária Sipos, p.c.",,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Obatina – Prokina 1995: 105,aśe-ʌ wŭʌi ʌawǝʌ-ti χǫ wǫs;father-3SG reindeer guard-PTCP.PRS man be.PST.3SG;His father was a reindeer herder;,
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,Solovar 2009: 44,năŋ pɛše-n tăta;2SG reindeer-2SG here;Your reindeer is here;,"In certain cases, there is a copula: in nɛŋ-en mil nǫmn wǫʌ (DET woman-2SG cap on.top be.PRS.3SG) ’This woman’s cap is on top’."
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Mária Sipos, p.c.;Rédei 1968: 72[example1];Khomljak 2002: 20[example2]",aj mɔś neŋ-ije pa pŏr ne-le wǫʌ-ʌ-ǝŋǝn;little mɔś woman-DIM and little pŏr woman-DIM live-PRS-2DU;There lives a mɔś-woman and a little pŏr-woman;|ij χɔta jŏχt-s-ǝt pa χǫʌǝm nŏri tăj-ǝʌ;one house arrive-PST-3PL and three bed have-PRS.3SG;They arrived at a house and it has three beds;,"In traditional Khanty, coordinating conjunction is rare."
+UT049,Does existential negation have a separate operator?,1,Khomljak 2002: 54,ninan păʌtaptijǝʌ-ti ŏt-ǝn ŭše ăntǫm;2DU.ACC frighten-PTCP.PRS thing-2DU already NEG.EXIST;The thing that always frightened you doesn’t exist any longer;,
+UT050,Can standard negation be asymmetric in the present tense?,0,"Mária Sipos, p.c.",,
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,Steinitz 1989: 395,"mănem ăn mɔs-ti χŏjat ke jŏχt-ǝs, sej tăχtaŋ χăr-ǝʌ-a măṇš-aʌn̥;1SG.DAT NEG be.likeable-PTCP.PRS man if arrive-PST.3SG sand piece-DER.ADJ place-3PL-LAT tear-IMP.SG<2DU;If I don’t like the man who arrived, tear him into so small pieces like sand;",
+UT052,Is there a special negator that combines with non-finite forms?,0,,,
+UT053,Are there special negative non-finite forms?,0,"Mária Sipos, p.c.",,
+UT054,Is there an impersonal passive construction?,1,Rédei 1968: 36,ij at-ǝŋ χătǝʌ măr sŏrm-a jŭw-ǝm χŏjat jŏʌǝn tăj-ʌ-a;one night-DER.ADJ day time death-LAT become-PTCP.PST person at.home have-PRS-PASS.3SG;The dead body is kept at home for a whole day;,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,"Mária Sipos, p.c.",,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Mária Sipos, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Mária Sipos, p.c.",,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Mária Sipos, p.c.",,
+UT059,Is there a future participle?,0,"Mária Sipos, p.c.",,
+UT060,Are there participles that can encode their subject by possessive suffixes?,1,Rédei 1968: 50,"škola-ja jŏχǝt-m-em-ǝn ńawrem-ǝt jŏχǝt-ti pit-ʌ-ǝt;school-LAT arrive-PTCP.PST-1SG-LOC child-PL arrive-INF start-PRS-PL;After I arrive at scool, children (also) start to arrive;",
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,Xomljak 2002: 46,a ʌŭw χǫʌmit ŭw-m-aʌ-n…;but 3SG third cry-PTCP.PST-3SG-LOC;But when he cried for the third time…;,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Mária Sipos, p.c.",,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Rédei 1968: 36,"χănneχǫ sŏrm-a ji-ti jŭpijǝn…; person death-LAT become-PTCP.PRS after;after the person died, …;|... ăʌmǝnti-ki sŏrm-a ji-ti xănnexǫ pa tǫrǝm-ǝn wǫʌ-ti pit-ǝʌ;as-if death-LAT become-PTCP.PRS person other heaven-LOC live-INF start-PRS.3SG;...as if the dying person went to live in another world;",
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,"Mária Sipos, p.c.",,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Mária Sipos, p.c.",,
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,Steinitz 1989: 392,"aj mɔś-xu, mănem jiŋk tŭw-a!;little mɔś man 1SG.DAT water bring-IMP.2SG;Little mɔś man, bring me water!;",
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,0,Steinitz 1989: 479,,"Usually the negative marker and the main verb are not separated, e.g. ʌapǝtmit săχ-ǝʌ aʌ ɛŋχ-e, …! (seventh fur.coat-3SG NEG.IMP take.on-SG<2SG) ’Don’t take on his seventh fur coat!’."
+UT068,Are there preverbs?,1,Rédei 1968: 42,nŏχ pit-ǝs šăš-kišǝŋ iki;up fall-PST.3SG back-hunched old.man;It is the hunchbacked old man that won (lit. fell up);,
+UT069,Are there verbal prefixes?,0,"Mária Sipos, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Mária Sipos, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,0,"Mária Sipos, p.c.",,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,"Mária Sipos, p.c.",,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Xomljak 2002: 70,"ńawrɛm-ʌaʌ isa sɔrm-ǝt, isa jăm-ǝt;child-PL<3SG all dry-PL all good-PL;Her children are all dry, they are all well;",
+UT074,Is it possible to form synthetic superlative?,0,"Mária Sipos, p.c.",,
+UT075,Can adpositions have person/number marking?,1,Xomljak 2002: 52,min năŋ χŏśe-n-a măn-ʌ-amǝn;1DU 2SG to-2SG-LAT go-PRS-1DU;We (dual) will go to you;,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",0,"Mária Sipos, p.c.",,"In the North Khanty nominal paradigm there are only NOM, LOC, LAT cases. Source is expressed with the postposition ewǝʌt 'from', e.g. cf. ŏsǝm iʌpijn 'inside the pillow', ŏsǝm iʌpija 'into the pillow' and ŏsǝm iʌpi ewǝʌt 'from the pillow'."
+UT077,Is case compounding possible?,0,"Mária Sipos, p.c.",,
+UT078,Are there case categories only found in pronouns?,1,"Mária Sipos, p.c.",ma;1SG.NOM;I|mănǝt;1SG.ACC;me;|mănem(a);1SG.DAT;to me;,"In the North Khanty nominal paradigm there are only NOM, LOC, LAT cases (e.g. χɔt ’house.NOM’, χɔt-a 'house-LAT', χɔt-ǝn 'house-LOC). Regarding personal pronouns, there are NOM, ACC, DAT cases."
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,"Mária Sipos, p.c.",,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Mária Sipos, p.c.",ij iki;one old.man;one old man|kăt pelǝk;two side;two sides|;χǫʌǝm χǫ;three man;three men;,
+UT081,Is there a genitive case that has an affix?,0,"Mária Sipos, p.c.",,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Mária Sipos, p.c.",,
+UT083,Is there a terminative case?,0,"Mária Sipos, p.c.",,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,"Mária Sipos, p.c.",,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Mária Sipos, p.c.",,
+UT086,Is there a locative case that marks goal?,1,Xomljak 2002: 66,χǫʌmit χɔt-a jŏχt-ǝs;third house-LAT arrive-PST.3SG;he arrived at the third house;,
+UT087,Is there a locative case that marks location?,1,Xomljak 2002: 76,"jŏʌǝn nŏrij-n mŏʌti ɔmǝs-ʌ;inside bed-LOC something sit-PRS.3SG;Inside, something is sitting on the bed;",
+UT088,Is there a locative case that marks source?,0,"Mária Sipos, p.c.",,
+UT089,Is there case syncretism of goal and location marking?,0,"Mária Sipos, p.c.",,
+UT090,Is there case syncretism of location and source marking?,0,"Mária Sipos, p.c.",,
+UT091,Are there two sets of local cases?,0,"Mária Sipos, p.c.",,
+UT092,Is there a third set of local cases?,0,"Mária Sipos, p.c.",,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,0,"Mária Sipos, p.c.",,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Mária Sipos, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,"Mária Sipos, p.c.",,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Mária Sipos, p.c.",,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Mária Sipos, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Mária Sipos, p.c.",,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Mária Sipos, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,1,Xomljak 2002: 76,"ʌŭw sɛm-ǝʌ-a ăn pit-ǝʌ, śi sɛŋk-ǝʌ;3SG eye-SG<3SG-LAT NEG fall-PRS.3SG PTL strike-PRS.3SG;Although he can’t see (it) (lit.: it doesn’t fall into his eye), he keeps on striking;",
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Mária Sipos, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,1,Xomljak 2002: 72,ăŋkɛ-m aśi;mother-1SG father;my mother’s father;|tăťana ť imofejewna aśi;T.T. father;T.T’s father;,
+UT103,Is non-singular possession marked in the possessive declension?,1,"Mária Sipos, p.c.",xɔt-em;house-SG<1SG;my house;|xɔt-ŋǝʌam;house-DU<1SG;my two houses;|xɔt-ʌam;house-PL<1SG;my houses;,
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,1,Xomljak 2002: 76,tŭt-en nŏχ ăʌ-e!;fire-2SG PREV light-IMP.SG<2SG;Get the fire going!;,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,1,Xomljak 2002: 70,"kŭrk-ǝʌ pa iśi tăχe-ʌ-a śi măn-s;eagle-3SG in-turn similarly place-3SG-LAT PRT go-PST.3SG;Similarly, the eagle has gone to her own place;",
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Mária Sipos, p.c.",χŏj;;who;|mŭj;;what;,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Mária Sipos, p.c.",,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Mária Sipos, p.c.",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,0,"Mária Sipos, p.c.",,
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,"Mária Sipos, p.c.",χɔp-em-ən;boat-1SG-LOC;in my boat;,stem + possessive suffix + case suffix
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Mária Sipos, p.c.",pănt-ət-a;path-PL-LAT;to the paths|pŏχ-ʌaʌ-a;son-PL<3SG-LAT;to his sons;,
+UT112,Are there different words for mother’s brother and father’s brother?,1,"DEWOS 182, 317","wǫrti;;younger brother of the mother;|jaj;;younger brother of the father, elder than Ego;|apśi;;younger brother of the father, younger than Ego;",
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,"DEWOS 98, 982",imi;;elder sister of the mother of Ego;|nij;;younger sister of the mother of Ego;,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Mária Sipos, p.c.",aj : pirəś;;young : old (+anim);|jiʌəp : katra;;new vs. old (–anim);,
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Mária Sipos, p.c.",,
+UT116,Is there contrastive length of consonants?,0,"Mária Sipos, p.c.",,
+UT117,Is there contrastive length of vowels?,1,"Mária Sipos, p.c.","wɔj ’animal’, wŏj ’fat, lard’","In the Kazym dialect, unlike in other North Khanty  dialects, not only the quantity, but also the quality of the corresponding vowels are different."
+UT118,Is there contrast between short and long unstressed vowels?,0,"Mária Sipos, p.c.",,
+UT119,Is there contrast in duration of geminate consonants?,0,"Mária Sipos, p.c.",,
+UT120,Are there more than two phonological quantities? ,0,"Mária Sipos, p.c.",,
+UT121,Are there extralong syllables? ,1,"Mária Sipos, p.c.","katra [kaːtra] 'old', wǫnt [βɵːnt] 'forest'",
+UT122,Is the main foot structure trochaic?,1,"Mária Sipos, p.c.",piri [ˈpi.riˑ] ’a kind of wild duck’,
+UT123,Is there lexically distinctive word stress?,0,"Mária Sipos, p.c.",,
+UT124,Is there morphologically conditioned stress?,0,"Mária Sipos, p.c.",,
+UT125,Is there fixed primary stress?,0,"Mária Sipos, p.c.",,
+UT126,Is there stress in heavy syllables?,1,Kaksin 2010: 36–37,"păˈsan-ən table-LOC, wetˈraj-ət-ɑ bucket-PL-LAT, aˈnas-ət-a caravan.of.sledges-PL-LAT, păt'ʌam-a dark-LAT",
+UT127,Is there non-initial primary stress?,0,"Mária Sipos, p.c.",,
+UT128,Is there palatal vowel harmony?,0,"Mária Sipos, p.c.",,
+UT129,Is there velar vowel harmony?,0,"Mária Sipos, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Mária Sipos, p.c.",,
+UT131,Are there rising diphthongs? ,0,"Mária Sipos, p.c.",,
+UT132,Are there lowering diphthongs?,0,"Mária Sipos, p.c.",,
+UT133,Is there qualitative contrast between subsets of short and long vowels?,1,"Mária Sipos, p.c.","kŭr ’foot, leg’ vs. kǫr ’stove’","In the Kazym dialect, unlike in other North Khanty dialects, not only the quantity, but also the quality of the corresponding vowels are different."
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,1,"Mária Sipos, p.c.",,
+UT135,Is there front high rounded vowel ü [y]?,0,"Mária Sipos, p.c.",,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Mária Sipos, p.c.",,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Mária Sipos, p.c.",,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Mária Sipos, p.c.",,
+UT139,Is there back low round vowel [ɒ]?,0,"Mária Sipos, p.c.",,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,"Mária Sipos, p.c.",,"They are allophones, however, they are often differentiated in both the Cyrillic alphabet and in phonetic transcriptions."
+UT141,Are there word-initial consonant clusters?,0,"Mária Sipos, p.c.",,
+UT142,Are there word-internal consonant clusters in syllable onset?,0,"Mária Sipos, p.c.",,
+UT143,Are there consonant clusters in syllable coda?,0,"Mária Sipos, p.c.",,
+UT144,Are there clusters of three or more consonants in a word between vowels?,0,"Mária Sipos, p.c.",,
+UT145,Are there word-final clusters of three or more consonants?,0,"Mária Sipos, p.c.",,
+UT146,Are there palatalized dentals? ,0,"Mária Sipos, p.c.",,ť is possible but rare
+UT147,Are there palatalized labials and velars? ,0,"Mária Sipos, p.c.",,
+UT148,Is there palatal stop [c]?,0,"Mária Sipos, p.c.",,
+UT149,Is there palatal nasal [ɲ]?,1,"Mária Sipos, p.c.","ńar ’raw’, ńɔʌ ’arrow’",
+UT150, Is there palatal lateral [ʎ]?,1,"Mária Sipos, p.c.","ʌ̓awət- ’scold’, ʌ̓aʌ̓əs- ’make war’",
+UT151,Is there phonemic velar nasal [ŋ]?,1,"Mária Sipos, p.c.","mŭŋ ’we’, jaŋ ’ten’",Word-initial ŋ is prohibited.
+UT152,Is there dental affricate [t͡s]?,0,"Mária Sipos, p.c.",,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",0,"Mária Sipos, p.c.",,
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Mária Sipos, p.c.",šaj ’tea’ vs. saj ’place behind something’,"In the Kazym Khanty dialect there is a distinction between these two sibilants. However, it is not true of all the northern dialects. In the northernmost one (Obdorsk Khanty), there is no š."
+UT155,"Are there voiced plosives [b, g, d]?",0,"Mária Sipos, p.c.",,
+UT156,Is there glottal stop [ˀ]?,0,"Mária Sipos, p.c.",,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Mária Sipos, p.c.",,
+UT158,Is there a constraint on word-initial r?,0,"Mária Sipos, p.c.",,
+UT159,Is there laryngeal fricative [h]?,0,"Mária Sipos, p.c.",,
+UT160,Is there voiced velar fricative [ɣ]?,0,"Mária Sipos, p.c.",,
+UT161,Is there voiceless velar fricative [x]?,1,"Mária Sipos, p.c.",χɔp 'boat',
+UT162,Is there voiced dental fricative [ð]?,0,"Mária Sipos, p.c.",,
+UT163,Is there phonemic labio-velar approximant [w]?,0,"Mária Sipos, p.c.",,
+UT164,Is there voiceless labiodental fricative [f]?,0,"Mária Sipos, p.c.",,
+UT165,Is there radical qualitative consonant gradation?,0,"Mária Sipos, p.c.",,
+UT166,Is there quantitative consonant gradation?,0,"Mária Sipos, p.c.",,
