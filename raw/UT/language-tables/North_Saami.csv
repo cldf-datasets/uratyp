@@ -106,7 +106,7 @@ jorgalan translate-AG.PTCP >< jorgaleapmi translate-AN, but jorgalan- in, e.g., 
 "UT103","Is non-singular possession marked in the possessive declension?","1","Jussi Ylikoski","vielljasan;brother.ILL.1SG;to my borther;|vieljaidasan; brother.PL.ILL.1SG;to my brothers;","However, in most spoken varieties possessive forms are very marginal and even quite foreign to many speakers."
 "UT104","Can 2Sg possessive suffix be used to mark definiteness? ","0","Jussi Ylikoski","",""
 "UT105","Can 3Sg possessive suffix be used to mark definiteness? ","0","Jussi Ylikoski","",""
-"UT106","Is there animacy distinction in independent interrogative pronouns?","1","Jussi Ylikoski","gii;;who;|mii;;what;;",""
+"UT106","Is there animacy distinction in independent interrogative pronouns?","1","Jussi Ylikoski","gii;;who;|mii;;what;",""
 "UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?","0","Jussi Ylikoski","",""
 "UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?","0","Jussi Ylikoski","",""
 "UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?","1","Jussi Ylikoski","Son/Dat lea mu skibir;3SG/it be.3SG 1SG.GENACC friend;S/he/it is my friend;",""

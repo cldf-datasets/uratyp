@@ -12,6 +12,7 @@ setup(
         ]
     },
     install_requires=[
+        'clldutils>=3.10.1',
         'cldfbench',
     ],
     extras_require={

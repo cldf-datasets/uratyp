@@ -92,7 +92,7 @@ UT089,Is there case syncretism of goal and location marking?,1,"Nikolay Kuznetso
 UT090,Is there case syncretism of location and source marking?,0,"Nikolay Kuznetsov, p.c.",,
 UT091,Are there two sets of local cases?,1,"Nikolay Kuznetsov, p.c.",керкаö;[kerkɑ-ɘ];house-ILL;into a house;|керкаын;[kerkɑ-ɨn];house-INE;in a house;|керкаысь;[kerkɑ-ɨɕ];house-ELA;from a house;|керкаланьö;[kerkɑ-lɑɲɘ];house-APPR.ILL;to the direction of house;|керкаланьын;[kerkɑ-lɑɲɨn];house-APPR.INE;in the area of the house;|керкаланьысь;[kerkɑ-lɑɲɨɕ];house-APPR.ELA;from the direction of the house;,
 UT092,Is there a third set of local cases?,0,"Nikolay Kuznetsov, p.c.",,"There are only cases, which do not form a set."
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Nikolay Kuznetsov, p.c.",паньöн;[pɑɲ-ɘn spoon-INS];with a spoon;|кагакöд;[kɑgɑ-kɘd];child-COM;with a child;,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Nikolay Kuznetsov, p.c.",паньöн [pɑɲ-ɘn];spoon-INS;with a spoon;|кагакöд [kɑgɑ-kɘd];child-COM;with a child;,
 UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",1,"Nikolay Kuznetsov, p.c.",мамыдкöд;[mɑm-ɨd-kɘd];mother-POSS.2SG-COM;with your mother;,
 UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,"Nikolay Kuznetsov, p.c.",,"Either the instrumental or nominative case is used.
 "
@@ -115,7 +115,7 @@ UT111,Is the order of number and case suffixes fixed across the paradigm the sam
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Nikolay Kuznetsov, p.c.",чож;[t͡ɕoʒ];;mother’s brother;|унай;[unɑj];;father’s brother;,
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Nikolay Kuznetsov, p.c.",унiнь;[uniɲ];;mother’s older sister;|об;[ob];;father’s older sister;|унай;[unɑj];;father’s older brother;,
 UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Nikolay Kuznetsov, p.c.",том : пöрысь;[tom] : [pɘrɨɕ];young : old (animate);|выль : важ [vɨʎ] : [vɑʒ];new : old (inanimate);,
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,1,"Nikolay Kuznetsov, p.c.","пöсь : кöдзыд;;hot (object) : cold (object, can also be used about weather);|жар : ыркыд;warm (weather) : cool (weather, cannot be used to describe an object);",
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,1,"Nikolay Kuznetsov, p.c.","пöсь : кöдзыд;;hot (object) : cold (object, can also be used about weather);|жар : ыркыд;;warm (weather) : cool (weather, cannot be used to describe an object);",
 UT116,Is there contrastive length of consonants?,0,"Nikolay Kuznetsov, p.c.",,
 UT117,Is there contrastive length of vowels?,0,"Nikolay Kuznetsov, p.c.",,
 UT118,Is there contrast between short and long unstressed vowels?,0,"Nikolay Kuznetsov, p.c.",,
