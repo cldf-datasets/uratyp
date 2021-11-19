@@ -253,8 +253,6 @@ class Dataset(BaseDataset):
             lang['ISO639P3code'] = lang.pop('ISO.639.3')
             lang['Source'] = refs.get(lang['Name'], [])
             del lang['citations']
-            if lang['Name'] not in ['Finnish', 'Kazym_Khanty', 'Komi_Zyrian', 'Lule_Saami']:
-                continue
             args.writer.objects['LanguageTable'].append(lang)
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
@@ -283,8 +281,6 @@ class Dataset(BaseDataset):
                     ))
 
             for row in read(self.raw_dir / sd / 'Finaldata.csv'):
-                if row['language'] not in lmap:
-                    continue
                 for k in row:
                     if k in ['language', 'subfam']:
                         continue
@@ -300,6 +296,11 @@ class Dataset(BaseDataset):
                         #assert row[k] != '1' or d['Example'], str(d)
                         for ex in examples[row['language'], k]:
                             pt, analyzed, gloss, translation, comment = ex
+                            if (not pt) and analyzed:
+                                pt = ''.join(analyzed) if isinstance(analyzed, list) else analyzed
+                            if not pt:
+                                print(ex)
+                                continue
                             eid += 1
                             args.writer.objects['ExampleTable'].append(dict(
                                 ID=str(eid),

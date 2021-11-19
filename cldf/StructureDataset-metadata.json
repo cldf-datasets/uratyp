@@ -16,13 +16,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-40-g4f654ef",
+            "dc:created": "v0.2-41-g1e918d9",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-44-g5ba76ef569",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
@@ -44,7 +44,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 1245,
+            "dc:extent": 10898,
             "tableSchema": {
                 "columns": [
                     {
@@ -160,7 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 4,
+            "dc:extent": 35,
             "tableSchema": {
                 "columns": [
                     {
@@ -301,7 +301,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 344,
+            "dc:extent": 2848,
             "tableSchema": {
                 "columns": [
                     {
