@@ -1,10 +1,10 @@
 # Uralic Typological (UraTyp) datasets
 
-The UraTyp datasets include information on 360 features spanning the domains of morphology, syntax, phonology, and lexicon collected from all the branches of the Uralic languages. 195 out of 360 features were collected using the Grambank (GB) list of features, which was developed by the Grambank team to collect data from about half of the world’s languages (https://glottobank.org/). The remaining 165 features (i.e. the UT list of features)were developed by the author team of the UraTyp database to further explore the variation within the Uralic language family. The interactive database built on these datasets is available at https://uralic.clld.org.
+The UraTyp datasets include information on 360 features spanning the domains of morphology, syntax, phonology, and lexicon collected from all the branches of the Uralic languages. 195 out of 360 features were collected using the Grambank (GB) list of features, which was developed by the Grambank team to collect data from about half of the world’s languages (https://glottobank.org/). The remaining 165 features (i.e. the UT list of features) were developed by the author team of the UraTyp database to further explore the variation within the Uralic language family. The interactive database built on these datasets is available at https://uralic.clld.org.
 
 ## How to cite UraTyp datasets
 
-> Miina Norvik, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen and Outi Vesakoski: Uralic typology in the light of new comprehensive data sets (submitted ms to Journal of Uralic Linguistics)
+> Norvik, Miina, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen, & Outi Vesakoski: Uralic typology in the light of new comprehensive data sets (submitted ms to Journal of Uralic Linguistics)
 
 # Overview
 
