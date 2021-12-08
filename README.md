@@ -93,9 +93,13 @@ This folder contains files that constitute the GB part of the UraTyp.
 
 2. `Finaldata.csv`
 
+### `gb.csv`
+
 ### `Languages.csv`
 
 This file contains information on the languages from where the data was collected using the UT questionnaire and/or GB questionnaire. The table includes the names of the languages, their subfamilies, Glottocodedes, ISO language codes, latitudes and longitudes. 
+
+### `Sources.bib`
 
 # Funders and supporters
 Kipot ja kielet (‘Pots and languages’) project, funded by the University of Turku (2018–2020); the URKO (Uralilainen Kolmio = ‘Uralic Triangle’) project, funded by the Academy of Finland (2020–2022); The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
