@@ -52,7 +52,7 @@ ID|Subgroup|Language|UT|Language expert(s)|GB|Language expert(s)
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
 ||||33||30|
 
-Majority of the 360 features are formed as binary questions designed to be answered with “yes, this function/feature is present in the language” or “no, this function/feature is not present in the language”; some features in the GB dataset also allow for three options. The tables contain the following values: 0, 1, 2 (only in the case of three options), ?, and N/A.
+Majority of the 360 features are formed as binary questions designed to be answered with “yes, this function/feature is present in the language” or “no, this function/feature is not present in the language”; some features in the GB dataset also allow for three options. The tables contain the following values: 0, 1 (in the case of multistate: 1, 2, 3), ?, and N/A.
 
 In order to ensure consistency while coding, each feature was provided with a general description and a comment about what was considered when coding a particular feature. For instance, as regards foreign influence there are comments saying that very recent foreign influence should not be considered. This and other kind of additional information can be find in the `doc` folder and it is aso included in the interactive database available at https://uralic.clld.org/. 
 
