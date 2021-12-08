@@ -61,7 +61,7 @@ Any grammar or data source  inherently also reflects a certain linguistic variet
 The UT datasets also include examples whenever a feature was coded as 1 'yes, present'. The examples were usually added by the language expert, or by the coder and afterwards checked with the language expert. The examples originate from various kinds of sources: grammar books or sketches, language corpora, research articles, text collections; in the case the language expert was a native speaker, constructed examples were also allowed. Examples illustrating morphological or syntactic features come with glosses, while phonological characteristics are provided using the International Phonetic Alphabet. 
 
 # Contents
-The raw version of the dataset (found in the **`raw`** folder of the repository) is organized into folders and tables; the data structure is described below in detail. All tables are provided as separate CSV (comma-separated values) files.
+The raw version of the dataset (found in the **`raw`** folder of the repository) is organized into folders and tables; the data structure is described in detail below. All tables are provided as CSV (comma-separated values) files.
 
 ### `UT`
 
