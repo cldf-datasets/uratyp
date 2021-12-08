@@ -67,12 +67,12 @@ The raw version of the dataset (found in the **`raw`** folder of the repository)
 
 This folder contains files that constitute the UT part of the UraTyp.<br/>
 1. `Features.csv`<br/> 
-Includes features, i.e. questions used to collect the UT data; the first column also provides the feature ID. The last column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed.<br/>
+Includes features, i.e. questions used to collect the UT data. The first column provides the feature ID, the second one includes the feature, and the third column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed.<br/>
 
 Detailed descriptions of features can be found in the `doc` folder. Each description also contains information on what was considered when coding the respective feature.
 
 2. `Finaldata.csv`<br/>
-Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID). 
+Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID).
 
 3. `language_tables`<br/>
 This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
@@ -83,7 +83,7 @@ This folder contains a separate table for each language from where the data was 
 (v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
 (vi) a `comment` whenever necessary.
 
-The literary sources used to fill out the language tables are included in the BibTeX file `UT_sources.bib`. Whenever the information as regards the answer, example, and a comment came from the language expert, the name of the expert is represented in source column. The list of people who acted as language experts can be obtained from the file `Contributors.md`.
+The literary sources used to answer the UT questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.
 
 ### `GB`
 
