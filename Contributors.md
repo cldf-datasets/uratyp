@@ -17,7 +17,7 @@ ID|Subgroup|Langauge|UT|Language expert|GB|Language expert
 15|Saami|Ume Saami|||✔|(grambank team)
 16|Saami|North Saami (Norwegian)|✔|Jussi Ylikoski, Katri Hiovain-Asikainen||
 17|Saami|Inari Saami|✔|Petter Morottaja, Helen Türk||
-18|Saami|Skolt Saami|✔|Markus Juutinen, Miika Lehtinen|✔|
+18|Saami|Skolt Saami|✔|Markus Juutinen, Miika Lehtinen|✔|(grambank team)
 19|Saami|South Saami|✔|Richard Kowalik|✔|Richard Kowalik
 20|Saami|Pite Saami|✔|Joshua Wilbur|✔|Joshua Wilbur
 21|Saami|Lule Saami|✔|Olle Kejonen|✔|Olle Kejonen
