@@ -35,4 +35,4 @@ ID|Subgroup|Langauge|UT|Language expert|GB|Language expert
 33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari
 34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
-||||33||30|
+
