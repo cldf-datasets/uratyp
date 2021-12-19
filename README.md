@@ -93,7 +93,7 @@ Includes features used to collect the GB data.
 Presents all the data collected using the GB questionnaire as one table. 
 
 3. `language_tables`<br/>
-This folder contains a separate tables for each language coded with the GB questionnaire. The organiszation of the information in the tables is similar to that of the UT tables described above: (i) `ID`, (ii) `Feature`, (iii) `Value`, (iv) `Source`, (v) `Comment`.
+This folder contains a separate tables for each language coded with the GB questionnaire. The organiszation of the information in the tables is similar to that of the UT tables described above: (i) `ID`, (ii) `Feature`, (iii) `Value`, (iv) `Comment`.
 
 ### `gb.csv`
 
