@@ -74,13 +74,12 @@ Presents all the data collected using the UT questionnaire in one table. It incl
 
 3. `language_tables`<br/>
 This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
-(i) the `ID` of the feature<br/>
-(ii) the `name`of the feature<br/> 
-(iii) the answer, i.e. value represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
-(iv) the `source` of information<br/>
-> The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert. <br/>
-(v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
-(vi) a `comment` whenever necessary.
+(i) `ID` of the feature<br/>
+(ii) `name`of the feature<br/> 
+(iii) value, i.e. the answer represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
+(iv) `source` of information. The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.<br/>
+(v) `example` whenever the answer is 1 'yes'. The examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet.<br/>
+(vi) `comment` whenever necessary.
 
 
 ### `GB`
