@@ -84,7 +84,7 @@ This folder contains a separate table for each language from where the data was 
 
 ### `GB`
 
-This folder contains files that constitute the GB part of the UraTyp.
+This folder includes the GB part of the UraTyp, i.e. the data that was collected using the GB questionnaire.
 
 1. `Features.csv`
 
@@ -103,7 +103,7 @@ This file contains information on the languages from where the data was collecte
 This file includes the literary sources used to code the answers and provide examples.   
 
 # Funders and supporters
-SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by Kone Foundation for Outi Vesakoski and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo and Harri Tolvanen; The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
+SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by Kone Foundation for Outi Vesakoski and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo and Harri Tolvanen; The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–).
 
 # Terms of use
 
