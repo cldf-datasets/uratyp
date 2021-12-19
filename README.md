@@ -78,10 +78,10 @@ This folder contains a separate table for each language from where the data was 
 (ii) the `name`of the feature<br/> 
 (iii) the answer, i.e. value represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
 (iv) the `source` of information<br/>
+> The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert. <br/>
 (v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
 (vi) a `comment` whenever necessary.
 
-The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.
 
 ### `GB`
 
