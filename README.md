@@ -84,22 +84,16 @@ This folder contains a separate table for each language from where the data was 
 
 ### `GB`
 
-This folder includes the GB part of the UraTyp, i.e. the data collected with the GB questionnaire. 
+This folder includes the data collected with the GB questionnaire. 
 
 1. `Features.csv`<br/>
-Includes features, i.e. questions used to collect the GB data. 
+Includes features used to collect the GB data. 
 
 2. `Finaldata.csv`<br/>
-Presents all the data collected using the GB questionnaire in one table. 
+Presents all the data collected using the GB questionnaire as one table. 
 
 3. `language_tables`<br/>
-This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
-(i) `ID` of the feature<br/>
-(ii) `Feature`of the feature<br/> 
-(iii) Value for a particular language, i.e. the answer represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
-(iv) `Source` of information. The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.<br/>
-(v) `Example` whenever the answer is 1 'yes'. The examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet.<br/>
-(vi) `Comment` whenever necessary.
+This folder contains a separate tables for each language coded with the GB questionnaire. The organiszation of the information in the tables is similar to that of the UT tables described above: (i) `ID`, (ii) `Feature`, (iii) `Value`, (iv) `Source`, (v) `Comment`.
 
 ### `gb.csv`
 
