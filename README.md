@@ -67,12 +67,10 @@ The raw version of the dataset (found in the **`raw`** folder of the repository)
 
 This folder contains files that constitute the UT part of the UraTyp.<br/>
 1. `Features.csv`<br/> 
-Includes features, i.e. questions used to collect the UT data. The first column provides the feature ID, the second one includes the feature, and the third column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed.<br/>
-
-Detailed descriptions of features can be found in the `doc` folder. Each description also contains information on what was considered when coding the respective feature.
+Includes features, i.e. questions used to collect the UT data. The first column provides the feature ID, the second one includes the feature, and the third column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature can be subsumed. Detailed descriptions of features can be found in the `doc` folder. Each description also contains information on what was considered when coding the respective feature.
 
 2. `Finaldata.csv`<br/>
-Presents all the data collected using the UT questionnaire in one table. It includes the information on languages, their subfamilies, and the values (answers) for each feature (represented only by question ID).
+Presents all the data collected using the UT questionnaire in one table. It includes the names of the languages, their subfamilies, and the values (answers) for each feature (represented only by question ID).
 
 3. `language_tables`<br/>
 This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
@@ -83,7 +81,7 @@ This folder contains a separate table for each language from where the data was 
 (v) an `example` whenever the answer is 1 'yes'; the examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet<br/>
 (vi) a `comment` whenever necessary.
 
-The literary sources used to answer the UT questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.
+The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.
 
 ### `GB`
 
@@ -92,6 +90,8 @@ This folder contains files that constitute the GB part of the UraTyp.
 1. `Features.csv`
 
 2. `Finaldata.csv`
+3. `language_tables`
+
 
 ### `gb.csv`
 
@@ -101,8 +101,10 @@ This file contains information on the languages from where the data was collecte
 
 ### `sources.bib`
 
+This file includes the literary sources used to code the answers and provide examples.   
+
 # Funders and supporters
-SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by Kone Foundation for OV and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo and HArri Tolvanen; The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
+SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by Kone Foundation for Outi Vesakoski and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo and Harri Tolvanen; The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–)
 
 # Terms of use
 
