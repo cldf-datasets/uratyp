@@ -58,7 +58,7 @@ In order to ensure consistency while coding, each feature was provided with a ge
 
 Any grammar or data source  inherently reflects a certain linguistic variety, including with respect to time/a chronolect. In the case of modern standard languages, the goal was to code the standard varierty but if something was very prominent in the spoken language, this was also considered. As regards Uralic languages that are not in active every-day use anymore (e.g. Ingrian), have gone extinct (e.g. Kamas) or have no literary standard but exist in the form of several dialects (e.g. Ludian), we chose one particular language variety and considered what is/was characteristic or more widely spread in it. In some instances, this meant coding the language of the mid-20th century. 
 
-The UT datasets also include examples whenever a feature was coded as 1 'yes'. The examples were usually added by the language expert, or by the coder and afterwards checked with the language expert. The examples originate from various kinds of sources: grammar books or sketches, language corpora, research articles, text collections; in the case the language expert was a native speaker, constructed examples were also allowed. Examples illustrating morphological or syntactic features come with glosses, while phonological characteristics are represented using the International Phonetic Alphabet. 
+The UT datasets also include examples whenever a feature was coded as 1 'yes, present'. The examples were usually added by the language expert, or by the coder and afterwards checked with the language expert. The examples originate from various kinds of sources: grammar books or sketches, language corpora, research articles, text collections; in the case the language expert was a native speaker, constructed examples were also allowed. Examples illustrating morphological or syntactic features come with glosses, while phonological characteristics are represented using the International Phonetic Alphabet. 
 
 # Contents
 The raw version of the dataset (found in the **`raw`** folder of the repository) is organized into folders and tables; the data structure is described in detail below. All tables are provided as CSV (comma-separated values) files.
@@ -76,9 +76,9 @@ Presents all the data collected using the UT questionnaire in one table. It incl
 This folder contains a separate table for each language from where the data was collected. The information in the tables is organized as follows:<br/>
 (i) `ID` of the feature<br/>
 (ii) `Name`of the feature<br/> 
-(iii) Value for a particular language, i.e. the answer represented as 1 'yes', 0 'no', ? 'no information', or N/A 'not applicable'<br/>
+(iii) Value for a particular language, i.e. the answer represented as 1 'yes, present', 0 'no, absent', ? 'no information', or N/A 'not applicable'<br/>
 (iv) `Source` of information. The literary sources used to answer the questionnaire are included in the BibTeX file `sources.bib`. Whenever the information as regards the value (1 or 0), example, or a comment came from the language expert, the source column contains the name of the language expert.<br/>
-(v) `Example` is given whenever the answer is 1 'yes'. The examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet.<br/>
+(v) `Example` is given whenever the answer is 1 'yes, present'. The examples falling in the area of morphology or syntax are provided with glosses, while phonological examples are provided with the International Phonetic Alphabet.<br/>
 (vi) `Comment` is provided whenever necessary.
 
 
@@ -96,6 +96,7 @@ Presents all the data collected using the GB questionnaire as one table.
 This folder contains a separate tables for each language coded with the GB questionnaire. The organiszation of the information in the tables is similar to that of the UT tables described above: (i) `ID`, (ii) `Feature`, (iii) `Value`, (iv) `Comment`.
 
 ### `gb.csv`
+In addition to features used to collect the GB data this file also provides possible values.
 
 ### `Languages.csv`
 
