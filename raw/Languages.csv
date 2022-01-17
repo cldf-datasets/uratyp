@@ -11,7 +11,7 @@ ID,Name,Subfamily,Glottocode,ISO.639.3,Latitude,Longitude,citations
 10,Estonian,Finnic,esto1258,ekk,58.95,25.51,
 11,Finnish,Finnic,finn1318,fin,62.52,25.75,"ylikoski_prolatiivi_2018,hakulinen_iso_2004"
 12,Pite_Saami,Saami,pite1240,sje,66.4,17.43,lehtiranta_arjeploginsaamen_1992
-13,Inari_Saami,Saami,inar1241,smn,69.42,27.87,"turk_consonantal_2019,markus_three-way_2012"
+13,Inari_Saami,Saami,inar1241,smn,69.05,27.14,"turk_consonantal_2019,markus_three-way_2012"
 14,Lule_Saami,Saami,lule1254,smj,67.28,17.81,"wiklund_larobok_1915,grundstrom_lulelapsk_1946,spiik_lulesamisk_1989,pirak_jahtte_1993,sikor_sikor_2018"
 15,South_Saami,Saami,sout2674,sma,62.88,13.7,"magga_sorsamisk_2012,bergsland_roros-lappisk_1946,vinka_sydsamisk_2012"
 16,North_Saami,Saami,nort2671,sme,68.72,22.11,
