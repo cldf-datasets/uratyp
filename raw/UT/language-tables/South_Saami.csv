@@ -1,166 +1,166 @@
 ID,Name,South.Saami,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,Richard Kowalik,,"In South Saami, the dual is not obligatory in the language of first language speakers (cf. also Bergsland 1946: 171). Usually, plural verb morphology is combined with dual personal pronouns: Månnoeh vuejnebe (1DU see.1PL) 'We two see'. However, the dual is used in revitalized language/by second language speakers. "
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Richard Kowalik,,
-UT003,Can finite verbs agree in number with the nominal object?,0,Richard Kowalik,,
-UT004,Can an adnominal property word agree with the noun in case?,0,Richard Kowalik,,
-UT005,Are there cases that do not show agreement in terms of case?,0,Richard Kowalik,,
-UT006,Can adpositions be used to mark core verbal arguments?,0,Richard Kowalik,,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Richard Kowalik,Datne mov gåajka båatah;you I.GEN to come.PRS.2SG;You come to me;|Datne mov bijre soptsesth; you I.GEN to talk.PRS.2SG;You talk about me;,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,0,Richard Kowalik,,
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Richard Kowalik,,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Richard Kowalik,Manne gärja-h lohkeminie;I book-NOM.PL read.PROG;I am reading books;| Manne gärj-ide lohkeminie;I book-ACC.PL read.PROG;I am reading the books;," South Saami uses differential object marking (DOM) to express definiteness of objects in the plural. Plural objects marked with the nominative have an indefinite reading, plural objects marked with the accusative have a definite reading."
-UT011,Does object marking correlate with aspectuality? ,0,Richard Kowalik,,
-UT012,Does the marking of the object depend on the verb conjugation form? ,0,Richard Kowalik,,
-UT013,Is there differential subject marking?,0,Richard Kowalik,,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Richard Kowalik,Dihte karre dam nyjsenäjjam leeki jih hajkeli;;This man hit the woman and ran off;,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Richard Kowalik,,
-UT016,Is there a grammatical device for habituality?,0,Richard Kowalik,,
-UT017,Is there a grammatical device for frequentative?,0,Richard Kowalik,,
-UT018,Is there a grammatical device for progressivity?,1,Richard Kowalik,Dihte lohkeminie;s/he read.PROG;S/he is reading;|golme maanah lin gierestalleminie;three children be.PST.3PL downhill.ski.PROG;Three children were skiing;,The auxiliary is dropped in the present.
-UT019,Is it common to use a verb in the present tense for future time reference? ,1,Richard Kowalik,dellie manne datnine sijhtem saemiestidh;now 1SG.NOM 2SG.COM want.PRS.1SG talk.saami.INF;Now I want to talk saami with you;,
-UT020,Is there a grammatical device for immediate future?,0,Richard Kowalik,,Modal verbs ('shall') are frequently used to express future. 
-UT021,Is there a grammatical device for pluperfect?,1,Richard Kowalik,Manne lim vuajneme;I be.PST.1SG see.PTCP;I had seen;,
-UT022,Can aspect be expressed overtly on the negative marker?,0,Richard Kowalik,,
-UT023,Can tense be expressed overtly on the negative marker?,1,Richard Kowalik,Im lohkh;NEG.1SG read.CNG;I do not read;|Idtjim lohkh;NEG.PST.1SG read.CNG;I did not read;,
-UT024,Is there grammatical marking of mirativity?,0,Richard Kowalik,,
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,Richard Kowalik,,
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,Richard Kowalik,,"The copula verb has irrealis /conditional forms, but verbs are not marked for irrealis."
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,Richard Kowalik,,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Richard Kowalik,,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,0,Richard Kowalik,,
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,Richard Kowalik,,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,Richard Kowalik,,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Richard Kowalik,,No morphological marking. A modal verb can be used to express hortative.
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,Richard Kowalik,,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Richard Kowalik,,
-UT035,Is there reflexive conjugation?,0,Richard Kowalik,,
-UT036,Are there syntactically ditransitive verbs?,0,Richard Kowalik,,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Richard Kowalik,,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Richard Kowalik,,Not attested.
-UT039,Can third person plural verb forms be used for impersonal reference?,1,Richard Kowalik,Daesnie maehtieh  åeredh;here can.3PL sleep.INF;It is possible to sleep here;,"In addition, 3SG verb forms can be used for impersonal reference, e.g. daesnie maahta gööledh here can.PRS.3SG fish.INF 'Here you can fish'/ 'One can fish here'."
-UT040,Can second person singular verb forms be used in generic meaning?,0,Richard Kowalik,,Not attested.
-UT042,Are clauses with only infinitive predicates possible?,0,Richard Kowalik,,"Possibly yes, but no examples at hand."
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,Richard Kowalik,,
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Richard Kowalik,obre/abra;rain.PRS.3SG;It rains;,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Richard Kowalik,,"Copula is not needed, e.g.: Dihte saemie (s/he Saami) 'S/he is a Saami'."
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Richard Kowalik,Gosse manne lim onne baahtje...;when I be.PST.1SG little boy;When I was a little boy…;,"However, the copula in the past tense is sometimes dropped."
-UT047,Can locative adverbial phrases act as predicates without a copula?,1,Richard Kowalik,Manne alkene/gåatesne/daesnie;I outside/home/there;|I am outside/home/there;,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Richard Kowalik,Manne jih mov aehtjie;;Me and my father;|manne lohkem jih tjaalam;;I read and write;|Manne lohkeminie jih aehtjie moerh tjuahpa;;I am reading a book and father is choping wood;,
-UT049,Does existential negation have a separate operator?,0,Richard Kowalik,,Standard and existential negation are expressed with the negative auxiliary + the connegative form of the main verb.
-UT050,Can standard negation be asymmetric in the present tense?,1,Richard Kowalik,Im manne guarkah;NEG.AUX.PRS.1SG I understand.CNG;I don't understand;,
-UT051,Can non-finite dependent clauses use the standard negation construction?,1,Richard Kowalik,,"Negation is always marked with a negative auxiliary. However, there is some variation which form of the negative auxiliary is used. "
-UT052,Is there a special negator that combines with non-finite forms?,0,Richard Kowalik,,"However, the use of the fully inflected negative auxiliary is moving towards being used as a negative particle in this context."
-UT053,Are there special negative non-finite forms?,0,Richard Kowalik,,
-UT054,Is there an impersonal passive construction?,0,Richard Kowalik,,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,Richard Kowalik,,
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,Richard Kowalik,,
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Richard Kowalik,,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Richard Kowalik,,
-UT059,Is there a future participle?,0,Richard Kowalik,,
-UT060,Are there participles that can encode their subject by possessive suffixes?,0,Richard Kowalik,,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,Richard Kowalik,,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Richard Kowalik,,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Richard Kowalik,vaarredh;;to run;|vaarre-me;run-PTCP;the running;,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,Richard Kowalik,,
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,Richard Kowalik,,
-UT066,Is OV the neutral order in affirmative imperative clauses?,0,Richard Kowalik,Jovhkh tjaetjiem!;drink.IMP.2SG water.ACC.SG;Drink water!;,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,Richard Kowalik,Aellieh disse vaedtsieh!;NEG.IMP.2SG thither walk.CNG;Don't go there!;|Aellieh dam jovhkh!;NEG.IMP.2SG that drink.CNG;Don't drink that!;,
-UT068,Are there preverbs?,0,Richard Kowalik,,
-UT069,Are there verbal prefixes?,0,Richard Kowalik,,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Richard Kowalik,,
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,?,Richard Kowalik,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,Richard Kowalik,gärja-m tjaele-minie luste;book-ACC.SG write-PROG fun;writing a book is fun;,
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,Richard Kowalik,,
-UT074,Is it possible to form synthetic superlative?,1,Richard Kowalik,orre-mes;new-SPRL;newest;,
-UT075,Can adpositions have person/number marking?,0,Richard Kowalik,,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Richard Kowalik,aajjan luvnie;grandpa at/with;at/with grandpa;|aajjan luvhtie;grandpa from;from grandpa;|aajjan gåajka;grandpa to;to grandpa;,
-UT077,Is case compounding possible?,0,Richard Kowalik,,"However, the comitative plural could be analysed as noun + GEN.PL + COM.PL, e.g. gärja-j-gujmie 'with the books'. "
-UT078,Are there case categories only found in pronouns?,0,Richard Kowalik,,
-UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,Richard Kowalik,,The nominative case is used.
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,0,Richard Kowalik,,
-UT081,Is there a genitive case that has an affix?,1,Richard Kowalik,tjidtjie-n gåetie; mother-GEN.SG house; mother's house;,
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,Richard Kowalik,,
-UT083,Is there a terminative case?,0,Richard Kowalik,,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Richard Kowalik,,
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Richard Kowalik,,
-UT086,Is there a locative case that marks goal?,1,Richard Kowalik,jaavra-n;lake-ILL;to the lake;|maane-se;child-ILL;to the child;,Illative has two allomorphs.
-UT087,Is there a locative case that marks location?,1,Richard Kowalik,Mov tjidtjie lea skåajje-sne;1SG.GEN mother.NOM be.PRS.3SG forest-LOC.SG;My mother is in the forest;,
-UT088,Is there a locative case that marks source?,1,Richard Kowalik,Manne laejpe-ste ohtje stuhtje-m dijp-i-m;I bread-ELA.SG Little piece-ACC.SG take-PST-1SG;I took a little bit from the bread;,
-UT089,Is there case syncretism of goal and location marking?,0,Richard Kowalik,,
-UT090,Is there case syncretism of location and source marking?,0,Richard Kowalik,,
-UT091,Are there two sets of local cases?,0,Richard Kowalik,,Adpositions are used.
-UT092,Is there a third set of local cases?,0,Richard Kowalik,,Adpositions are used.
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Richard Kowalik,Dah hov vöölkin buss-ine;they PTCL go.PST.3PL bus-COM.SG;They went with the bus;|Aehtjie giehteli bovtj-igujmie;father be_occupied.PST.3SG reindeer-COM.PL;Father used to work with reindeer;,
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Richard Kowalik,,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Richard Kowalik,,The essive is used in both contexts.
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Richard Kowalik,,
-UT097,Is there a separate morphological marker for expressing equative meaning?,0,Richard Kowalik,,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Richard Kowalik,,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Richard Kowalik,,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Richard Kowalik,,
-UT101,Can the marking of the possessor in the attributive construction vary?,0,Richard Kowalik,,
-UT102,Can the possessor in the attributive construction be marked with the nominative?,0,Richard Kowalik,,
-UT103,Is non-singular possession marked in the possessive declension?,0,Richard Kowalik,,
-UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,Richard Kowalik,,
-UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,Richard Kowalik,,
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,Richard Kowalik,gie båata?;; Who comes?;|Mij dihte;;What is this?;,
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Richard Kowalik,,"However, mij 'what' is used with animates/humans. "
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Richard Kowalik,,"However, mij 'what' is used with animates/humans. "
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Richard Kowalik,dïhte moere;that tree;it tree.NOM.SG;|dihte jeahta;3SG.NOM say.PRS.3SG; s/he says; ,"dïhte 'he/she, it'"
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,Richard Kowalik,,There is alternation (Magga & Magga 2012: 49-50).
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,Richard Kowalik,,"They are portmanteau suffixes. Synchronically, a segmentable PL marker cannot be identified."
-UT112,Are there different words for mother’s brother and father’s brother?,1,Richard Kowalik,jyöne;;mother's brother;|tjietsie;;father's brother;,
-UT113,Are there different words for younger and older relative for other relations than siblings?,1,Richard Kowalik,gåeskie;;mother’s older sister;|muahra;;mother’s younger sister;|jiekie;;father’s older brother;|tjietsie;;father’s younger brother;,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,Richard Kowalik,,"There is a distinction only for 'young' but not for 'old': noere maana 'young child' and orre gärja 'new book', but cf. båeries alma 'old man' and båeries gärja 'old book'."
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,Richard Kowalik,,
-UT116,Is there contrastive length of consonants?,0,Richard Kowalik,,"There is no phonemic contrast in consonant length. However, there are short and long consonants. I ascribe this the phonotactic structure and vowel lentgh."
-UT117,Is there contrastive length of vowels?,1,Richard Kowalik,lahkoe [laxkɔǝ] 'luck' vs. laahkoe [lɑːxkɔǝ] 'kinship',/a/ vs. /a:/
-UT118,Is there contrast between short and long unstressed vowels?,1,Richard Kowalik,elkie [ɛlkiǝ] 'son' vs. elki [e:lki] 's/he began',/i:/ vs. /i/
-UT119,Is there contrast in duration of geminate consonants?,0,Richard Kowalik,,"Geminates exist, but they are not phonologically relevant. "
-UT120,Are there more than two phonological quantities? ,0,Richard Kowalik,,
-UT121,Are there extralong syllables? ,1,Richard Kowalik,buertie [bʉɛr.tie] `table',
-UT122,Is the main foot structure trochaic?,1,Richard Kowalik,"gärja ['gär.ja] 'book', guelie ['gʉɛ.lie] `fish'","Also 'baa.koe 'word', 'lop.me 'snow' etc."
-UT123,Is there lexically distinctive word stress?,0,Richard Kowalik,,
-UT124,Is there morphologically conditioned stress?,0,Richard Kowalik,,
-UT125,Is there fixed primary stress?,1,Richard Kowalik,"gärja ['gär.ja] book.NOM.SG, gärjiste ['gär.ji.ste] book.ELA.PL",
-UT126,Is there stress in heavy syllables?,0,Richard Kowalik,,
-UT127,Is there non-initial primary stress?,0,Richard Kowalik,,
-UT128,Is there palatal vowel harmony?,0,Richard Kowalik,,
-UT129,Is there velar vowel harmony?,0,Richard Kowalik,,
-UT130,Is there labial vowel harmony? ,0,Richard Kowalik,,
-UT131,Are there rising diphthongs? ,0,Richard Kowalik; Vinka & Kråik 2012: 33,," On a phonological level, there are no raising diphtongs jaevrie [jäuri], sovkedh [souket], gååvnesidh [gounesit], gaavnedh [gaunet]."
-UT132,Are there lowering diphthongs?,1,Richard Kowalik; Vinka & Kråik 2012,"åabpa [oab:a] 'sister', vielle [viel:e] 'brother'",
-UT133,Is there qualitative contrast between subsets of short and long vowels?,1,Richard Kowalik,"dan [tɐn] 3SG.GEN 'its, so' vs. daan [tɑːn] DEM.PROX.GEN.SG 'this one's', elki [ɛlki] vs. Eelki [eːlki] ",
-UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,Richard Kowalik,,
-UT135,Is there front high rounded vowel ü [y]?,0,Richard Kowalik,,"On a phonetic level, [y] appears marginally. There is no phonological contrast (bygkedh = bigkedh)."
-UT136,Is there front midhigh rounded vowel ö [ø]?,1,Richard Kowalik,gööledh [kœ:let] 'to fish',"However, there are only few minimal pairs: gööles 'rich in fish' vs. geeles 'tame', but göökte = geekte 'two'."
-UT137,Is there back high unrounded vowel ï [ɯ]?,0,Richard Kowalik,,"Despite the grapheme <ï> in the official South Saami orthography, the sound is not part of the vowel inventory."
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,Richard Kowalik,,
-UT139,Is there back low round vowel [ɒ]?,1,Richard Kowalik,,
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,Richard Kowalik,ledtie [lɛt:ie] 'bird' vs. laedtie [læt:ie] 'farmer',
-UT141,Are there word-initial consonant clusters?,1,Richard Kowalik,skråavva [skroav:a] (Swe.) 'suck obstacle for reindeer calves',
-UT142,Are there word-internal consonant clusters in syllable onset?,0,Richard Kowalik,,No counterexample found. 
-UT143,Are there consonant clusters in syllable coda?,1,Richard Kowalik,beetneks [pe:tneks] 'moneyless',
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,Richard Kowalik,duarsta [duar.sta] 'Thursday',It is possible but only marginally.
-UT145,Are there word-final clusters of three or more consonants?,0,Richard Kowalik,,
-UT146,Are there palatalized dentals? ,0,Richard Kowalik,,
-UT147,Are there palatalized labials and velars? ,0,Richard Kowalik,,
-UT148,Is there palatal stop [c]?,0,Richard Kowalik,,
-UT149,Is there palatal nasal [ɲ]?,1,Richard Kowalik,njuenie [ɲʉɛnie] 'nose',
-UT150, Is there palatal lateral [ʎ]?,0,Richard Kowalik,,
-UT151,Is there phonemic velar nasal [ŋ]?,1,Richard Kowalik,"männgan [mæŋ:an] 'after', tjengkere [ʨieŋkərə] 'ball'",
-UT152,Is there dental affricate [t͡s]?,0,Richard Kowalik,,"Not on a phonological level. However, [ts] can appear as an allophone of [tj]: tjaetsie = tjaetjie 'water'."
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Richard Kowalik,"åadtjedh /ɔɐʨet/ [ɔɐʧeth] ‘to get, be allowed’","There is the phoneme /ʨ/, with the allophones ʨ, ʦ and ʧ."
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Richard Kowalik,saedtie [sætːie] 'sand' vs. sjaedtie [ʃætːie] 'tracks',
-UT155,"Are there voiced plosives [b, g, d]?",0,Richard Kowalik,,"There is no contrast between voiced and unvoiced plosives, but [b] occurs as an allophone of /p/, e.g. balve 'cloud', gaamege 'shoe', darjedh 'to do'."
-UT156,Is there glottal stop [ˀ]?,0,Richard Kowalik,,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Richard Kowalik,,
-UT158,Is there a constraint on word-initial r?,0,Richard Kowalik,,
-UT159,Is there laryngeal fricative [h]?,1,Richard Kowalik,hohtsedh [huhʨet] 'to search',
-UT160,Is there voiced velar fricative [ɣ]?,0,Richard Kowalik,,
-UT161,Is there voiceless velar fricative [x]?,0,Richard Kowalik,,
-UT162,Is there voiced dental fricative [ð]?,0,Richard Kowalik,,
-UT163,Is there phonemic labio-velar approximant [w]?,0,Richard Kowalik,,
-UT164,Is there voiceless labiodental fricative [f]?,1,Richard Kowalik,faamoe [fɑːmɔǝ] 'power',
-UT165,Is there radical qualitative consonant gradation?,0,Richard Kowalik,,
-UT166,Is there quantitative consonant gradation?,0,Richard Kowalik,,
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,"Richard Kowalik, p.c.",,"In South Saami, the dual is not obligatory in the language of first language speakers (cf. also Bergsland 1946: 171). Usually, plural verb morphology is combined with dual personal pronouns: månnoeh vuejnebe (1DU see.1PL) 'we two see'. However, the dual is used in revitalized language/by second language speakers. "
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,"Richard Kowalik, p.c.",,
+UT003,Can finite verbs agree in number with the nominal object?,0,"Richard Kowalik, p.c.",,
+UT004,Can an adnominal property word agree with the noun in case?,0,"Richard Kowalik, p.c.",,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Richard Kowalik, p.c.",,
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Richard Kowalik, p.c.",,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Richard Kowalik, p.c.",Datne mov gåajka båatah;2SG 1SG.GEN to come.PRS.2SG;You come to me;|Datne mov bijre soptsesth; 2SG 1SG.GEN to talk.PRS.2SG;You talk about me;,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,0,"Richard Kowalik, p.c.",,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Richard Kowalik, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,"Richard Kowalik, p.c.",Manne gärja-h lohkeminie;1SG book-NOM.PL read.PROG;I am reading books;|Manne gärj-ide lohkeminie;1SG book-ACC.PL read.PROG;I am reading the books;,"South Saami uses differential object marking (DOM) to express definiteness of objects in the plural. Plural objects marked with the nominative have an indefinite reading, plural objects marked with the accusative have a definite reading."
+UT011,Does object marking correlate with aspectuality? ,0,"Richard Kowalik, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Richard Kowalik, p.c.",,
+UT013,Is there differential subject marking?,0,"Richard Kowalik, p.c.",,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Richard Kowalik, p.c.",Dihte karre dam nyjsenäjjam leeki jih hajkeli;;This man hit the woman and ran off;,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Richard Kowalik, p.c.",,
+UT016,Is there a grammatical device for habituality?,0,"Richard Kowalik, p.c.",,
+UT017,Is there a grammatical device for frequentative?,0,"Richard Kowalik, p.c.",,
+UT018,Is there a grammatical device for progressivity?,1,"Richard Kowalik, p.c.",Dihte lohkeminie;3SG read.PROG;S/he is reading;|golme maanah lin gierestalleminie;three children be.PST.3PL downhill.ski.PROG;Three children were skiing;,The auxiliary is dropped in the present.
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Richard Kowalik, p.c.",dellie manne datnine sijhtem saemiestidh;now 1SG.NOM 2SG.COM want.PRS.1SG talk.saami.INF;Now I want to talk Saami with you;,
+UT020,Is there a grammatical device for immediate future?,0,"Richard Kowalik, p.c.",,Modal verbs ('shall') are frequently used to express future. 
+UT021,Is there a grammatical device for pluperfect?,1,"Richard Kowalik, p.c.",Manne lim vuajneme;1SG be.PST.1SG see.PTCP;I had seen;,
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Richard Kowalik, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,1,"Richard Kowalik, p.c.",Im lohkh;NEG.1SG read.CNG;I do not read;|Idtjim lohkh;NEG.PST.1SG read.CNG;I did not read;,
+UT024,Is there grammatical marking of mirativity?,0,"Richard Kowalik, p.c.",,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Richard Kowalik, p.c.",,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,"Richard Kowalik, p.c.",,"The copula verb has irrealis /conditional forms, but verbs are not marked for irrealis."
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,"Richard Kowalik, p.c.",,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Richard Kowalik, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,0,"Richard Kowalik, p.c.",,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Richard Kowalik, p.c.",,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,"Richard Kowalik, p.c.",,
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Richard Kowalik, p.c.",,No morphological marking. A modal verb can be used to express hortative.
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Richard Kowalik, p.c.",,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Richard Kowalik, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Richard Kowalik, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Richard Kowalik, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Richard Kowalik, p.c.",,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Richard Kowalik, p.c.",,Not attested.
+UT039,Can third person plural verb forms be used for impersonal reference?,1,"Richard Kowalik, p.c.",Daesnie maehtieh  åeredh;here can.3PL sleep.INF;It is possible to sleep here;,"In addition, 3SG verb forms can be used for impersonal reference, e.g. daesnie maahta gööledh (here can.PRS.3SG fish.INF) 'Here you can fish'/ 'One can fish here'."
+UT040,Can second person singular verb forms be used in generic meaning?,0,"Richard Kowalik, p.c.",,Not attested.
+UT042,Are clauses with only infinitive predicates possible?,0,"Richard Kowalik, p.c.",,Not attested.
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,"Richard Kowalik, p.c.",,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Richard Kowalik, p.c.",obre/abra;rain.PRS.3SG;It rains;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Richard Kowalik, p.c.",,"Copula is not needed, e.g.: dihte saemie (3SG Saami) 's/he is a Saami'."
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Richard Kowalik, p.c.",Gosse manne lim onne baahtje...;when I be.PST.1SG little boy;When I was a little boy…;,"However, the copula in the past tense is sometimes dropped."
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,"Richard Kowalik, p.c.",Manne alkene/gåatesne/daesnie;1SG outside/home/there;I am outside/home/there;,
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Richard Kowalik, p.c.",Manne jih mov aehtjie;;Me and my father;|manne lohkem jih tjaalam;;I read and write;|Manne lohkeminie jih aehtjie moerh tjuahpa;;I am reading a book and father is choping wood;,
+UT049,Does existential negation have a separate operator?,0,"Richard Kowalik, p.c.",,Standard and existential negation are expressed with the negative auxiliary + the connegative form of the main verb.
+UT050,Can standard negation be asymmetric in the present tense?,1,"Richard Kowalik, p.c.",Im manne guarkah;NEG.AUX.PRS.1SG 1SG understand.CNG;I don't understand;,
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,"Richard Kowalik, p.c.",,"Negation is always marked with a negative auxiliary. However, there is some variation which form of the negative auxiliary is used. "
+UT052,Is there a special negator that combines with non-finite forms?,0,"Richard Kowalik, p.c.",,"However, the use of the fully inflected negative auxiliary is moving towards being used as a negative particle in this context."
+UT053,Are there special negative non-finite forms?,0,"Richard Kowalik, p.c.",,
+UT054,Is there an impersonal passive construction?,0,"Richard Kowalik, p.c.",,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,"Richard Kowalik, p.c.",,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Richard Kowalik, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Richard Kowalik, p.c.",,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Richard Kowalik, p.c.",,
+UT059,Is there a future participle?,0,"Richard Kowalik, p.c.",,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,"Richard Kowalik, p.c.",,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,"Richard Kowalik, p.c.",,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Richard Kowalik, p.c.",,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"Richard Kowalik, p.c.",vaarredh;;to run;|vaarre-me;run-PTCP;the running;,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,"Richard Kowalik, p.c.",,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Richard Kowalik, p.c.",,
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Richard Kowalik, p.c.",Jovhkh tjaetjiem!;drink.IMP.2SG water.ACC.SG;Drink water!;,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Richard Kowalik, p.c.",Aellieh disse vaedtsieh!;NEG.IMP.2SG thither walk.CNG;Don't go there!;|Aellieh dam jovhkh!;NEG.IMP.2SG that drink.CNG;Don't drink that!;,
+UT068,Are there preverbs?,0,"Richard Kowalik, p.c.",,
+UT069,Are there verbal prefixes?,0,"Richard Kowalik, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Richard Kowalik, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,?,"Richard Kowalik, p.c.",,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Richard Kowalik, p.c.",gärja-m tjaele-minie luste;book-ACC.SG write-PROG fun;writing a book is fun;,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,"Richard Kowalik, p.c.",,
+UT074,Is it possible to form synthetic superlative?,1,"Richard Kowalik, p.c.",orre-mes;new-SPRL;newest;,
+UT075,Can adpositions have person/number marking?,0,"Richard Kowalik, p.c.",,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Richard Kowalik, p.c.",aajjan luvnie;grandpa at/with;at/with grandpa;|aajjan luvhtie;grandpa from;from grandpa;|aajjan gåajka;grandpa to;to grandpa;,
+UT077,Is case compounding possible?,0,"Richard Kowalik, p.c.",,"However, the comitative plural could be analysed as noun + GEN.PL + COM.PL, e.g. gärja-j-gujmie 'with the books'. "
+UT078,Are there case categories only found in pronouns?,0,"Richard Kowalik, p.c.",,
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,"Richard Kowalik, p.c.",,The nominative case is used.
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,0,"Richard Kowalik, p.c.",,
+UT081,Is there a genitive case that has an affix?,1,"Richard Kowalik, p.c.",tjidtjie-n gåetie;mother-GEN.SG house;mother's house;,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Richard Kowalik, p.c.",,
+UT083,Is there a terminative case?,0,"Richard Kowalik, p.c.",,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,"Richard Kowalik, p.c.",,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Richard Kowalik, p.c.",,
+UT086,Is there a locative case that marks goal?,1,"Richard Kowalik, p.c.",jaavra-n;lake-ILL;to the lake;|maane-se;child-ILL;to the child;,Illative has two allomorphs.
+UT087,Is there a locative case that marks location?,1,"Richard Kowalik, p.c.",Mov tjidtjie lea skåajje-sne;1SG.GEN mother.NOM be.PRS.3SG forest-LOC.SG;My mother is in the forest;,
+UT088,Is there a locative case that marks source?,1,"Richard Kowalik, p.c.",Manne laejpe-ste ohtje stuhtje-m dijp-i-m;I bread-ELA.SG Little piece-ACC.SG take-PST-1SG;I took a little bit from the bread;,
+UT089,Is there case syncretism of goal and location marking?,0,"Richard Kowalik, p.c.",,
+UT090,Is there case syncretism of location and source marking?,0,"Richard Kowalik, p.c.",,
+UT091,Are there two sets of local cases?,0,"Richard Kowalik, p.c.",,Adpositions are used.
+UT092,Is there a third set of local cases?,0,"Richard Kowalik, p.c.",,Adpositions are used.
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Richard Kowalik, p.c.",Dah hov vöölkin buss-ine;they PTCL go.PST.3PL bus-COM.SG;They went with the bus;|Aehtjie giehteli bovtj-igujmie;father be_occupied.PST.3SG reindeer-COM.PL;Father used to work with reindeer;,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Richard Kowalik, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Richard Kowalik, p.c.",,The essive is used in both contexts.
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Richard Kowalik, p.c.",,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Richard Kowalik, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Richard Kowalik, p.c.",,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Richard Kowalik, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Richard Kowalik, p.c.",,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Richard Kowalik, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,0,"Richard Kowalik, p.c.",,
+UT103,Is non-singular possession marked in the possessive declension?,0,"Richard Kowalik, p.c.",,
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Richard Kowalik, p.c.",,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Richard Kowalik, p.c.",,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Richard Kowalik, p.c.",gie båata?;; Who comes?;|Mij dihte;;What is this?;,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Richard Kowalik, p.c.",,"However, mij 'what' is used with animates/humans. "
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Richard Kowalik, p.c.",,"However, mij 'what' is used with animates/humans. "
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Richard Kowalik, p.c.",dïhte moere;that tree;it tree.NOM.SG;|dihte jeahta;3SG.NOM say.PRS.3SG; s/he says; ,"dïhte 'he/she, it'"
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,"Richard Kowalik, p.c.",,There is alternation.
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,"Richard Kowalik, p.c.",,"They are portmanteau suffixes. Synchronically, a segmentable PL marker cannot be identified."
+UT112,Are there different words for mother’s brother and father’s brother?,1,"Richard Kowalik, p.c.",jyöne;;mother's brother;|tjietsie;;father's brother;,
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Richard Kowalik, p.c.",gåeskie;;mother’s older sister;|muahra;;mother’s younger sister;|jiekie;;father’s older brother;|tjietsie;;father’s younger brother;,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,"Richard Kowalik, p.c.",,"There is a distinction only for 'young' but not for 'old': noere maana 'young child' and orre gärja 'new book', but cf. båeries alma 'old man' and båeries gärja 'old book'."
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Richard Kowalik, p.c.",,
+UT116,Is there contrastive length of consonants?,0,"Richard Kowalik, p.c.",,"There is no phonemic contrast in consonant length. However, there are short and long consonants. I ascribe this the phonotactic structure and vowel lentgh."
+UT117,Is there contrastive length of vowels?,1,"Richard Kowalik, p.c.",lahkoe [laxkɔǝ] 'luck' vs. laahkoe [lɑːxkɔǝ] 'kinship',/a/ vs. /a:/
+UT118,Is there contrast between short and long unstressed vowels?,1,"Richard Kowalik, p.c.",elkie [ɛlkiǝ] 'son' vs. elki [e:lki] 's/he began',/i:/ vs. /i/
+UT119,Is there contrast in duration of geminate consonants?,0,"Richard Kowalik, p.c.",,"Geminates exist, but they are not phonologically relevant. "
+UT120,Are there more than two phonological quantities? ,0,"Richard Kowalik, p.c.",,
+UT121,Are there extralong syllables? ,1,"Richard Kowalik, p.c.",buertie [bʉɛr.tie] `table',
+UT122,Is the main foot structure trochaic?,1,"Richard Kowalik, p.c.","gärja ['gär.ja] 'book', guelie ['gʉɛ.lie] `fish'","Also 'baa.koe 'word', 'lop.me 'snow' etc."
+UT123,Is there lexically distinctive word stress?,0,"Richard Kowalik, p.c.",,
+UT124,Is there morphologically conditioned stress?,0,"Richard Kowalik, p.c.",,
+UT125,Is there fixed primary stress?,1,"Richard Kowalik, p.c.","gärja ['gär.ja] book.NOM.SG, gärjiste ['gär.ji.ste] book.ELA.PL",
+UT126,Is there stress in heavy syllables?,0,"Richard Kowalik, p.c.",,
+UT127,Is there non-initial primary stress?,0,"Richard Kowalik, p.c.",,
+UT128,Is there palatal vowel harmony?,0,"Richard Kowalik, p.c.",,
+UT129,Is there velar vowel harmony?,0,"Richard Kowalik, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Richard Kowalik, p.c.",,
+UT131,Are there rising diphthongs? ,0,Vinka & Kråik 2012: 33,,"On a phonological level, there are no raising diphtongs jaevrie [jäuri], sovkedh [souket], gååvnesidh [gounesit], gaavnedh [gaunet]."
+UT132,Are there lowering diphthongs?,1,Vinka & Kråik 2012,"åabpa [oab:a] 'sister', vielle [viel:e] 'brother'",
+UT133,Is there qualitative contrast between subsets of short and long vowels?,1,"Richard Kowalik, p.c.","dan [tɐn] 3SG.GEN 'its, so' vs. daan [tɑːn] DEM.PROX.GEN.SG 'this one's', elki [ɛlki] vs. Eelki [eːlki] ",
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,"Richard Kowalik, p.c.",,
+UT135,Is there front high rounded vowel ü [y]?,0,"Richard Kowalik, p.c.",,"On a phonetic level, [y] appears marginally. There is no phonological contrast (bygkedh = bigkedh)."
+UT136,Is there front midhigh rounded vowel ö [ø]?,1,"Richard Kowalik, p.c.",gööledh [kœ:let] 'to fish',"However, there are only few minimal pairs: gööles 'rich in fish' vs. geeles 'tame', but göökte = geekte 'two'."
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Richard Kowalik, p.c.",,"Despite the grapheme <ï> in the official South Saami orthography, the sound is not part of the vowel inventory."
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Richard Kowalik, p.c.",,
+UT139,Is there back low round vowel [ɒ]?,1,"Richard Kowalik, p.c.",,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,"Richard Kowalik, p.c.",ledtie [lɛt:ie] 'bird' vs. laedtie [læt:ie] 'farmer',
+UT141,Are there word-initial consonant clusters?,1,"Richard Kowalik, p.c.",skråavva [skroav:a] (Swe.) 'suck obstacle for reindeer calves',
+UT142,Are there word-internal consonant clusters in syllable onset?,0,"Richard Kowalik, p.c.",,No counterexample found. 
+UT143,Are there consonant clusters in syllable coda?,1,"Richard Kowalik, p.c.",beetneks [pe:tneks] 'moneyless',
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Richard Kowalik, p.c.",duarsta [duar.sta] 'Thursday',It is possible but only marginally.
+UT145,Are there word-final clusters of three or more consonants?,0,"Richard Kowalik, p.c.",,
+UT146,Are there palatalized dentals? ,0,"Richard Kowalik, p.c.",,
+UT147,Are there palatalized labials and velars? ,0,"Richard Kowalik, p.c.",,
+UT148,Is there palatal stop [c]?,0,"Richard Kowalik, p.c.",,
+UT149,Is there palatal nasal [ɲ]?,1,"Richard Kowalik, p.c.",njuenie [ɲʉɛnie] 'nose',
+UT150, Is there palatal lateral [ʎ]?,0,"Richard Kowalik, p.c.",,
+UT151,Is there phonemic velar nasal [ŋ]?,1,"Richard Kowalik, p.c.","männgan [mæŋ:an] 'after', tjengkere [ʨieŋkərə] 'ball'",
+UT152,Is there dental affricate [t͡s]?,0,"Richard Kowalik, p.c.",,"Not on a phonological level. However, [ts] can appear as an allophone of [tj]: tjaetsie = tjaetjie 'water'."
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Richard Kowalik, p.c.","åadtjedh /ɔɐʨet/ [ɔɐʧeth] ‘to get, be allowed’","There is the phoneme /ʨ/, with the allophones ʨ, ʦ and ʧ."
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Richard Kowalik, p.c.",saedtie [sætːie] 'sand' vs. sjaedtie [ʃætːie] 'tracks',
+UT155,"Are there voiced plosives [b, g, d]?",0,"Richard Kowalik, p.c.",,"There is no contrast between voiced and unvoiced plosives, but [b] occurs as an allophone of /p/, e.g. balve 'cloud', gaamege 'shoe', darjedh 'to do'."
+UT156,Is there glottal stop [ˀ]?,0,"Richard Kowalik, p.c.",,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Richard Kowalik, p.c.",,
+UT158,Is there a constraint on word-initial r?,0,"Richard Kowalik, p.c.",,
+UT159,Is there laryngeal fricative [h]?,1,"Richard Kowalik, p.c.",hohtsedh [huhʨet] 'to search',
+UT160,Is there voiced velar fricative [ɣ]?,0,"Richard Kowalik, p.c.",,
+UT161,Is there voiceless velar fricative [x]?,0,"Richard Kowalik, p.c.",,
+UT162,Is there voiced dental fricative [ð]?,0,"Richard Kowalik, p.c.",,
+UT163,Is there phonemic labio-velar approximant [w]?,0,"Richard Kowalik, p.c.",,
+UT164,Is there voiceless labiodental fricative [f]?,1,"Richard Kowalik, p.c.",faamoe [fɑːmɔǝ] 'power',
+UT165,Is there radical qualitative consonant gradation?,0,"Richard Kowalik, p.c.",,
+UT166,Is there quantitative consonant gradation?,0,"Richard Kowalik, p.c.",,

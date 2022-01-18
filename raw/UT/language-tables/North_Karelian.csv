@@ -1,169 +1,169 @@
-"ID","Name","North.Karelian","Source","Example","Comment"
-"UT001","Is there a distinct category of dual for verbal agreement with a dual subject?",0,"Olga Melentjeva","",""
-"UT002","Is non-agreement in number between the nominal subject and verbal predicate possible?",0,"Olga Melentjeva","",""
-"UT003","Can finite verbs agree in number with the nominal object?",0,"Olga Melentjeva","",""
-"UT004","Can an adnominal property word agree with the noun in case?",1,"Olga Melentjeva","kaunehe-šša koti-šša;beautiful-INE house-INE;in a beautiful house;",""
-"UT005","Are there cases that do not show agreement in terms of case?",0,"Olga Melentjeva","","The adnominal property word agrees with the head noun in all cases."
-"UT006","Can adpositions be used to mark core verbal arguments?",0,"Olga Melentjeva","",""
-"UT007","Can adpositions be used to mark non-core/oblique verbal arguments?",1,"Olga Melentjeva","talo-n takana;house-GEN behind;behind the house;",""
-"UT008","Can non-finite clauses entail a special way for a core argument (S/A) marking?",1,"Olga Melentjeva","Läksi-mä meččä-h päivä-n noušše-šša;go.PST-1PL forest-ILL sun-GEN rise.INF-INE;We went to the forest when the sun came up;",""
-"UT009","Can non-finite clauses entail a special way for a core argument (P) marking?",0,"Olga Melentjeva","",""
-"UT010","Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Olga Melentjeva","",""
-"UT011","Does object marking correlate with aspectuality? ",1,"Olga Melentjeva","Ošša-n kirja-n;buy-1SG book-GEN;I will buy a book;|Ošša-n kirju-a;buy-1SG book-PRT;I am buying a book;
-",""
-"UT012","Does the marking of the object depend on the verb conjugation form? ",1,"Olga Melentjeva","Ota kirja!;read.IMP.2SG book.NOM;Take the book!;|Elä ota kirju-a!;NEG.IMP.2SG take.IMP book-PRT;Don't take the book!;",""
-"UT013","Is there differential subject marking?",1,"Olga Melentjeva","Štola-lla on leipy-ä;table-ADE  be.3SG bread-PRT;There is some bread on the table;|Štola-lla on leipä;table-ADE  be.3SG bread.NOM;There is a bread on the table;",""
-"UT014","Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Olga Melentjeva","Poika näk-i kontie-n da juokš-i poiš;boy see-PST.3SG bear-GEN and run-PST.3SG away;The boy saw the bear and ran away;",""
-"UT015","Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Olga Melentjeva","",""
-"UT016","Is there a grammatical device for habituality?",0,"Olga Melentjeva","",""
-"UT017","Is there a grammatical device for frequentative?",1,"Olga Melentjeva","juokše-n > juokše-ntele-n;run-1SG > run-FRQ-1SG;I run > I run around;Zaikov 2013: 211",""
-"UT018","Is there a grammatical device for progressivity?",1,"Olga Melentjeva","Mie ole-n nyt kirjoitta-ma-šša;I be-1SG now write-SUP-INE;I am now writing (sth);|Ole-n osta-ma-šša kirju-a;I-1SG buy-SUP-INE book-PRT;I am buying a book;",""
-"UT019","Is it common to use a verb in the present tense for future time reference? ",1,"Olga Melentjeva","Ošša-n kirja-n;buy-1SG book-GEN;I'll buy a book;",""
-"UT020","Is there a grammatical device for immediate future?",1,"Olga Melentjeva","Ole-n lähtö-mä-ššä;I-1SG go-SUP-INE;I am about to leave;",""
-"UT021","Is there a grammatical device for pluperfect?",1,"Olga Melentjeva","Hiän ol-i jo män-nyt muata;s/he be-PST.3SG already go-ACT.PST.PTCP sleep.INF;S/he had already now gone to bed;",""
-"UT022","Can aspect be expressed overtly on the negative marker?",0,"Olga Melentjeva","",""
-"UT023","Can tense be expressed overtly on the negative marker?",0,"Olga Melentjeva","","The negation is formed using a negative particle. "
-"UT024","Is there grammatical marking of mirativity?",0,"Olga Melentjeva","",""
-"UT025","Is there morphological marking on the verb dedicated to the expression of desire or wish?",0,"Olga Melentjeva","",""
-"UT026","Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?",1,"Olga Melentjeva","Sö-isi-n leivä-n;eat-COND-1SG bread-GEN;I would eat the bread;",""
-"UT027","Are verbs marked in a specific mood in counterfactual conditional clauses?",1,"Olga Melentjeva","Jos paista-si-t leivä-n, ni mie sö-isi-n se-n;if bake-COND-2SG bread-GEN so I eat-COND-1SG it-GEN;If you would bake a bread I would eat it;",""
-"UT028","Is there morphological marking on the verb dedicated to the expression of deontic necessity?",0,"Olga Melentjeva","",""
-"UT029","Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ",1,"Olga Melentjeva","Kun ruohtin-ne-t lähti-e, ni läkkä meije-n kera;if dare-POT-2SG go-INF so go.IMP.2SG we-GEN with;If you dare to go, so come with us;
-","Potential is not used very often."
-"UT030","Is there morphological marking on the verb dedicated to the expression of deontic possibility? ",0,"Olga Melentjeva","",""
-"UT031","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?",1,"Olga Melentjeva","Hiän pais-kah, mie e-n välitä;s/he speak-JUSS.3SG I NEG-1SG care.CNG;Let him/her speak I don't care;",""
-"UT032","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?",0,"Olga Melentjeva","",""
-"UT033","Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ",0,"Olga Melentjeva","","Typically, the conditional mood is used. "
-"UT034","Is there morphological marking on the verb dedicated to the expression of apprehension?",0,"Olga Melentjeva","",""
-"UT035","Is there reflexive conjugation?",0,"Olga Melentjeva","",""
-"UT036","Are there syntactically ditransitive verbs?",0,"Olga Melentjeva","",""
-"UT037","Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?",0,"Olga Melentjeva","",""
-"UT038","Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?",1,"Olga Melentjeva","Hyö šyy-vväh;they eat-IPS.PRS.3PL;They eat;",""
-"UT039","Can third person plural verb forms be used for impersonal reference?",0,"Olga Melentjeva","",""
-"UT040","Can second person singular verb forms be used in generic meaning?",1,"Olga Melentjeva","Kun kunnolla ruova-t, nii tulo-u palkka;if well work-2SG then come-3SG salary;If you work well then you get paid;",""
-"UT042","Are clauses with only infinitive predicates possible?",0,"Olga Melentjeva","",""
-"UT043","Can verbs in purposive subordinate clauses be in bare infinitive form?",1,"Olga Melentjeva","",""
-"UT044","Are there sentences without overt verbal arguments (e.g. weather verbs)?",1,"Olga Melentjeva","Pihalla vihmuu;outside rain-3SG;It is raining outside;",""
-"UT045","Is copula needed for predicate nominals in the 3rd person form of the present tense?",1,"Olga Melentjeva","Hiän on opaštaja;s/he be.3SG teacher;S/he is a teacher;",""
-"UT046","Is a copula needed for predicate nominals in the past and/or future tense?",1,"Olga Melentjeva","Hiän ol-i opaštaja;s/he be-PST.3SG teacher;S/he was a teacher;",""
-"UT047","Can locative adverbial phrases act as predicates without a copula?",0,"Olga Melentjeva","","It is common to use the copula, e.g. Mie ole-n pihalla (I be-1SG outside) 'I'm outside'."
-"UT048","Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Olga Melentjeva","miehe-t ta naise-t;man-PL and woman-PL;men and women;|tul-i-ma koti-h ta rupe-i-ma šyüö-mä-h;come-PST-1PL and begin-PST-1PL eat-SUP.ILL;Zaikov 2013: 223",""
-"UT049","Does existential negation have a separate operator?",0,"Olga Melentjeva","",""
-"UT050","Can standard negation be asymmetric in the present tense?",1,"Olga Melentjeva","tule-n : e-n tule;come-1SG :  NEG-1SG come.CNG;I come : I don't come;",""
-"UT051","Can non-finite dependent clauses use the standard negation construction?",0,"Olga Melentjeva","",""
-"UT052","Is there a special negator that combines with non-finite forms?",0,"Olga Melentjeva","",""
-"UT053","Are there special negative non-finite forms?",1,"Olga Melentjeva","Opaštu-ma-tta on jykie šua-ha hyvy-ä työ-tä;learn-SUP-ABE be.3SG hard get-INF good-PRT work-PRT;It is hard to get a good job without learning;Zaikov 2013: 199",""
-"UT054","Is there an impersonal passive construction?",1,"Olga Melentjeva","Täššä ruata-h hyvin;here work.IPS-PRS.3PL well;Here (people) work well;",""
-"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Olga Melentjeva","juokši-ja heponi;run-ACT.PRS.PTCP horse;a horse that is running;Zaikov 2013: 200",""
-"UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Olga Melentjeva","",""
-"UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Olga Melentjeva","",""
-"UT058","Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Olga Melentjeva","",""
-"UT059","Is there a future participle?",0,"Olga Melentjeva","",""
-"UT060","Are there participles that can encode their subject by possessive suffixes?",0,"Olga Melentjeva","",""
-"UT061","Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?",0,"Olga Melentjeva","","The subject is encoded with the genitive."
-"UT062","Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?",1,"Olga Melentjeva","Luve-tu-i-šta kirjo-i-šta;read-PASS.PST.PTCP-PL-ELA book-PL-ELA;of/about the books that have been read;",""
-"UT063","Are there nonfinite forms that can be used both as participles and action nominalizations?",0,"Olga Melentjeva","","There are separate action nominalizations, e.g. šynny-ntä (< šyntyö) 'birth', juo-mini (< juuvva) 'drinking' (Zaikov 2013: 105-106)."
-"UT064","Are there nonfinite forms that can be used both as participles and agentive nominalizations?",1,"Olga Melentjeva","leikki-jä-t;play-AG.NMLZ-PL;players;|leikki-jä-t lapše-t;play-AG.NMLZ-PL child-PL;playing children;Zaikov 2013: 201",""
-"UT065","Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Olga Melentjeva","",""
-"UT066","Is OV the neutral order in affirmative imperative clauses?",0,"Olga Melentjeva","Juo čajju-o!;drink.IMP.2SG tea-PRT;Drink tea!;",""
-"UT067","Is it possible to place an object between the negative marker and the main verb in imperative constructions? ",1,"Olga Melentjeva","Elä ši-tä kirveš-tä ota; NEG.IMP.2SG this-PRT ax-PRT take.CNG;Don't take this ax!;",""
-"UT068","Are there preverbs?",0,"Olga Melentjeva","",""
-"UT069","Are there verbal prefixes?",0,"Olga Melentjeva","",""
-"UT070","Is there diminutive (hypocoristic) marking on verbs?",0,"Olga Melentjeva","",""
-"UT071","Can modifiers of action nominalization in agent and patient roles both be marked like possessors?",1,"Olga Melentjeva","poja-n peže-mini;boy-GEN wash-NMLZ;washing of the boy / washing the boy;",""
-"UT072","Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Olga Melentjeva","runon kirjotta-mini;poem-GEN write-NMLZ;poem writing;|kirjota-n runo-n;write-1SG poem-GEN;I'll write a poem;",""
-"UT073","Do core adjectives agree with the subject noun in number in the predicative position?",1,"Olga Melentjeva","poja-t olla-h pitä-t;boy-PL be.IPS-3PL tall-PL;The boys are tall;",""
-"UT074","Is it possible to form synthetic superlative?",1,"Olga Melentjeva","matal-in;low-SPRL;the lowest;|kov-in;hard-SPRL;the hardest;",""
-"UT075","Can adpositions have person/number marking?",0,"Olga Melentjeva","",""
-"UT076","Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Olga Melentjeva","talon ieššä : talon ieštä : talon eteh;;to the front of the house : in front of the house : from the front of the house;Zaikov 2013: 221;",""
-"UT077","Is case compounding possible?",0,"Olga Melentjeva","",""
-"UT078","Are there case categories only found in pronouns?",1,"Olga Melentjeva","miu-t;I-ACC;me;|šiu-t;you-ACC;you;","Additionally, pronouns appear in the accusative case."
-"UT079","Does the numeral modification of a noun have an effect on its case selection? ",1,"Olga Melentjeva","ykši kirja : kolme kirju-a;one.NOM.SG book.NOM.SG : three.NOM.SG book-PRT.SG;one book : three books;",""
-"UT080","Is the singular form of the noun also used with numerals bigger than 1?",1,"Olga Melentjeva","ykši kirja : kolme kirju-a;one.NOM.SG book.NOM.SG : three.NOM.SG book-PRT.SG;one book : three books;",""
-"UT081","Is there a genitive case that has an affix?",1,"Olga Melentjeva","hepose-n;horse-GEN;horse's;",""
-"UT082","Is there a dative case used to express indirect object/receiver/goal (different from a local case)?",0,"Olga Melentjeva","",""
-"UT083","Is there a terminative case?",1,"Olga Melentjeva","meččähšuati","Zaikov (2013), however, considers šuati as postposition."
-"UT084","Is there a separate case to indicate without what/who an action takes place / does not take place?",1,"Olga Melentjeva","murkina-tta;breakfast-ABE;without breakfast;",""
-"UT085","Is there a separate case to mark the motion along or by the referent of the noun (prolative)?",0,"Olga Melentjeva","","The postposition myötiä 'along' is used instead."
-"UT086","Is there a locative case that marks goal?",0,"Olga Melentjeva","","The locative case shows syncretism with the lative case, e.g. štola-lla (table-ADE/ALL) 'to the table, on the table'."
-"UT087","Is there a locative case that marks location?",0,"Olga Melentjeva","","There is syncretism between goal and location marking."
-"UT088","Is there a locative case that marks source?",1,"Olga Melentjeva","štola-lta;table-ABL;from the table;",""
-"UT089","Is there case syncretism of goal and location marking?",1,"Olga Melentjeva","koira-lla;dog-ALL/ADE;to the dog, dog has [sth]…;",""
-"UT090","Is there case syncretism of location and source marking?",0,"Olga Melentjeva","",""
-"UT091","Are there two sets of local cases?",1,"Olga Melentjeva","",""
-"UT092","Is there a third set of local cases?",0,"Olga Melentjeva","",""
-"UT093","Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?",1,"Olga Melentjeva","lehmi-neh;cow-COM;with a cow/cows;","The comitative is added to the plural stem but it can either have a singular or plural interpretation (Zaikov 2013: 101). Cf. venehe-llä boat-ALL/ADE 'by boat'."
-"UT094","Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Olga Melentjeva","",""
-"UT095","Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?",1,"Olga Melentjeva","Tyttö muuttu jouččene-kši;girl turn.3SG swan-TRA;The girl turns into a swan;Zaikov 2013: 88",""
-"UT096","Is there a separate case for marking the state of being (essive), which is different from the translative?",1,"Olga Melentjeva","Tuatto-ni ruata-u opaštaja-na;dad-POSS.1SG work-3SG teacher-ESS;My dad is working as a teacher;",""
-"UT097","Is there a separate morphological marker for expressing equative meaning?",0,"Olga Melentjeva","",""
-"UT098","Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?",0,"Olga Melentjeva","","A postposition is used instead, e.g. šilma varoin paiššetty (you.PRT for bake-PASS.PST.PTCP) 'baked for you'."
-"UT099","Is there in addition to the basic declension a declension different from a possessive declension? ",0,"Olga Melentjeva","",""
-"UT100","Is it possible to use singular with paired body parts/clothing/accessories that accompany them?",0,"Olga Melentjeva","",""
-"UT101","Can the marking of the possessor in the attributive construction vary?",0,"Olga Melentjeva","",""
-"UT102","Can the possessor in the attributive construction be marked with the nominative?",0,"Olga Melentjeva","",""
-"UT103","Is non-singular possession marked in the possessive declension?",0,"Olga Melentjeva","",""
-"UT104","Can 2Sg possessive suffix be used to mark definiteness? ",0,"Olga Melentjeva","",""
-"UT105","Can 3Sg possessive suffix be used to mark definiteness? ",0,"Olga Melentjeva","",""
-"UT106","Is there animacy distinction in independent interrogative pronouns?",1,"Olga Melentjeva","mi;;what;|ken;;who;",""
-"UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Olga Melentjeva","",""
-"UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Olga Melentjeva","",""
-"UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?",1,"Olga Melentjeva","še tulou;it come-3SG;S/he comes;
-",""
-"UT110","Is the order of possessive suffix and case suffix across the paradigm the same?",1,"Olga Melentjeva","muamo-lta-ni;mother-ABE-POSS.1SG;from my mother;","case suffix + possessive suffix"
-"UT111","Is the order of number and case suffixes fixed across the paradigm the same?",1,"Olga Melentjeva","koulu-loi-šša;school-PL-INE;in the schools;","number + case suffix"
-"UT112","Are there different words for mother’s brother and father’s brother?",0,"Eva Saar","",""
-"UT113","Are there different words for younger and older relative for other relations than siblings?",0,"Eva Saar","",""
-"UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?",0,"Eva Saar","",""
-"UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?",0,"Eva Saar","",""
-"UT116","Is there contrastive length of consonants?",1,"Eva Saar","kanan [ˈka.nan] hen.GEN.SG vs. kannan [ˈkan.nan] heel.GEN.SG",""
-"UT117","Is there contrastive length of vowels?",1,"Eva Saar","tuli [ˈtu.liˑ] ‘fire’ vs. tuuli [ˈtuː.li]  ‘wind’",""
-"UT118","Is there contrast between short and long unstressed vowels?",1,"Eva Saar","puhu [ˈpu.huˑ] 'blowing, gust' vs. puhuu [ˈpu.huː] blow.PRS.3SG",""
-"UT119","Is there contrast in duration of geminate consonants?",0,"Eva Saar","",""
-"UT120","Are there more than two phonological quantities? ",0,"Eva Saar","",""
-"UT121","Are there extralong syllables? ",1,"Eva Saar","juokšomah [ˈjuok.ʃo.mah] run.SUP.ILL",""
-"UT122","Is the main foot structure trochaic?",1,"Eva Saar","kana [ˈka.naˑ] ’hen’",""
-"UT123","Is there lexically distinctive word stress?",0,"Eva Saar","",""
-"UT124","Is there morphologically conditioned stress?",1,"Eva Saar; KKVS","houkuttamińi [ˈhou.kut.taˌmi.nʲi] 'tempting; alluring'",""
-"UT125","Is there fixed primary stress?",1,"Eva Saar","kana [ˈka.naˑ] 'hen'",""
-"UT126","Is there stress in heavy syllables?",0,"Eva Saar","",""
-"UT127","Is there non-initial primary stress?",0,"Eva Saar","",""
-"UT128","Is there palatal vowel harmony?",1,"Eva Saar; KKVS","kyläläińi [ˈky.læˌlæi.nʲi] 'village resident'",""
-"UT129","Is there velar vowel harmony?",0,"Eva Saar","",""
-"UT130","Is there labial vowel harmony? ",0,"Eva Saar","",""
-"UT131","Are there rising diphthongs? ",1,"Eva Saar","kauha [ˈkau.ha] 'scoop; dipper'",""
-"UT132","Are there lowering diphthongs?",1,"Eva Saar","tuohuš [ˈtuo.huʃ] 'candle'",""
-"UT133","Is there qualitative contrast between subsets of short and long vowels?",0,"Eva Saar","",""
-"UT134","Are there full vs. reduced vowels as contrastive subsets? ",0,"Eva Saar","",""
-"UT135","Is there front high rounded vowel ü [y]?",1,"Eva Saar","pyy [pyː] 'Tetrastes bonasia', yksin [ˈyk.sin] 'alone'",""
-"UT136","Is there front midhigh rounded vowel ö [ø]?",1,"Eva Saar","öińi [ˈøi.nʲi] 'nightly', šöi [ʃøi] eat.PST.3SG",""
-"UT137","Is there back high unrounded vowel ï [ɯ]?",0,"Eva Saar","",""
-"UT138","Is there back midhigh unrounded vowel ë [ɤ]?",0,"Eva Saar","",""
-"UT139","Is there back low round vowel [ɒ]?",0,"Eva Saar","",""
-"UT140","Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?",1,"Eva Saar","päre [ˈpæ.reˑ] ‘pine splinter’, pereh [ˈpe.reh] ‘family’",""
-"UT141","Are there word-initial consonant clusters?",1,"Eva Saar","klimppu [ˈklimp.pu] 'loaf of bread / brick-bread', klasi [ˈkla.si] 'glass', stauttša [ˈstaut.t͡ʃa] 'bowl' ",""
-"UT142","Are there word-internal consonant clusters in syllable onset?",0,"Eva Saar","",""
-"UT143","Are there consonant clusters in syllable coda?",1,"Eva Saar","huršti [ˈhurʃ.tʲi]  '(linen) fabric, towel, carpet'",""
-"UT144","Are there clusters of three or more consonants in a word between vowels?",1,"Eva Saar","huršti [ˈhurʃ.tʲi] '(linen) fabric, towel, carpet', harškie",""
-"UT145","Are there word-final clusters of three or more consonants?",0,"Eva Saar","",""
-"UT146","Are there palatalized dentals? ",1,"Eva Saar","veĺĺi [ˈvelʲ.lʲi] 'brother', n'apa [ˈnʲa.pa] 'belly button'",""
-"UT147","Are there palatalized labials and velars? ",0,"Eva Saar","",""
-"UT148","Is there palatal stop [c]?",0,"Eva Saar","",""
-"UT149","Is there palatal nasal [ɲ]?",0,"Eva Saar","",""
-"UT150"," Is there palatal lateral [ʎ]?",0,"Eva Saar","",""
-"UT151","Is there phonemic velar nasal [ŋ]?",0,"Eva Saar","","ŋ is an allophone, e.g. kenkät [ˈkeŋ.kæt] 'shoes' "
-"UT152","Is there dental affricate [t͡s]?",0,"Eva Saar","",""
-"UT153","Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Eva Saar","vačča [ˈvat͡ʃ.t͡ʃa] 'belly', eččie [ˈet͡ʃ.t͡ʃie]",""
-"UT154","Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?",1,"Eva Saar","šoalis [ˈʃoa.lis] 'prey, fair game' ","Cf. vasara, sakara (also in Tver) (see Zaikov 2013)."
-"UT155","Are there voiced plosives [b, g, d]?",0,"Eva Saar","","In recent loanwords only (e.g. balalaikka)."
-"UT156","Is there glottal stop [ˀ]?",0,"Eva Saar","",""
-"UT157","Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?",0,"Eva Saar","",""
-"UT158","Is there a constraint on word-initial r?",0,"Eva Saar","",""
-"UT159","Is there laryngeal fricative [h]?",1,"Eva Saar","raha [ˈra.haˑ] 'money'",""
-"UT160","Is there voiced velar fricative [ɣ]?",0,"Eva Saar","",""
-"UT161","Is there voiceless velar fricative [x]?",0,"Eva Saar","",""
-"UT162","Is there voiced dental fricative [ð]?",0,"Eva Saar","",""
-"UT163","Is there phonemic labio-velar approximant [w]?",0,"Eva Saar","",""
-"UT164","Is there voiceless labiodental fricative [f]?",0,"Eva Saar","",""
-"UT165","Is there radical qualitative consonant gradation?",1,"Eva Saar","joki [ˈjo.ki] 'river' vs. jovešša [ˈjo.veʃ.ʃa] river.INE.SG",""
-"UT166","Is there quantitative consonant gradation?",1,"Eva Saar","šukka [ˈʃuk.ka] 'stocking' vs. šukat [ˈʃu.kat] 'stockings'",""
+ID,Name,North.Karelian,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,"Olga Melentjeva, p.c.",,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,"Olga Melentjeva, p.c.",,
+UT003,Can finite verbs agree in number with the nominal object?,0,"Olga Melentjeva, p.c.",,
+UT004,Can an adnominal property word agree with the noun in case?,1,"Olga Melentjeva, p.c.",kaunehe-šša koti-šša;beautiful-INE house-INE;in a beautiful house;,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Olga Melentjeva, p.c.",,The adnominal property word agrees with the head noun in all cases.
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Olga Melentjeva, p.c.",,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Olga Melentjeva, p.c.",talo-n takana;house-GEN behind;behind the house;,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Olga Melentjeva, p.c.",Läksi-mä meččä-h päivä-n noušše-šša;go.PST-1PL forest-ILL sun-GEN rise.INF-INE;We went to the forest when the sun came up;,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Olga Melentjeva, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Olga Melentjeva, p.c.",,
+UT011,Does object marking correlate with aspectuality? ,1,"Olga Melentjeva, p.c.","Ošša-n kirja-n;buy-1SG book-GEN;I will buy a book;|Ošša-n kirju-a;buy-1SG book-PRT;I am buying a book;
+",
+UT012,Does the marking of the object depend on the verb conjugation form? ,1,"Olga Melentjeva, p.c.",Ota kirja!;read.IMP.2SG book.NOM;Take the book!;|Elä ota kirju-a!;NEG.IMP.2SG take.IMP book-PRT;Don't take the book!;,
+UT013,Is there differential subject marking?,1,"Olga Melentjeva, p.c.",Štola-lla on leipy-ä;table-ADE  be.3SG bread-PRT;There is some bread on the table;|Štola-lla on leipä;table-ADE  be.3SG bread.NOM;There is a bread on the table;,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Olga Melentjeva, p.c.",Poika näk-i kontie-n da juokš-i poiš;boy see-PST.3SG bear-GEN and run-PST.3SG away;The boy saw the bear and ran away;,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Olga Melentjeva, p.c.",,
+UT016,Is there a grammatical device for habituality?,0,"Olga Melentjeva, p.c.",,
+UT017,Is there a grammatical device for frequentative?,1,Zaikov 2013: 211,juokše-n > juokše-ntele-n;run-1SG > run-FRQ-1SG;I run > I run around;,
+UT018,Is there a grammatical device for progressivity?,1,"Olga Melentjeva, p.c.",Mie ole-n nyt kirjoitta-ma-šša;1SG be-1SG now write-SUP-INE;I am now writing (sth);|Ole-n osta-ma-šša kirju-a;be-1SG buy-SUP-INE book-PRT;I am buying a book;,
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Olga Melentjeva, p.c.",Ošša-n kirja-n;buy-1SG book-GEN;I'll buy a book;,
+UT020,Is there a grammatical device for immediate future?,1,"Olga Melentjeva, p.c.",Ole-n lähtö-mä-ššä;be-1SG go-SUP-INE;I am about to leave;,
+UT021,Is there a grammatical device for pluperfect?,1,"Olga Melentjeva, p.c.",Hiän ol-i jo män-nyt muata;3SG be-PST.3SG already go-ACT.PST.PTCP sleep.INF;S/he had already now gone to bed;,
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Olga Melentjeva, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,0,"Olga Melentjeva, p.c.",,The negation is formed using a negative particle. 
+UT024,Is there grammatical marking of mirativity?,0,"Olga Melentjeva, p.c.",,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Olga Melentjeva, p.c.",,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,"Olga Melentjeva, p.c.",Sö-isi-n leivä-n;eat-COND-1SG bread-GEN;I would eat the bread;,
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,"Olga Melentjeva, p.c.","Jos paista-si-t leivä-n, ni mie sö-isi-n se-n;if bake-COND-2SG bread-GEN so 1SG eat-COND-1SG it-GEN;If you would bake a bread I would eat it;",
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Olga Melentjeva, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,1,"Olga Melentjeva, p.c.","Kun ruohtin-ne-t lähti-e, ni läkkä meije-n kera;if dare-POT-2SG go-INF so go.IMP.2SG 1PL-GEN with;If you dare to go, so come with us;
+",Potential is not used very often.
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Olga Melentjeva, p.c.",,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,"Olga Melentjeva, p.c.","Hiän pais-kah, mie e-n välitä;3SG speak-JUSS.3SG 1SG NEG-1SG care.CNG;Let him/her speak I don't care;",
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Olga Melentjeva, p.c.",,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Olga Melentjeva, p.c.",,"Typically, the conditional mood is used. "
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Olga Melentjeva, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Olga Melentjeva, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Olga Melentjeva, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Olga Melentjeva, p.c.",,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,1,"Olga Melentjeva, p.c.",Hyö šyy-vväh;3PL eat-IPS.PRS.3PL;They eat;,
+UT039,Can third person plural verb forms be used for impersonal reference?,0,"Olga Melentjeva, p.c.",,
+UT040,Can second person singular verb forms be used in generic meaning?,1,"Olga Melentjeva, p.c.","Kun kunnolla ruova-t, nii tulo-u palkka;if well work-2SG then come-3SG salary;If you work well then you get paid;",
+UT042,Are clauses with only infinitive predicates possible?,0,"Olga Melentjeva, p.c.",,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Olga Melentjeva, p.c.",,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Olga Melentjeva, p.c.",Pihalla vihmuu;outside rain-3SG;It is raining outside;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,"Olga Melentjeva, p.c.",Hiän on opaštaja;3SG be.3SG teacher;S/he is a teacher;,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Olga Melentjeva, p.c.",Hiän ol-i opaštaja;3SG be-PST.3SG teacher;S/he was a teacher;,
+UT047,Can locative adverbial phrases act as predicates without a copula?,0,"Olga Melentjeva, p.c.",,"It is common to use the copula, e.g. Mie ole-n pihalla (I be-1SG outside) 'I'm outside'."
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Zaikov 2013: 223,miehe-t ta naise-t;man-PL and woman-PL;men and women;|tul-i-ma koti-h ta rupe-i-ma šyüö-mä-h;come-PST-1PL and begin-PST-1PL eat-SUP.ILL;,
+UT049,Does existential negation have a separate operator?,0,"Olga Melentjeva, p.c.",,
+UT050,Can standard negation be asymmetric in the present tense?,1,"Olga Melentjeva, p.c.",tule-n : e-n tule;come-1SG :  NEG-1SG come.CNG;I come : I don't come;,
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,"Olga Melentjeva, p.c.",,
+UT052,Is there a special negator that combines with non-finite forms?,0,"Olga Melentjeva, p.c.",,
+UT053,Are there special negative non-finite forms?,1,Zaikov 2013: 199,Opaštu-ma-tta on jykie šua-ha hyvy-ä työ-tä;learn-SUP-ABE be.3SG hard get-INF good-PRT work-PRT;It is hard to get a good job without learning;,
+UT054,Is there an impersonal passive construction?,1,"Olga Melentjeva, p.c.",Täššä ruata-h hyvin;here work.IPS-PRS.3PL well;Here (people) work well;,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Zaikov 2013: 200,juokši-ja heponi;run-ACT.PRS.PTCP horse;a horse that is running;,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Olga Melentjeva, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Olga Melentjeva, p.c.",,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Olga Melentjeva, p.c.",,
+UT059,Is there a future participle?,0,"Olga Melentjeva, p.c.",,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,"Olga Melentjeva, p.c.",,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,"Olga Melentjeva, p.c.",,The subject is encoded with the genitive.
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,1,"Olga Melentjeva, p.c.",Luve-tu-i-šta kirjo-i-šta;read-PASS.PST.PTCP-PL-ELA book-PL-ELA;of/about the books that have been read;,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,Zaikov 2013: 105-106,,"There are separate action nominalizations, e.g. šynny-ntä (< šyntyö) 'birth', juo-mini (< juuvva) 'drinking'."
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Zaikov 2013: 201,leikki-jä-t;play-AG.NMLZ-PL;players;|leikki-jä-t lapše-t;play-AG.NMLZ-PL child-PL;playing children;,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Olga Melentjeva, p.c.",,
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Olga Melentjeva, p.c.",Juo čajju-o!;drink.IMP.2SG tea-PRT;Drink tea!;,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Olga Melentjeva, p.c.",Elä ši-tä kirveš-tä ota; NEG.IMP.2SG this-PRT ax-PRT take.CNG;Don't take this ax!;,
+UT068,Are there preverbs?,0,"Olga Melentjeva, p.c.",,
+UT069,Are there verbal prefixes?,0,"Olga Melentjeva, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Olga Melentjeva, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,"Olga Melentjeva, p.c.",poja-n peže-mini;boy-GEN wash-NMLZ;washing of the boy / washing the boy;,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Olga Melentjeva, p.c.",runon kirjotta-mini;poem-GEN write-NMLZ;poem writing;|kirjota-n runo-n;write-1SG poem-GEN;I'll write a poem;,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Olga Melentjeva, p.c.",poja-t olla-h pitä-t;boy-PL be.IPS-3PL tall-PL;The boys are tall;,
+UT074,Is it possible to form synthetic superlative?,1,"Olga Melentjeva, p.c.",matal-in;low-SPRL;the lowest;|kov-in;hard-SPRL;the hardest;,
+UT075,Can adpositions have person/number marking?,0,"Olga Melentjeva, p.c.",,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Zaikov 2013: 221,talon ieššä : talon ieštä : talon eteh;;to the front of the house : in front of the house : from the front of the house;,
+UT077,Is case compounding possible?,0,"Olga Melentjeva, p.c.",,
+UT078,Are there case categories only found in pronouns?,1,"Olga Melentjeva, p.c.",miu-t;1SG-ACC;me;|šiu-t;2SG-ACC;you;,"Additionally, pronouns appear in the accusative case."
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,1,"Olga Melentjeva, p.c.",ykši kirja : kolme kirju-a;one.NOM.SG book.NOM.SG : three.NOM.SG book-PRT.SG;one book : three books;,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Olga Melentjeva, p.c.",ykši kirja : kolme kirju-a;one.NOM.SG book.NOM.SG : three.NOM.SG book-PRT.SG;one book : three books;,
+UT081,Is there a genitive case that has an affix?,1,"Olga Melentjeva, p.c.",hepose-n;horse-GEN;horse's;,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Olga Melentjeva, p.c.",,
+UT083,Is there a terminative case?,1,"Olga Melentjeva, p.c.",meččähšuati,"Zaikov (2013), however, considers šuati as postposition."
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Olga Melentjeva, p.c.",murkina-tta;breakfast-ABE;without breakfast;,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Olga Melentjeva, p.c.",,The postposition myötiä 'along' is used instead.
+UT086,Is there a locative case that marks goal?,0,"Olga Melentjeva, p.c.",,"The locative case shows syncretism with the lative case, e.g. štola-lla (table-ADE/ALL) 'to the table, on the table'."
+UT087,Is there a locative case that marks location?,0,"Olga Melentjeva, p.c.",,There is syncretism between goal and location marking.
+UT088,Is there a locative case that marks source?,1,"Olga Melentjeva, p.c.",štola-lta;table-ABL;from the table;,
+UT089,Is there case syncretism of goal and location marking?,1,"Olga Melentjeva, p.c.","koira-lla;dog-ALL/ADE;to the dog, dog has [sth]…;",
+UT090,Is there case syncretism of location and source marking?,0,"Olga Melentjeva, p.c.",,
+UT091,Are there two sets of local cases?,1,"Olga Melentjeva, p.c.",,
+UT092,Is there a third set of local cases?,0,"Olga Melentjeva, p.c.",,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Zaikov 2013: 101,lehmi-neh;cow-COM;with a cow/cows;,"The comitative is added to the plural stem but it can either have a singular or plural interpretation, cf. venehe-llä (boat-ALL/ADE) 'by boat'."
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Olga Melentjeva, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Zaikov 2013: 88,Tyttö muuttu jouččene-kši;girl turn.3SG swan-TRA;The girl turns into a swan;,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",1,"Olga Melentjeva, p.c.",Tuatto-ni ruata-u opaštaja-na;dad-POSS.1SG work-3SG teacher-ESS;My dad is working as a teacher;,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Olga Melentjeva, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Olga Melentjeva, p.c.",,"A postposition is used instead, e.g. šilma varoin paiššetty (you.PRT for bake-PASS.PST.PTCP) 'baked for you'."
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Olga Melentjeva, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Olga Melentjeva, p.c.",,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Olga Melentjeva, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,0,"Olga Melentjeva, p.c.",,
+UT103,Is non-singular possession marked in the possessive declension?,0,"Olga Melentjeva, p.c.",,
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Olga Melentjeva, p.c.",,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Olga Melentjeva, p.c.",,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Olga Melentjeva, p.c.",mi;;what;|ken;;who;,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Olga Melentjeva, p.c.",,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Olga Melentjeva, p.c.",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Olga Melentjeva, p.c.","še tulou;it come-3SG;S/he comes;
+",
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,"Olga Melentjeva, p.c.",muamo-lta-ni;mother-ABE-POSS.1SG;from my mother;,case suffix + possessive suffix
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Olga Melentjeva, p.c.",koulu-loi-šša;school-PL-INE;in the schools;,number + case suffix
+UT112,Are there different words for mother’s brother and father’s brother?,0,"Eva Saar, p.c.",,
+UT113,Are there different words for younger and older relative for other relations than siblings?,0,"Eva Saar, p.c.",,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,"Eva Saar, p.c.",,
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Eva Saar, p.c.",,
+UT116,Is there contrastive length of consonants?,1,"Eva Saar, p.c.",kanan [ˈka.nan] hen.GEN.SG vs. kannan [ˈkan.nan] heel.GEN.SG,
+UT117,Is there contrastive length of vowels?,1,"Eva Saar, p.c.",tuli [ˈtu.liˑ] ‘fire’ vs. tuuli [ˈtuː.li]  ‘wind’,
+UT118,Is there contrast between short and long unstressed vowels?,1,"Eva Saar, p.c.","puhu [ˈpu.huˑ] 'blowing, gust' vs. puhuu [ˈpu.huː] blow.PRS.3SG",
+UT119,Is there contrast in duration of geminate consonants?,0,"Eva Saar, p.c.",,
+UT120,Are there more than two phonological quantities? ,0,"Eva Saar, p.c.",,
+UT121,Are there extralong syllables? ,1,"Eva Saar, p.c.",juokšomah [ˈjuok.ʃo.mah] run.SUP.ILL,
+UT122,Is the main foot structure trochaic?,1,"Eva Saar, p.c.",kana [ˈka.naˑ] ’hen’,
+UT123,Is there lexically distinctive word stress?,0,"Eva Saar, p.c.",,
+UT124,Is there morphologically conditioned stress?,1,KKVS,houkuttamińi [ˈhou.kut.taˌmi.nʲi] 'tempting; alluring',
+UT125,Is there fixed primary stress?,1,"Eva Saar, p.c.",kana [ˈka.naˑ] 'hen',
+UT126,Is there stress in heavy syllables?,0,"Eva Saar, p.c.",,
+UT127,Is there non-initial primary stress?,0,"Eva Saar, p.c.",,
+UT128,Is there palatal vowel harmony?,1,KKVS,kyläläińi [ˈky.læˌlæi.nʲi] 'village resident',
+UT129,Is there velar vowel harmony?,0,"Eva Saar, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Eva Saar, p.c.",,
+UT131,Are there rising diphthongs? ,1,"Eva Saar, p.c.",kauha [ˈkau.ha] 'scoop; dipper',
+UT132,Are there lowering diphthongs?,1,"Eva Saar, p.c.",tuohuš [ˈtuo.huʃ] 'candle',
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Eva Saar, p.c.",,
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,"Eva Saar, p.c.",,
+UT135,Is there front high rounded vowel ü [y]?,1,"Eva Saar, p.c.","pyy [pyː] 'Tetrastes bonasia', yksin [ˈyk.sin] 'alone'",
+UT136,Is there front midhigh rounded vowel ö [ø]?,1,"Eva Saar, p.c.","öińi [ˈøi.nʲi] 'nightly', šöi [ʃøi] eat.PST.3SG",
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Eva Saar, p.c.",,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Eva Saar, p.c.",,
+UT139,Is there back low round vowel [ɒ]?,0,"Eva Saar, p.c.",,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,"Eva Saar, p.c.","päre [ˈpæ.reˑ] ‘pine splinter’, pereh [ˈpe.reh] ‘family’",
+UT141,Are there word-initial consonant clusters?,1,"Eva Saar, p.c.","klimppu [ˈklimp.pu] 'loaf of bread / brick-bread', klasi [ˈkla.si] 'glass', stauttša [ˈstaut.t͡ʃa] 'bowl' ",
+UT142,Are there word-internal consonant clusters in syllable onset?,0,"Eva Saar, p.c.",,
+UT143,Are there consonant clusters in syllable coda?,1,"Eva Saar, p.c.","huršti [ˈhurʃ.tʲi]  '(linen) fabric, towel, carpet'",
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Eva Saar, p.c.","huršti [ˈhurʃ.tʲi] '(linen) fabric, towel, carpet', harškie",
+UT145,Are there word-final clusters of three or more consonants?,0,"Eva Saar, p.c.",,
+UT146,Are there palatalized dentals? ,1,"Eva Saar, p.c.","veĺĺi [ˈvelʲ.lʲi] 'brother', n'apa [ˈnʲa.pa] 'belly button'",
+UT147,Are there palatalized labials and velars? ,0,"Eva Saar, p.c.",,
+UT148,Is there palatal stop [c]?,0,"Eva Saar, p.c.",,
+UT149,Is there palatal nasal [ɲ]?,0,"Eva Saar, p.c.",,
+UT150, Is there palatal lateral [ʎ]?,0,"Eva Saar, p.c.",,
+UT151,Is there phonemic velar nasal [ŋ]?,0,"Eva Saar, p.c.",,"ŋ is an allophone, e.g. kenkät [ˈkeŋ.kæt] 'shoes' "
+UT152,Is there dental affricate [t͡s]?,0,"Eva Saar, p.c.",,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Eva Saar, p.c.","vačča [ˈvat͡ʃ.t͡ʃa] 'belly', eččie [ˈet͡ʃ.t͡ʃie]",
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Eva Saar, p.c.","šoalis [ˈʃoa.lis] 'prey, fair game' ","Cf. vasara, sakara (also in Tver) (see Zaikov 2013)."
+UT155,"Are there voiced plosives [b, g, d]?",0,"Eva Saar, p.c.",,In recent loanwords only (e.g. balalaikka).
+UT156,Is there glottal stop [ˀ]?,0,"Eva Saar, p.c.",,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Eva Saar, p.c.",,
+UT158,Is there a constraint on word-initial r?,0,"Eva Saar, p.c.",,
+UT159,Is there laryngeal fricative [h]?,1,"Eva Saar, p.c.",raha [ˈra.haˑ] 'money',
+UT160,Is there voiced velar fricative [ɣ]?,0,"Eva Saar, p.c.",,
+UT161,Is there voiceless velar fricative [x]?,0,"Eva Saar, p.c.",,
+UT162,Is there voiced dental fricative [ð]?,0,"Eva Saar, p.c.",,
+UT163,Is there phonemic labio-velar approximant [w]?,0,"Eva Saar, p.c.",,
+UT164,Is there voiceless labiodental fricative [f]?,0,"Eva Saar, p.c.",,
+UT165,Is there radical qualitative consonant gradation?,1,"Eva Saar, p.c.",joki [ˈjo.ki] 'river' vs. jovešša [ˈjo.veʃ.ʃa] river.INE.SG,
+UT166,Is there quantitative consonant gradation?,1,"Eva Saar, p.c.",šukka [ˈʃuk.ka] 'stocking' vs. šukat [ˈʃu.kat] 'stockings',
