@@ -1,176 +1,176 @@
-ID,Name,Courland.Livonian,Source,Example,Comment,,,,,,
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,Miina Norvik,,,,,,,,
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Miina Norvik,,,,,,,,
-UT003,Can finite verbs agree in number with the nominal object?,0,Miina Norvik,,,,,,,,
-UT004,Can an adnominal property word agree with the noun in case?,1,Miina Norvik,sūr-sõ knašš-õs nīn-õs,big-INE beautiful-INE town-INE,in a beautiful big town,Damberg 1935,,,,
-UT005,Are there cases that do not show agreement in terms of case?,1,Miina Norvik,knaš neits-õn,beautiful.GEN girl-DAT,to a beautiful girl,,,,,
-UT006,Can adpositions be used to mark core verbal arguments?,0,Miina Norvik,,,,,,,,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Miina Norvik,Vanāǟma vȯst-īz kalāmī’e-d kä’dst lešti,grandmother buy-PST.3SG fisherman-PL.GEN from flatfish.PL.PRT,Grandmother bought some flatfish from the fishermen,AEDKL,,,,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Miina Norvik,,,,,,,,
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Miina Norvik,,,,,,,,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,Miina Norvik,,,,,,,,
-UT011,Does object marking correlate with aspectuality? ,1,Miina Norvik,"Ta mī-ž eņtš laps järā;3SG sell-PST.3SG own.GEN child.GEN away;S/he sold his/her child;Viitso 2008|mī’e-d bõuvõ-bõd su’dmaļ-tõ;man-PL build-3PL mill-PRT;Men are building a mill;
+"ID","Name","Courland.Livonian","Source","Example","Comment"
+"UT001","Is there a distinct category of dual for verbal agreement with a dual subject?","0","Miina Norvik","",""
+"UT002","Is non-agreement in number between the nominal subject and verbal predicate possible?","0","Miina Norvik","",""
+"UT003","Can finite verbs agree in number with the nominal object?","0","Miina Norvik","",""
+"UT004","Can an adnominal property word agree with the noun in case?","1","Miina Norvik","sūr-sõ knašš-õs nīn-õs","big-INE beautiful-INE town-INE, in a beautiful big town, Damberg 1935"
+"UT005","Are there cases that do not show agreement in terms of case?","1","Miina Norvik","knaš neits-õn","beautiful.GEN girl-DAT, to a beautiful girl"
+"UT006","Can adpositions be used to mark core verbal arguments?","0","Miina Norvik","",""
+"UT007","Can adpositions be used to mark non-core/oblique verbal arguments?","1","Miina Norvik","Vanāǟma vȯst-īz kalāmī’e-d kä’dst lešti","grandmother buy-PST.3SG fisherman-PL.GEN from flatfish.PL.PRT, Grandmother bought some flatfish from the fishermen, AEDKL"
+"UT008","Can non-finite clauses entail a special way for a core argument (S/A) marking?","1","Miina Norvik","",""
+"UT009","Can non-finite clauses entail a special way for a core argument (P) marking?","0","Miina Norvik","",""
+"UT010","Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?","0","Miina Norvik","",""
+"UT011","Does object marking correlate with aspectuality? ","1","Miina Norvik","Ta mī-ž eņtš laps järā;3SG sell-PST.3SG own.GEN child.GEN away;S/he sold his/her child;Viitso 2008|mī’e-d bõuvõ-bõd su’dmaļ-tõ;man-PL build-3PL mill-PRT;Men are building a mill;
 
-","The genitive case can be associated with perfective/bounded situations, whereas partitive can be used for imperfective/unbounded situations.",,,,,,
-UT012,Does the marking of the object depend on the verb conjugation form? ,1,Miina Norvik,"Võtā eņtš kirrõ, li tubbõ;take.IMP.2SG own.GEN ax.GEN go.IMP.2SG room.ILL;
+","The genitive case can be associated with perfective/bounded situations,  whereas partitive can be used for imperfective/unbounded situations."
+"UT012","Does the marking of the object depend on the verb conjugation form? ","1","Miina Norvik","Võtā eņtš kirrõ, li tubbõ;take.IMP.2SG own.GEN ax.GEN go.IMP.2SG room.ILL;
 Take your ax and go inside;Stalte 2011
-"," The object in the imperative clauses is typically in the genitive form. In addition, the partitive (but also the genitive) are used with negation. ",,,,,,
-UT013,Is there differential subject marking?,1,Miina Norvik,sǟ’l lī-b ju knašī-di ǟrgi-di,there will_be-3SG PTCL beautiful-PL.PRT ox-PL.PRT,There will be beautiful oxen,Setälä 1953|ǟrga-d attõ sǟl,ox-PL be.3PL there,The oxen are there,,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Miina Norvik,Siz ne võt-īz-t võrgõ-d ja Ø rūoik-iz-t kuod pūol,then 3PL take-PST-3PL net-PL.GEN and run-PST-3PL home.GEN towards,Then they took the nets and [they] ran towards home,Stalte 2011,,,,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Miina Norvik,,,,,,,,
-UT016,Is there a grammatical device for habituality?,0,Miina Norvik,,,,,,,,
-UT017,Is there a grammatical device for frequentative?,0,Miina Norvik,,Frequentative derivation in Livonian is marginal (Jantunen 2014).,,,,,,
-UT018,Is there a grammatical device for progressivity?,0,Miina Norvik,,The construction 'be' + supine  form does not tend to convey an ongoing activity.,,,,,,
-UT019,Is it common to use a verb in the present tense for future time reference? ,1,Miina Norvik,Ma mūpõ matk-õb je’ddõpē’ḑõn,1SG tomorrow travel-3SG forward,Tomorrow I'll travel forward,,,,,
-UT020,Is there a grammatical device for immediate future?,0,Miina Norvik,,,,,,,,
-UT021,Is there a grammatical device for pluperfect?,1,Miina Norvik,"ta ne-iz, ku se vȯļ õbdizõ-ks sō-nd;3SG see-PST.3SG that it be.PST.3SG silvery-TRA get-ACT.PST.PTCP.SG;S/he saw that this had turn silvery;Stalte 2011",,,,,,,
-UT022,Can aspect be expressed overtly on the negative marker?,0,Miina Norvik,,,,,,,,
-UT023,Can tense be expressed overtly on the negative marker?,1,Miina Norvik,Ta iz līeda,3SG NEG.PST.3SG find.CNG,S/he didn't find,,,,,
-UT024,Is there grammatical marking of mirativity?,0,Miina Norvik,,,,,,,,
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,Miina Norvik,,,,,,,,
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Miina Norvik,ne’i ku ma vȯl-ks lǭtõ-l,so as 1SG be-COND church_service-ADE,as though I would be at a church service,Damberg 1935,,,,
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Miina Norvik,"ku sa ka vȯl-ks-t skūol-sõ kǟ’-nd ja opp-õn, si’z ka si’nn-õn vȯl-ks ne’i ī’ž jõvā jelāmi;if 2SG also be-COND-2SG school-INE go-ACT.PST.PTCP.SG and study-ACT.PST.PTCP.SG then also 2SG-DAT  be-COND so good living;
-If you would have also gone to school and studied then you would also have such good life;Viitso 2008",,,,,,,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Miina Norvik,Sie-dā a’mmõ u’m tīe-mõst,this-PRT all.PRT be.3SG do-DEB,All this needs to be done,Damberg 1935,,,,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,0,Miina Norvik,,,,,,,,
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,Miina Norvik,,,,,,,,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Miina Norvik,Laz võtā-g sīe ibīz ja pan-gõ rattõd je’ddõ,let take-JUSS.SG this.GEN horse.GEN and put-JUSS.SG carridge.PL.GEN in front,Let him/her take the horse and put [it] in front of the carridge, Setälä 1953,,,,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Miina Norvik,"sa kīt-ist, laz ma vaḱt́ə-g āita uks-tā;2SG say-PST.2SG let 1SG guard-JUSS.SG granary.GEN door-PRT;You said that I should guard the door of the granary;Setälä 1953",,,,,,,
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,1,Miina Norvik,"sīepierāst ma tǭ’-b, la’z sa mī-gõ [---] sīe vā’škiz jarā;because_of_this 1SG want-1SG let 2SG sell-JUSS.SG this.GEN calf.GEN away;This is why I want that you would sell this calf;",,,,,,,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Miina Norvik,,,,,,,,
-UT035,Is there reflexive conjugation?,0,Miina Norvik,,,,,,,,
-UT036,Are there syntactically ditransitive verbs?,0,Miina Norvik,,,,,,,,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Miina Norvik,jel-īz-tõ,live-PST-2PL/3PL,you/they lived,,,,,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Miina Norvik,,,,,,,,
-UT039,Can third person plural verb forms be used for impersonal reference?,1,Miina Norvik,Siz mūndakõrd vȯst-īz-tõ būomvilliz-t luoimõ,then  sometimes  buy-PST-3PL cottony-PRT thread.PRT,Then sometimes cottony thread was bought,,,,,
-UT040,Can second person singular verb forms be used in generic meaning?,1,Miina Norvik,Näide,,,,,,,
-UT042,Are clauses with only infinitive predicates possible?,0,Miina Norvik,,,,,,,,
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,Miina Norvik,,"In Livonian, it is more common to use laz + the jussive form.",,,,,,
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Miina Norvik,Ni sadā-b!,now rain-3SG,Now it is raining!,Loorits 1922,"Still, the subject place may also be occupied, e.g. by vī'm 'rain', lu'm 'snow' etc.",,,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,Miina Norvik,Ta um opātiji,3SG be.3SG teacher,S/he is a teacher,,,,,
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Miina Norvik,Se  vȯļ/līb tä’m tidār mīez,this be.PST.3SG/will_be.3SG 3SG.GEN daugther.GEN husband,This was/will be his/her daugther’s husband,,,,,
-UT047,Can locative adverbial phrases act as predicates without a copula?,0,Miina Norvik,,,,,,,,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Miina Norvik,"re’bbi ja kõps;;a fox and a rabbit;|
-ta ist-īz ja kūld-iz;3SG sit-PST.3SG and listen-PST.3SG;S/he was sitting and listening;",,,,,,,
-UT049,Does existential negation have a separate operator?,0,Miina Norvik,,,,,,,,
-UT050,Can standard negation be asymmetric in the present tense?,1,Miina Norvik,ma lugū-b,1SG read-1SG,I read,|ma äb lu’g,1SG NEG.PRS.1SG read.CNG,I don’t read,,
-UT051,Can non-finite dependent clauses use the standard negation construction?,1,Miina Norvik,"Tēg lǟ-t umbõ, äb tund-õs äb kēr-idi äb Jumal joud-õ;2PL go.2PL dead_end.ILL NEG know-CVB NEG Scripture-PL.PRT NEG God.GEN power.PRT;You are mistaken, not understanding the Scriptures nor the power of God;ŪT, Matt 22:29",,,,,,,
-UT052,Is there a special negator that combines with non-finite forms?,0,Miina Norvik,,,,,,,,
-UT053,Are there special negative non-finite forms?,1,Miina Norvik,tīe-mõt tīe,do-SUP.ABE work,undone work,,,,,
-UT054,Is there an impersonal passive construction?,1,Miina Norvik,sie reit si’nn-õn sǭ-b iera’l-tõt jalg-õ,this time 2SG-DAT get-3SG cut_off-PASS.PST.PTCP leg-PRT,This time your leg will be cut off,Mägiste 1964,,,,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Miina Norvik,lu'gg-õn,read-ACT.PST.PTCP,,|lug-dõd,read.PASS.PST.PTCP,,,
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,Miina Norvik,,,,,,,,
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",1,Miina Norvik,pan̄-dǝ̂p pàik̆ka,put-PASS.PRS.PTCP place,a place where one can put things,Kettunen 1938: LXVIII ,"In Livonian, the passive present participle can relativize the P argument but in addition to that it can also relativize obliques.",,,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Miina Norvik,,,,,,,,
-UT059,Is there a future participle?,0,Miina Norvik,,,,,,,,
-UT060,Are there participles that can encode their subject by possessive suffixes?,0,Miina Norvik,,,,,,,,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,Miina Norvik,,,,,,,,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Miina Norvik,,,,,,,,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,Miina Norvik,,,,,,,,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Miina Norvik,a'ili-ji,run-AG.NMLZ,a runner,|a'ili-ji i'bbi run-AG.NMLZ horse.NOM,a running horse (lit. ‘a runner horse’),,"Livonian also has a separate active present participle but it is rearly used, the agentive nominalization tends to be used instead.",
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,Miina Norvik,,,,,,,,
-UT066,Is OV the neutral order in affirmative imperative clauses?,0,Miina Norvik,"Võtā eņtš kirrõ, li tubb-õ;take.IMP.2SG own.GEN ax.GEN go.IMP.2SG room-ILL;Take your axe and go inside;Stalte 2011
-",,,,,,,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,Miina Norvik,Alā tīedõ kartõ,IMP.NEG.2SG work-PRT afraid.IMP.CNG,Don't be afraid of work,,,,,
-UT068,Are there preverbs?,1,Miina Norvik,mǭ’zõ tappõ,down kill.INF,to kill,Viitso & Ernštreits 2012,,,,
-UT069,Are there verbal prefixes?,1,Miina Norvik,sa-kutsõnd,PFX-call.ACT.PST.PTCP,have called together,,Prefixes have been taken from Latvian.,,,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Miina Norvik,,,,,,,,
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,Miina Norvik,laps pie’zzimi,child.GEN wash-NMLZ,washing the child / child's washing,|laps pipā,child.GEN doll,a child's doll,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,Miina Norvik,sīlda parāntimi,bridge.GEN repairing,Damberg 1935|Ma parānt-õb sīlda tierrõ-ks,1SG repair-1SG bridge.GEN well-TRA,I'll repair the bridge,,The genitive and partitive cases are both object cases.,
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Miina Norvik,pū-d attõ sūr-d,tree-PL be.3PL big-PL,The trees are big,,,,,
-UT074,Is it possible to form synthetic superlative?,0,Miina Norvik,,,,,,,,
-UT075,Can adpositions have person/number marking?,0,Miina Norvik,,,,,,,,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Miina Norvik,si'zzõl : sizāl : sizāld(õ(st)),, into : inside : from inside,,"In Livonian one can also encounter syncretism, especially in the case of adpositions expressing external location.
-",,,
-UT077,Is case compounding possible?,0,Miina Norvik,,,,,,,,
-UT078,Are there case categories only found in pronouns?,0,Miina Norvik,,,,,,,,
-UT079,Does the numeral modification of a noun have an effect on its case selection? ,1,Miina Norvik,ikš kalā : kakš ka'llõ,one.NOM fish.NOM : two.NOM fish.PRT,one fish: two fish,,,,,
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Miina Norvik,ikš kalā : kakš ka'llõ,one.NOM fish.NOM : two.NOM fish.PRT,one fish: two fish,,,,,
-UT081,Is there a genitive case that has an affix?,0,Miina Norvik,,,,,,,,
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,1,Miina Norvik,Ānda sīe minn-õn,give.IMP.2SG this.GEN 1SG-DAT,Give it to me,,,,,
-UT083,Is there a terminative case?,0,Miina Norvik,,,,,,,,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Miina Norvik,luggõ-mõt,read-SUP.ABE,,|tīe-mõt,do-SUP.ABE,,,The usage of the abessive form is rare. Primarily it can be found with verbs. 
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Miina Norvik,,,,,,,,
-UT086,Is there a locative case that marks goal?,1,Miina Norvik,mõts-õ,forest-ILL,into the forest,,,,,
-UT087,Is there a locative case that marks location?,1,Miina Norvik,mõtsā-s,forest-INE,in the forest,,,,,
-UT088,Is there a locative case that marks source?,1,Miina Norvik,mõtsā-st,forest-ELA,from the forest,,,,,
-UT089,Is there case syncretism of goal and location marking?,1,Miina Norvik,"pȭrand-õl;floor-ALL/ADE;to the floor, on the floor;",,,,,,,
-UT090,Is there case syncretism of location and source marking?,0,Miina Norvik,,,,,,,,
-UT091,Are there two sets of local cases?,0,Miina Norvik,,The external local cases occur in fossilized adverbs.,,,,,,
-UT092,Is there a third set of local cases?,0,Miina Norvik,,,,,,,,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Miina Norvik,"kǭjõ-ks;spoon-INS;with a spoon;|lapsõ-ks;child-INS;with a child;
-",,,,,,,
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Miina Norvik,,,,,,,,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Miina Norvik,"Di’drõk kōgiņ perīmī’ekõks i’z ūo;Di'drõk long master-INS NEG.PST.3SG be.CNG;Di'drõk was not  master for long;perīmī’ekõks;AEDKL, F1098-03,-04|master-INS;with a master;",,,,,,,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Miina Norvik,,There are almost no traces of the essive case.,,,,,,
-UT097,Is there a separate morphological marker for expressing equative meaning?,0,Miina Norvik,,,,,,,,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Miina Norvik,,,,,,,,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Miina Norvik,,,,,,,,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Miina Norvik,,,,,,,,
-UT101,Can the marking of the possessor in the attributive construction vary?,0,Miina Norvik,,,,,,,,
-UT102,Can the possessor in the attributive construction be marked with the nominative?,0,Miina Norvik,,"In Livonian, the nominative and genitive forms rarely differ. However, formally the genitive case is used in attributive constructions.",,,,,,
-UT103,Is non-singular possession marked in the possessive declension?,0,Miina Norvik,,There are no possessive suffixes.,,,,,,
-UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,Miina Norvik,,There are no possessive suffixes.,,,,,,
-UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,Miina Norvik,,There are no possessive suffixes.,,,,,,
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,Miina Norvik,kis,,who,|mis,,what,,
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",1,Miina Norvik,"ne ūškad, kis...;these snake-PL who;the snakes that…;Viitso & Ernštreits 2012",,,,,,,
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",1,Miina Norvik,"suodākuoigī-d, kis…;war_ship-PL who;Stalte 2011","However, the usage of 'who' with inanimates might not be very common.",,,,,,
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Miina Norvik,se u’m pī’lõ-n ne’i vāgiž,it be.3SG stand-ACT.PST.PTCP.SG so still,S/he (lit. it) has been standing so still,LLC,,,,
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,N/A,Miina Norvik,,There are no possessive suffixes.,,,,,,
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Miina Norvik,"vanāǟma-d-õn;grandmother-PL-DAT;to the grandmothers;
-",,,,,,,
-UT112,Are there different words for mother’s brother and father’s brother?,0,Miina Norvik,,,,,,,,
-UT113,Are there different words for younger and older relative for other relations than siblings?,0,Miina Norvik,,,,,,,,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,Miina Norvik,,,,,,,,
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,Miina Norvik,,,,,,,,
-UT116,Is there contrastive length of consonants?,1,Karl Pajusalu,kanā [ˈka.naː] 'hen' vs. kanni [ˈkan.ni] 'catkin',,,,,,,
-UT117,Is there contrastive length of vowels?,1,Karl Pajusalu,ind [ˈind] ‘ardour’ vs. īnda [ˈiːn.da]  ‘price’,,,,,,,
-UT118,Is there contrast between short and long unstressed vowels?,0,Karl Pajusalu,,,,,,,,
-UT119,Is there contrast in duration of geminate consonants?,1,Karl Pajusalu,tapā [ˈtap.paː] 'plug' vs.  tappõ [ˈtapː.pǝ] kill.INF,,,,,,,
-UT120,Are there more than two phonological quantities? ,1,Karl Pajusalu,tapāb [ˈtap.paːb] kill.PRS.3SG vs.  tappõ [ˈtapː.pǝ] kill.INF,,,,,,,
-UT121,Are there extralong syllables? ,1,Karl Pajusalu,jūoksõb [ˈjuːok.ʃǝb] 'flowing',,,,,,,
-UT122,Is the main foot structure trochaic?,1,Karl Pajusalu,kanā [ˈka.naː] 'hen',,,,,,,
-UT123,Is there lexically distinctive word stress?,0,Karl Pajusalu,,,,,,,,
-UT124,Is there morphologically conditioned stress?,1,Karl Pajusalu ,amātnikā [ˈamaːt.ˌnik.kaː] 'artisan',,,,,,,
-UT125,Is there fixed primary stress?,1,Karl Pajusalu,kana [ˈka.naˑ] 'hen',,,,,,,
-UT126,Is there stress in heavy syllables?,0,Karl Pajusalu,,,,,,,,
-UT127,Is there non-initial primary stress?,0,Karl Pajusalu,,,,,,,,
-UT128,Is there palatal vowel harmony?,0,Karl Pajusalu,,,,,,,,
-UT129,Is there velar vowel harmony?,0,Karl Pajusalu,,,,,,,,
-UT130,Is there labial vowel harmony? ,0,Karl Pajusalu,,,,,,,,
-UT131,Are there rising diphthongs? ,1,Karl Pajusalu,"loul [louːl] 'song, singing'",,,,,,,
-UT132,Are there lowering diphthongs?,1,Karl Pajusalu,kuodā [ˈkuo.daː] 'house',,,,,,,
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Karl Pajusalu,,,,,,,,
-UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,Karl Pajusalu,,,,,,,,
-UT135,Is there front high rounded vowel ü [y]?,0,Karl Pajusalu,,,,,,,,
-UT136,Is there front midhigh rounded vowel ö [ø]?,0,Karl Pajusalu,,,,,,,,
-UT137,Is there back high unrounded vowel ï [ɯ]?,1,Karl Pajusalu,kõlā [ˈkɯ.laː] 'arc',,,,,,,
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,1,Karl Pajusalu,pȯsk [pɤsːk] 'cheek',,,,,,,
-UT139,Is there back low round vowel [ɒ]?,0,Karl Pajusalu,,,,,,,,
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,Karl Pajusalu,tämpõ [ˈtæmp.pǝ] 'today' vs. tempõ [ˈtemp.pǝ] tamp.INF,,,,,,,
-UT141,Are there word-initial consonant clusters?,1,Karl Pajusalu,krīkõ [ˈkriːk.kǝ] creak.INF,,,,,,,
-UT142,Are there word-internal consonant clusters in syllable onset?,0,Karl Pajusalu,,,,,,,,
-UT143,Are there consonant clusters in syllable coda?,1,Karl Pajusalu,kurkšlõ [ˈkurkʃ.lǝ] croak.INF,,,,,,,
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,Karl Pajusalu,kurkšlõ [ˈkurkʃ.lǝ] croak.INF,,,,,,,
-UT145,Are there word-final clusters of three or more consonants?,1,Karl Pajusalu,jaļkš [jalʲkʃ] 'foot (of the bed)',,,,,,,
-UT146,Are there palatalized dentals? ,1,Karl Pajusalu,kaļāj [ˈka.lʲaːi] 'smith' vs. kalā [ˈka.laː] 'fish',,,,,,,
-UT147,Are there palatalized labials and velars? ,0,Karl Pajusalu,,,,,,,,
-UT148,Is there palatal stop [c]?,0,Karl Pajusalu,,,,,,,,
-UT149,Is there palatal nasal [ɲ]?,0,Karl Pajusalu,,,,,,,,
-UT150, Is there palatal lateral [ʎ]?,0,Karl Pajusalu,,,,,,,,
-UT151,Is there phonemic velar nasal [ŋ]?,0,Karl Pajusalu,,,,,,,,
-UT152,Is there dental affricate [t͡s]?,1,Karl Pajusalu,tsukkõr [t͡sukː.kǝr] 'sugar',,,,,,,
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Karl Pajusalu,"tšoļk [ˈt͡ʃolʲk] 'slops, hogwash'",,,,,,,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Karl Pajusalu,širts [ʃirts] 'apron',,,,,,,
-UT155,"Are there voiced plosives [b, g, d]?",1,Karl Pajusalu,"giltõ [ˈgiltː.tǝ] water.INF, dip.INF",,,,,,,
-UT156,Is there glottal stop [ˀ]?,0,Karl Pajusalu,,,,,,,,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Karl Pajusalu,,,,,,,,
-UT158,Is there a constraint on word-initial r?,0,Karl Pajusalu,,,,,,,,
-UT159,Is there laryngeal fricative [h]?,0,Karl Pajusalu,,,,,,,,
-UT160,Is there voiced velar fricative [ɣ]?,0,Karl Pajusalu,,,,,,,,
-UT161,Is there voiceless velar fricative [x]?,0,Karl Pajusalu,,,,,,,,
-UT162,Is there voiced dental fricative [ð]?,0,Karl Pajusalu,,,,,,,,
-UT163,Is there phonemic labio-velar approximant [w]?,0,Karl Pajusalu,,,,,,,,
-UT164,Is there voiceless labiodental fricative [f]?,0,Karl Pajusalu,,,,,,,,
-UT165,Is there radical qualitative consonant gradation?,0,Karl Pajusalu,,,,,,,,
-UT166,Is there quantitative consonant gradation?,1,Karl Pajusalu,kuoŗŗõ [ˈkuorʲː.rʲɤ] gather.INF  vs. kūoŗõb [ˈkuːo.rʲɤb] gather.PRS.3SG ,,,,,,,
+"," The object in the imperative clauses is typically in the genitive form. In addition,  the partitive (but also the genitive) are used with negation. "
+"UT013","Is there differential subject marking?","1","Miina Norvik","sǟ’l lī-b ju knašī-di ǟrgi-di","there will_be-3SG PTCL beautiful-PL.PRT ox-PL.PRT, There will be beautiful oxen, Setälä 1953|ǟrga-d attõ sǟl, ox-PL be.3PL there, The oxen are there"
+"UT014","Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?","1","Miina Norvik","Siz ne võt-īz-t võrgõ-d ja Ø rūoik-iz-t kuod pūol","then 3PL take-PST-3PL net-PL.GEN and run-PST-3PL home.GEN towards, Then they took the nets and [they] ran towards home, Stalte 2011"
+"UT015","Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?","0","Miina Norvik","",""
+"UT016","Is there a grammatical device for habituality?","0","Miina Norvik","",""
+"UT017","Is there a grammatical device for frequentative?","0","Miina Norvik","","Frequentative derivation in Livonian is marginal (Jantunen 2014)."
+"UT018","Is there a grammatical device for progressivity?","0","Miina Norvik","","The construction 'be' + supine  form does not tend to convey an ongoing activity."
+"UT019","Is it common to use a verb in the present tense for future time reference? ","1","Miina Norvik","Ma mūpõ matk-õb je’ddõpē’ḑõn","1SG tomorrow travel-3SG forward, Tomorrow I'll travel forward"
+"UT020","Is there a grammatical device for immediate future?","0","Miina Norvik","",""
+"UT021","Is there a grammatical device for pluperfect?","1","Miina Norvik","ta ne-iz, ku se vȯļ õbdizõ-ks sō-nd;3SG see-PST.3SG that it be.PST.3SG silvery-TRA get-ACT.PST.PTCP.SG;S/he saw that this had turn silvery;Stalte 2011",""
+"UT022","Can aspect be expressed overtly on the negative marker?","0","Miina Norvik","",""
+"UT023","Can tense be expressed overtly on the negative marker?","1","Miina Norvik","Ta iz līeda","3SG NEG.PST.3SG find.CNG, S/he didn't find"
+"UT024","Is there grammatical marking of mirativity?","0","Miina Norvik","",""
+"UT025","Is there morphological marking on the verb dedicated to the expression of desire or wish?","0","Miina Norvik","",""
+"UT026","Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?","1","Miina Norvik","ne’i ku ma vȯl-ks lǭtõ-l","so as 1SG be-COND church_service-ADE, as though I would be at a church service, Damberg 1935"
+"UT027","Are verbs marked in a specific mood in counterfactual conditional clauses?","1","Miina Norvik","ku sa ka vȯl-ks-t skūol-sõ kǟ’-nd ja opp-õn, si’z ka si’nn-õn vȯl-ks ne’i ī’ž jõvā jelāmi;if 2SG also be-COND-2SG school-INE go-ACT.PST.PTCP.SG and study-ACT.PST.PTCP.SG then also 2SG-DAT  be-COND so good living;
+If you would have also gone to school and studied then you would also have such good life;Viitso 2008",""
+"UT028","Is there morphological marking on the verb dedicated to the expression of deontic necessity?","1","Miina Norvik","Sie-dā a’mmõ u’m tīe-mõst","this-PRT all.PRT be.3SG do-DEB, All this needs to be done, Damberg 1935"
+"UT029","Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ","0","Miina Norvik","",""
+"UT030","Is there morphological marking on the verb dedicated to the expression of deontic possibility? ","0","Miina Norvik","",""
+"UT031","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?","1","Miina Norvik","Laz võtā-g sīe ibīz ja pan-gõ rattõd je’ddõ","let take-JUSS.SG this.GEN horse.GEN and put-JUSS.SG carridge.PL.GEN in front, Let him/her take the horse and put [it] in front of the carridge,  Setälä 1953"
+"UT032","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?","1","Miina Norvik","sa kīt-ist, laz ma vaḱt́ə-g āita uks-tā;2SG say-PST.2SG let 1SG guard-JUSS.SG granary.GEN door-PRT;You said that I should guard the door of the granary;Setälä 1953",""
+"UT033","Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ","1","Miina Norvik","sīepierāst ma tǭ’-b, la’z sa mī-gõ [---] sīe vā’škiz jarā;because_of_this 1SG want-1SG let 2SG sell-JUSS.SG this.GEN calf.GEN away;This is why I want that you would sell this calf;",""
+"UT034","Is there morphological marking on the verb dedicated to the expression of apprehension?","0","Miina Norvik","",""
+"UT035","Is there reflexive conjugation?","0","Miina Norvik","",""
+"UT036","Are there syntactically ditransitive verbs?","0","Miina Norvik","",""
+"UT037","Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?","1","Miina Norvik","jel-īz-tõ","live-PST-2PL/3PL, you/they lived"
+"UT038","Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?","0","Miina Norvik","",""
+"UT039","Can third person plural verb forms be used for impersonal reference?","1","Miina Norvik","Siz mūndakõrd vȯst-īz-tõ būomvilliz-t luoimõ","then  sometimes  buy-PST-3PL cottony-PRT thread.PRT, Then sometimes cottony thread was bought"
+"UT040","Can second person singular verb forms be used in generic meaning?","1","Miina Norvik","Näide",""
+"UT042","Are clauses with only infinitive predicates possible?","0","Miina Norvik","",""
+"UT043","Can verbs in purposive subordinate clauses be in bare infinitive form?","0","Miina Norvik","","In Livonian,  it is more common to use laz + the jussive form."
+"UT044","Are there sentences without overt verbal arguments (e.g. weather verbs)?","1","Miina Norvik","Ni sadā-b!","now rain-3SG, Now it is raining!, Loorits 1922, Still,  the subject place may also be occupied,  e.g. by vī'm 'rain',  lu'm 'snow' etc."
+"UT045","Is copula needed for predicate nominals in the 3rd person form of the present tense?","1","Miina Norvik","Ta um opātiji","3SG be.3SG teacher, S/he is a teacher"
+"UT046","Is a copula needed for predicate nominals in the past and/or future tense?","1","Miina Norvik","Se  vȯļ/līb tä’m tidār mīez","this be.PST.3SG/will_be.3SG 3SG.GEN daugther.GEN husband, This was/will be his/her daugther’s husband"
+"UT047","Can locative adverbial phrases act as predicates without a copula?","0","Miina Norvik","",""
+"UT048","Can the same coordinating conjunction be used for NPs, VPs, and clauses? ","1","Miina Norvik","re’bbi ja kõps;;a fox and a rabbit;|
+ta ist-īz ja kūld-iz;3SG sit-PST.3SG and listen-PST.3SG;S/he was sitting and listening;",""
+"UT049","Does existential negation have a separate operator?","0","Miina Norvik","",""
+"UT050","Can standard negation be asymmetric in the present tense?","1","Miina Norvik","ma lugū-b","1SG read-1SG, I read, |ma äb lu’g, 1SG NEG.PRS.1SG read.CNG, I don’t read"
+"UT051","Can non-finite dependent clauses use the standard negation construction?","1","Miina Norvik","Tēg lǟ-t umbõ, äb tund-õs äb kēr-idi äb Jumal joud-õ;2PL go.2PL dead_end.ILL NEG know-CVB NEG Scripture-PL.PRT NEG God.GEN power.PRT;You are mistaken, not understanding the Scriptures nor the power of God;ŪT, Matt 22:29",""
+"UT052","Is there a special negator that combines with non-finite forms?","0","Miina Norvik","",""
+"UT053","Are there special negative non-finite forms?","1","Miina Norvik","tīe-mõt tīe","do-SUP.ABE work, undone work"
+"UT054","Is there an impersonal passive construction?","1","Miina Norvik","sie reit si’nn-õn sǭ-b iera’l-tõt jalg-õ","this time 2SG-DAT get-3SG cut_off-PASS.PST.PTCP leg-PRT, This time your leg will be cut off, Mägiste 1964"
+"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?","1","Miina Norvik","lu'gg-õn","read-ACT.PST.PTCP, |lug-dõd, read.PASS.PST.PTCP"
+"UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?","0","Miina Norvik","",""
+"UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?","1","Miina Norvik","pan̄-dǝ̂p pàik̆ka","put-PASS.PRS.PTCP place, a place where one can put things, Kettunen 1938: LXVIII , In Livonian,  the passive present participle can relativize the P argument but in addition to that it can also relativize obliques."
+"UT058","Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?","0","Miina Norvik","",""
+"UT059","Is there a future participle?","0","Miina Norvik","",""
+"UT060","Are there participles that can encode their subject by possessive suffixes?","0","Miina Norvik","",""
+"UT061","Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?","0","Miina Norvik","",""
+"UT062","Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?","0","Miina Norvik","",""
+"UT063","Are there nonfinite forms that can be used both as participles and action nominalizations?","0","Miina Norvik","",""
+"UT064","Are there nonfinite forms that can be used both as participles and agentive nominalizations?","1","Miina Norvik","a'ili-ji","run-AG.NMLZ, a runner, |a'ili-ji i'bbi run-AG.NMLZ horse.NOM, a running horse (lit. ‘a runner horse’), Livonian also has a separate active present participle but it is rearly used,  the agentive nominalization tends to be used instead."
+"UT065","Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?","0","Miina Norvik","",""
+"UT066","Is OV the neutral order in affirmative imperative clauses?","0","Miina Norvik","Võtā eņtš kirrõ, li tubb-õ;take.IMP.2SG own.GEN ax.GEN go.IMP.2SG room-ILL;Take your axe and go inside;Stalte 2011
+",""
+"UT067","Is it possible to place an object between the negative marker and the main verb in imperative constructions? ","1","Miina Norvik","Alā tīedõ kartõ","IMP.NEG.2SG work-PRT afraid.IMP.CNG, Don't be afraid of work"
+"UT068","Are there preverbs?","1","Miina Norvik","mǭ’zõ tappõ","down kill.INF, to kill, Viitso & Ernštreits 2012"
+"UT069","Are there verbal prefixes?","1","Miina Norvik","sa-kutsõnd","PFX-call.ACT.PST.PTCP, have called together, Prefixes have been taken from Latvian."
+"UT070","Is there diminutive (hypocoristic) marking on verbs?","0","Miina Norvik","",""
+"UT071","Can modifiers of action nominalization in agent and patient roles both be marked like possessors?","1","Miina Norvik","laps pie’zzimi","child.GEN wash-NMLZ, washing the child / child's washing, |laps pipā, child.GEN doll, a child's doll"
+"UT072","Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?","1","Miina Norvik","sīlda parāntimi","bridge.GEN repairing, Damberg 1935|Ma parānt-õb sīlda tierrõ-ks, 1SG repair-1SG bridge.GEN well-TRA, I'll repair the bridge, The genitive and partitive cases are both object cases."
+"UT073","Do core adjectives agree with the subject noun in number in the predicative position?","1","Miina Norvik","pū-d attõ sūr-d","tree-PL be.3PL big-PL, The trees are big"
+"UT074","Is it possible to form synthetic superlative?","0","Miina Norvik","",""
+"UT075","Can adpositions have person/number marking?","0","Miina Norvik","",""
+"UT076","Are there separate adpositions to express goal, source, and location (without there being syncretism)?","1","Miina Norvik","si'zzõl : sizāl : sizāld(õ(st))"," into : inside : from inside, In Livonian one can also encounter syncretism,  especially in the case of adpositions expressing external location.
+"
+"UT077","Is case compounding possible?","0","Miina Norvik","",""
+"UT078","Are there case categories only found in pronouns?","0","Miina Norvik","",""
+"UT079","Does the numeral modification of a noun have an effect on its case selection? ","1","Miina Norvik","ikš kalā : kakš ka'llõ","one.NOM fish.NOM : two.NOM fish.PRT, one fish: two fish"
+"UT080","Is the singular form of the noun also used with numerals bigger than 1?","1","Miina Norvik","ikš kalā : kakš ka'llõ","one.NOM fish.NOM : two.NOM fish.PRT, one fish: two fish"
+"UT081","Is there a genitive case that has an affix?","0","Miina Norvik","",""
+"UT082","Is there a dative case used to express indirect object/receiver/goal (different from a local case)?","1","Miina Norvik","Ānda sīe minn-õn","give.IMP.2SG this.GEN 1SG-DAT, Give it to me"
+"UT083","Is there a terminative case?","0","Miina Norvik","",""
+"UT084","Is there a separate case to indicate without what/who an action takes place / does not take place?","1","Miina Norvik","luggõ-mõt","read-SUP.ABE, |tīe-mõt, do-SUP.ABE, The usage of the abessive form is rare. Primarily it can be found with verbs. "
+"UT085","Is there a separate case to mark the motion along or by the referent of the noun (prolative)?","0","Miina Norvik","",""
+"UT086","Is there a locative case that marks goal?","1","Miina Norvik","mõts-õ","forest-ILL, into the forest"
+"UT087","Is there a locative case that marks location?","1","Miina Norvik","mõtsā-s","forest-INE, in the forest"
+"UT088","Is there a locative case that marks source?","1","Miina Norvik","mõtsā-st","forest-ELA, from the forest"
+"UT089","Is there case syncretism of goal and location marking?","1","Miina Norvik","pȭrand-õl;floor-ALL/ADE;to the floor, on the floor;",""
+"UT090","Is there case syncretism of location and source marking?","0","Miina Norvik","",""
+"UT091","Are there two sets of local cases?","0","Miina Norvik","","The external local cases occur in fossilized adverbs."
+"UT092","Is there a third set of local cases?","0","Miina Norvik","",""
+"UT093","Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?","1","Miina Norvik","kǭjõ-ks;spoon-INS;with a spoon;|lapsõ-ks;child-INS;with a child;
+",""
+"UT094","Is there a separate case for marking accompaniment, which is different from the instrumental?","0","Miina Norvik","",""
+"UT095","Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?","1","Miina Norvik","Di’drõk kōgiņ perīmī’ekõks i’z ūo;Di'drõk long master-INS NEG.PST.3SG be.CNG;Di'drõk was not  master for long;perīmī’ekõks;AEDKL, F1098-03,-04|master-INS;with a master;",""
+"UT096","Is there a separate case for marking the state of being (essive), which is different from the translative?","0","Miina Norvik","","There are almost no traces of the essive case."
+"UT097","Is there a separate morphological marker for expressing equative meaning?","0","Miina Norvik","",""
+"UT098","Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?","0","Miina Norvik","",""
+"UT099","Is there in addition to the basic declension a declension different from a possessive declension? ","0","Miina Norvik","",""
+"UT100","Is it possible to use singular with paired body parts/clothing/accessories that accompany them?","0","Miina Norvik","",""
+"UT101","Can the marking of the possessor in the attributive construction vary?","0","Miina Norvik","",""
+"UT102","Can the possessor in the attributive construction be marked with the nominative?","0","Miina Norvik","","In Livonian,  the nominative and genitive forms rarely differ. However,  formally the genitive case is used in attributive constructions."
+"UT103","Is non-singular possession marked in the possessive declension?","0","Miina Norvik","","There are no possessive suffixes."
+"UT104","Can 2Sg possessive suffix be used to mark definiteness? ","0","Miina Norvik","","There are no possessive suffixes."
+"UT105","Can 3Sg possessive suffix be used to mark definiteness? ","0","Miina Norvik","","There are no possessive suffixes."
+"UT106","Is there animacy distinction in independent interrogative pronouns?","1","Miina Norvik","kis","who, |mis, what"
+"UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?","1","Miina Norvik","ne ūškad, kis...;these snake-PL who;the snakes that…;Viitso & Ernštreits 2012",""
+"UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?","1","Miina Norvik","suodākuoigī-d, kis…;war_ship-PL who;Stalte 2011","However,  the usage of 'who' with inanimates might not be very common."
+"UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?","1","Miina Norvik","se u’m pī’lõ-n ne’i vāgiž","it be.3SG stand-ACT.PST.PTCP.SG so still, S/he (lit. it) has been standing so still, LLC"
+"UT110","Is the order of possessive suffix and case suffix across the paradigm the same?","N/A","Miina Norvik","","There are no possessive suffixes."
+"UT111","Is the order of number and case suffixes fixed across the paradigm the same?","1","Miina Norvik","vanāǟma-d-õn;grandmother-PL-DAT;to the grandmothers;
+",""
+"UT112","Are there different words for mother’s brother and father’s brother?","0","Miina Norvik","",""
+"UT113","Are there different words for younger and older relative for other relations than siblings?","0","Miina Norvik","",""
+"UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?","0","Miina Norvik","",""
+"UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?","0","Miina Norvik","",""
+"UT116","Is there contrastive length of consonants?","1","Karl Pajusalu","kanā [ˈka.naː] 'hen' vs. kanni [ˈkan.ni] 'catkin'",""
+"UT117","Is there contrastive length of vowels?","1","Karl Pajusalu","ind [ˈind] ‘ardour’ vs. īnda [ˈiːn.da]  ‘price’",""
+"UT118","Is there contrast between short and long unstressed vowels?","0","Karl Pajusalu","",""
+"UT119","Is there contrast in duration of geminate consonants?","1","Karl Pajusalu","tapā [ˈtap.paː] 'plug' vs.  tappõ [ˈtapː.pǝ] kill.INF",""
+"UT120","Are there more than two phonological quantities? ","1","Karl Pajusalu","tapāb [ˈtap.paːb] kill.PRS.3SG vs.  tappõ [ˈtapː.pǝ] kill.INF",""
+"UT121","Are there extralong syllables? ","1","Karl Pajusalu","jūoksõb [ˈjuːok.ʃǝb] 'flowing'",""
+"UT122","Is the main foot structure trochaic?","1","Karl Pajusalu","kanā [ˈka.naː] 'hen'",""
+"UT123","Is there lexically distinctive word stress?","0","Karl Pajusalu","",""
+"UT124","Is there morphologically conditioned stress?","1","Karl Pajusalu ","amātnikā [ˈamaːt.ˌnik.kaː] 'artisan'",""
+"UT125","Is there fixed primary stress?","1","Karl Pajusalu","kana [ˈka.naˑ] 'hen'",""
+"UT126","Is there stress in heavy syllables?","0","Karl Pajusalu","",""
+"UT127","Is there non-initial primary stress?","0","Karl Pajusalu","",""
+"UT128","Is there palatal vowel harmony?","0","Karl Pajusalu","",""
+"UT129","Is there velar vowel harmony?","0","Karl Pajusalu","",""
+"UT130","Is there labial vowel harmony? ","0","Karl Pajusalu","",""
+"UT131","Are there rising diphthongs? ","1","Karl Pajusalu","loul [louːl] 'song, singing'",""
+"UT132","Are there lowering diphthongs?","1","Karl Pajusalu","kuodā [ˈkuo.daː] 'house'",""
+"UT133","Is there qualitative contrast between subsets of short and long vowels?","0","Karl Pajusalu","",""
+"UT134","Are there full vs. reduced vowels as contrastive subsets? ","0","Karl Pajusalu","",""
+"UT135","Is there front high rounded vowel ü [y]?","0","Karl Pajusalu","",""
+"UT136","Is there front midhigh rounded vowel ö [ø]?","0","Karl Pajusalu","",""
+"UT137","Is there back high unrounded vowel ï [ɯ]?","1","Karl Pajusalu","kõlā [ˈkɯ.laː] 'arc'",""
+"UT138","Is there back midhigh unrounded vowel ë [ɤ]?","1","Karl Pajusalu","pȯsk [pɤsːk] 'cheek'",""
+"UT139","Is there back low round vowel [ɒ]?","0","Karl Pajusalu","",""
+"UT140","Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?","1","Karl Pajusalu","tämpõ [ˈtæmp.pǝ] 'today' vs. tempõ [ˈtemp.pǝ] tamp.INF",""
+"UT141","Are there word-initial consonant clusters?","1","Karl Pajusalu","krīkõ [ˈkriːk.kǝ] creak.INF",""
+"UT142","Are there word-internal consonant clusters in syllable onset?","0","Karl Pajusalu","",""
+"UT143","Are there consonant clusters in syllable coda?","1","Karl Pajusalu","kurkšlõ [ˈkurkʃ.lǝ] croak.INF",""
+"UT144","Are there clusters of three or more consonants in a word between vowels?","1","Karl Pajusalu","kurkšlõ [ˈkurkʃ.lǝ] croak.INF",""
+"UT145","Are there word-final clusters of three or more consonants?","1","Karl Pajusalu","jaļkš [jalʲkʃ] 'foot (of the bed)'",""
+"UT146","Are there palatalized dentals? ","1","Karl Pajusalu","kaļāj [ˈka.lʲaːi] 'smith' vs. kalā [ˈka.laː] 'fish'",""
+"UT147","Are there palatalized labials and velars? ","0","Karl Pajusalu","",""
+"UT148","Is there palatal stop [c]?","0","Karl Pajusalu","",""
+"UT149","Is there palatal nasal [ɲ]?","0","Karl Pajusalu","",""
+"UT150"," Is there palatal lateral [ʎ]?","0","Karl Pajusalu","",""
+"UT151","Is there phonemic velar nasal [ŋ]?","0","Karl Pajusalu","",""
+"UT152","Is there dental affricate [t͡s]?","1","Karl Pajusalu","tsukkõr [t͡sukː.kǝr] 'sugar'",""
+"UT153","Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?","1","Karl Pajusalu","tšoļk [ˈt͡ʃolʲk] 'slops, hogwash'",""
+"UT154","Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?","1","Karl Pajusalu","širts [ʃirts] 'apron'",""
+"UT155","Are there voiced plosives [b, g, d]?","1","Karl Pajusalu","giltõ [ˈgiltː.tǝ] water.INF, dip.INF",""
+"UT156","Is there glottal stop [ˀ]?","0","Karl Pajusalu","",""
+"UT157","Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?","0","Karl Pajusalu","",""
+"UT158","Is there a constraint on word-initial r?","0","Karl Pajusalu","",""
+"UT159","Is there laryngeal fricative [h]?","0","Karl Pajusalu","",""
+"UT160","Is there voiced velar fricative [ɣ]?","0","Karl Pajusalu","",""
+"UT161","Is there voiceless velar fricative [x]?","0","Karl Pajusalu","",""
+"UT162","Is there voiced dental fricative [ð]?","0","Karl Pajusalu","",""
+"UT163","Is there phonemic labio-velar approximant [w]?","0","Karl Pajusalu","",""
+"UT164","Is there voiceless labiodental fricative [f]?","0","Karl Pajusalu","",""
+"UT165","Is there radical qualitative consonant gradation?","0","Karl Pajusalu","",""
+"UT166","Is there quantitative consonant gradation?","1","Karl Pajusalu","kuoŗŗõ [ˈkuorʲː.rʲɤ] gather.INF  vs. kūoŗõb [ˈkuːo.rʲɤb] gather.PRS.3SG ",""
