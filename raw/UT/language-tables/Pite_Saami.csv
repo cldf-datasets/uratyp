@@ -1,174 +1,172 @@
-"ID","Name","Pite.Saami","Source","Example","Comment"
-"UT001","Is there a distinct category of dual for verbal agreement with a dual subject?","1","Joshua Wilbur","månnå ja Jåssjå lijmen ullgon sirijd tjåggemin;1SG.NOM and Josh.NOM.SG be-1DU.PST outside blueberries-ACC.PL pick-PTCP;I and Josh were picking berries outside;","""All finite verbs agree in number with the subject of the clause and inflect for singular, dual or plural"" (Wilbur 2014: 149). Likely only for highly animate subjects."
-"UT002","Is non-agreement in number between the nominal subject and verbal predicate possible?","0","Joshua Wilbur","",""
-"UT003","Can finite verbs agree in number with the nominal object?","0","Joshua Wilbur","",""
-"UT004","Can an adnominal property word agree with the noun in case?","0","Joshua Wilbur","",""
-"UT005","Are there cases that do not show agreement in terms of case?","0","Joshua Wilbur","",""
-"UT006","Can adpositions be used to mark core verbal arguments?","0","Joshua Wilbur","",""
-"UT007","Can adpositions be used to mark non-core/oblique verbal arguments?","1","Joshua Wilbur","ja tsáhpat biergov káfa sis;and cut-INF meat-ACC.SG coffee-GEN.SG into;and to cut meat into your coffee;",""
-"UT008","Can non-finite clauses entail a special way for a core argument (S/A) marking?","0","Joshua Wilbur","",""
-"UT009","Can non-finite clauses entail a special way for a core argument (P) marking?","0","Joshua Wilbur","",""
-"UT010","Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?","0","Joshua Wilbur","",""
-"UT011","Does object marking correlate with aspectuality? ","0","Joshua Wilbur","",""
-"UT012","Does the marking of the object depend on the verb conjugation form? ","0","Joshua Wilbur","",""
-"UT013","Is there differential subject marking?","0","Joshua Wilbur","",""
-"UT014","Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?","1","Joshua Wilbur","Hiŋga äjjtiga lidjin nåv sagga hiejo ja idnin nåv binná buhtsujt;Hiŋŋa.GEN.SG parent-NOM.PL be-3SG.PST so incredibly poor-NOM.SG and have-3PL.PST so few reindeer-NOM.PL;Hinnga's parent were so incredibly poor and had so few reindeer;",""
-"UT015","Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?","0","Joshua Wilbur","",""
-"UT016","Is there a grammatical device for habituality?","0","Joshua Wilbur","",""
-"UT017","Is there a grammatical device for frequentative?","1","Joshua Wilbur","jårråt;fall_over.INF;fall over;|jårådit;fall_over_repeatedly.INF",""
-"UT018","Is there a grammatical device for progressivity?","1","Joshua Wilbur","da lä jábmám, ber muv äddne'l  viessomin dále;3PL.NOM be.3PL.PRS die-PTCP1 only 1SG.GEN mother.NOM.SG=be.3SG.PRS live-PTCP2 now;They have died, only my mother is living now;",""
-"UT019","Is it common to use a verb in the present tense for future time reference? ","1","Joshua Wilbur","ja dä maŋŋel dä vuolgá Västeråsaj;and then after then drive-2SG.PRS V.-ILL.SG;and then after that you'll drive to Västerås;",""
-"UT020","Is there a grammatical device for immediate future?","0","Joshua Wilbur","",""
-"UT021","Is there a grammatical device for pluperfect?","1","Joshua Wilbur","dä jähkkin ahte vurunjása lijjin suv bårråm;then believe-3PL.PST that raven-NOM.PL be-3PL.PST 3SG.ACC eat-PTCP;then they believed that ravens had eaten her;",""
-"UT022","Can aspect be expressed overtly on the negative marker?","0","Joshua Wilbur","",""
-"UT023","Can tense be expressed overtly on the negative marker?","1","Joshua Wilbur","Hiŋŋga gujt idtjij máhte tjuovvot ålmáv buhtsuj gugu;H.\NOM.SG really neg-3SG.PST can\CNG follow man-ACC.SG reindeer-GEN.PL towards;Hinnga was not able to accompany her husband to the reindeer;","Negation verb is a fully inflected finite verb: ""As with any finite verb, the negation verb agrees in person and number with the subject of the sentence and inflects for tense or mood"" (Wilbur 2014: 157)."
-"UT024","Is there grammatical marking of mirativity?","0","Joshua Wilbur","",""
-"UT025","Is there morphological marking on the verb dedicated to the expression of desire or wish?","0","Joshua Wilbur","",""
-"UT026","Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?","0","Joshua Wilbur","","Nowadays the modal verb gallgat 'will' is used in conditional clauses (Wilbur 2014: 14)."
-"UT027","Are verbs marked in a specific mood in counterfactual conditional clauses?","0","Joshua Wilbur","","See UT027."
-"UT028","Is there morphological marking on the verb dedicated to the expression of deontic necessity?","0","Joshua Wilbur","",""
-"UT029","Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ","1","Joshua Wilbur","Vissjum litj dun bånndáj;become.angry-PTCP be-POT.3SG DEM.DIST-ILL.SG rich-ILL.SG;(she) must have become angry at that rich (man);","The potential mood is used to indicate that the action referred
-to by the verb is likely to happen (Wilbur 2014: 152-153)."
-"UT030","Is there morphological marking on the verb dedicated to the expression of deontic possibility? ","0","Joshua Wilbur","",""
-"UT031","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?","0","Joshua Wilbur","","However, probably it can be reconstructed."
-"UT032","Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?","0","Joshua Wilbur","","However, probably it can be reconstructed."
-"UT033","Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ","0","Joshua Wilbur","",""
-"UT034","Is there morphological marking on the verb dedicated to the expression of apprehension?","0","Joshua Wilbur","",""
-"UT035","Is there reflexive conjugation?","0","Joshua Wilbur","",""
-"UT036","Are there syntactically ditransitive verbs?","0","Joshua Wilbur","",""
-"UT037","Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?","0","Joshua Wilbur","",""
-"UT038","Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?","0","Joshua Wilbur","","Verb inflects for the subject."
-"UT039","Can third person plural verb forms be used for impersonal reference?","0","Joshua Wilbur","","The word for 'person' is used. "
-"UT040","Can second person singular verb forms be used in generic meaning?","0","Joshua Wilbur","",""
-"UT042","Are clauses with only infinitive predicates possible?","0","Joshua Wilbur","",""
-"UT043","Can verbs in purposive subordinate clauses be in bare infinitive form?","1","Joshua Wilbur","usjudin ahte sajev gávdnat;think.3PL.PST that (subordinator) place.ACC.SG find.INF;they thought that they would find the place;",""
-"UT044","Are there sentences without overt verbal arguments (e.g. weather verbs)?","1","Joshua Wilbur","muhtij ja lij bar guäkkte vaj gålbmå grader;snow-3SG.PST and be-3SG.PST only two or three degrees;it snowed and it was only two or three degrees;",""
-"UT045","Is copula needed for predicate nominals in the 3rd person form of the present tense?","1","Joshua Wilbur","dat lä iello;that.NOM.SG be-3SG.PRS herd\NOM.SG;that is the herd;",""
-"UT046","Is a copula needed for predicate nominals in the past and/or future tense?","1","Joshua Wilbur","dat lij kujdna mij tjuojgaj bálldal;that.NOM.SG be-3SG.PST woman\NOM.SG who\NOM.SG ski-3SG.PST past;that was the woman who skied by;",""
-"UT047","Can locative adverbial phrases act as predicates without a copula?","0","Joshua Wilbur","",""
-"UT048","Can the same coordinating conjunction be used for NPs, VPs, and clauses? ","1","Joshua Wilbur","biednaga ja gáhto;dog-NOM.PL and cat\NOM.PL;dogs and cats;|båhtá ja bårrá;come\3SG.PRS and eat\3SG.PRS;comes and eats;|Hiŋga äjjtiga lidjin nåv sagga hiejo ja idnin nåv binná buhtsujt;Hiŋŋa.GEN.SG parent-NOM.PL be-3SG.PST so incredibly poor-NOM.SG and have-3PL.PST so few reindeer-NOM.PL;Hinnga's parent were so incredibly poor and had so few reindeer;",""
-"UT049","Does existential negation have a separate operator?","0","Joshua Wilbur","",""
-"UT050","Can standard negation be asymmetric in the present tense?","1","Joshua Wilbur","Hiŋŋga gujt idtjij máhte tjuovvot ålmáv buhtsuj gugu;H.\NOM.SG really neg-3SG.PST can\CNG follow man-ACC.SG reindeer-GEN.PL towards;Hinnga was not able to accompany her husband to the reindeer;","""The complement verb occurs in a special non-finite verb form called the connegative"" (Wilbur 2014: 157).
-"
-"UT051","Can non-finite dependent clauses use the standard negation construction?","0","Joshua Wilbur","","The negation verb is not compatible with non-finite clauses."
-"UT052","Is there a special negator that combines with non-finite forms?","0","Joshua Wilbur","",""
-"UT053","Are there special negative non-finite forms?","0","Joshua Wilbur","",""
-"UT054","Is there an impersonal passive construction?","0","Joshua Wilbur","",""
-"UT055","Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?","?","Joshua Wilbur","",""
-"UT056","Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?","?","Joshua Wilbur","",""
-"UT057","Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?","?","Joshua Wilbur","",""
-"UT058","Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?","0","Joshua Wilbur","",""
-"UT059","Is there a future participle?","0","Joshua Wilbur","",""
-"UT060","Are there participles that can encode their subject by possessive suffixes?","0","Joshua Wilbur","","Possessive suffixes have not been productive for at least 100 years."
-"UT061","Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?","0","Joshua Wilbur","",""
-"UT062","Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?","0","Joshua Wilbur","","If the nominal head is there, it does not inflect."
-"UT063","Are there nonfinite forms that can be used both as participles and action nominalizations?","0","Joshua Wilbur","",""
-"UT064","Are there nonfinite forms that can be used both as participles and agentive nominalizations?","0","Joshua Wilbur","","They are different: jåhtem 'migrating' vs. jåhtej 'migrator'."
-"UT065","Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?","0","Joshua Wilbur","",""
-"UT066","Is OV the neutral order in affirmative imperative clauses?","0","Joshua Wilbur","giehtja dáv;look-IMP.2SG this.ACC.SG;look at this!;|tjaske munje såbbev;throw-IMP.2SG 1SG.ILL stick.ACC.SG;throw the stick to me!;",""
-"UT067","Is it possible to place an object between the negative marker and the main verb in imperative constructions? ","1","Joshua Wilbur","idtjij akktak almatj dav naga gåddet;NEG-3SG.PST any person.NOM.SG dem.ACC.SG manage-CNG kill-INF;no one managed to kill him;",""
-"UT068","Are there preverbs?","1","Joshua Wilbur","ja dán dåben muv äddne'l bajás sjaddaman;DEM-INE house-INE 1SG.GEN mother.NOM.SG=be.3SG.PRS up grow-PTCP;and in this house my mother grew up;","They can also occur in other positions and function."
-"UT069","Are there verbal prefixes?","0","Joshua Wilbur","",""
-"UT070","Is there diminutive (hypocoristic) marking on verbs?","0","Joshua Wilbur","","The diminutive verbalizing suffix -tj /…/ expresses doing the activity referred to by the verbal base a little bit or to a limited extent"" (Wilbur 2014: 202)."
-"UT071","Can modifiers of action nominalization in agent and patient roles both be marked like possessors?","?","Joshua Wilbur","","No significant evidence in my corpus to be sure."
-"UT072","Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?","?","Joshua Wilbur","","No significant evidence in my corpus to be sure."
-"UT073","Do core adjectives agree with the subject noun in number in the predicative position?","1","Joshua Wilbur","biednaga lä tjáhppada;dog.NOM.PL be.3PL.PRS black.NOM.PL;the dogs are black;",""
-"UT074","Is it possible to form synthetic superlative?","1","Joshua Wilbur","tjábbe : tjábbáp : tjábbájmus;beautiful : beautiful.COMP : beautiful.SPRL;beautiful : more beautiful : the most beautiful;",""
-"UT075","Can adpositions have person/number marking?","0","Joshua Wilbur","",""
-"UT076","Are there separate adpositions to express goal, source, and location (without there being syncretism)?","1","Joshua Wilbur","váre allelij/allelin/allelist;mountain.GEN west.ILL/west.INE/west.ELA;to(wards) the west/in the west/from the west of the mountain;",""
-"UT077","Is case compounding possible?","0","Joshua Wilbur","",""
-"UT078","Are there case categories only found in pronouns?","0","Joshua Wilbur","",""
-"UT079","Does the numeral modification of a noun have an effect on its case selection? ","0","Joshua Wilbur","",""
-"UT080","Is the singular form of the noun also used with numerals bigger than 1?","0","Joshua Wilbur","",""
-"UT081","Is there a genitive case that has an affix?","1","Joshua Wilbur","guli-j;fish-GEN.PL;;Wilbur 2014: 79","Genitive plural is formed using the suffix -j (plus relevant stem alternations)
+ID,Name,Pite.Saami,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,"Joshua Wilbur, p.c.",månnå ja Jåssjå lijmen ullgon sirijd tjåggemin;1SG.NOM and Josh.NOM.SG be-1DU.PST outside blueberries-ACC.PL pick-PTCP;I and Josh were picking berries outside;,Likely only for highly animate subjects.
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,"Joshua Wilbur, p.c.",,
+UT003,Can finite verbs agree in number with the nominal object?,0,"Joshua Wilbur, p.c.",,
+UT004,Can an adnominal property word agree with the noun in case?,0,"Joshua Wilbur, p.c.",,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Joshua Wilbur, p.c.",,
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Joshua Wilbur, p.c.",,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Joshua Wilbur, p.c.",ja tsáhpat biergov káfa sis;and cut-INF meat-ACC.SG coffee-GEN.SG into;and to cut meat into your coffee;,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,0,"Joshua Wilbur, p.c.",,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Joshua Wilbur, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Joshua Wilbur, p.c.",,
+UT011,Does object marking correlate with aspectuality? ,0,"Joshua Wilbur, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Joshua Wilbur, p.c.",,
+UT013,Is there differential subject marking?,0,"Joshua Wilbur, p.c.",,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Joshua Wilbur, p.c.",Hiŋga äjjtiga lidjin nåv sagga hiejo ja idnin nåv binná buhtsujt;Hiŋŋa.GEN.SG parent-NOM.PL be-3SG.PST so incredibly poor-NOM.SG and have-3PL.PST so few reindeer-NOM.PL;Hinnga's parent were so incredibly poor and had so few reindeer;,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Joshua Wilbur, p.c.",,
+UT016,Is there a grammatical device for habituality?,0,"Joshua Wilbur, p.c.",,
+UT017,Is there a grammatical device for frequentative?,1,"Joshua Wilbur, p.c.",jårråt;fall_over.INF;fall over;|jårådit;fall_over_repeatedly.INF,
+UT018,Is there a grammatical device for progressivity?,1,"Joshua Wilbur, p.c.","da lä jábmám, ber muv äddne'l  viessomin dále;3PL.NOM be.3PL.PRS die-PTCP1 only 1SG.GEN mother.NOM.SG=be.3SG.PRS live-PTCP2 now;They have died, only my mother is living now;",
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Joshua Wilbur, p.c.",ja dä maŋŋel dä vuolgá Västeråsaj;and then after then drive-2SG.PRS V.-ILL.SG;and then after that you'll drive to Västerås;,
+UT020,Is there a grammatical device for immediate future?,0,"Joshua Wilbur, p.c.",,
+UT021,Is there a grammatical device for pluperfect?,1,"Joshua Wilbur, p.c.",dä jähkkin ahte vurunjása lijjin suv bårråm;then believe-3PL.PST that raven-NOM.PL be-3PL.PST 3SG.ACC eat-PTCP;then they believed that ravens had eaten her;,
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Joshua Wilbur, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,1,"Joshua Wilbur, p.c.",Hiŋŋga gujt idtjij máhte tjuovvot ålmáv buhtsuj gugu;H.\NOM.SG really neg-3SG.PST can\CNG follow man-ACC.SG reindeer-GEN.PL towards;Hinnga was not able to accompany her husband to the reindeer;,Negation verb is a fully inflected finite verb.
+UT024,Is there grammatical marking of mirativity?,0,"Joshua Wilbur, p.c.",,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Joshua Wilbur, p.c.",,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,Wilbur 2014: 14,,Nowadays the modal verb gallgat 'will' is used in conditional clauses (Wilbur 2014: 14).
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,"Joshua Wilbur, p.c.",,See UT027.
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Joshua Wilbur, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,1,"Joshua Wilbur, p.c.",Vissjum litj dun bånndáj;become.angry-PTCP be-POT.3SG DEM.DIST-ILL.SG rich-ILL.SG;(she) must have become angry at that rich (man);,The potential mood is used to indicate that the action referred to by the verb is likely to happen (Wilbur 2014: 152-153).
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Joshua Wilbur, p.c.",,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,"Joshua Wilbur, p.c.",,"However, probably it can be reconstructed."
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Joshua Wilbur, p.c.",,"However, probably it can be reconstructed."
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Joshua Wilbur, p.c.",,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Joshua Wilbur, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Joshua Wilbur, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Joshua Wilbur, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Joshua Wilbur, p.c.",,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Joshua Wilbur, p.c.",,Verb inflects for the subject.
+UT039,Can third person plural verb forms be used for impersonal reference?,0,"Joshua Wilbur, p.c.",,The word for 'person' is used. 
+UT040,Can second person singular verb forms be used in generic meaning?,0,"Joshua Wilbur, p.c.",,
+UT042,Are clauses with only infinitive predicates possible?,0,"Joshua Wilbur, p.c.",,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Joshua Wilbur, p.c.",usjudin ahte sajev gávdnat;think.3PL.PST that (subordinator) place.ACC.SG find.INF;they thought that they would find the place;,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Joshua Wilbur, p.c.",muhtij ja lij bar guäkkte vaj gålbmå grader;snow-3SG.PST and be-3SG.PST only two or three degrees;it snowed and it was only two or three degrees;,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,"Joshua Wilbur, p.c.",dat lä iello;that.NOM.SG be-3SG.PRS herd\NOM.SG;that is the herd;,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Joshua Wilbur, p.c.",dat lij kujdna mij tjuojgaj bálldal;that.NOM.SG be-3SG.PST woman\NOM.SG who\NOM.SG ski-3SG.PST past;that was the woman who skied by;,
+UT047,Can locative adverbial phrases act as predicates without a copula?,0,"Joshua Wilbur, p.c.",,
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Joshua Wilbur, p.c.",biednaga ja gáhto;dog-NOM.PL and cat\NOM.PL;dogs and cats;|båhtá ja bårrá;come\3SG.PRS and eat\3SG.PRS;comes and eats;|Hiŋga äjjtiga lidjin nåv sagga hiejo ja idnin nåv binná buhtsujt;Hiŋŋa.GEN.SG parent-NOM.PL be-3SG.PST so incredibly poor-NOM.SG and have-3PL.PST so few reindeer-NOM.PL;Hinnga's parent were so incredibly poor and had so few reindeer;,
+UT049,Does existential negation have a separate operator?,0,"Joshua Wilbur, p.c.",,
+UT050,Can standard negation be asymmetric in the present tense?,1,"Joshua Wilbur, p.c.",Hiŋŋga gujt idtjij máhte tjuovvot ålmáv buhtsuj gugu;H.\NOM.SG really neg-3SG.PST can\CNG follow man-ACC.SG reindeer-GEN.PL towards;Hinnga was not able to accompany her husband to the reindeer;,
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,"Joshua Wilbur, p.c.",,The negation verb is not compatible with non-finite clauses.
+UT052,Is there a special negator that combines with non-finite forms?,0,"Joshua Wilbur, p.c.",,
+UT053,Are there special negative non-finite forms?,0,"Joshua Wilbur, p.c.",,
+UT054,Is there an impersonal passive construction?,0,"Joshua Wilbur, p.c.",,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",?,"Joshua Wilbur, p.c.",,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",?,"Joshua Wilbur, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",?,"Joshua Wilbur, p.c.",,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Joshua Wilbur, p.c.",,
+UT059,Is there a future participle?,0,"Joshua Wilbur, p.c.",,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,"Joshua Wilbur, p.c.",,Possessive suffixes have not been productive for at least 100 years.
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,"Joshua Wilbur, p.c.",,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Joshua Wilbur, p.c.",,"If the nominal head is there, it does not inflect."
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,"Joshua Wilbur, p.c.",,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,"Joshua Wilbur, p.c.",,They are different: jåhtem 'migrating' vs. jåhtej 'migrator'.
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Joshua Wilbur, p.c.",,
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Joshua Wilbur, p.c.",giehtja dáv;look-IMP.2SG this.ACC.SG;look at this!;|tjaske munje såbbev;throw-IMP.2SG 1SG.ILL stick.ACC.SG;throw the stick to me!;,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Joshua Wilbur, p.c.",idtjij akktak almatj dav naga gåddet;NEG-3SG.PST any person.NOM.SG dem.ACC.SG manage-CNG kill-INF;no one managed to kill him;,
+UT068,Are there preverbs?,1,"Joshua Wilbur, p.c.",ja dán dåben muv äddne'l bajás sjaddaman;DEM-INE house-INE 1SG.GEN mother.NOM.SG=be.3SG.PRS up grow-PTCP;and in this house my mother grew up;,They can also occur in other positions and function.
+UT069,Are there verbal prefixes?,0,"Joshua Wilbur, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Wilbur 2014: 202,,The diminutive verbalizing suffix -tj expresses doing the activity referred to by the verbal base a little bit or to a limited extent.
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,?,"Joshua Wilbur, p.c.",,No significant evidence in my corpus to be sure.
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",?,"Joshua Wilbur, p.c.",,No significant evidence in my corpus to be sure.
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Joshua Wilbur, p.c.",biednaga lä tjáhppada;dog.NOM.PL be.3PL.PRS black.NOM.PL;the dogs are black;,
+UT074,Is it possible to form synthetic superlative?,1,"Joshua Wilbur, p.c.",tjábbe : tjábbáp : tjábbájmus;beautiful : beautiful.COMP : beautiful.SPRL;beautiful : more beautiful : the most beautiful;,
+UT075,Can adpositions have person/number marking?,0,"Joshua Wilbur, p.c.",,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Joshua Wilbur, p.c.",váre allelij/allelin/allelist;mountain.GEN west.ILL/west.INE/west.ELA;to(wards) the west/in the west/from the west of the mountain;,
+UT077,Is case compounding possible?,0,"Joshua Wilbur, p.c.",,
+UT078,Are there case categories only found in pronouns?,0,"Joshua Wilbur, p.c.",,
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,"Joshua Wilbur, p.c.",,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,0,"Joshua Wilbur, p.c.",,
+UT081,Is there a genitive case that has an affix?,1,"Joshua Wilbur, p.c.;Wilbur 2014: 79[example]",guli-j;fish-GEN.PL;;,"Genitive plural is formed using the suffix -j (plus relevant stem alternations)
 but genitive singular does not have any affixes."
-"UT082","Is there a dative case used to express indirect object/receiver/goal (different from a local case)?","0","Joshua Wilbur","",""
-"UT083","Is there a terminative case?","0","Joshua Wilbur","",""
-"UT084","Is there a separate case to indicate without what/who an action takes place / does not take place?","1","Joshua Wilbur","","Abessive has very few evidence in the corpus outside of elicitation sessions, and even then speakers are inconsistent and uncertain. But historically it existed. (cf. Wilbur 2014: 97-98, § 5.3.3)"
-"UT085","Is there a separate case to mark the motion along or by the referent of the noun (prolative)?","0","Joshua Wilbur","",""
-"UT086","Is there a locative case that marks goal?","1","Joshua Wilbur","gåhtáj;tent.ILL;towards the tent;",""
-"UT087","Is there a locative case that marks location?","1","Joshua Wilbur","gåden;tent.INE;in the tent;",""
-"UT088","Is there a locative case that marks source?","1","Joshua Wilbur","gådest;tent.ELA;from the tent;",""
-"UT089","Is there case syncretism of goal and location marking?","0","Joshua Wilbur","",""
-"UT090","Is there case syncretism of location and source marking?","0","Joshua Wilbur","",""
-"UT091","Are there two sets of local cases?","0","Joshua Wilbur","",""
-"UT092","Is there a third set of local cases?","0","Joshua Wilbur","",""
-"UT093","Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?","1","Joshua Wilbur","bistijn;spoon.COM;with a spoon;|mánájn;child.COM;with a child;",""
-"UT094","Is there a separate case for marking accompaniment, which is different from the instrumental?","0","Joshua Wilbur","",""
-"UT095","Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?","1","Joshua Wilbur","mánnán;child.ESS;as a child;|
-ja dä miŋemus da sjiddin dievván;and then finally DEM.DIST.NOM.PL become.3PL.PST hill.ESS;and then in the end those became this hill;","Essive case marks both a state of being and a result of change."
-"UT096","Is there a separate case for marking the state of being (essive), which is different from the translative?","0","Joshua Wilbur","",""
-"UT097","Is there a separate morphological marker for expressing equative meaning?","0","Joshua Wilbur","",""
-"UT098","Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?","0","Joshua Wilbur","",""
-"UT099","Is there in addition to the basic declension a declension different from a possessive declension? ","0","Joshua Wilbur","",""
-"UT100","Is it possible to use singular with paired body parts/clothing/accessories that accompany them?","0","Joshua Wilbur","",""
-"UT101","Can the marking of the possessor in the attributive construction vary?","0","Joshua Wilbur","",""
-"UT102","Can the possessor in the attributive construction be marked with the nominative?","0","Joshua Wilbur","",""
-"UT103","Is non-singular possession marked in the possessive declension?","1","Joshua Wilbur","viel'jat : veljatah;;your brother : your brothers;Lehtiranta 1992: 160","Possessive suffixes are no longer productive."
-"UT104","Can 2Sg possessive suffix be used to mark definiteness? ","0","Joshua Wilbur","",""
-"UT105","Can 3Sg possessive suffix be used to mark definiteness? ","0","Joshua Wilbur","",""
-"UT106","Is there animacy distinction in independent interrogative pronouns?","1","Joshua Wilbur","mij;what.NOM.SG;what (-hum);|gie;who.NOM.SG;who (+hum);","Note that it's a +/-HUM distinction, not +/-ANIMATE."
-"UT107","When used as a relative pronoun, is it common to use 'who' for animates other than humans?","0","Joshua Wilbur","","The non-human interrogative pronoun is used."
-"UT108","When used as a relative pronoun, is it common to use 'who' for inanimates?","0","Joshua Wilbur","",""
-"UT109","Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?","1","Joshua Wilbur","dát båhtá;DEM.PROX.NOM.SG come.3SG.PRS;s/he/it is coming;","However, it is considered informal or somewhat impolite. Cf. sån båhtá (3SG.NOM+HUM come.3SG.PRS)
-'s/he is coming'."
-"UT110","Is the order of possessive suffix and case suffix across the paradigm the same?","1","Joshua Wilbur","áhttje-s;father-1SG.POSS\NOM.SG;my father;Wilbur 2014: 110","Possessive suffixes precede case suffixes. But possissive suffixes are no longer productive (cf. Wilbur 2014: 108-111, §5.5)."
-"UT111","Is the order of number and case suffixes fixed across the paradigm the same?","N/A","Joshua Wilbur","","It is not possible to separate them."
-"UT112","Are there different words for mother’s brother and father’s brother?","1","Joshua Wilbur","ednu;;materinal uncle;|iehke;;paternal uncle;",""
-"UT113","Are there different words for younger and older relative for other relations than siblings?","1","Joshua Wilbur","gåsske;;older materinal aunt (older than the mother);|muossá;;younger materinal aunt (younger than the mother);",""
-"UT114","Is there animacy distinction for both concepts 'new/young' and 'old'?","1","Joshua Wilbur","vuoras : nuorra;;old : young;|gámbal : årrå;;old : new;","gámbal is a loan from N-Germ."
-"UT115","Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?","1","Joshua Wilbur","báhkas : tjåskes;;hot weather : cold weather;|bivval : galbma;;hot : cold;",""
-"UT116","Is there contrastive length of consonants?","1","Joshua Wilbur","náhppe [naːʰpːe] milking.bowl.NOM.SG vs. náhpe [naːʰpe] milking.bowl.GEN.SG",""
-"UT117","Is there contrastive length of vowels?","1","Joshua Wilbur","dát [taːt] DEM.PROX.NOM.SG vs. dat [tat] DEM.DIST.NOM.SG",""
-"UT118","Is there contrast between short and long unstressed vowels?","1","Joshua Wilbur","guolátj [kolaːʧ] fish-DIM vs. guolatj [kolaʧ] testicle-DIM",""
-"UT119","Is there contrast in duration of geminate consonants?","1","Joshua Wilbur","jáffo [jaːfːːo] flour.NOM.SG vs. jáffo [jaːfːo] flour.GEN.SG","Here, the geminate in nom.sg is a long geminate, while gen.sg is a short gemiante."
-"UT120","Are there more than two phonological quantities? ","1","Joshua Wilbur","jáffo [jaːfːːo] flour.NOM.SG vs. jáffo [jaːfːo] flour.GEN.SG vs. ráfe [raːfe] peach.GEN.SG","However, never within the same morphological paradigm."
-"UT121","Are there extralong syllables? ","1","Joshua Wilbur","suäjbme [su͡ɛjp.me] slow.person.NOM.SG, bárdne [baːrt.ne] son.NOM.SG",""
-"UT122","Is the main foot structure trochaic?","1","Joshua Wilbur","suäjbme [ˈsu͡ɛjp.me] slow.person.NOM.SG, bárdne [ˈbaːrt.ne] son.NOM.SG,
-guolátj [ˈku͡o.laːʧ] fish.NOM.SG, dåbe [ˈdɔ.pe] house.GEN.SG",""
-"UT123","Is there lexically distinctive word stress?","0","Joshua Wilbur","",""
-"UT124","Is there morphologically conditioned stress?","0","Joshua Wilbur","","Stress is assigned to the initial syllable of a foot, with primary stress on the initial foot, secondary stress on all other feet. This just happens to align with morphological boundaries in some cases, such as some derivational and even some inflectional suffixes. A purely phonological (i.e., prosodic) rule is completely sufficient to describe the stress pattern."
-"UT125","Is there fixed primary stress?","1","Joshua Wilbur","biednagijda [ˈpi͡et.na.ˌkij.da] dog.ILL.PL, giehtavuassa [ˈki͡eʰ.ta.ˌvu͡as.sa] hand_bag.NOM.SG","The first syllable of the initial foot always receives primary stress (all other inital syllable of non-initial feet receive secondary stress)."
-"UT126","Is there stress in heavy syllables?","0","Joshua Wilbur","",""
-"UT127","Is there non-initial primary stress?","0","Joshua Wilbur","",""
-"UT128","Is there palatal vowel harmony?","0","Joshua Wilbur","",""
-"UT129","Is there velar vowel harmony?","0","Joshua Wilbur","",""
-"UT130","Is there labial vowel harmony? ","0","Joshua Wilbur","",""
-"UT131","Are there rising diphthongs? ","0","Joshua Wilbur","",""
-"UT132","Are there lowering diphthongs?","1","Joshua Wilbur","[ju͡alːgaːj]  foot-ILL.SG, [ju͡olge] foot\NOM.PL, [ju͡ɛllge] foot\NOM:SG, [bi͡ena] dog\NOM.SG","u͡a, u͡o, u͡ɛ, i͡e"
-"UT133","Is there qualitative contrast between subsets of short and long vowels?","0","Joshua Wilbur","",""
-"UT134","Are there full vs. reduced vowels as contrastive subsets? ","0","Joshua Wilbur","",""
-"UT135","Is there front high rounded vowel ü [y]?","0","Joshua Wilbur","",""
-"UT136","Is there front midhigh rounded vowel ö [ø]?","0","Joshua Wilbur","",""
-"UT137","Is there back high unrounded vowel ï [ɯ]?","0","Joshua Wilbur","",""
-"UT138","Is there back midhigh unrounded vowel ë [ɤ]?","0","Joshua Wilbur","",""
-"UT139","Is there back low round vowel [ɒ]?","0","Joshua Wilbur","",""
-"UT140","Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?","1","Joshua Wilbur","bärrkit [pɛrːʰkit] tan-hide.INF vs. berrgit [perːkit] manage.INF",""
-"UT141","Are there word-initial consonant clusters?","1","Joshua Wilbur","sjnjierra [ʃɲerːa] rat.NOM.SG, pluovve [plovːe] tarn.NOM.SG","Plenty of very old, well-incorporated loanwords, too."
-"UT142","Are there word-internal consonant clusters in syllable onset?","0","Joshua Wilbur","",""
-"UT143","Are there consonant clusters in syllable coda?","1","Joshua Wilbur","bárdnest [paːrt.nest] son.ELA.SG",""
-"UT144","Are there clusters of three or more consonants in a word between vowels?","1","Joshua Wilbur","bárdnest [paːrt.nest] son.ELA.SG",""
-"UT145","Are there word-final clusters of three or more consonants?","1","Joshua Wilbur","bärdnijst [pɛrt.nijst] son.ELA.PL","Only -jst, and of course one could posit that the -j- is in fact a vowel -i-."
-"UT146","Are there palatalized dentals? ","0","Joshua Wilbur","",""
-"UT147","Are there palatalized labials and velars? ","0","Joshua Wilbur","",""
-"UT148","Is there palatal stop [c]?","0","Joshua Wilbur","",""
-"UT149","Is there palatal nasal [ɲ]?","1","Joshua Wilbur","njuonne [ɲu͡onːe] nose.NOM.SG",""
-"UT150"," Is there palatal lateral [ʎ]?","0","Joshua Wilbur","",""
-"UT151","Is there phonemic velar nasal [ŋ]?","1","Joshua Wilbur","maŋŋel [maŋːel] 'after', jieŋa [jeŋa] ice.GEN.SG",""
-"UT152","Is there dental affricate [t͡s]?","1","Joshua Wilbur","tsitsuk [t͡sɪt͡suk] sparrow.NOM.SG",""
-"UT153","Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?","1","Joshua Wilbur","tjakktja [t͡ʃakːt͡ʃa] autumn.NOM.SG",""
-"UT154","Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?","1","Joshua Wilbur","vuassjat [vu͡aʃːat] make_coffee-INF",""
-"UT155","Are there voiced plosives [b, g, d]?","0","Joshua Wilbur","","Only in more recent loanwords, e.g.:
-bijjla [bijːla] car.NOM.SG"
-"UT156","Is there glottal stop [ˀ]?","0","Joshua Wilbur","",""
-"UT157","Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?","0","Joshua Wilbur","",""
-"UT158","Is there a constraint on word-initial r?","0","Joshua Wilbur","",""
-"UT159","Is there laryngeal fricative [h]?","1","Joshua Wilbur","háledit [haːletit]  fly-INF, bahás [pahaːs] evil-ATTR","Not to be confused with an orthographic -h- written before a plosive between the first and second syllables, as this -h- marks preaspiration, e.g. náhppe [naːʰpːe] milking.bowl.NOM.SG."
-"UT160","Is there voiced velar fricative [ɣ]?","0","Joshua Wilbur","",""
-"UT161","Is there voiceless velar fricative [x]?","0","Joshua Wilbur","",""
-"UT162","Is there voiced dental fricative [ð]?","1","Joshua Wilbur","gäđđge [kɛðːke] stone.NOM.SG","Historically, it was more common but in the ortography it is there. Now, it is more common as a non-standard variant, cf. gärrge [kɛrːke] (standard) vs. gäđđge [kɛðːke] (variant) stone.NOM.SG"
-"UT163","Is there phonemic labio-velar approximant [w]?","0","Joshua Wilbur","","Allophone of /v/, so not a phoneme (and limited to some variants)."
-"UT164","Is there voiceless labiodental fricative [f]?","1","Joshua Wilbur","fábmo [faːpmo] power.NOM.SG",""
-"UT165","Is there radical qualitative consonant gradation?","1","Joshua Wilbur","mánná [maːnːaː] child.NOM.SG vs. máná [maːnaː] child.GEN.SG","Also dåhpe : dåbe [ʰp : p] house.NOM.SG vs. house.GEN.SG, náhppe: náhpe [ʰpː : ʰp] milking-bowl.NOM.SG vs. milking-bowl.GEN.SG, vájbmo : vájmo [jpm : jm] heart.NOM.SG vs. heart.GEN.SG.
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Joshua Wilbur, p.c.",,
+UT083,Is there a terminative case?,0,"Joshua Wilbur, p.c.",,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Joshua Wilbur, p.c.",,"Abessive has very few evidence in the corpus outside of elicitation sessions, and even then speakers are inconsistent and uncertain. But historically it existed (cf. Wilbur 2014: 97-98)."
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Joshua Wilbur, p.c.",,
+UT086,Is there a locative case that marks goal?,1,"Joshua Wilbur, p.c.",gåhtáj;tent.ILL;towards the tent;,
+UT087,Is there a locative case that marks location?,1,"Joshua Wilbur, p.c.",gåden;tent.INE;in the tent;,
+UT088,Is there a locative case that marks source?,1,"Joshua Wilbur, p.c.",gådest;tent.ELA;from the tent;,
+UT089,Is there case syncretism of goal and location marking?,0,"Joshua Wilbur, p.c.",,
+UT090,Is there case syncretism of location and source marking?,0,"Joshua Wilbur, p.c.",,
+UT091,Are there two sets of local cases?,0,"Joshua Wilbur, p.c.",,
+UT092,Is there a third set of local cases?,0,"Joshua Wilbur, p.c.",,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Joshua Wilbur, p.c.",bistijn;spoon.COM;with a spoon;|mánájn;child.COM;with a child;,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Joshua Wilbur, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Joshua Wilbur, p.c.","mánnán;child.ESS;as a child;|
+ja dä miŋemus da sjiddin dievván;and then finally DEM.DIST.NOM.PL become.3PL.PST hill.ESS;and then in the end those became this hill;",Essive case marks both a state of being and a result of change.
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Joshua Wilbur, p.c.",,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Joshua Wilbur, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Joshua Wilbur, p.c.",,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Joshua Wilbur, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Joshua Wilbur, p.c.",,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Joshua Wilbur, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,0,"Joshua Wilbur, p.c.",,
+UT103,Is non-singular possession marked in the possessive declension?,1,"Joshua Wilbur, p.c.;Lehtiranta 1992: 160[example]",viel'jat : veljatah;;your brother : your brothers;,Possessive suffixes are no longer productive.
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Joshua Wilbur, p.c.",,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Joshua Wilbur, p.c.",,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Joshua Wilbur, p.c.",mij;what.NOM.SG;what (-hum);|gie;who.NOM.SG;who (+hum);,"Note that it's a +/-HUM distinction, not +/-ANIMATE."
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Joshua Wilbur, p.c.",,The non-human interrogative pronoun is used.
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Joshua Wilbur, p.c.",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Joshua Wilbur, p.c.",dát båhtá;DEM.PROX.NOM.SG come.3SG.PRS;s/he/it is coming;,"However, it is considered informal or somewhat impolite. Cf. sån båhtá (3SG.NOM+HUM come.3SG.PRS) 's/he is coming'."
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,Wilbur 2014: 108-111;Wilbur 2014: 110[example],áhttje-s;father-1SG.POSS\NOM.SG;my father;,Possessive suffixes precede case suffixes. But possissive suffixes are no longer productive.
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,"Joshua Wilbur, p.c.",,It is not possible to separate them.
+UT112,Are there different words for mother’s brother and father’s brother?,1,"Joshua Wilbur, p.c.",ednu;;materinal uncle;|iehke;;paternal uncle;,
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Joshua Wilbur, p.c.",gåsske;;older materinal aunt (older than the mother);|muossá;;younger materinal aunt (younger than the mother);,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Joshua Wilbur, p.c.",vuoras : nuorra;;old : young;|gámbal : årrå;;old : new;,gámbal is a loan from N-Germ.
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,1,"Joshua Wilbur, p.c.",báhkas : tjåskes;hot weather : cold weather;|bivval : galbma;hot : cold;,
+UT116,Is there contrastive length of consonants?,1,"Joshua Wilbur, p.c.",náhppe [naːʰpːe] milking.bowl.NOM.SG vs. náhpe [naːʰpe] milking.bowl.GEN.SG,
+UT117,Is there contrastive length of vowels?,1,"Joshua Wilbur, p.c.",dát [taːt] DEM.PROX.NOM.SG vs. dat [tat] DEM.DIST.NOM.SG,
+UT118,Is there contrast between short and long unstressed vowels?,1,"Joshua Wilbur, p.c.",guolátj [kolaːʧ] fish-DIM vs. guolatj [kolaʧ] testicle-DIM,
+UT119,Is there contrast in duration of geminate consonants?,1,"Joshua Wilbur, p.c.",jáffo [jaːfːːo] flour.NOM.SG vs. jáffo [jaːfːo] flour.GEN.SG,"Here, the geminate in nom.sg is a long geminate, while gen.sg is a short gemiante."
+UT120,Are there more than two phonological quantities? ,1,"Joshua Wilbur, p.c.",jáffo [jaːfːːo] flour.NOM.SG vs. jáffo [jaːfːo] flour.GEN.SG vs. ráfe [raːfe] peach.GEN.SG,"However, never within the same morphological paradigm."
+UT121,Are there extralong syllables? ,1,"Joshua Wilbur, p.c.","suäjbme [su͡ɛjp.me] slow.person.NOM.SG, bárdne [baːrt.ne] son.NOM.SG",
+UT122,Is the main foot structure trochaic?,1,"Joshua Wilbur, p.c.","suäjbme [ˈsu͡ɛjp.me] slow.person.NOM.SG, bárdne [ˈbaːrt.ne] son.NOM.SG,
+guolátj [ˈku͡o.laːʧ] fish.NOM.SG, dåbe [ˈdɔ.pe] house.GEN.SG",
+UT123,Is there lexically distinctive word stress?,0,"Joshua Wilbur, p.c.",,
+UT124,Is there morphologically conditioned stress?,0,"Joshua Wilbur, p.c.",,"Stress is assigned to the initial syllable of a foot, with primary stress on the initial foot, secondary stress on all other feet. This just happens to align with morphological boundaries in some cases, such as some derivational and even some inflectional suffixes. A purely phonological (i.e., prosodic) rule is completely sufficient to describe the stress pattern."
+UT125,Is there fixed primary stress?,1,"Joshua Wilbur, p.c.","biednagijda [’pi͡et.na.ˌkij.da]
+dog.ILL.PL, giehtavuassa [’ki͡eʰ.ta.ˌvu͡as.sa]
+hand_bag.NOM.SG",The first syllable of the initial foot always receives primary stress (all other inital syllable of non-initial feet receive secondary stress).
+UT126,Is there stress in heavy syllables?,0,"Joshua Wilbur, p.c.",,
+UT127,Is there non-initial primary stress?,0,"Joshua Wilbur, p.c.",,
+UT128,Is there palatal vowel harmony?,0,"Joshua Wilbur, p.c.",,
+UT129,Is there velar vowel harmony?,0,"Joshua Wilbur, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Joshua Wilbur, p.c.",,
+UT131,Are there rising diphthongs? ,0,"Joshua Wilbur, p.c.",,
+UT132,Are there lowering diphthongs?,1,"Joshua Wilbur, p.c.","[ju͡alːgaːj]  foot-ILL.SG, [ju͡olge] foot\NOM.PL, [ju͡ɛllge] foot\NOM:SG, [bi͡ena] dog\NOM.SG","u͡a, u͡o, u͡ɛ, i͡e"
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Joshua Wilbur, p.c.",,
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,"Joshua Wilbur, p.c.",,
+UT135,Is there front high rounded vowel ü [y]?,0,"Joshua Wilbur, p.c.",,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Joshua Wilbur, p.c.",,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Joshua Wilbur, p.c.",,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Joshua Wilbur, p.c.",,
+UT139,Is there back low round vowel [ɒ]?,0,"Joshua Wilbur, p.c.",,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,"Joshua Wilbur, p.c.",bärrkit [pɛrːʰkit] tan-hide.INF vs. berrgit [perːkit] manage.INF,
+UT141,Are there word-initial consonant clusters?,1,"Joshua Wilbur, p.c.","sjnjierra [ʃɲerːa] rat.NOM.SG, pluovve [plovːe] tarn.NOM.SG","Plenty of very old, well-incorporated loanwords, too."
+UT142,Are there word-internal consonant clusters in syllable onset?,0,"Joshua Wilbur, p.c.",,
+UT143,Are there consonant clusters in syllable coda?,1,"Joshua Wilbur, p.c.",bárdnest [paːrt.nest] son.ELA.SG,
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Joshua Wilbur, p.c.",bárdnest [paːrt.nest] son.ELA.SG,
+UT145,Are there word-final clusters of three or more consonants?,1,"Joshua Wilbur, p.c.",bärdnijst [pɛrt.nijst] son.ELA.PL,"Only -jst, and of course one could posit that the -j- is in fact a vowel -i-."
+UT146,Are there palatalized dentals? ,0,"Joshua Wilbur, p.c.",,
+UT147,Are there palatalized labials and velars? ,0,"Joshua Wilbur, p.c.",,
+UT148,Is there palatal stop [c]?,0,"Joshua Wilbur, p.c.",,
+UT149,Is there palatal nasal [ɲ]?,1,"Joshua Wilbur, p.c.",njuonne [ɲu͡onːe] nose.NOM.SG,
+UT150, Is there palatal lateral [ʎ]?,0,"Joshua Wilbur, p.c.",,
+UT151,Is there phonemic velar nasal [ŋ]?,1,"Joshua Wilbur, p.c.","maŋŋel [maŋːel] 'after', jieŋa [jeŋa] ice.GEN.SG",
+UT152,Is there dental affricate [t͡s]?,1,"Joshua Wilbur, p.c.",tsitsuk [t͡sɪt͡suk] sparrow.NOM.SG,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Joshua Wilbur, p.c.",tjakktja [t͡ʃakːt͡ʃa] autumn.NOM.SG,
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Joshua Wilbur, p.c.",vuassjat [vu͡aʃːat] make_coffee-INF,
+UT155,"Are there voiced plosives [b, g, d]?",0,"Joshua Wilbur, p.c.",,"Only in more recent loanwords, e.g.: bijjla [bijːla] car.NOM.SG"
+UT156,Is there glottal stop [ˀ]?,0,"Joshua Wilbur, p.c.",,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Joshua Wilbur, p.c.",,
+UT158,Is there a constraint on word-initial r?,0,"Joshua Wilbur, p.c.",,
+UT159,Is there laryngeal fricative [h]?,1,"Joshua Wilbur, p.c.","háledit [haːletit]  fly-INF, bahás [pahaːs] evil-ATTR","Not to be confused with an orthographic -h- written before a plosive between the first and second syllables, as this -h- marks preaspiration, e.g. náhppe [naːʰpːe] milking.bowl.NOM.SG."
+UT160,Is there voiced velar fricative [ɣ]?,0,"Joshua Wilbur, p.c.",,
+UT161,Is there voiceless velar fricative [x]?,0,"Joshua Wilbur, p.c.",,
+UT162,Is there voiced dental fricative [ð]?,1,"Joshua Wilbur, p.c.",gäđđge [kɛðːke] stone.NOM.SG,"Historically, it was more common but in the ortography it is there. Now, it is more common as a non-standard variant, cf. gärrge [kɛrːke] (standard) vs. gäđđge [kɛðːke] (variant) stone.NOM.SG"
+UT163,Is there phonemic labio-velar approximant [w]?,0,"Joshua Wilbur, p.c.",,"Allophone of /v/, so not a phoneme (and limited to some variants)."
+UT164,Is there voiceless labiodental fricative [f]?,1,"Joshua Wilbur, p.c.",fábmo [faːpmo] power.NOM.SG,
+UT165,Is there radical qualitative consonant gradation?,1,"Joshua Wilbur, p.c.",mánná [maːnːaː] child.NOM.SG vs. máná [maːnaː] child.GEN.SG,"Also dåhpe : dåbe [ʰp : p] house.NOM.SG vs. house.GEN.SG, náhppe: náhpe [ʰpː : ʰp] milking-bowl.NOM.SG vs. milking-bowl.GEN.SG, vájbmo : vájmo [jpm : jm] heart.NOM.SG vs. heart.GEN.SG.
 Historically this is how it happened, but it has not been productive for a long time (as in, an open/closed second syllable has not not affected the consonants in the stem for a long time)."
-"UT166","Is there quantitative consonant gradation?","1","Joshua Wilbur","guolle [kuollie] fish.NOM.SG vs. guole [kuolie] fish.GEN.SG",""
+UT166,Is there quantitative consonant gradation?,1,"Joshua Wilbur, p.c.",guolle [kuollie] fish.NOM.SG vs. guole [kuolie] fish.GEN.SG,
