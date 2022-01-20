@@ -26,13 +26,13 @@ ID|Subgroup|Langauge|UT|Language expert|GB|Language expert
 24|Samoyedic|Nganasan|✔|Beáta Wagner Nagy|✔|(literary sources)
 25|Samoyedic|Kamas|✔|Gerson Klumpp|✔|Gerson Klumpp
 26|Samoyedic|South Selkup|✔|Jozefina Budzisch, Gerson Klumpp|✔|Gerson Klumpp
-27|Hungarian|Hungarian|✔|Mariann Bernhardt, Márta Csepregi, Péter Pomozi|✔|Nikolett F. Gulyás
+27|Hungarian|Hungarian|✔|Mariann Bernhardt, Márta Csepregi, Péter Pomozi|✔|Nikolett F. Gulyás, Mariann Bernhardt
 28|Mansi|North Mansi|✔|Jeremy Bradley, Csilla Horváth, Elena Skribnik, Marianne Bakro-Nagy||
 29|Mansi|East Mansi|✔|Ulla-Maija Forsberg|✔|Ulla-Maija Forsberg
 30|Khanty|Kazym Khanty|✔|Mária Sipos||
 31|Khanty|Surgut Khanty|✔|Márta Csepregi|✔|(literary sources)
-32|Mordvin|Erzya|✔|Niina Aasmäe, Mariann Bernhardt, Denys Teptiuk|✔|Niina Aasmäe
-33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari
+32|Mordvin|Erzya|✔|Niina Aasmäe, Mariann Bernhardt, Denys Teptiuk|✔|Niina Aasmäe, Mariann Bernhardt
+33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt
 34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley
 
