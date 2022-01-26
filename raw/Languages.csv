@@ -23,7 +23,7 @@ ID,Name,Subfamily,Glottocode,ISO.639.3,Latitude,Longitude,citations
 22,Komi_Zyrian,Permic,komi1268,kpv,64.05,54.95,"lytkin_sovremennyj_1955,okk_okk_1998"
 23,Udmurt,Permic,udmu1245,udm,57.11,52.89,"kelmakov_udmurtin_2008,arkhangelskiy_case_2018,winkler_udmurt_2001,__1983b,noauthor__1962,edygarova_kategorija_2010"
 24,Hungarian,Ugric,hung1274,hun,46.91,19.66,havas_typological_2015
-25,East_Mansi,Ugric,easr2879,mns,60.2,65.49,"virtanen_transitivity_2015,kulonen_itamansin_2007"
+25,East_Mansi,Ugric,east2879,mns,60.2,65.49,"virtanen_transitivity_2015,kulonen_itamansin_2007"
 26,North_Mansi,Ugric,mans1258,mns,63.64,61.75,"riese_vogul_2001,noauthor_ob-ugric_nodate,skribnik_complex_2005,riese__2020,__1995,rombandeeva_wogulische_1984,__2007,noauthor_-_2012,kalman_wogulisches_1986,nikolaeva_semantics_1999"
 27,Kazym_Khanty,Ugric,khan1273,kca,62.43,66.12,
 28,Surgut_Khanty,Ugric,surg1248,kca,61.25,73.35,csepregi_new_1999

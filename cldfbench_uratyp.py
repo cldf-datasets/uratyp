@@ -111,7 +111,7 @@ def check_example(p, d):
                         word = morphemes = comps[0]
                         gloss = comps[1]
                     else:
-                        print('----- {} -- {}'.format(e, ex))
+                        #print('----- {} -- {}'.format(e, ex))
                         parsed = []
                         break
                 # FIXME: add phonemic transcription!
@@ -159,16 +159,17 @@ def check_example(p, d):
                     g = gloss.strip().split()
                     if len(a) != len(g):
                         if g:
-                            print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name,
-                                                                                   d['ID'], ' '.join(a), ' '.join(g)))
+                            #print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name,
+                            #                                                       d['ID'], ' '.join(a), ' '.join(g)))
+                            pass
                         # print(a)
                         # print(g)
                         # print('---')
                         raise ValueError()
                     yield (ipa or ' '.join(analyzed), analyzed, gloss, translation, '')
             except:
-                print('{}:{}:misformatted IGT: "{}"'.format(
-                    p.name, d['ID'], ex.replace('\n', r'\n')))
+                #print('{}:{}:misformatted IGT: "{}"'.format(
+                #    p.name, d['ID'], ex.replace('\n', r'\n')))
                 #raise
                 yield (ex, '', '', '', '')
 
@@ -231,7 +232,7 @@ class Dataset(BaseDataset):
             "UraTyp combines typological data collected with two separate questionnaires. " \
             "These questionnaires are listed in the ContributionTable, and parameters, " \
             "i.e. features (and thus values) are linked to this table according to their origin."
-        args.writer.cldf.add_component(
+        t = args.writer.cldf.add_component(
             'ParameterTable',
             'Area',
             {
@@ -239,6 +240,10 @@ class Dataset(BaseDataset):
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
                 "dc:description": "Links a feature to the questionnaire it comes from.",
             },
+            {
+                "name": "Feature_Description",
+                "dc:description": "Relative path to a markdown document describing the feature",
+            }
         )
         args.writer.cldf['LanguageTable', 'Glottocode'].null = ['?']
         args.writer.cldf['LanguageTable', 'ISO639P3code'].null = ['?']
@@ -267,6 +272,9 @@ class Dataset(BaseDataset):
 
             for param in read(self.raw_dir / sd / 'Features.csv'):
                 param['Contribution_ID'] = sd
+                doc = self.cldf_dir / '..' / 'doc' / '{}.md'.format(param['ID'])
+                if doc.exists():
+                    param['Feature_Description'] = str(doc.relative_to(self.cldf_dir))
                 args.writer.objects['ParameterTable'].append(param)
                 if sd == 'UT':
                     codes = [('1', 'yes'), ('0', 'no')]
@@ -292,14 +300,14 @@ class Dataset(BaseDataset):
                         d = data[row['language']][k]
                         if row[k] in ['', 'N/A']:  # don't even include the rows
                             continue
-                        assert list(d.values())[2] == row[k]
+                        assert list(d.values())[2] == row[k], '{}, {}: {} != {}'.format(row['language'], k, list(d.values())[2], row[k])
                         #assert row[k] != '1' or d['Example'], str(d)
                         for ex in examples[row['language'], k]:
                             pt, analyzed, gloss, translation, comment = ex
                             if (not pt) and analyzed:
                                 pt = ''.join(analyzed) if isinstance(analyzed, list) else analyzed
                             if not pt:
-                                print(ex)
+                                #print(ex)
                                 continue
                             eid += 1
                             args.writer.objects['ExampleTable'].append(dict(
