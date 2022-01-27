@@ -1,4 +1,4 @@
-# Uralic Typological dataset (UraTyp)
+# Uralic Typological database (UraTyp)
 
 The UraTyp dataset includes information on 360 features spanning the domains of morphology, syntax, phonology, and marginally also lexicon collected from all the branches of the Uralic language family. 195 out of 360 features were collected using the Grambank questionnaire (i.e. the GB list of features), which was developed by the Grambank team to collect data from about half of the world’s languages (https://glottobank.org/). GB list of features and the development of the data will be presented elsewhere (Skirgård et al., submitted ms). The remaining 165 features (i.e. the UT list of features) were developed by the author team of the UraTyp database to further explore the variation within the Uralic language family. The interactive database built on these datasets is available at https://uralic.clld.org.
 
