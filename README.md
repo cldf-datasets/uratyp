@@ -4,7 +4,14 @@ The UraTyp dataset includes information on 360 features spanning the domains of 
 
 ## How to cite the UraTyp dataset
 
+If you use the data of the UraTyp database, please cite the dataset as
+
+> Norvik, Miina, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen, & Outi Vesakoski. 2021. Uralic Typological database - UraTyp. Zenodo. https://doi.org/10.5281/zenodo.5236365
+
+as well as the paper introducing it
+
 > Norvik, Miina, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen, & Outi Vesakoski. To appear. Uralic typology in the light of a new comprehensive dataset. Journal of Uralic Linguistics.
+
 
 # Overview
 

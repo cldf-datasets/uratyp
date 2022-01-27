@@ -6,7 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:identifier": "https://github.com/cldf-datasets/uratyp",
+    "dc:identifier": "https://uralic.clld.org",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Uralic Typological database - UraTyp",
@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-176-gda0954d",
+            "dc:created": "v0.2-177-g785b7ab",
             "dc:title": "Repository"
         },
         {

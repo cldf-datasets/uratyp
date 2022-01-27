@@ -1,6 +1,6 @@
 <a name="ds-structuredatasetmetadatajson"> </a>
 
-# StructureDataset uratyp
+# StructureDataset Uralic Typological database - UraTyp
 
 **CLDF Metadata**: [StructureDataset-metadata.json](./StructureDataset-metadata.json)
 
@@ -8,12 +8,11 @@
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Miina et al. 2021. Uralic typological data sets.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
-[dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/cldf-datasets/uratyp
+[dc:identifier](http://purl.org/dc/terms/identifier) | https://uralic.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/uratyp
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/uratyp/tree/e74295e">cldf-datasets/uratyp v0.2-34-ge74295e</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.4">Glottolog v4.4</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/uratyp/tree/785b7ab">cldf-datasets/uratyp v0.2-177-g785b7ab</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | uratyp
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -24,7 +23,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 10898
+[dc:extent](http://purl.org/dc/terms/extent) | 11093
 
 
 ### Columns
@@ -84,7 +83,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2137
+[dc:extent](http://purl.org/dc/terms/extent) | 2803
 
 
 ### Columns
@@ -138,4 +137,5 @@ Name/Property | Datatype | Description
 [Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
 `Area` | `string` | 
 [Contribution_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | Links a feature to the questionnaire it comes from.<br>References [contributions.csv::ID](#table-contributionscsv)
+`Feature_Description` | `string` | Relative path to a markdown document describing the feature
 
