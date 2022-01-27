@@ -5,24 +5,23 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Miina et al. 2021. Uralic typological data sets.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/cldf-datasets/uratyp",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "uratyp",
+    "dc:title": "Uralic Typological database - UraTyp",
     "dcat:accessURL": "https://github.com/cldf-datasets/uratyp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-42-ga208081",
+            "dc:created": "v0.2-176-gda0954d",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
@@ -44,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 10898,
+            "dc:extent": 11093,
             "tableSchema": {
                 "columns": [
                     {
@@ -301,7 +300,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2848,
+            "dc:extent": 2803,
             "tableSchema": {
                 "columns": [
                     {
@@ -483,6 +482,10 @@
                         "dc:description": "Links a feature to the questionnaire it comes from.",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#contributionReference",
                         "name": "Contribution_ID"
+                    },
+                    {
+                        "dc:description": "Relative path to a markdown document describing the feature",
+                        "name": "Feature_Description"
                     }
                 ],
                 "foreignKeys": [

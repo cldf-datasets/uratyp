@@ -1,8 +1,7 @@
 {
     "id": "uratyp",
-    "title": "uratyp",
+    "title": "Uralic Typological database - UraTyp",
     "description": null,
     "license": "CC-BY-4.0",
-    "url": "https://github.com/cldf-datasets/uratyp",
-    "citation": "Miina et al. 2021. Uralic typological data sets."
+    "url": "https://github.com/cldf-datasets/uratyp"
 }
