@@ -4,7 +4,7 @@ certifi==2020.12.5
 chardet==4.0.0
 cldfbench==1.9.0
 -e git+https://github.com/cldf-datasets/rantanenurageo@8c78b96aece7175277e9083e4e1516a12f7751aa#egg=cldfbench_rantanenurageo
--e git+https://github.com/cldf-datasets/uratyp@fbd51dfc3c5a98926738005c22062ba520ca422d#egg=cldfbench_uratyp
+-e git+https://github.com/cldf-datasets/uratyp@da0954de5297b50a7c1365344ac5576ab8cd7c46#egg=cldfbench_uratyp
 cldfcatalog==1.3.2
 clld==7.4.2
 clldutils==3.10.1

@@ -1,3 +1,24 @@
+# Creators
+
+Name               | GitHub user     | Role
+---                | ---             | ---
+Miina Norvik | @MiinaNo | author
+Yingqi Jing | @JakeJing | author
+Michael Dunn | @evoling | author
+Robert Forkel | @xrotwang | author
+Terhi Honkola | | author
+Gerson Klumpp | | author
+Richard Kowalik | | author 
+Helle Metslang | | author
+Karl Pajusalu | | author
+Minerva Piha | | author
+Eva Saar | | author
+Sirkka Saarinen | | author
+Outi Vesakoski |  | author
+
+
+## Language experts
+
 ID|Subgroup|Langauge|UT|Language expert|GB|Language expert
 ---|---|---|---|---|---|---
 1|Finnic|Finnish|✔|Mervi de Heer, Minerva Piha|✔|Mervi de Heer

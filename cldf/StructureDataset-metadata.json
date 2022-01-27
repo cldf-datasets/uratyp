@@ -5,18 +5,17 @@
             "@language": "en"
         }
     ],
-    "dc:bibliographicCitation": "Miina et al. 2021. Uralic typological data sets.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
     "dc:identifier": "https://github.com/cldf-datasets/uratyp",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "uratyp",
+    "dc:title": "Uralic Typological database - UraTyp",
     "dcat:accessURL": "https://github.com/cldf-datasets/uratyp",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-175-gfbd51df",
+            "dc:created": "v0.2-176-gda0954d",
             "dc:title": "Repository"
         },
         {
