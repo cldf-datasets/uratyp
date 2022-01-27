@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2-177-g785b7ab",
+            "dc:created": "v1.0",
             "dc:title": "Repository"
         },
         {
