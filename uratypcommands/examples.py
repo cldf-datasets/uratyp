@@ -13,12 +13,14 @@ def register(parser):
 def parse(row):
     c = row['Example'].count(';')
     if c in [2, 3]:
+        print('hihi')
         if c == 2:
             pt, gloss, translation = row['Example'].split(';')
             comment = ''
         else:
             pt, gloss, translation, comment = row['Example'].split(';')
-        parsed = dict(Primary_Text=pt, Gloss=gloss, Translation=translation, Comment=comment)
+        parsed = dict(Primary_Text=pt, Gloss='\t'.join(gloss.split()), Translation=translation, Comment=comment)
+        parsed['Analyzed'] = '\t'.join(parsed['Primary_Text'].split())
         yield [parsed.get(k, row[k]) for k in row]
     else:
         yield [row[k] for k in row]
@@ -37,7 +39,7 @@ def run(args):
             with UnicodeWriter(p) as w:
                 w.writerow(rows[0].keys())
                 for row in rows:
-                    w.writerows(list(split(row)))
+                    w.writerows(list(parse(row)))
 
         #    w.writerow(['ID', 'Example', 'Primary_Text', 'IPA', 'Analyzed', 'Gloss', 'Translation', 'Comment'])
         #    for row in rows:
