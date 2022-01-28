@@ -9,7 +9,10 @@ setup(
     entry_points={
         'cldfbench.dataset': [
             'uratyp=cldfbench_uratyp:Dataset',
-        ]
+        ],
+        'cldfbench.commands': [
+            'uratyp=uratypcommands',
+        ],
     },
     install_requires=[
         'clldutils>=3.10.1',

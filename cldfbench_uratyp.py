@@ -148,6 +148,9 @@ def check_example(p, d):
                 if not done:
                     # analyzed, gloss, translation = ex.split(
                     #     '\n' if '\n' in ex else ';')[:3]
+                    #
+                    # тӹдӹ яжо эдем ыл-ын;[tə̈də̈ jɑʒo edem əl-ən];3SG good person be-PST2.3SG;s/he was a good person;
+                    #
                     analyzed, gloss, translation = re.split(r'\n|;', ex)[:3]
                     ipa = None
                     if '[' in analyzed:
@@ -166,7 +169,7 @@ def check_example(p, d):
                         # print(g)
                         # print('---')
                         raise ValueError()
-                    yield (ipa or ' '.join(analyzed), analyzed, gloss, translation, '')
+                    yield (ipa or ''.join(analyzed), a, g, translation, '')
             except:
                 #print('{}:{}:misformatted IGT: "{}"'.format(
                 #    p.name, d['ID'], ex.replace('\n', r'\n')))
