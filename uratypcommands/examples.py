@@ -18,14 +18,28 @@ def register(parser):
 
 def parse(row):
     c = row['Example'].count(';')
-    if c in [2, 3]:
+    if c in [2, 3, 4]:
+        ipa = ''
         if c == 2:
             pt, gloss, translation = row['Example'].split(';')
             comment = ''
-        else:
+        elif c == 3:
             pt, gloss, translation, comment = row['Example'].split(';')
-        parsed = dict(Primary_Text=pt, Gloss='\t'.join(gloss.split()), Translation=translation, Comment=comment)
-        parsed['Analyzed'] = '\t'.join(parsed['Primary_Text'].split())
+        elif c == 4:
+            pt, ipa, gloss, translation, comment = row['Example'].split(';')
+            if ipa.startswith('['):
+                ipa = ipa[1:].strip()
+            if ipa.endswith(']'):
+                ipa = ipa[:-1].strip()
+        else:
+            raise ValueError
+        parsed = dict(
+            Primary_Text=pt,
+            IPA=ipa,
+            Gloss='\t'.join(gloss.split()),
+            Translation=translation,
+            Comment=comment)
+        parsed['Analyzed'] = '\t'.join((ipa or pt).split())
         yield [parsed.get(k, row[k]) for k in row]
     else:
         m = WORD_PATTERN.fullmatch(row['Example'])
