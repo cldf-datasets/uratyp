@@ -10,3 +10,10 @@ def run(args):
         for row in reader(p, dicts=True):
             if not row['Primary_Text']:
                 print(p.stem, row['ID'], row['Example'])
+            if row['Analyzed'] and row['Gloss']:
+                a = row['Analyzed'].strip().split()
+                g = row['Gloss'].strip().split()
+                if len(a) != len(g):
+                    print(p.stem, row['ID'])
+                    print(a)
+                    print(g)
