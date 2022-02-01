@@ -49,136 +49,19 @@ def fix_internal_stress(s):
     return ''.join(new)
 
 
-def check_example(p, d):
-    ex = d['Example'].strip()
-    if ex and ex.lower() not in ['example', 'examples']:
-        ut_id = int(d["ID"].split('UT')[1])
-        # ignore all the examples of phonological features in UT
-        if 116 <= ut_id <= 166:
-            # parse multiple phonological (onw-word) examples of the following types:
-            """
-            Lule_Saami.csv:UT154:misformatted IGT: "vuossja [vuoʃʃa] boil.CNG vs. vuossa [vuossa] bag.GEN.SG"
-            Lule_Saami.csv:UT155:misformatted IGT: "biebbmo [pieb:muo] 'food', soabbe [soab:bie] 'walking stick'"
-            """
-            refp = re.compile("\((?P<ref>[^)]+)\)")
-            transp = re.compile("['’‘](?P<trans>[^'’]+)['’]")
-            ex2 = fix_internal_stress(ex.replace("['", "[\u02c8"))
-            phonemicp = re.compile(r"\s+/(?P<ipa>[^/]+)/\s+")
-            parsed = []
-            for e in split_text_with_context(
-                    ex2.replace("vs.", ",").replace('→', ',').replace(' : ', ' , ').replace('\n', ',').replace(' > ', ' , '),
-                    separators=",;",
-                    brackets={"'": "'", "’": "’", "[": "]", "‘": "’"}):
-                word, morphemes, trans, gloss, phonemic, ref_or_comment = '', '', '', '', '', ''
-                m = refp.search(e)
-                if m:
-                    ref_or_comment = m.group('ref')
-                    e = refp.sub('', e).strip()
-
-                if '/' in e and ('[' not in e):
-                    e = phonemicp.sub(lambda m: " [{}] ".format(m.group('ipa')), e)
-
-                m = phonemicp.search(e)
-                if m:
-                    phonemic = m.group('ipa')
-                    e = phonemicp.sub('', e).strip()
-
-                tokens = collections.Counter(list(e))
-                if tokens['['] == 1 and tokens[']'] == 1:  # IPA morphemes
-                    word_morphemes, rem = e.split(']')
-                    word, morphemes = word_morphemes.split('[')
-                    rem = rem.strip()
-                    m = transp.search(rem)
-                    if m:
-                        trans = m.group('trans')
-                        gloss = transp.sub('', rem).strip()
-                    else:
-                        gloss = rem
-                    #print("{} - {} - {} - {}".format(word.strip(), morphemes.strip(), gloss, trans))
-                else:
-                    if e.endswith('.'):
-                        e = e[:-1].strip()
-                    m = transp.search(e)
-                    if m and m.end() == len(e):  # We got a translation
-                        e = transp.sub('', e).strip()
-                        trans = m.group('trans')
-                    comps = e.split()
-                    if len(comps) == 1:
-                        word = morpheme = comps[0]
-                    elif len(comps) == 2 and re.search(r'[A-Z]+', comps[1]):
-                        # two words and the second contains uppercase letters. Assume the
-                        # second to be the gloss.
-                        word = morphemes = comps[0]
-                        gloss = comps[1]
-                    else:
-                        #print('----- {} -- {}'.format(e, ex))
-                        parsed = []
-                        break
-                # FIXME: add phonemic transcription!
-                parsed.append((
-                    word.strip(), morphemes, gloss, trans, '({})'.format(ref_or_comment) if ref_or_comment else ''))
-            for pp in parsed:
-                yield pp
-            if not parsed:
-                yield (ex, '', '', '', '')
-        else:
-            done = False
-            try:
-                if '|' in ex and ';' in ex:
-                    try:
-                        parsed = []
-                        for e in ex.split('|'):
-                            pt, g, t, c = e.split(';')
-                            if '[' in pt:
-                                pt, _, an = pt.partition('[')
-                                pt = pt.strip()
-                                an = an.replace(']', '').strip()
-                            else:
-                                an = pt
-                            if g:
-                                assert len(an.strip().split()) == len(g.strip().split())
-                            parsed.append((pt, an.strip().split(), g.strip().split() if g else [], t, c))
-                        done = True
-                        for pp in parsed:
-                            yield pp
-                    except:
-                        #raise
-                        pass
-
-                if not done:
-                    # analyzed, gloss, translation = ex.split(
-                    #     '\n' if '\n' in ex else ';')[:3]
-                    #
-                    # тӹдӹ яжо эдем ыл-ын;[tə̈də̈ jɑʒo edem əl-ən];3SG good person be-PST2.3SG;s/he was a good person;
-                    #
-                    analyzed, gloss, translation = re.split(r'\n|;', ex)[:3]
-                    ipa = None
-                    if '[' in analyzed:
-                        analyzed, _, ipa = analyzed.partition('[')
-                        analyzed = analyzed.strip()
-                        ipa = ipa.replace(']', '').strip()
-                        analyzed, ipa = ipa, analyzed
-                    a = analyzed.strip().split()
-                    g = gloss.strip().split()
-                    if len(a) != len(g):
-                        if g:
-                            #print('{}:{}:morphemes/gloss mismatch: "{}" - "{}"'.format(p.name,
-                            #                                                       d['ID'], ' '.join(a), ' '.join(g)))
-                            pass
-                        # print(a)
-                        # print(g)
-                        # print('---')
-                        raise ValueError()
-                    yield (ipa or ''.join(analyzed), a, g, translation, '')
-            except:
-                #print('{}:{}:misformatted IGT: "{}"'.format(
-                #    p.name, d['ID'], ex.replace('\n', r'\n')))
-                #raise
-                yield (ex, '', '', '', '')
-
-
 NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
       '?CHECK, possibly 1', '?CHECK']
+
+
+def checkex(row):
+    if row['Primary_Text']:
+        if row['Analyzed'] and row['Gloss']:
+            a = row['Analyzed'].strip().split()
+            g = row['Gloss'].strip().split()
+            if len(a) != len(g):
+                return False
+        return True
+    return False
 
 
 class Dataset(BaseDataset):
@@ -204,17 +87,16 @@ class Dataset(BaseDataset):
                 refs[lid].append(src.id)
             args.writer.cldf.sources.add(src)
 
-        examples = collections.defaultdict(list)
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
-            #if p.stem not in ['Finnish', 'Kazym_Khanty', 'Komi_Zyrian', 'Lule_Saami']:
-            #    continue
             for row in reader(p, dicts=True):
-                #
-                # FIXME: check examples right here!
-                #
                 data[p.stem][row['ID']] = row
-                for ex in check_example(p, row):
-                    examples[p.stem, row['ID']].append(ex)
+
+        examples = collections.defaultdict(list)
+        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
+            for row in reader(p, dicts=True):
+                if checkex(row):
+                    examples[p.stem.replace('_examples', ''), row['ID']].append(row)
+
         args.writer.cldf.add_component(
             'LanguageTable',
             {
@@ -225,10 +107,7 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
             'ExampleTable',
-            {
-                'name': 'Analyzed_Word_IPA',
-                'separator': '\t',
-            }
+            'Original_Script',
         )
         t = args.writer.cldf.add_component('ContributionTable')
         t.common_props['dc:description'] = \
@@ -254,7 +133,10 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_columns('LanguageTable', 'Subfamily')
         args.writer.cldf.add_columns(
             'ValueTable',
-            {'name': 'Example_ID', 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
+            {
+                'name': 'Example_ID',
+                'separator': ' ',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
 
         lmap = {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
@@ -299,28 +181,32 @@ class Dataset(BaseDataset):
                     #    continue
                     d = {}
                     lid = lmap[row['language']]
+                    eids = []
                     if k.startswith('UT'):
                         d = data[row['language']][k]
+                        #
+                        # FIXME: change the way missing data is treated - at least for UT?
+                        #
                         if row[k] in ['', 'N/A']:  # don't even include the rows
                             continue
                         assert list(d.values())[2] == row[k], '{}, {}: {} != {}'.format(row['language'], k, list(d.values())[2], row[k])
-                        #assert row[k] != '1' or d['Example'], str(d)
-                        for ex in examples[row['language'], k]:
-                            pt, analyzed, gloss, translation, comment = ex
-                            if (not pt) and analyzed:
-                                pt = ''.join(analyzed) if isinstance(analyzed, list) else analyzed
-                            if not pt:
-                                #print(ex)
-                                continue
+
+                        for ex in examples.get((row['language'], k), []):
+                            if ex['IPA']:
+                                ex['Original_Script'] = ex['Primary_Text']
+                                ex['Primary_Text'] = ex['IPA']
+
                             eid += 1
                             args.writer.objects['ExampleTable'].append(dict(
                                 ID=str(eid),
                                 Language_ID=lid,
-                                Primary_Text=pt,
-                                Analyzed_Word=analyzed if isinstance(analyzed, list) else [analyzed],
-                                Gloss=[gloss] if isinstance(gloss, str) else gloss,
-                                Translated_Text=translation.strip(),
+                                Primary_Text=ex['Primary_Text'].strip().replace('-', ''),
+                                Analyzed_Word=ex['Analyzed'].strip().split() if ex['Analyzed'] else [],
+                                Gloss=ex['Gloss'].strip().split() if ex['Gloss'] else [],
+                                Translated_Text=ex['Translation'].strip() or None,
+                                Original_Script=ex.get('Original_Script', '').strip(),
                             ))
+                            eids.append(str(eid))
 
                     args.writer.objects['ValueTable'].append(dict(
                         ID='{}-{}'.format(lid, k),
@@ -330,5 +216,5 @@ class Dataset(BaseDataset):
                         Code_ID=None if row[k] in NA else '{}-{}'.format(
                             k, int(float(row[k]))),
                         Comment=d.get('Comment'),
-                        Example_ID=str(eid) if d.get('Example') else None,
+                        Example_ID=eids,
                     ))

@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-38-g500c879",
             "dc:title": "Repository"
         },
         {
@@ -102,6 +102,7 @@
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": " ",
                         "name": "Example_ID"
                     }
                 ],
@@ -300,7 +301,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2803,
+            "dc:extent": 2936,
             "tableSchema": {
                 "columns": [
                     {
@@ -368,8 +369,8 @@
                         "name": "Comment"
                     },
                     {
-                        "separator": "\t",
-                        "name": "Analyzed_Word_IPA"
+                        "datatype": "string",
+                        "name": "Original_Script"
                     }
                 ],
                 "foreignKeys": [
