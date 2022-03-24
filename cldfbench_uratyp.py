@@ -2,9 +2,13 @@ import re
 import pathlib
 import collections
 
+from unidecode import unidecode
+from nameparser import HumanName
 from pybtex import database
 from clld.lib.bibtex import unescape
+from clldutils.misc import slug
 from clldutils.text import split_text, split_text_with_context
+from clldutils.markup import iter_markdown_tables
 from csvw.dsv import reader
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from pycldf.sources import Source
@@ -74,36 +78,36 @@ class Dataset(BaseDataset):
     def cmd_download(self, args):
         pass
 
-    def cmd_makecldf(self, args):
-        data = collections.defaultdict(dict)
-        bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
-        refs = collections.defaultdict(list)
-        for key, entry in bibdata.entries.items():
-            src = Source.from_entry(key, entry)
-            for k in src:
-                src[k] = unescape(src[k])
-            for lid in src.get('langref', '').split(','):
-                lid = lid.strip()
-                refs[lid].append(src.id)
-            args.writer.cldf.sources.add(src)
-
-        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
-            for row in reader(p, dicts=True):
-                data[p.stem][row['ID']] = row
-
-        examples = collections.defaultdict(list)
-        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
-            for row in reader(p, dicts=True):
-                if checkex(row):
-                    examples[p.stem.replace('_examples', ''), row['ID']].append(row)
-
+    def _schema(self, args):
         args.writer.cldf.add_component(
             'LanguageTable',
             {
                 'name': 'Source',
                 'separator': ';',
                 "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-            })
+            },
+            {
+                'name': 'UT_Experts',
+                'separator': ' ',
+            },
+            {
+                'name': 'GB_Experts',
+                'separator': ' ',
+            },
+        )
+        args.writer.cldf.add_table(
+            'contributors.csv',
+            {
+                'name': 'ID',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            },
+            {
+                'name': 'Name',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            },
+        )
+        args.writer.cldf.add_foreign_key('LanguageTable', 'UT_Experts', 'contributors.csv', 'ID')
+        args.writer.cldf.add_foreign_key('LanguageTable', 'GB_Experts', 'contributors.csv', 'ID')
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
             'ExampleTable',
@@ -138,6 +142,32 @@ class Dataset(BaseDataset):
                 'separator': ' ',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
 
+
+    def cmd_makecldf(self, args):
+        data = collections.defaultdict(dict)
+        bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
+        refs = collections.defaultdict(list)
+        for key, entry in bibdata.entries.items():
+            src = Source.from_entry(key, entry)
+            for k in src:
+                src[k] = unescape(src[k])
+            for lid in src.get('langref', '').split(','):
+                lid = lid.strip()
+                refs[lid].append(src.id)
+            args.writer.cldf.sources.add(src)
+
+        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
+            for row in reader(p, dicts=True):
+                data[p.stem][row['ID']] = row
+
+        examples = collections.defaultdict(list)
+        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
+            for row in reader(p, dicts=True):
+                if checkex(row):
+                    examples[p.stem.replace('_examples', ''), row['ID']].append(row)
+
+        self._schema(args)
+
         lmap = {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
             lang['ISO639P3code'] = lang.pop('ISO.639.3')
@@ -146,6 +176,38 @@ class Dataset(BaseDataset):
             args.writer.objects['LanguageTable'].append(lang)
             lmap[lang['Name']] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
+
+        t = list(iter_markdown_tables(self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8')))
+        experts = collections.defaultdict(lambda: collections.defaultdict(list))
+        for row in t[1][1]:
+            row = list(zip(t[1][0], row))
+            #[('ID', '33'), ('Subgroup', 'Mordvin'), ('Langauge', 'Moksha'), ('UT', '✔'), ('Language expert', 'Niina Aasmäe,  Mariann Bernhardt'), ('GB', '✔'), ('Language expert', 'Arja Hamari, Mariann Bernhardt')]
+            contrib, lid = None, None
+            for k, v in row:
+                # "Langauge" (sic)
+                if k == 'Langauge':
+                    lid = lmap[unidecode(v).replace(' ', '_').replace('-', '_')]
+                if k in ['UT', 'GB']:
+                    contrib = k
+                if k == 'Language expert':
+                    for e in v.split(','):
+                        e = e.strip()
+                        if e:
+                            n = HumanName(e)
+                            cid = slug('{}{}{}'.format(n.middle, n.last, n.first))
+                            if cid:
+                                experts[lid][contrib].append((cid, e))
+        cids = set()
+        for lang in args.writer.objects['LanguageTable']:
+            if lang['ID'] in experts:
+                for contrib in ['GB', 'UT']:
+                    if contrib in experts[lang['ID']]:
+                        lang['{}_Experts'.format(contrib)] = []
+                        for cid, name in experts[lang['ID']][contrib]:
+                            if cid not in cids:
+                                args.writer.objects['contributors.csv'].append(dict(ID=cid, Name=name))
+                                cids.add(cid)
+                            lang['{}_Experts'.format(contrib)].append(cid)
 
         gb_features = {
             r['Feature_ID']: list(gb_codes(r['Possible Values']))
@@ -187,9 +249,11 @@ class Dataset(BaseDataset):
                         #
                         # FIXME: change the way missing data is treated - at least for UT?
                         #
-                        if row[k] in ['', 'N/A']:  # don't even include the rows
+                        if row[k] in ['N/A']:  # don't even include the rows
                             continue
                         assert list(d.values())[2] == row[k], '{}, {}: {} != {}'.format(row['language'], k, list(d.values())[2], row[k])
+                        if row[k] == '':
+                            row[k] = '?'
 
                         for ex in examples.get((row['language'], k), []):
                             if ex['IPA']:
