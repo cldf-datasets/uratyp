@@ -11,6 +11,8 @@ def run(args):
     inv = 0
     i = collections.Counter()
     for p in Dataset().raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
+        if not p.stem.startswith('Erz'):
+            continue
         for row in reader(p, dicts=True):
             if not row['Primary_Text']:
                 print(p.stem, row['ID'], row['Example'])
