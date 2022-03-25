@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-44-g785feee",
             "dc:title": "Repository"
         },
         {
@@ -43,7 +43,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 11093,
+            "dc:extent": 11094,
             "tableSchema": {
                 "columns": [
                     {
@@ -102,6 +102,7 @@
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
+                        "separator": " ",
                         "name": "Example_ID"
                     }
                 ],
@@ -234,8 +235,40 @@
                         "name": "Source"
                     },
                     {
+                        "separator": " ",
+                        "name": "UT_Experts"
+                    },
+                    {
+                        "separator": " ",
+                        "name": "GB_Experts"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Subfamily"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "UT_Experts"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "GB_Experts"
+                        ],
+                        "reference": {
+                            "resource": "contributors.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
                     }
                 ],
                 "primaryKey": [
@@ -243,6 +276,25 @@
                 ]
             },
             "url": "languages.csv"
+        },
+        {
+            "dc:extent": 44,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "contributors.csv"
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
@@ -300,7 +352,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2803,
+            "dc:extent": 2895,
             "tableSchema": {
                 "columns": [
                     {
@@ -368,8 +420,8 @@
                         "name": "Comment"
                     },
                     {
-                        "separator": "\t",
-                        "name": "Analyzed_Word_IPA"
+                        "datatype": "string",
+                        "name": "Original_Script"
                     }
                 ],
                 "foreignKeys": [
