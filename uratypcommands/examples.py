@@ -19,6 +19,7 @@ def register(parser):
 def parse(row):
     c = row['Example'].count(';')
     if c in [2, 3, 4]:
+        print(c, row['Example'])
         ipa = ''
         if c == 2:
             pt, gloss, translation = row['Example'].split(';')
@@ -61,7 +62,19 @@ def split(row):
 
 
 def run(args):
+    cols = "ID Example Primary_Text IPA Analyzed Gloss Translation Comment".split()
     ds = Dataset()
+    if args.action == 'prep':
+        for p in ds.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
+            if args.lang in p.stem:
+                if '_examples' not in p.stem:
+                    with UnicodeWriter(p.parent / '{}_examples.csv'.format(p.stem)) as w:
+                        w.writerow(cols)
+                        for row in reader(p, dicts=True):
+                            if row['Example']:
+                                w.writerow([row['ID'], row['Example']] + [''] * (len(cols) - 2))
+        return
+
     for p in ds.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
         if args.lang in p.stem:
             rows = list(reader(p, dicts=True))
