@@ -12,7 +12,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://uralic.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/cldf-datasets/uratyp
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/uratyp/tree/v1.0">cldf-datasets/uratyp v1.0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/cldf-datasets/uratyp/tree/785feee">cldf-datasets/uratyp v1.0-44-g785feee</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | uratyp
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -23,7 +23,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ValueTable](http://cldf.clld.org/v1.0/terms.rdf#ValueTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 11093
+[dc:extent](http://purl.org/dc/terms/extent) | 11094
 
 
 ### Columns
@@ -37,7 +37,7 @@ Name/Property | Datatype | Description
 [Code_ID](http://cldf.clld.org/v1.0/terms.rdf#codeReference) | `string` | References [codes.csv::ID](#table-codescsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
-[Example_ID](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | `string` | References [examples.csv::ID](#table-examplescsv)
+[Example_ID](http://cldf.clld.org/v1.0/terms.rdf#exampleReference) | list of `string` (separated by ` `) | References [examples.csv::ID](#table-examplescsv)
 
 ## <a name="table-languagescsv"></a>Table [languages.csv](./languages.csv)
 
@@ -59,7 +59,23 @@ Name/Property | Datatype | Description
 [Glottocode](http://cldf.clld.org/v1.0/terms.rdf#glottocode) | `string` | 
 [ISO639P3code](http://cldf.clld.org/v1.0/terms.rdf#iso639P3code) | `string` | 
 [Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | References [sources.bib::BibTeX-key](./sources.bib)
+`UT_Experts` | list of `string` (separated by ` `) | References [contributors.csv::ID](#table-contributorscsv)
+`GB_Experts` | list of `string` (separated by ` `) | References [contributors.csv::ID](#table-contributorscsv)
 `Subfamily` | `string` | 
+
+## <a name="table-contributorscsv"></a>Table [contributors.csv](./contributors.csv)
+
+property | value
+ --- | ---
+[dc:extent](http://purl.org/dc/terms/extent) | 44
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
 
 ## <a name="table-codescsv"></a>Table [codes.csv](./codes.csv)
 
@@ -83,7 +99,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ExampleTable](http://cldf.clld.org/v1.0/terms.rdf#ExampleTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2803
+[dc:extent](http://purl.org/dc/terms/extent) | 2895
 
 
 ### Columns
@@ -98,7 +114,7 @@ Name/Property | Datatype | Description
 [Translated_Text](http://cldf.clld.org/v1.0/terms.rdf#translatedText) | `string` | The translation of the example text in a meta language
 [Meta_Language_ID](http://cldf.clld.org/v1.0/terms.rdf#metaLanguageReference) | `string` | References the language of the translated text<br>References [languages.csv::ID](#table-languagescsv)
 [Comment](http://cldf.clld.org/v1.0/terms.rdf#comment) | `string` | 
-`Analyzed_Word_IPA` | list of `string` (separated by `	`) | 
+`Original_Script` | `string` | 
 
 ## <a name="table-contributionscsv"></a>Table [contributions.csv](./contributions.csv)
 
