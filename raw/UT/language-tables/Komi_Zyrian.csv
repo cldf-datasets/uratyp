@@ -6,7 +6,8 @@ UT004,Can an adnominal property word agree with the noun in case?,0,"Nikolay Kuz
 UT005,Are there cases that do not show agreement in terms of case?,1,"Nikolay Kuznetsov, p.c.",бур ёрт-тöг;good[NOM] friend-ABE;without a good friend;|бур ёрт-кöд;good[NOM] friend-COM;with a good friend;,The adnominal property word and the head noun do not show agreement.
 UT006,Can adpositions be used to mark core verbal arguments?,0,"Nikolay Kuznetsov, p.c.",,
 UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Nikolay Kuznetsov, p.c.",куим лун мысти;[kuim lun mɨsci];three day after;after three days;,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Nikolay Kuznetsov, p.c.",Oľgɑ ɑďďź-is Annɑ-lyś kotört-öm-sö dɑ pyr žö mun-is bör-śɑń-ys;Olga see-PST.3SG Anna-ABL run-DER-ACC.3SG and at.once  also go-PST.3SG after-EGR-3SG;Olga saw that/how Anna ran off and went after her immediately;elicited,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Nikolay Kuznetsov, p.c.","Ольга аддзис Анналысь котöртöмсö да пыр жö мунiс бöрсяньыс;[Oʎgɑ	ɑd͡d͡ʑ-is		Annɑ-lɨɕ	kotɘrt-ɘm-sɘ 		dɑ	pɨr ʒɘ	mun-is			bɘr-ɕɑɲ-ɨs];
+Olga	see-PST.3SG	Anna-ABL	run-NMLZ-ACC.3SG	and	at.once	go-PST.3SG	backside-EGR-3SG;Olga saw that/how Anna ran off and went after her immediately;elicited",
 UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Nikolay Kuznetsov, p.c.",,
 UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,"Nikolay Kuznetsov, p.c.",Ме аддзa кaньöс;[me ɑd͡d͡ʑ-ɑ kɑɲ-ɘs];1SG see-PRS.1SG cat-ACC;I see a cat;|Ме аддза керка;[me ɑd͡d͡ʑ-ɑ kerkɑ];1SG see-PRS.1SG house[ACC];I see a house;,Object marking depends on the animateness and definiteness.
 UT011,Does object marking correlate with aspectuality? ,0,"Nikolay Kuznetsov, p.c.",,
@@ -16,7 +17,7 @@ UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. a
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Nikolay Kuznetsov, p.c.",,
 UT016,Is there a grammatical device for habituality?,1,"Nikolay Kuznetsov, p.c.",Сиктын олiгöн ме ветлывлi вöрö;[ɕikt-ɨn ol-igɘn me vetlɨ-vl-i vɘr-ɘ];country-INE live-CVB 1SG go.and.come.back-FRQ-PST.1SG forest-ILL;When I lived in the country I used to go to the forest;,
 UT017,Is there a grammatical device for frequentative?,1,"Nikolay Kuznetsov, p.c.","Аддзысь-лывлы-;[ɑd͡d͡ʑɨɕ-lɨvlɨ-];meet-FRQ;to meet repeatedly, regularly;",
-UT018,Is there a grammatical device for progressivity?,0,"Nikolay Kuznetsov, p.c.",,
+UT018,Is there a grammatical device for progressivity?,1,"Nikolay Kuznetsov, p.c.","садьмим, вöлi зэрö;kor mi sɑɟ-m-im,   vɘl-i   zer-ɘ;when  1PL consciousness-DER-PST.1PL be.PST-PST.3SG rain-PRS.3SG;It was raining when we woke up;",In the past and future tense.
 UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Nikolay Kuznetsov, p.c.","Аски муна карö;[aski mun-a kar-ɘ];tomorrow go-PRS.1SG city-ILL;Tomorrow I will go to the city;
 ","However, in the case of 3rd person, the verb appears in the future tense."
 UT020,Is there a grammatical device for immediate future?,0,"Nikolay Kuznetsov, p.c.",,
@@ -40,7 +41,7 @@ UT037,Can non-singular 2nd and 3rd person have the same person/number marking or
 UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Nikolay Kuznetsov, p.c.",,
 UT039,Can third person plural verb forms be used for impersonal reference?,1,"Nikolay Kuznetsov, p.c.",Шыд сёйöны паньöн;[ʃɨd ɕoj-ɘnɨ pɑɲ-ɘn];soup[ACC] eat-PRS.3PL spoon-INS;Soup is eaten with a spoon;,
 UT040,Can second person singular verb forms be used in generic meaning?,1,"Nikolay Kuznetsov, p.c.",Кольöматö он бергöд;[koʎ-ɘmɑ-tɘ o-n bergɘd];pass-PTCP.PST-ACC.POSS.2SG NEG.PRS-2SG return.CNG.SG;It is not possible to return the past;,
-UT042,Are clauses with only infinitive predicates possible?,1,"Nikolay Kuznetsov, p.c.",Мый öнi вöчны?;[mɨj ɘni vɘt͡ɕ-nɨ];what now to do-INF;What to do now?;,
+UT042,Are clauses with only infinitive predicates possible?,1,"Nikolay Kuznetsov, p.c.",Мый öнi вöчны?;[mɨj ɘni vɘt͡ɕ-nɨ];what now do-INF;What to do now?;,
 UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Nikolay Kuznetsov, p.c.","Муна Венгрияö, медым велöдны венгр кыв;[mun-ɑ vengrijɑ-ɘ, medɨm velɘd-nɨ vengr kɨv];go-PRS.1SG Hungary-ILL in.order.to study-INF hungarian language[ACC];I’m going to Hungary in order to study Hungarian;",
 UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Nikolay Kuznetsov, p.c.",зэрö [zer-ɘ];rain-PRS.3SG;It is raining;,
 UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Nikolay Kuznetsov, p.c.",,
