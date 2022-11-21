@@ -1,0 +1,226 @@
+ID,Name,Value,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,F. Gulyás Nikolett,,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"F. Gulyás Nikolett
+Синтаксис 1940: 18",UT002,"In a special case, when the subject in singular is semantically in plural."
+UT003,Can finite verbs agree in number with the nominal object?,0,F. Gulyás Nikolett,,
+UT004,Can an adnominal property word agree with the noun in case?,1,Цыпанов 1999: 84,UT004,Agreement occurs in some cases.
+UT005,Are there cases that do not show agreement in terms of case?,1,"F. Gulyás Nikolett
+КПЯ 1962: 212-213",UT005,
+UT006,Can adpositions be used to mark core verbal arguments?,0,F. Gulyás Nikolett,,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,F. Gulyás Nikolett,,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"F. Gulyás Nikolett
+КПЯ 1962: 280-283",UT008,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,,,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,"Bartens 2000: 332
+Грамматика 1940: 78
+КПЯ 1962: 186-187",UT010,Object marking depends on the animateness and definiteness.
+UT011,Does object marking correlate with aspectuality?,0,,,
+UT012,Does the marking of the object depend on the verb conjugation form?,0,,,
+UT013,Is there differential subject marking?,?,F. Gulyás Nikolett,UT013,In addition to nominative also partitive can be used to mark the subject.
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,F. Gulyás Nikolett,,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,F. Gulyás Nikolett,,
+UT016,Is there a grammatical device for habituality?,1,"F. Gulyás Nikolett
+КПЯ 1962: 258",UT016,Derivative suffix -ovlyny.
+UT017,Is there a grammatical device for frequentative?,1,"F. Gulyás Nikolett
+КПЯ 1962: 258",UT017,
+UT018,Is there a grammatical device for progressivity?,1,F. Gulyás Nikolett,UT018,
+UT019,Is it common to use a verb in the present tense for future time reference?,1,"F. Gulyás Nikolett
+КПЯ 1962: 251",UT019,There are future markers in the 3rd person only.
+UT020,Is there a grammatical device for immediate future?,0,,,
+UT021,Is there a grammatical device for pluperfect?,1,F. Gulyás Nikolett,,
+UT022,Can aspect be expressed overtly on the negative marker?,0,F. Gulyás Nikolett,,
+UT023,Can tense be expressed overtly on the negative marker?,1,"F. Gulyás Nikolett
+КПЯ 1962: 245-246",UT023,
+UT024,Is there grammatical marking of mirativity?,0,,,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,F. Gulyás Nikolett,,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,F. Gulyás Nikolett,,
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,F. Gulyás Nikolett,,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,F. Gulyás Nikolett,,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,F. Gulyás Nikolett,,The respective marker (potential) has been lost.
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,F. Gulyás Nikolett,,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,F. Gulyás Nikolett,,
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,F. Gulyás Nikolett,,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,F. Gulyás Nikolett,,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,F. Gulyás Nikolett,,
+UT035,Is there reflexive conjugation?,0,F. Gulyás Nikolett,,Reflexivity is expressed by means of a separate word.
+UT036,Are there syntactically ditransitive verbs?,0,F. Gulyás Nikolett,,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,"Bartens 2000: 187
+КПЯ 1962: 254",UT037,Only in negative forms of the II (evidential) Past
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,F. Gulyás Nikolett,,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,"F. Gulyás Nikolett
+КПЯ 1962: 247",UT039,The third person singular form can be used.
+UT040,Can second person singular verb forms be used in generic meaning?,1,"F. Gulyás Nikolett
+КПЯ 1962: 247",UT040,
+UT042,Are clauses with only infinitive predicates possible?,1,F. Gulyás Nikolett,UT042,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,F. Gulyás Nikolett,UT043,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"F. Gulyás Nikolett
+КПЯ 1962: 247-248",UT044,It is common to use se 'this'.
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,F. Gulyás Nikolett,,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,F. Gulyás Nikolett,UT046,
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,"F. Gulyás Nikolett
+Синтаксис 1940: 15",UT047,
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,F. Gulyás Nikolett,UT048,
+UT049,Does existential negation have a separate operator?,1,"F. Gulyás Nikolett
+Грамматика 1940: 156",UT049,A separate operator is used for the present tense.
+UT050,Can standard negation be asymmetric in the present tense?,1,"F. Gulyás Nikolett
+КПЯ 1962: 253",UT050,
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,F. Gulyás Nikolett,,
+UT052,Is there a special negator that combines with non-finite forms?,1,"F. Gulyás Nikolett
+Грамматика 1940: 176","UT052-1, UT052-2",
+UT053,Are there special negative non-finite forms?,1,"F. Gulyás Nikolett
+Грамматика 1940: 176, 180","UT053-1, UT053-2",
+UT054,Is there an impersonal passive construction?,0,,,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"F. Gulyás Nikolett
+Грамматика 1940: 175-176",UT055,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"F. Gulyás Nikolett
+Грамматика 1940: 176",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",1,F. Gulyás Nikolett,,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Грамматика 1940: 176,UT058,
+UT059,Is there a future participle?,0,F. Gulyás Nikolett,,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,Bartens 2000: 341,,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,F. Gulyás Nikolett,,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,F. Gulyás Nikolett,,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"КПЯ 1962: 205, 280; Майшев 1940: 72",UT063,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,F. Gulyás Nikolett,UT064,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,,,
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,F. Gulyás Nikolett,,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,F. Gulyás Nikolett,,
+UT068,Are there preverbs?,0,F. Gulyás Nikolett,,
+UT069,Are there verbal prefixes?,0,F. Gulyás Nikolett,,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,1,КПЯ 1962: 260,UT070,"In this sense, this suffix is unstressed. In stressed position, it takes on a different meaning."
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,0,,,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,F. Gulyás Nikolett,UT072,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"F. Gulyás Nikolett
+КПЯ 1962: 217-218",UT073,
+UT074,Is it possible to form synthetic superlative?,1,"F. Gulyás Nikolett
+КПЯ 1962: 216",UT074,An analythic superlative is used as well.
+UT075,Can adpositions have person/number marking?,1,"F. Gulyás Nikolett
+КПЯ 1962: 307","UT075-1, UT075-2",
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"F. Gulyás Nikolett
+КПЯ 1962: 306; Майшев 1940: 77","UT076-1, UT076-2, UT076-3",
+UT077,Is case compounding possible?,?,F. Gulyás Nikolett,,
+UT078,Are there case categories only found in pronouns?,0,F. Gulyás Nikolett,,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,F. Gulyás Nikolett,,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"F. Gulyás Nikolett
+КПЯ 1962: 227",UT080,
+UT081,Is there a genitive case that has an affix?,1,"F. Gulyás Nikolett
+КПЯ 1962: 185",UT081,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,1,"F. Gulyás Nikolett
+КПЯ 1962: 185",UT082,
+UT083,Is there a terminative case?,1,"F. Gulyás Nikolett
+КПЯ 1962: 193","UT083-1, UT083-2",
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"F. Gulyás Nikolett
+КПЯ 1962: 188-189",UT084,
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,"F. Gulyás Nikolett
+КПЯ 1962: 191-192",UT085,
+UT086,Is there a locative case that marks goal?,1,"F. Gulyás Nikolett
+КПЯ 1962: 191",UT086,
+UT087,Is there a locative case that marks location?,1,"F. Gulyás Nikolett
+КПЯ 1962: 189-190",UT087,
+UT088,Is there a locative case that marks source?,1,"F. Gulyás Nikolett
+КПЯ 1962: 190-191",UT088,
+UT089,Is there case syncretism of goal and location marking?,1,"Bartens 2000: 111
+Грамматика 1940: 79-80",UT089,There is syncretism between the illative and inessive in the possessive declention.
+UT090,Is there case syncretism of location and source marking?,0,Bartens 2000: 78,,
+UT091,Are there two sets of local cases?,1,"Bartens 2000: 108
+Цыпанов 1999: 41-42",UT091,
+UT092,Is there a third set of local cases?,1,"Цыпанов 1999: 42, 47",UT092,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"F. Gulyás Nikolett
+КПЯ 1962: 187-188",UT093,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",1,"F. Gulyás Nikolett
+КПЯ 1962: 188-189",UT094,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Bartens 2000: 78,,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Bartens 2000: 78,,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,Bartens 2000: 78,,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,F. Gulyás Nikolett,,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"F. Gulyás Nikolett
+КПЯ 1962: 177",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,?,"F. Gulyás Nikolett
+КПЯ 1962: 14",UT100,"Obviously, due to influence of Russian a plural form is typical nowdays."
+UT101,Can the marking of the possessor in the attributive construction vary?,1,"F. Gulyás Nikolett
+КПЯ 1962: 184-185",UT101,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,1,"F. Gulyás Nikolett
+КПЯ 1962: 184-185",UT102,
+UT103,Is non-singular possession marked in the possessive declension?,1,"Bartens 2000: 112
+Майшев 1940: 27-37",UT103,"Monikollisen omistetun ilmaisemiseen käytetään monikon tunnusta (udm jos, os, komiP Ce, je, e, komiJ }0, Jez, komj jas [s. 72]), esim. udm nyljosy, koml nyi;Jasii) 'minun monet tyttäreni', udm nyljosmy, komi nyl,Yasnym 'meidän monet tyttäremme
+стяжённые формы: вöввез = вöввезыс (Майшеев 1940: 37-38)"
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,Майшев 1940: 26,UT104,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Майшев 1940: 26,UT105,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"F. Gulyás Nikolett
+КПЯ 1962: 239",UT106,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",1,"F. Gulyás Nikolett
+ККГ 1940: 76?",,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"F. Gulyás Nikolett
+ККГ 1940: 75-76?",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"F. Gulyás Nikolett
+КПЯ 1962: 233, 238-239",UT109,The demonstrative stem сiя is the same as the 3rd person pronoun.
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,"F. Gulyás Nikolett
+КПЯ 1962: 202",,
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"F. Gulyás Nikolett
+Грамматика 1940: 27",UT111,
+UT112,Are there different words for mother’s brother and father’s brother?,?,F. Gulyás Nikolett,,
+UT113,Are there different words for younger and older relative for other relations than siblings?,?,F. Gulyás Nikolett,,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,F. Gulyás Nikolett,UT114,
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,F. Gulyás Nikolett,,
+UT116,Is there contrastive length of consonants?,1,F. Gulyás Nikolett,,
+UT117,Is there contrastive length of vowels?,0,F. Gulyás Nikolett,,
+UT118,Is there contrast between short and long unstressed vowels?,0,F. Gulyás Nikolett,,
+UT119,Is there contrast in duration of geminate consonants?,0,F. Gulyás Nikolett,,
+UT120,Are there more than two phonological quantities?,0,F. Gulyás Nikolett,,
+UT121,Are there extralong syllables?,0,F. Gulyás Nikolett,,
+UT122,Is the main foot structure trochaic?,0,F. Gulyás Nikolett,,
+UT123,Is there lexically distinctive word stress?,1,"F. Gulyás Nikolett
+КПЯ 1962: 94",UT123,
+UT124,Is there morphologically conditioned stress?,1,"F. Gulyás Nikolett
+КПЯ 1962: 94",UT124,
+UT125,Is there fixed primary stress?,0,F. Gulyás Nikolett,,
+UT126,Is there stress in heavy syllables?,0,F. Gulyás Nikolett,,"Many affixes take stress, but not because they are heavy sillables."
+UT127,Is there non-initial primary stress?,1,"F. Gulyás Nikolett
+КПЯ 1962: 93",UT127,Primary stress can fall on many derivational suffixes.
+UT128,Is there palatal vowel harmony?,0,F. Gulyás Nikolett,,
+UT129,Is there velar vowel harmony?,0,F. Gulyás Nikolett,,
+UT130,Is there labial vowel harmony?,0,F. Gulyás Nikolett,,
+UT131,Are there rising diphthongs?,0,F. Gulyás Nikolett,,
+UT132,Are there lowering diphthongs?,0,"F. Gulyás Nikolett
+КПЯ 1962: 76",,"There are some exceptions, e.g. юöр 'message'."
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,F. Gulyás Nikolett,,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,0,F. Gulyás Nikolett,,
+UT135,Is there front high rounded vowel ü [y]?,0,F. Gulyás Nikolett,,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,F. Gulyás Nikolett,,
+UT137,Is there back high unrounded vowel ï [ɯ]?,1,F. Gulyás Nikolett,UT137,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,1,F. Gulyás Nikolett,UT138,
+UT139,Is there back low round vowel [ɒ]?,0,F. Gulyás Nikolett,,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,F. Gulyás Nikolett,,
+UT141,Are there word-initial consonant clusters?,1,"F. Gulyás Nikolett
+КПЯ 1962: 79",,"Only in loan words, descriptive words and few exceptions."
+UT142,Are there word-internal consonant clusters in syllable onset?,?,F. Gulyás Nikolett,,
+UT143,Are there consonant clusters in syllable coda?,1,F. Gulyás Nikolett,UT143,
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"F. Gulyás Nikolett
+N. Kuznetsov",UT144,
+UT145,Are there word-final clusters of three or more consonants?,0,,,
+UT146,Are there palatalized dentals?,0,,,
+UT147,Are there palatalized labials and velars?,0,F. Gulyás Nikolett,,
+UT148,Is there palatal stop [c]?,1,"F. Gulyás Nikolett
+КПЯ 1962: 73-74",UT148,
+UT149,Is there palatal nasal [ɲ]?,1,"F. Gulyás Nikolett
+КПЯ 1962: 74",UT149,
+UT150,Is there palatal lateral [ʎ]?,1,N. Kuznetsov,UT150,
+UT151,Is there phonemic velar nasal [ŋ]?,0,,,
+UT152,Is there dental affricate [t͡s]?,0,N. Kuznetsov,,"It is found in new loanwords (КПЯ 1962: 74), e.g. улица 'street'"
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"F. Gulyás Nikolett
+КПЯ 1962: 74",UT153,
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"F. Gulyás Nikolett
+N. Kuznetsov",UT154,
+UT155,"Are there voiced plosives [b, g, d]?",1,"F. Gulyás Nikolett
+КПЯ 1962: 72",UT155,
+UT156,Is there glottal stop [ˀ]?,0,N. Kuznetsov,,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,F. Gulyás Nikolett,,
+UT158,Is there a constraint on word-initial r?,0,F. Gulyás Nikolett,,
+UT159,Is there laryngeal fricative [h]?,0,F. Gulyás Nikolett,,Only in loanwords.
+UT160,Is there voiced velar fricative [ɣ]?,0,F. Gulyás Nikolett,,
+UT161,Is there voiceless velar fricative [x]?,0,F. Gulyás Nikolett,,
+UT162,Is there voiced dental fricative [ð]?,0,F. Gulyás Nikolett,,
+UT163,Is there phonemic labio-velar approximant [w]?,0,F. Gulyás Nikolett,,
+UT164,Is there voiceless labiodental fricative [f]?,0,F. Gulyás Nikolett,,Only in loanwords.
+UT165,Is there radical qualitative consonant gradation?,0,F. Gulyás Nikolett,,
+UT166,Is there quantitative consonant gradation?,0,,,
