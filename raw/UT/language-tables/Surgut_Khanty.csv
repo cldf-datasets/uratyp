@@ -1,219 +1,219 @@
-ID,Name,Surgut.Khanty,Source,Example,Comment,,,,,,,,,,,,
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,"Márta Csepregi, p.c.",kat imi-ɣən jŏɣət-ɣən,two woman-DU arrive-PST.3DU,Two women came,|min jek-ʌ-əmən,we_two dance-PRS-1DU,We two are dancing,,,,,,,,
+ID,Name,Surgut.Khanty,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,"Márta Csepregi, p.c.",kat imi-ɣən jŏɣət-ɣən;two woman-DU arrive-PST.3DU;Two women came;|min jek-ʌ-əmən;we_two dance-PRS-1DU;We two are dancing;,
 UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"Márta Csepregi, p.c.","jåɣ wåč-nam mən-ət;people.SG town-APPR go-PST.3PL;People went to town;|koʌəm imi jŏɣət;three woman arrive.PST.3SG;Three women came;
-",,,,,,,,,,,,,
+",
 UT003,Can finite verbs agree in number with the nominal object?,1,"Márta Csepregi, p.c.","säm-ɣəʌ-a yʌə moŋət-ɣəʌ-a;eye-DU-2SG dry.PST-DU-2SG;You dried your eyes;|ma ńewrem-ʌ-am ček-nat änəmtə-ʌ-am;I child-PL-1SG hard-COM bring_up-PL-PST.1SG;Bringing up my children went hard;
-",Possible in the case of definite conjugation.,,,,,,,,,,,,
-UT004,Can an adnominal property word agree with the noun in case?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT005,Are there cases that do not show agreement in terms of case?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT006,Can adpositions be used to mark core verbal arguments?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",Possible in the case of definite conjugation.
+UT004,Can an adnominal property word agree with the noun in case?,0,"Márta Csepregi, p.c.",,
+UT005,Are there cases that do not show agreement in terms of case?,0,"Márta Csepregi, p.c.",,
+UT006,Can adpositions be used to mark core verbal arguments?,0,"Márta Csepregi, p.c.",,
 UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Márta Csepregi, p.c.","ńewrem opi-ʌ jŏta qowəʌ-ʌ;child older_sister-3SG together run-PRS.3SG;The child is running together with his/her older sister;|məŋ qănťəɣ såɣit ńăwəm-ʌ-əw;we Khanty way speak-PRS-1PL;We are speaking in Khanty;
-",,,,,,,,,,,,,
+",
 UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Márta Csepregi, p.c.","aťe-m-nə wär-əm qåt;father-1SG-LOC make-PTCP.PST house;a house built by father (specifically);
 ","In the passive construction, an agent may be encoded with the locative case. However, not necessarily, cf. aťe-m wär-əm qåt (father-1SG make-PTCP.PST house) 'a house built by father’.
-",,,,,,,,,,,,
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT010,Do characteristics of object referent (topicality,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT011,Does object marking correlate with aspectuality?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT012,Does the marking of the object depend on the verb conjugation form?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT013,Is there differential subject marking?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT014,Can S and A be conflated morphologically across clause boundaries,1,"Márta Csepregi, p.c.","miša jăqə ʌăŋ panə mil-əʌ ylə wəj;Misha in enter.PST.3SG and hat-3SG off take.PST.3SG;Misha entered and took his hat off;
-",,,,,,,,,,,,,
-UT015,Can S and P be conflated morphologically across clause boundaries,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+"
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Márta Csepregi, p.c.",,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Márta Csepregi, p.c.",,
+UT011,Does object marking correlate with aspectuality? ,0,"Márta Csepregi, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Márta Csepregi, p.c.",,
+UT013,Is there differential subject marking?,0,"Márta Csepregi, p.c.",,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Márta Csepregi, p.c.","miša jăqə ʌăŋ panə mil-əʌ ylə wəj;Misha in enter.PST.3SG and hat-3SG off take.PST.3SG;Misha entered and took his hat off;
+",
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Márta Csepregi, p.c.",,
 UT016,Is there a grammatical device for habituality?,1,"Márta Csepregi, p.c.","ittən wasil’ ike-m qåt-a əkəm-tə wär tǒ-jəw;in_the_evening Vasil uncle-1SG house-LAT gather-PTCP.PRS thing have-PST.1PL;In the evening we tend to gather at my uncle Vasil's house;|qăntəq qo ʌi-ta ʌaŋk-tə wär tăja-ʌ;Khanty man eat-INF like-PTCP.PRS thing have-PRS.3SG;A person likes to eat;
-",PTCP.PRS + wär 'thing' + have,,,,,,,,,,,,
+",PTCP.PRS + wär 'thing' + have
 UT017,Is there a grammatical device for frequentative?,1,"Márta Csepregi, p.c.","äwət- : äwət-ʌə-;;cut : cut (repeatedly);|jast- : jast-əɣəʌ-;;to say : to talk;|kənč- : kənč-iʌ-;;to search: to search (repeatedly);
-",,,,,,,,,,,,,
-UT018,Is there a grammatical device for progressivity?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT019,Is it common to use a verb in the present tense for future time reference?,1,"Márta Csepregi, p.c.",iki ryt wär-ʌ,man boat make-PRS.3SG,A man is making/will make a boat,,,,,,,,,,,
-UT020,Is there a grammatical device for immediate future?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT021,Is there a grammatical device for pluperfect?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT022,Can aspect be expressed overtly on the negative marker?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT023,Can tense be expressed overtly on the negative marker?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT024,Is there grammatical marking of mirativity?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT018,Is there a grammatical device for progressivity?,0,"Márta Csepregi, p.c.",,
+UT019,Is it common to use a verb in the present tense for future time reference? ,1,"Márta Csepregi, p.c.",iki ryt wär-ʌ;man boat make-PRS.3SG;A man is making/will make a boat;,
+UT020,Is there a grammatical device for immediate future?,0,"Márta Csepregi, p.c.",,
+UT021,Is there a grammatical device for pluperfect?,0,"Márta Csepregi, p.c.",,
+UT022,Can aspect be expressed overtly on the negative marker?,0,"Márta Csepregi, p.c.",,
+UT023,Can tense be expressed overtly on the negative marker?,0,"Márta Csepregi, p.c.",,
+UT024,Is there grammatical marking of mirativity?,0,"Márta Csepregi, p.c.",,
 UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Márta Csepregi, p.c.",,"There is a construction 'to have a desire', e.g. ma låpka-nam mən-tə kič-əm wăʌ-ʌ (I store-APPR go-PTCP.PRS desire-1SG have-PRS.3SG) ’I would like to go to the store.’ 
-",,,,,,,,,,,,
+"
 UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,"Márta Csepregi, p.c.",,"There is a modal word ŏʌəŋ, e.g. ma-mpə ŏʌəŋ mən-ʌ-əm… (I-PTCL PTCL go-PRS-1SG) 'I would go…', ma-mpə ŏʌəŋ mən-əm… (én-PTCL PTCL megy-PST.1SG) 'I would have gone …'.
-",,,,,,,,,,,,
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Márta Csepregi, p.c.",,"Situational necessity is expressed by two auxiliaries (which have the same etymology) and the infinitive of the main verb. Objective necessity is denoted by mås-, while moral obligation is expressed by mustə-.",,,,,,,,,,,,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,"Márta Csepregi, p.c.",,"Epistemic possibility is expressed by modal adverbs, for ex. əťə pə ’certainly’.",,,,,,,,,,,,
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,"Márta Csepregi, p.c.",,Deontic possibility is expressed by constructions which entail a present participle and a modal meaning word kim ’possibility’.,,,,,,,,,,,,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,"Márta Csepregi, p.c.",,Particle ʌüwə ’let’ + indicative.,,,,,,,,,,,,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,"Márta Csepregi, p.c.",,Indicative is used.,,,,,,,,,,,,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT035,Is there reflexive conjugation?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT036,Are there syntactically ditransitive verbs?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,"Márta Csepregi, p.c.",,"There is syncretism in the active present tense forms of objective conjugation, e.g. 2DU, 3DU, 2PL: wär-ʌ-əttən (wär- ‘make’).",,,,,,,,,,,,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+"
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,"Márta Csepregi, p.c.",,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Márta Csepregi, p.c.",,"Situational necessity is expressed by two auxiliaries (which have the same etymology) and the infinitive of the main verb. Objective necessity is denoted by mås-, while moral obligation is expressed by mustə-."
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,0,"Márta Csepregi, p.c.",,"Epistemic possibility is expressed by modal adverbs, for ex. əťə pə ’certainly’."
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Márta Csepregi, p.c.",,Deontic possibility is expressed by constructions which entail a present participle and a modal meaning word kim ’possibility’.
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,0,"Márta Csepregi, p.c.",,Particle ʌüwə ’let’ + indicative.
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Márta Csepregi, p.c.",,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Márta Csepregi, p.c.",,Indicative is used.
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Márta Csepregi, p.c.",,
+UT035,Is there reflexive conjugation?,0,"Márta Csepregi, p.c.",,
+UT036,Are there syntactically ditransitive verbs?,0,"Márta Csepregi, p.c.",,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,"Márta Csepregi, p.c.",,"There is syncretism in the active present tense forms of objective conjugation, e.g. 2DU, 3DU, 2PL: wär-ʌ-əttən (wär- ‘make’)."
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Márta Csepregi, p.c.",,
 UT039,Can third person plural verb forms be used for impersonal reference?,0,"Márta Csepregi, p.c.","
-",,,,,,,,,,,,,
-UT040,Can second person singular verb forms be used in generic meaning?,0,"Márta Csepregi, p.c.",,Such usages could be regarded as instances of Russian influence. ,,,,,,,,,,,,
+",
+UT040,Can second person singular verb forms be used in generic meaning?,0,"Márta Csepregi, p.c.",,Such usages could be regarded as instances of Russian influence. 
 UT042,Are clauses with only infinitive predicates possible?,1,"Márta Csepregi, p.c.","qŏʌnə Surgut wåč-a mən-ta?;how Surgut town-LAT go-INF;How to travel to Surgut?;
-",,,,,,,,,,,,,
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Márta Csepregi, p.c.",ma måjəʌ-ta jŏwtə-m,1SG visit-INF come-PST.1SG,I came to visit,,,,,,,,,,,
+",
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Márta Csepregi, p.c.",ma måjəʌ-ta jŏwtə-m;1SG visit-INF come-PST.1SG;I came to visit;,
 UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Márta Csepregi, p.c.","jŏm-əʌ;rain-PRS.3SG;It is raining;|süɣs-int-əɣ;autum-DER-PST.3SG;It became autumn;
-",,,,,,,,,,,,,
+",
 UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Márta Csepregi, p.c.",,"No copula is needed, e.g. păɣ-am jəm aj-qo;son-1SG (good small_man) ‘My son is a nice young man'.
-",,,,,,,,,,,,
+"
 UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Márta Csepregi, p.c.","păɣ-am jəm aj-qo wŏʌ;son-1SG good small_man be.PST.3SG;My son was a nice young man;
 
-",,,,,,,,,,,,,
+",
 UT047,Can locative adverbial phrases act as predicates without a copula?,1,"Márta Csepregi, p.c.","owpi punč-min;door open-CVB;The door is open;|ma qåt-nə;1SG house-LOC;I am in the house;
-",,,,,,,,,,,,,
-UT048,Can the same coordinating conjunction be used for NPs,1,"Márta Csepregi, p.c.","miša panə maša wåč-nam mən-ɣən;Misha and Masha town-APPR go-PST.3DU;Misha and Masha went to town;|miša jek-əʌ panə arəɣʌə-ʌ;Misha dance-PRS.3SG and sing-PRS.3SG;Misha is singing and dancing;
-",,,,,,,,,,,,,
+",
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,"Márta Csepregi, p.c.","miša panə maša wåč-nam mən-ɣən;Misha and Masha town-APPR go-PST.3DU;Misha and Masha went to town;|miša jek-əʌ panə arəɣʌə-ʌ;Misha dance-PRS.3SG and sing-PRS.3SG;Misha is singing and dancing;
+",
 UT049,Does existential negation have a separate operator?,1,"Márta Csepregi, p.c.","tem jăwən-nə quʌ əntem;this river-LOC fish NEG.PRED;There is no fish in this river;
-",,,,,,,,,,,,,
-UT050,Can standard negation be asymmetric in the present tense?,0,"Márta Csepregi, p.c.",,Standard negation is symmetric. Negative sentences only differ from affirmative sentences in a way that they entail the negative particle әntә.,,,,,,,,,,,,
+",
+UT050,Can standard negation be asymmetric in the present tense?,0,"Márta Csepregi, p.c.",,Standard negation is symmetric. Negative sentences only differ from affirmative sentences in a way that they entail the negative particle әntә.
 UT051,Can non-finite dependent clauses use the standard negation construction?,1,"Márta Csepregi, p.c.","nüŋ əntə pəʌ-t-an-nə əjqa at qoʌ-ʌ-əmən;1DU NEG fear-PTCP.PRS-2SG-LOC together night spend_night-PRS-1DU;If youˈre not afraid, we’ll spend the niɡht toɡether;
-",,,,,,,,,,,,,
-UT052,Is there a special negator that combines with non-finite forms?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT052,Is there a special negator that combines with non-finite forms?,0,"Márta Csepregi, p.c.",,
 UT053,Are there special negative non-finite forms?,1,"Márta Csepregi, p.c.","köʌ-nam qoʌəɣťə-ʌəɣ ńewrem-əm pətan mantəm atəm-ɣə pit;word-APPR listen-PTCP.NEG child-1SG because-of 1SG.DAT bad-TRA become.PST.3SG;I feel bad because of my disobedient (lit. to word not listening) child;|aŋki-ʌ-nə måńť-at måńť-ʌəɣ ńewrem əntə wŏjəmtəʌ-i;mother-3SG-LOC story-INS tell-PTCP.NEG child NEG put_to_sleep-PRS-PASS.3SG;Unless his/her mother tells a story, the child won’t fall asleep;
-",,,,,,,,,,,,,
+",
 UT054,Is there an impersonal passive construction?,1,"Márta Csepregi, p.c.","qŏʌnə Surgut wåč-a mən-ʌ-i?;how Surgut town-LAT go-PRS-PASS.3SG;How does one get to Surgut?;
-",,,,,,,,,,,,,
-UT055,Are there nonfinite forms specialized on the relativization of particular core participants,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT056,Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT057,Are there nonfinite forms that can relativize at least some noncore participants,1,"Márta Csepregi, p.c.",nǚŋ mantem just-əm-a ručka,2SG 1SG.DAT give-PTCP.PST-2SG pen,the pen (which) you gave (to) me,|säm-a pit-m-am puɣəʌ,eye-LAT fall-PTCP.PST-1SG village,the village where I was born,|məŋat Surgut wåč-a tu-tə pojezd qŏʌɣa əntə jŏwət,1PL.ACC Surgut town-LAT take-PTCP.PRS train still NEG arrive.PST.3SG,The train that is taking us to Surgut hasn’t arrived yet,,,,,
-UT058,Is there a specialized negative participial form,1,"Márta Csepregi, p.c.","wăʌ-ʌəɣ;be-PTCP.NEG;not being;|köʌ-nam qoʌəɣťə-ʌəɣ ńewrem;word-APPR listen-PTCP.NEG child;disobedient (= to word not listening) child;|qăntəɣ qo wu-ʌəɣ ăʌ-aʌ;Khanty man know-PTCP.NEG lie-PRS.3SG;A person is lying unconscious;
-",,,,,,,,,,,,,
-UT059,Is there a future participle?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,"Márta Csepregi, p.c.",,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",0,"Márta Csepregi, p.c.",,
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",1,"Márta Csepregi, p.c.",nǚŋ mantem just-əm-a ručka;2SG 1SG.DAT give-PTCP.PST-2SG pen;the pen (which) you gave (to) me;|säm-a pit-m-am puɣəʌ;eye-LAT fall-PTCP.PST-1SG village;the village where I was born;|məŋat Surgut wåč-a tu-tə pojezd qŏʌɣa əntə jŏwət;1PL.ACC Surgut town-LAT take-PTCP.PRS train still NEG arrive.PST.3SG;The train that is taking us to Surgut hasn’t arrived yet;,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,"Márta Csepregi, p.c.","wăʌ-ʌəɣ;be-PTCP.NEG;not being;|köʌ-nam qoʌəɣťə-ʌəɣ ńewrem;word-APPR listen-PTCP.NEG child;disobedient (= to word not listening) child;|qăntəɣ qo wu-ʌəɣ ăʌ-aʌ;Khanty man know-PTCP.NEG lie-PRS.3SG;A person is lying unconscious;
+",
+UT059,Is there a future participle?,0,"Márta Csepregi, p.c.",,
 UT060,Are there participles that can encode their subject by possessive suffixes?,1,"Márta Csepregi, p.c.","säm-a pit-m-am puɣəʌ;eye-LAT fall-PTCP.PST-1SG village;the village where I was born;|tem  säsəɣ ʌəɣpi-ja nüŋ ʌăŋ-t-a əntə  wu-ʌ-e ;this trap interior-LAT 2SG enter-PTCP.PRS-2SG NEG see-PRS-2SG>SG;You don’t see you’ve stepped into the trap;|mən-ʌəɣ-am-nə;go-PTCP.NEG-1SG-LOC;before I went;
-",,,,,,,,,,,,,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,"Márta Csepregi, p.c.",ʌüw jŏɣət-t-aʌ-nə,3SG come-PTCP.PRS-3SG-LOC,when s/he came,,The nominative may also be used in participial subordinate clauses. ,,,,,,,,,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT065,Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,"Márta Csepregi, p.c.",ʌüw jŏɣət-t-aʌ-nə;3SG come-PTCP.PRS-3SG-LOC;when s/he came;,The nominative may also be used in participial subordinate clauses. 
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Márta Csepregi, p.c.",,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,"Márta Csepregi, p.c.",,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,0,"Márta Csepregi, p.c.",,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,"Márta Csepregi, p.c.",,
 UT066,Is OV the neutral order in affirmative imperative clauses?,1,"Márta Csepregi, p.c.","put wər-a;pot make-IMP.2SG;Prepare food!;
-",,,,,,,,,,,,,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,"Márta Csepregi, p.c.","put aʌ wər-a;pot PROH make-IMP.2SG;Don't prepare food!;
-",,,,,,,,,,,,,
+",
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Márta Csepregi, p.c.","put aʌ wər-a;pot PROH make-IMP.2SG;Don't prepare food!;
+",
 UT068,Are there preverbs?,1,"Márta Csepregi, p.c.","iki quʌ nŏq ʌiw;man eat up eat.PST.3SG;The man ate the fish;|pupi čewər yʌə wäʌ;bear rabbit down kill.PST.3SG;The bear killed the rabbit;
-","First, they were used to express direction, but now they are employed to encode perfectivity (e.g. eat up sth).",,,,,,,,,,,,
-UT069,Are there verbal prefixes?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,"Márta Csepregi, p.c.","qåt wär-tə wär;house make-PTCP.PRS thing;building the house;|oɣ pŏs-tə tåɣi;head wash-PTCP.PRS place;washing the head;|ope-m jis-tə tåɣi;older_sister-1SG cry-PTCP.PRS place;the crying of my older sister;
-","The stucture of action nominalization: participle + semantically empty word. Nominative, accusative, genitive don't have any markers.",,,,,,,,,,,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,"Márta Csepregi, p.c.",qåt wär-tə wär,house make-PTCP.PRS thing,building the house,|oɣ pŏs-tə tåɣi,head wash-PTCP.PRS place,washing the head,,The nominative is used.,,,,,,
+","First, they were used to express direction, but now they are employed to encode perfectivity (e.g. eat up sth)."
+UT069,Are there verbal prefixes?,0,"Márta Csepregi, p.c.",,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Márta Csepregi, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,"Márta Csepregi, p.c.","qåt wär-tə wär;house make-PTCP.PRS thing;building the house;|oɣ pŏs-tə tåɣi;head wash-PTCP.PRS place;washing the head;|ope-m jis-tə tåɣi;older_sister-1SG cry-PTCP.PRS place;the crying of my older sister;
+","The stucture of action nominalization: participle + semantically empty word. Nominative, accusative, genitive don't have any markers."
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Márta Csepregi, p.c.",qåt wär-tə wär;house make-PTCP.PRS thing;building the house;|oɣ pŏs-tə tåɣi;head wash-PTCP.PRS place;washing the head;,The nominative is used.
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Márta Csepregi, p.c.","tem järnas sikkəŋ;this dress beautiful;This dress is beautiful;|tem järnas-ɣən sikkəŋ-kən;this dress-DU beautiful-DU;These two dresses are beautiful;|tem järnas-ət sikkəŋ-ət;this dress-PL beautiful-PL;These dresses are beautiful;
-",,,,,,,,,,,,,
-UT074,Is it possible to form synthetic superlative?,0,"Márta Csepregi, p.c.",,The particle mata is used.,,,,,,,,,,,,
+",
+UT074,Is it possible to form synthetic superlative?,0,"Márta Csepregi, p.c.",,The particle mata is used.
 UT075,Can adpositions have person/number marking?,1,"Márta Csepregi, p.c.","ma kičaɣ-əm;1SG for-1SG;for me;|nin jŏt-in;2DU with-2DU;with you two;
-",,,,,,,,,,,,,
-UT076,Are there separate adpositions to express goal,1,"Márta Csepregi, p.c.","sajpij-a;behind-LAT;(to) behind;|sajpi-nə;behind-LOC;behind;|sajpij-i;behind-ABL;from behind;
-","Adpositions expressing goal, source, and location typically differ.",,,,,,,,,,,,
-UT077,Is case compounding possible?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT078,Are there case categories only found in pronouns?,1,"Márta Csepregi, p.c.",mant,I.ACC,,|mantem,I.DAT,,|nüŋat,you.ACC,,|nüŋati,you.DAT,,,"Accusative and dative cases are only found with pronouns, see the respective forms for ma 'I' and nüŋ 'you'."
-UT079,Does the numeral modification of a noun have an effect on its case selection?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Márta Csepregi, p.c.","sajpij-a;behind-LAT;(to) behind;|sajpi-nə;behind-LOC;behind;|sajpij-i;behind-ABL;from behind;
+","Adpositions expressing goal, source, and location typically differ."
+UT077,Is case compounding possible?,0,"Márta Csepregi, p.c.",,
+UT078,Are there case categories only found in pronouns?,1,"Márta Csepregi, p.c.",mant;I.ACC;;|mantem;I.DAT;;|nüŋat;you.ACC;;|nüŋati;you.DAT;;,"Accusative and dative cases are only found with pronouns, see the respective forms for ma 'I' and nüŋ 'you'."
+UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,"Márta Csepregi, p.c.",,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Márta Csepregi, p.c.","əj imi : kat imi-ɣən;;one women : two women;|qoʌəm imi : såt imi;;three women : hundred women;
-",,,,,,,,,,,,,
-UT081,Is there a genitive case that has an affix?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,"Márta Csepregi, p.c.","mantem;1SG.DAT;for me, to me;|nüŋati;2SG.DAT;for you, to you;
-",The dative is used only with personal pronouns.,,,,,,,,,,,,
-UT083,Is there a terminative case?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT081,Is there a genitive case that has an affix?,0,"Márta Csepregi, p.c.",,
+UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,1,"Márta Csepregi, p.c.","mantem;1SG.DAT;for me, to me;|nüŋati;2SG.DAT;for you, to you;
+",The dative is used only with personal pronouns.
+UT083,Is there a terminative case?,0,"Márta Csepregi, p.c.",,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Márta Csepregi, p.c.","ma uʌəm-ʌəɣ ŏʌ-əm;1SG dream-ABE sleep-PST.1SG;I slept dreamless (= without dreaming);|tüwət-ʌəɣ ťenə jüw-əw;fire-ABE thus come-PST.1PL;We came without any fire;
-",,,,,,,,,,,,,
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Márta Csepregi, p.c.",,The ablative -i appears in this function.,,,,,,,,,,,,
-UT086,Is there a locative case that marks goal?,1,"Márta Csepregi, p.c.",iki wŏnt-a / wŏnt-nam mən,man forest-LAT / forest-APPR go.PST.3SG,A man went to the forest,,,,,,,,,,,
-UT087,Is there a locative case that marks location?,1,"Márta Csepregi, p.c.",pyrəs imi qåt-nə åməs-ʌ,old woman hous-LOC sit-PRS.3SG,An old woman is sitting in the house,,,,,,,,,,,
-UT088,Is there a locative case that marks source?,1,"Márta Csepregi, p.c.",aj păɣ qåt-i kem nürəɣtə-ɣ,small bou house-ABL out run-PST.3SG,A small boy ran out of the house,,,,,,,,,,,
-UT089,Is there case syncretism of goal and location marking?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT090,Is there case syncretism of location and source marking?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT091,Are there two sets of local cases?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT092,Is there a third set of local cases?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Márta Csepregi, p.c.",,The ablative -i appears in this function.
+UT086,Is there a locative case that marks goal?,1,"Márta Csepregi, p.c.",iki wŏnt-a / wŏnt-nam mən;man forest-LAT / forest-APPR go.PST.3SG;A man went to the forest;,
+UT087,Is there a locative case that marks location?,1,"Márta Csepregi, p.c.",pyrəs imi qåt-nə åməs-ʌ;old woman hous-LOC sit-PRS.3SG;An old woman is sitting in the house;,
+UT088,Is there a locative case that marks source?,1,"Márta Csepregi, p.c.",aj păɣ qåt-i kem nürəɣtə-ɣ;small bou house-ABL out run-PST.3SG;A small boy ran out of the house;,
+UT089,Is there case syncretism of goal and location marking?,0,"Márta Csepregi, p.c.",,
+UT090,Is there case syncretism of location and source marking?,0,"Márta Csepregi, p.c.",,
+UT091,Are there two sets of local cases?,0,"Márta Csepregi, p.c.",,
+UT092,Is there a third set of local cases?,0,"Márta Csepregi, p.c.",,
 UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Márta Csepregi, p.c.","iki ryt-nat mən;man boat-INS go.PST.3SG;The man went on (=with) a boat;|iki păɣ-əʌ-nat mən;man boy-3SG-INS go.PST.3SG;The man went with his son;
-",,,,,,,,,,,,,
-UT094,Is there a separate case for marking accompaniment,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Márta Csepregi, p.c.",äwe-m ənəʌ-ɣə jə-ɣ,daugther-1SG big-TRA change-PST.3SG,My daugther got big,|ʌüw măč qo-ɣə tŏt wŏʌ,3SG guest man-TRA there be.PST.3SG,S/he was there as a guest,,,,,,,,
-UT096,Is there a separate case for marking the state of being (essive),0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Márta Csepregi, p.c.",,It is necessary to use the dual form.,,,,,,,,,,,,
-UT101,Can the marking of the possessor in the attributive construction vary?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,"Márta Csepregi, p.c.","păɣ mil;boy cap;the boy’s cap;|ma mil-əm;1SG cap-1SG;my cap;
+",
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Márta Csepregi, p.c.",,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Márta Csepregi, p.c.",äwe-m ənəʌ-ɣə jə-ɣ;daugther-1SG big-TRA change-PST.3SG;My daugther got big;|ʌüw măč qo-ɣə tŏt wŏʌ;3SG guest man-TRA there be.PST.3SG;S/he was there as a guest;,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Márta Csepregi, p.c.",,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Márta Csepregi, p.c.",,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Márta Csepregi, p.c.",,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Márta Csepregi, p.c.",,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Márta Csepregi, p.c.",,It is necessary to use the dual form.
+UT101,Can the marking of the possessor in the attributive construction vary?,0,"Márta Csepregi, p.c.",,
+UT102,Can the possessor in the attributive construction be marked with the nominative?,1,"Márta Csepregi, p.c.","păɣ mil;boy cap;the boy’s cap;|ma mil-əm;1SG cap-1SG;my cap;
 
 
-",,,,,,,,,,,,,
+",
 UT103,Is non-singular possession marked in the possessive declension?,1,"Márta Csepregi, p.c.","ma ńewrem-əm;1SG child-1SG;my child;|ma ńewrem-ʌ-am;1SG child-PL-1SG;my children;
 
 
-",,,,,,,,,,,,,
-UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT105,Can 3Sg possessive suffix be used to mark definiteness?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"Márta Csepregi, p.c.","müwəʌi;;what;|qŏjaɣi;;who;
-",,,,,,,,,,,,,
-UT107,When used as a relative pronoun,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT108,When used as a relative pronoun,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,"Márta Csepregi, p.c.",ryt-əm-nə,boat-1SG-LOC,in my boat,,px + case,,,,,,,,,
+",
+UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Márta Csepregi, p.c.",,
+UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Márta Csepregi, p.c.",,
+UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Márta Csepregi, p.c.","müwəʌi;;what;|qŏjaɣi;;who;
+",
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Márta Csepregi, p.c.",,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Márta Csepregi, p.c.",,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,0,"Márta Csepregi, p.c.",,
+UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,"Márta Csepregi, p.c.",ryt-əm-nə;boat-1SG-LOC;in my boat;,px + case
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Márta Csepregi, p.c.","ryt-ət-nə;boat-PL-LOC;in the boats;|ryt-ʌ-am-nə;boat-PL-1SG-LOC;in my boats;
-",number+px+case,,,,,,,,,,,,
+",number+px+case
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Márta Csepregi, p.c.;Csepregi 1999[example]","jeji;;fathers older brother;|măńi;;father's younger brother;|iki;;mother's older brother;|ťəkə;;mother's younger brother;
-",,,,,,,,,,,,,
+",
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Márta Csepregi, p.c.;Csepregi 1999[example]","ťeťopi;;mother's aunt;|ajəŋki;;mother's younger sister;|jeji;;older brother, uncle's or aunt's son;|iki;;grandfather's brother;
-",,,,,,,,,,,,,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Márta Csepregi, p.c.",aj : pyrəs,,young : old (animate),|jəʌəp : åʌqas,,new : old (inanimate),,,,,,,,
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT116,Is there contrastive length of consonants?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+",
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Márta Csepregi, p.c.",aj : pyrəs;;young : old (animate);|jəʌəp : åʌqas;;new : old (inanimate);,
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Márta Csepregi, p.c.",,
+UT116,Is there contrastive length of consonants?,0,"Márta Csepregi, p.c.",,
 UT117,Is there contrastive length of vowels?,1,"Márta Csepregi, p.c.","qor [qoːr] 'street' vs. qŏr [qor] ’a marsh without trees’
-","The vowels o - ŏ differ in length, other pairings (a - ă, u - ǚ) differ other ways as well (see UT133).",,,,,,,,,,,,
-UT118,Is there contrast between short and long unstressed vowels?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT119,Is there contrast in duration of geminate consonants?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT120,Are there more than two phonological quantities?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT121,Are there extralong syllables?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+","The vowels o - ŏ differ in length, other pairings (a - ă, u - ǚ) differ other ways as well (see UT133)."
+UT118,Is there contrast between short and long unstressed vowels?,0,"Márta Csepregi, p.c.",,
+UT119,Is there contrast in duration of geminate consonants?,0,"Márta Csepregi, p.c.",,
+UT120,Are there more than two phonological quantities? ,0,"Márta Csepregi, p.c.",,
+UT121,Are there extralong syllables? ,0,"Márta Csepregi, p.c.",,
 UT122,Is the main foot structure trochaic?,1,"Márta Csepregi, p.c.","iki [iːki] 'man', kürək [kʉrək] ’eagle’
-",,,,,,,,,,,,,
-UT123,Is there lexically distinctive word stress?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT124,Is there morphologically conditioned stress?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT125,Is there fixed primary stress?,0,"Márta Csepregi, p.c.",,"If the second syllable contains a long vowel, the second syllable is stressed, e.g. sǝra:n 'Zyrian'.",,,,,,,,,,,,
+",
+UT123,Is there lexically distinctive word stress?,0,"Márta Csepregi, p.c.",,
+UT124,Is there morphologically conditioned stress?,0,"Márta Csepregi, p.c.",,
+UT125,Is there fixed primary stress?,0,"Márta Csepregi, p.c.",,"If the second syllable contains a long vowel, the second syllable is stressed, e.g. sǝra:n 'Zyrian'."
 UT126,Is there stress in heavy syllables?,1,"Márta Csepregi, p.c.","ńewrem [njeːβrem] 'child', iki [iːki] ’man’, jeji [je:ji] ’older brother’
-","Long vowels appear typically in the first syllable, they are always stressed. Length of vowels is not marked in writing.",,,,,,,,,,,,
-UT127,Is there non-initial primary stress?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT128,Is there palatal vowel harmony?,0,"Márta Csepregi, p.c.",,There was a palatal vowel harmony about hundred years ago but not anymore.,,,,,,,,,,,,
-UT129,Is there velar vowel harmony?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT130,Is there labial vowel harmony?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT131,Are there rising diphthongs?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT132,Are there lowering diphthongs?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT133,Is there qualitative contrast between subsets of short and long vowels?,1,"Márta Csepregi, p.c.",saŋki [sɐːŋqi] ’the arch of heaven’ vs. săŋqi [sɑŋqi] 'sand',Only in o there is no qualitative contrast (see UT117).,,,,,,,,,,,,
-UT134,Are there full vs. reduced vowels as contrastive subsets?,1,"Márta Csepregi, p.c.","säm [sɛm] 'eye' vs. səm [səm] 'heart', wär ’thing’ vs. wər ’blood’
-",,,,,,,,,,,,,
-UT135,Is there front high rounded vowel ü [y]?,0,"Márta Csepregi, p.c.",,ü is pronounced reduced,,,,,,,,,,,,
-UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Márta Csepregi, p.c.",,ö is pornounced reduced,,,,,,,,,,,,
-UT137,Is there back high unrounded vowel ï [ɯ]?,1,"Márta Csepregi, p.c.","tyʌəɣ [tɯːɬəɣ] 'winter', ryt 'boat'",,,,,,,,,,,,,
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+","Long vowels appear typically in the first syllable, they are always stressed. Length of vowels is not marked in writing."
+UT127,Is there non-initial primary stress?,0,"Márta Csepregi, p.c.",,
+UT128,Is there palatal vowel harmony?,0,"Márta Csepregi, p.c.",,There was a palatal vowel harmony about hundred years ago but not anymore.
+UT129,Is there velar vowel harmony?,0,"Márta Csepregi, p.c.",,
+UT130,Is there labial vowel harmony? ,0,"Márta Csepregi, p.c.",,
+UT131,Are there rising diphthongs? ,0,"Márta Csepregi, p.c.",,
+UT132,Are there lowering diphthongs?,0,"Márta Csepregi, p.c.",,
+UT133,Is there qualitative contrast between subsets of short and long vowels?,1,"Márta Csepregi, p.c.",saŋki [sɐːŋqi] ’the arch of heaven’ vs. săŋqi [sɑŋqi] 'sand',Only in o there is no qualitative contrast (see UT117).
+UT134,Are there full vs. reduced vowels as contrastive subsets? ,1,"Márta Csepregi, p.c.","säm [sɛm] 'eye' vs. səm [səm] 'heart', wär ’thing’ vs. wər ’blood’
+",
+UT135,Is there front high rounded vowel ü [y]?,0,"Márta Csepregi, p.c.",,ü is pronounced reduced
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Márta Csepregi, p.c.",,ö is pornounced reduced
+UT137,Is there back high unrounded vowel ï [ɯ]?,1,"Márta Csepregi, p.c.","tyʌəɣ [tɯːɬəɣ] 'winter', ryt 'boat'",
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Márta Csepregi, p.c.",,
 UT139,Is there back low round vowel [ɒ]?,1,"Márta Csepregi, p.c.","åʌəm [ɒːɬəm] 'sleep(ing)', qåt ’house'
-",,,,,,,,,,,,,
+",
 UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,"Márta Csepregi, p.c.","weʌi [βeːɬi] 'reindeer' vs. wäʌ-i [βɛɬi] kill-PST.PASS.3SG
-",They also differ in length.,,,,,,,,,,,,
+",They also differ in length.
 UT141,Are there word-initial consonant clusters?,0,"Márta Csepregi, p.c.",,"Consonant clusters are dropped, e.g. Rus. труба > turpa ’kémény’, Rus. школа  > əškola ’school’, Rus. спасибо > pasipa ’thanks’.
-",,,,,,,,,,,,
-UT142,Are there word-internal consonant clusters in syllable onset?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT143,Are there consonant clusters in syllable coda?,1,"Márta Csepregi, p.c.",amp-ɣən [ɐːmpɣən] dog-DU ’two dogs’,"nasal/liquid/trill + plosive/affricate: qump ’wave’, jəŋk ’water’, måńť ’fairytale’, čanč ’knee’, kaʌt ’deity’, sårt ’pike’",,,,,,,,,,,,
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Márta Csepregi, p.c.","amp-ɣən [ɐːmpɣən] dog-DU ’two dogs’, päŋk-ʌ-am tooth-PL-1SG ’my fog’.",Occurs only in the morpheme boundaries.,,,,,,,,,,,,
-UT145,Are there word-final clusters of three or more consonants?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT146,Are there palatalized dentals?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT147,Are there palatalized labials and velars?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT148,Is there palatal stop [c]?,1,"Márta Csepregi, p.c.","ťeťi [tʲeːtʲi] 'grandfather', åť ’fence’ ",,,,,,,,,,,,,
-UT149,Is there palatal nasal [ɲ]?,1,"Márta Csepregi, p.c.","ńyʌəɣ [njɯːɬəɣ] 'eight', ńań ’bread’",,,,,,,,,,,,,
-UT150,Is there palatal lateral [ʎ]?,1,"Márta Csepregi, p.c.","ʎaʎ [ɬjɐːɬj] 'war', åʎ ’runner (of a sleigh)’",,,,,,,,,,,,,
-UT151,Is there phonemic velar nasal [ŋ]?,1,"Márta Csepregi, p.c.","jäŋk [jɛŋk] 'ice', näŋi 'tinder fungus', quŋ ’s/he climbed up’",Only occurs in the middle or at the end of a word.,,,,,,,,,,,,
-UT152,Is there dental affricate [t͡s]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT153,Is there non-alveolar affricate (e.g. [t͡ʃ],1,"Márta Csepregi, p.c.","čewər [t͡ʃeːβər] 'rabbit', kǚč ’although’, čaməč ’peat moss’, čanč ’knee’",,,,,,,,,,,,,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,0,"Márta Csepregi, p.c.",,"They are allophones, e.g. pyrəs/pyrəš ’old'.",,,,,,,,,,,,
-UT155,Are there voiced plosives [b,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT156,Is there glottal stop [ˀ]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+"
+UT142,Are there word-internal consonant clusters in syllable onset?,0,"Márta Csepregi, p.c.",,
+UT143,Are there consonant clusters in syllable coda?,1,"Márta Csepregi, p.c.",amp-ɣən [ɐːmpɣən] dog-DU ’two dogs’,"nasal/liquid/trill + plosive/affricate: qump ’wave’, jəŋk ’water’, måńť ’fairytale’, čanč ’knee’, kaʌt ’deity’, sårt ’pike’"
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Márta Csepregi, p.c.","amp-ɣən [ɐːmpɣən] dog-DU ’two dogs’, päŋk-ʌ-am tooth-PL-1SG ’my fog’.",Occurs only in the morpheme boundaries.
+UT145,Are there word-final clusters of three or more consonants?,0,"Márta Csepregi, p.c.",,
+UT146,Are there palatalized dentals? ,0,"Márta Csepregi, p.c.",,
+UT147,Are there palatalized labials and velars? ,0,"Márta Csepregi, p.c.",,
+UT148,Is there palatal stop [c]?,1,"Márta Csepregi, p.c.","ťeťi [tʲeːtʲi] 'grandfather', åť ’fence’ ",
+UT149,Is there palatal nasal [ɲ]?,1,"Márta Csepregi, p.c.","ńyʌəɣ [njɯːɬəɣ] 'eight', ńań ’bread’",
+UT150, Is there palatal lateral [ʎ]?,1,"Márta Csepregi, p.c.","ʎaʎ [ɬjɐːɬj] 'war', åʎ ’runner (of a sleigh)’",
+UT151,Is there phonemic velar nasal [ŋ]?,1,"Márta Csepregi, p.c.","jäŋk [jɛŋk] 'ice', näŋi 'tinder fungus', quŋ ’s/he climbed up’",Only occurs in the middle or at the end of a word.
+UT152,Is there dental affricate [t͡s]?,0,"Márta Csepregi, p.c.",,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Márta Csepregi, p.c.","čewər [t͡ʃeːβər] 'rabbit', kǚč ’although’, čaməč ’peat moss’, čanč ’knee’",
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,0,"Márta Csepregi, p.c.",,"They are allophones, e.g. pyrəs/pyrəš ’old'."
+UT155,"Are there voiced plosives [b, g, d]?",0,"Márta Csepregi, p.c.",,
+UT156,Is there glottal stop [ˀ]?,0,"Márta Csepregi, p.c.",,
 UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,1,"Márta Csepregi, p.c.","jekw [jeːkβ] vs. äɣwi [ɛɣβi]
-","A distinctive feature of Surgut Khanty consonantism is the presence of labialized velars (kw, ŋw, and most frequently ɣw) in environments where neighbouring Vakh dialects have plain velars preceded by rounded vowels, e.g. V jöŋ ‘ten’ =  Surg jeŋw, V öɣi ‘girl’ = Surg ä̌ɣwi, V lök ‘road’ = Surg lekw, V joɣən ‘river’ = Surg jăɣwən. However, in ortography there is no distinction, ɣo, ko and ŋo are often written using w, k and ŋ. ",,,,,,,,,,,,
-UT158,Is there a constraint on word-initial r?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT159,Is there laryngeal fricative [h]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT160,Is there voiced velar fricative [ɣ]?,1,"Márta Csepregi, p.c.","ʌaɣərt [ɬɐːɣərt] 'hard', qăntəɣ ’Khanty', məɣ ’ground’",Only occurs in the middle or at the end of a word.,,,,,,,,,,,,
-UT161,Is there voiceless velar fricative [x]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT162,Is there voiced dental fricative [ð]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT163,Is there phonemic labio-velar approximant [w]?,1,"Márta Csepregi, p.c.","wan [βɐːn] 'short', newi ’white’, wöŋ ’son-in-law’, siw ’beauty’",,,,,,,,,,,,,
-UT164,Is there voiceless labiodental fricative [f]?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT165,Is there radical qualitative consonant gradation?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
-UT166,Is there quantitative consonant gradation?,0,"Márta Csepregi, p.c.",,,,,,,,,,,,,,
+","A distinctive feature of Surgut Khanty consonantism is the presence of labialized velars (kw, ŋw, and most frequently ɣw) in environments where neighbouring Vakh dialects have plain velars preceded by rounded vowels, e.g. V jöŋ ‘ten’ =  Surg jeŋw, V öɣi ‘girl’ = Surg ä̌ɣwi, V lök ‘road’ = Surg lekw, V joɣən ‘river’ = Surg jăɣwən. However, in ortography there is no distinction, ɣo, ko and ŋo are often written using w, k and ŋ. "
+UT158,Is there a constraint on word-initial r?,0,"Márta Csepregi, p.c.",,
+UT159,Is there laryngeal fricative [h]?,0,"Márta Csepregi, p.c.",,
+UT160,Is there voiced velar fricative [ɣ]?,1,"Márta Csepregi, p.c.","ʌaɣərt [ɬɐːɣərt] 'hard', qăntəɣ ’Khanty', məɣ ’ground’",Only occurs in the middle or at the end of a word.
+UT161,Is there voiceless velar fricative [x]?,0,"Márta Csepregi, p.c.",,
+UT162,Is there voiced dental fricative [ð]?,0,"Márta Csepregi, p.c.",,
+UT163,Is there phonemic labio-velar approximant [w]?,1,"Márta Csepregi, p.c.","wan [βɐːn] 'short', newi ’white’, wöŋ ’son-in-law’, siw ’beauty’",
+UT164,Is there voiceless labiodental fricative [f]?,0,"Márta Csepregi, p.c.",,
+UT165,Is there radical qualitative consonant gradation?,0,"Márta Csepregi, p.c.",,
+UT166,Is there quantitative consonant gradation?,0,"Márta Csepregi, p.c.",,
