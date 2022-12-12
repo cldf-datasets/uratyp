@@ -88,8 +88,8 @@ UT067,Is it possible to place an object between the negative marker and the main
 UT068,Are there preverbs?,0,F. Gulyás Nikolett,,
 UT069,Are there verbal prefixes?,0,F. Gulyás Nikolett,,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,1,КПЯ 1962: 260,UT070,"In this sense, this suffix is unstressed. In stressed position, it takes on a different meaning."
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,0,,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,F. Gulyás Nikolett,UT072,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,0,,,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,F. Gulyás Nikolett,UT072,
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"F. Gulyás Nikolett
 КПЯ 1962: 217-218",UT073,
 UT074,Is it possible to form synthetic superlative?,1,"F. Gulyás Nikolett
@@ -105,7 +105,7 @@ UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,
 КПЯ 1962: 227",UT080,
 UT081,Is there a genitive case that has an affix?,1,"F. Gulyás Nikolett
 КПЯ 1962: 185",UT081,
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,1,"F. Gulyás Nikolett
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,"F. Gulyás Nikolett
 КПЯ 1962: 185",UT082,
 UT083,Is there a terminative case?,1,"F. Gulyás Nikolett
 КПЯ 1962: 193","UT083-1, UT083-2",
@@ -139,14 +139,14 @@ UT100,Is it possible to use singular with paired body parts/clothing/accessories
 КПЯ 1962: 14",UT100,"Obviously, due to influence of Russian a plural form is typical nowdays."
 UT101,Can the marking of the possessor in the attributive construction vary?,1,"F. Gulyás Nikolett
 КПЯ 1962: 184-185",UT101,
-UT102,Can the possessor in the attributive construction be marked with the nominative?,1,"F. Gulyás Nikolett
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,"F. Gulyás Nikolett
 КПЯ 1962: 184-185",UT102,
 UT103,Is non-singular possession marked in the possessive declension?,1,"Bartens 2000: 112
 Майшев 1940: 27-37",UT103,"Monikollisen omistetun ilmaisemiseen käytetään monikon tunnusta (udm jos, os, komiP Ce, je, e, komiJ }0, Jez, komj jas [s. 72]), esim. udm nyljosy, koml nyi;Jasii) 'minun monet tyttäreni', udm nyljosmy, komi nyl,Yasnym 'meidän monet tyttäremme
 стяжённые формы: вöввез = вöввезыс (Майшеев 1940: 37-38)"
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,Майшев 1940: 26,UT104,
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Майшев 1940: 26,UT105,
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,"F. Gulyás Nikolett
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"F. Gulyás Nikolett
 КПЯ 1962: 239",UT106,
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",1,"F. Gulyás Nikolett
 ККГ 1940: 76?",,
@@ -154,7 +154,7 @@ UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates
 ККГ 1940: 75-76?",,
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"F. Gulyás Nikolett
 КПЯ 1962: 233, 238-239",UT109,The demonstrative stem сiя is the same as the 3rd person pronoun.
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,"F. Gulyás Nikolett
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,0,"F. Gulyás Nikolett
 КПЯ 1962: 202",,
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"F. Gulyás Nikolett
 Грамматика 1940: 27",UT111,

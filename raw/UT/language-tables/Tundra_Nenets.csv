@@ -1,9 +1,6 @@
 ID,Name,Tundra Nenets,Source,Example,Comment
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"Sven-Erik Soosaar, p.c.",,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,"Sven-Erik Soosaar, p.c.",,
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,?,"Sven-Erik Soosaar, p.c.",,
-UT124,Is there morphologically conditioned stress?,0?,"Sven-Erik Soosaar, p.c.",,
 UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Nikolaeva 2014: 191,wenʹako-x°h toŋa-x°h;Two dogs came;,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"Sven-Erik Soosaar, p.c.",,
 UT003,Can finite verbs agree in number with the nominal object?,1,Nikolaeva 2014: 79,,"The number of the object is indexed on the verb, e.g. 1SG meə-w° (singular object), 1SG meŋa-xəyu-n° (dual object), 1SG me-yə-n° (plural object); me- ‘to take, to do’."
 UT004,Can an adnominal property word agree with the noun in case?,1,Nikolaeva 2014: 151,,"Still, number concord is more common."
 UT005,Are there cases that do not show agreement in terms of case?,1,"Sven-Erik Soosaar, p.c.",,
@@ -12,15 +9,15 @@ UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Nikol
 UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Nikolaeva 2014: 287,"nʹabako-nʹi xǣ-qmʹa-xəd° xoneyə-w°q;elder.sister-GEN.1SG go-PERF.AN-ABL go.to.sleep-REFL.1SG;When my sister left, I went to sleep;","In different-subject sentences, the lexical dependent subject is marked with the genitive."
 UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Nikolaeva 2014: 61,,The object of transitive verbs is marked with the accusative both in finite as well as non-finite clauses.
 UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Sven-Erik Soosaar, p.c.",,
-UT011,Does object marking correlate with aspectuality? ,0,"Sven-Erik Soosaar, p.c.",,
-UT012,Does the marking of the object depend on the verb conjugation form? ,1,Nikolaeva 2014: 202,pisʹmo / pisʹmo-m tola-q;letter / letter-ACC read-IMP.2SG;Read the/a letter!;,"Objects are typically marked with the accusative case. However, in the imperative also the nominative case is possible."
+UT011,Does object marking correlate with aspectuality?,0,"Sven-Erik Soosaar, p.c.",,
+UT012,Does the marking of the object depend on the verb conjugation form?,1,Nikolaeva 2014: 202,pisʹmo / pisʹmo-m tola-q;letter / letter-ACC read-IMP.2SG;Read the/a letter!;,"Objects are typically marked with the accusative case. However, in the imperative also the nominative case is possible."
 UT013,Is there differential subject marking?,0,"Sven-Erik Soosaar, p.c.",,
 UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Sven-Erik Soosaar, p.c.",,
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Sven-Erik Soosaar, p.c.",,
 UT016,Is there a grammatical device for habituality?,1,Nikolaeva 2014: 84,mənc°ra-s´əti-d°m;work-HAB-1SG;I usually work;,
 UT017,Is there a grammatical device for frequentative?,1,Nikolaeva 2014: 512,"ladə > lador-;;to hit : to hit many times;|ŋox°lə- > ŋox°lʹur-;;to swim > to swim here and there, to swim habitually;","There are the frequentatie-iterative-multiplicative suffixes -or, -ur, -er indicating that a situation is repeated, habitual or dispersive."
 UT018,Is there a grammatical device for progressivity?,0,"Sven-Erik Soosaar, p.c.",,
-UT019,Is it common to use a verb in the present tense for future time reference? ,0,"Sven-Erik Soosaar, p.c.",,
+UT019,Is it common to use a verb in the present tense for future time reference?,0,"Sven-Erik Soosaar, p.c.",,
 UT020,Is there a grammatical device for immediate future?,0,Nikolaeva 2014: 83,,The future tense conveys both immediate as well as remote future.
 UT021,Is there a grammatical device for pluperfect?,1,Nikolaeva 2014: 81-82,xǣ-wa-nt° nʹer°cʹuna wərk°-m xada°-wa-cʹ°;go-IMPF.AN-GEN.2SG before bear-ACC kill-1PL-PAST;We had killed a bear shortly before you left;,"Whereas imperfective verbs typically have progressive reading, the perfective verbs usually indicate remote past. In addition, a perfective verb may be used to denote an event, which occurred before another event in the past."
 UT022,Can aspect be expressed overtly on the negative marker?,0,Nikolaeva 2014: 273,,Aspectual morphology is expressed on the lexical verb.
@@ -30,11 +27,11 @@ UT025,Is there morphological marking on the verb dedicated to the expression of 
 UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,"Sven-Erik Soosaar, p.c.",,
 UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,"Sven-Erik Soosaar, p.c.",,
 UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Nikolaeva 2014: 111,to-wewaq ŋǣ-b°q-naq;come-PERF.PART.1PL be-COND-1PL;we had come;,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,1,Nikolaeva 2014: 91,"xuna-rʹi ŋǣ°-ya, sʹax°rʹih xo-bcaki°-q;DP-LIM be-JUS then.LIM find-POT-REFL.3SG;Wherever he is, he will probably be found one day;",
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Sven-Erik Soosaar, p.c.",,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Nikolaeva 2014: 91,"xuna-rʹi ŋǣ°-ya, sʹax°rʹih xo-bcaki°-q;DP-LIM be-JUS then.LIM find-POT-REFL.3SG;Wherever he is, he will probably be found one day;",
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,"Sven-Erik Soosaar, p.c.",,
 UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Nikolaeva 2014: 269,tʹuku° kniga-m temtaə-ya;this book-ACC buy-JUS;Let him buy this book;,
 UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Nikolaeva 2014: 86,mənʹ° tʹuku°-cʹey°-m xana-xə-d°m;I this-EMPH-ACC take-HORT-1SG;Let me take this away;,"The horative is used to express exhortations to the first person; it appears in 1SG, 1DU and 1PL."
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Sven-Erik Soosaar, p.c.",,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,"Sven-Erik Soosaar, p.c.",,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,1,Nikolaeva 2014: 90,yer°mpoy°  nʹū-mʹi  ŋanʹih  nʹi-r°wa-q xaŋkul°-q!;INTRJ child-1SG again NEG-APPR-REFL.3SG get.ill-CONNEG;If only my child wouldn’t get ill!;,
 UT035,Is there reflexive conjugation?,1,Nikolaeva 2014: 78-79,,The reflexive conjugation is formed based on the reflexive stem.
 UT036,Are there syntactically ditransitive verbs?,0,"Sven-Erik Soosaar, p.c.",,
@@ -48,7 +45,7 @@ UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1
 UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Sven-Erik Soosaar, p.c.",,
 UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Nikolaeva 2014: 252,wǣwa-d°m / wǣwa ŋǣ-ŋku-d°m;bad-1SG / bad be-FUT-1SG;I will be bad;,"The copula is not needed for the past tense, but it is needed for the future tense."
 UT047,Can locative adverbial phrases act as predicates without a copula?,1,Nikolaeva 2014: 263,wenʹako mʹa-k°na me°;dog tent-LOC be;The dog is in the tent;,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",0,Nikolaeva 2014: 414-417,,Coordinating conjunctions can be found but this is not the commonest coordination strategy.
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,Nikolaeva 2014: 414-417,,Coordinating conjunctions can be found but this is not the commonest coordination strategy.
 UT049,Does existential negation have a separate operator?,1,"Nikolaeva 2014: 250, 260","mʹa-k°wa-da tənʹa°, ŋəno-da yəŋku;tent-AFF-3SG exist boat-3SG no;He does have a tent, he doesn’t have a boat;",There are two existential copulas: tənʹa° (affirmative) and yəŋku (negative). Cf. standard negation: pida nʹī məncara-q (he NEG work-CONNEG) 'He did not work / he is not working'.
 UT050,Can standard negation be asymmetric in the present tense?,1,Nikolaeva 2014: 128,tʹanʹo-xərt° tudako-m nʹī-dəm xo-q;little-FOC mushroom-ACC NEG-1SG find-CONNEG;I don’t even find a few mushrooms;,
 UT051,Can non-finite dependent clauses use the standard negation construction?,1,Nikolaeva 2014: 305,wada-m nʹi-sʹ° mes°-q xǣ-wi°;word-ACC NEG-MOD use-CONNEG leave-INFR;He left without saying a word;,"Modal, purposive, and conditional coverbs can be negated like finite verbs."
@@ -63,25 +60,27 @@ UT059,Is there a future participle?,1,Nikolaeva 2014: 320,nū-sʹ° meq-m°nta p
 UT060,Are there participles that can encode their subject by possessive suffixes?,1,Nikolaeva 2014: 315,[wol°tampə-wemt°] xoba-mt°;dislike-PERF.PART.ACC.2SG skin-ACC.2SG;the skin (ACC) that you disliked;,"When agreeing with the head noun, participles can take possessive suffixes."
 UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,Nikolaeva 2014: 286,"[xūbta-xəna nʹabako-mʹi mənc°ra-qma-xəd°nta] yalʹa-h xoni;morning-LOC elder.sister-1SG work-PERF.AN-ABL.3SG day-GEN sleep.REFL.3SG;After my sister works in the morning, she sleeps in the day time;","""In same-subject sentences the dependent subject stands in the nominative form if it is overt and triggers person/number marker of the possessive type"" (Nikolaeva 2014: 286)."
 UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,1,"Sven-Erik Soosaar, p.c.",,See UT060.
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,"Sven-Erik Soosaar, p.c.",,
 UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Sven-Erik Soosaar, p.c.","xanyena;;hunting, hunter;|toxolkoda;;teaching, teacher;","There is no special agentive nominalization form, present participles are used regularly as agentive nominalizations."
 UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,Nikolaeva 2014: 322[example];Nikolaeva 2014: 378,yil’e-s’° m’aq-m’i;live-CVB.MOD tent-1SG;the tent in which I live;|[ŋarka pæ-n°h t’ebə-°] xən° wabtarey°-q;big stone-DAT bump.into-CVB.MOD sledge turn.over-REFL.3SG;The sledge turned over after/because it bumped into a big stone;,
 UT066,Is OV the neutral order in affirmative imperative clauses?,1,Nikolaeva 2014: 60,ti / ti-m xada-q;reindeer / reindeer-ACC kill-IMP.2SG;Kill a reindeer;,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,0,"Sven-Erik Soosaar, p.c.",,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,"Sven-Erik Soosaar, p.c.",,
 UT068,Are there preverbs?,0,"Sven-Erik Soosaar, p.c.",,
 UT069,Are there verbal prefixes?,0,"Sven-Erik Soosaar, p.c.",,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Nikolaeva 2014: 46,,"The diminutive marking on verbs expresses the meaning 'for some time, for a while'."
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,"Sven-Erik Soosaar, p.c.",,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,?,"Sven-Erik Soosaar, p.c.",,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",0,"Sven-Erik Soosaar, p.c.",,
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Nikolaeva 2014: 252,tʹuku° wenʹako-x°h səwa-x°h;this dog-3DU good-3DU;These two dogs are/were good;,
 UT074,Is it possible to form synthetic superlative?,0,Nikolaeva 2014: 176,,"There is no synthetic superlative. Superlatives are formed with the help of adverbs expressing 'very', 'most', e.g. s'am'anəxət° 'most'."
 UT075,Can adpositions have person/number marking?,1,Nikolaeva 2014: 51, ŋil°mna-ntoh;;along the place under them;,Pronominal object can be marked in the postposition.
 UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Nikolaeva 2014: 51,,"Local postpositions usually appear in the locative (n´ana 'at'), dative (nʹah  'to'), (ablative nʹad° 'from') and prolative form (nʹamna 'along').                                               "
 UT077,Is case compounding possible?,0,"Sven-Erik Soosaar, p.c.",,
 UT078,Are there case categories only found in pronouns?,0,"Sven-Erik Soosaar, p.c.",,
-UT079,Does the numeral modification of a noun have an effect on its case selection? ,0,"Sven-Erik Soosaar, p.c.",,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,"Sven-Erik Soosaar, p.c.",,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Nikolaeva 2014: 162,,"With numerals the quantified noun can stand in the singular or plural. In Tereshchenko (1965), it is usually in the singular. However, the speakers of the modern language prefer the plural, though may accept
 the singular as well."
 UT081,Is there a genitive case that has an affix?,1,"Sven-Erik Soosaar, p.c.",ŋəno-h;boat-GEN;boat's,
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Sven-Erik Soosaar, p.c.",,The dative case also expresses lative meanings.
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,"Sven-Erik Soosaar, p.c.",,The dative case also expresses lative meanings.
 UT083,Is there a terminative case?,0,"Sven-Erik Soosaar, p.c.",,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Nikolaeva 2014: 38, ,There is a caritive adverbial form that ends in -s'iq.
 UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,"Sven-Erik Soosaar, p.c.",yəxa-w°na;river-PROL;along the river;,
@@ -101,15 +100,15 @@ UT098,Is there an inflectional nominal marker for expressing benefactive or dest
 UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Sven-Erik Soosaar, p.c.",,
 UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Nikolaeva 2014: 59;Tereschenko 1956: 40,,"Paired objects typically stand in plural, still, dual may be encountered as well - 'my eyes’ can be expressed either as sǣw°-xəyu-nʹi (DU) or as sǣw°-nʹi (PL)."
 UT101,Can the marking of the possessor in the attributive construction vary?,1,Nikolaeva 2014: 143,noxa-h tǣwa;olar.fox-GEN tail;polar fox's tail;Nikolaeva 2014: 142|(pida) puxac'a-da;he wife-3SG;his wife;,"Whereas the lexical possessor takes the genitive form, the pronominal possessor appears in the nominative form."
-UT102,Can the possessor in the attributive construction be marked with the nominative?,1,Nikolaeva 2014: 142-143,(pida) puxac'a-da;he wife-3SG;his wife;,Pronominal possessor appears in the nominative form.
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,Nikolaeva 2014: 142-143,(pida) puxac'a-da;he wife-3SG;his wife;,Pronominal possessor appears in the nominative form.
 UT103,Is non-singular possession marked in the possessive declension?,1,Nikolaeva 2014: 59,ŋəno-mʹi;boat-1SG;my boat;Nikolaeva 2014: 67|ŋənu-n°;boat-PL.1SG;my boats;,
-UT104,Can 2Sg possessive suffix be used to mark definiteness? ,1,Nikolaeva 2014: 69,puxacʹa-ko yilʹe-wi°. puxacʹa-ko-nt° sʹidʹa səwa nʹu-da;old.woman-DIM live-INFR old.woman-DIM-GEN.2SG 2 good child-3SG;An old woman lived. This old woman had two nice sons;,
-UT105,Can 3Sg possessive suffix be used to mark definiteness? ,1,Nikolaeva 2014: 68-69,tʹukona sira(-da) wər-cawey°;here snow-3SG dirt-PROP;The snow is dirty here;,"""[T]he 3rd person singular possessive affixes express identifiability based on deixis and situational context"" (Nikolaeva 2014: 68). Their usage in this function is, however, optional."
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Sven-Erik Soosaar, p.c.",xībʹa;;who;|ŋəmke;;what;,
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,Nikolaeva 2014: 69,puxacʹa-ko yilʹe-wi°. puxacʹa-ko-nt° sʹidʹa səwa nʹu-da;old.woman-DIM live-INFR old.woman-DIM-GEN.2SG 2 good child-3SG;An old woman lived. This old woman had two nice sons;,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Nikolaeva 2014: 68-69,tʹukona sira(-da) wər-cawey°;here snow-3SG dirt-PROP;The snow is dirty here;,"""[T]he 3rd person singular possessive affixes express identifiability based on deixis and situational context"" (Nikolaeva 2014: 68). Their usage in this function is, however, optional."
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"Sven-Erik Soosaar, p.c.",xībʹa;;who;|ŋəmke;;what;,
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Sven-Erik Soosaar, p.c.",,
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Sven-Erik Soosaar, p.c.",,
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,0,"Sven-Erik Soosaar, p.c.",,
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,Nikolaeva 2014: 144,te-x°nǝq-ta;reindeer-LOC.PL-3SG;on her/his reindeer;,case + Px
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Nikolaeva 2014: 144,te-x°nǝq-ta;reindeer-LOC.PL-3SG;on her/his reindeer;,case + Px
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Sven-Erik Soosaar, p.c.",тэхэ’’на - ты 'reindeer' + Pl + Loc,number + case
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Sven-Erik Soosaar, p.c.",,
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Sven-Erik Soosaar, p.c.","нея;;mother’s younger sister;|хада;;mother’s older sister, father’s older sister;|тидя;;mother’s younger brother;",
@@ -119,20 +118,21 @@ UT116,Is there contrastive length of consonants?,0,"Sven-Erik Soosaar, p.c.",,
 UT117,Is there contrastive length of vowels?,1,"Sven-Erik Soosaar, p.c.","pud 'something giving balace' vs. púd 'from behind, after'",'
 UT118,Is there contrast between short and long unstressed vowels?,0,"Sven-Erik Soosaar, p.c.",,
 UT119,Is there contrast in duration of geminate consonants?,0,"Sven-Erik Soosaar, p.c.",,
-UT120,Are there more than two phonological quantities? ,0,"Sven-Erik Soosaar, p.c.",,
-UT121,Are there extralong syllables? ,0,"Sven-Erik Soosaar, p.c.",,
+UT120,Are there more than two phonological quantities?,0,"Sven-Erik Soosaar, p.c.",,
+UT121,Are there extralong syllables?,0,"Sven-Erik Soosaar, p.c.",,
 UT122,Is the main foot structure trochaic?,1,Nikolaeva 2014: 28,,Tundra Nenets exhibits bisyllabic trochaic feet aligned to the left.
 UT123,Is there lexically distinctive word stress?,1,"Sven-Erik Soosaar, p.c.",yábta 'thin' vs. yabtá 'dew',
+UT124,Is there morphologically conditioned stress?,0?,"Sven-Erik Soosaar, p.c.",,
 UT125,Is there fixed primary stress?,0,Salminen 1998: 519,,"Stress is predictable from syllable and segmental structure. It falls on an initial syllable, syllables preceding a syllable with schwa, and non-final syllables precided by am unstressed syllable."
 UT126,Is there stress in heavy syllables?,0,"Sven-Erik Soosaar, p.c.",,
 UT127,Is there non-initial primary stress?,0,"Sven-Erik Soosaar, p.c.",,
 UT128,Is there palatal vowel harmony?,0,"Sven-Erik Soosaar, p.c.",,
 UT129,Is there velar vowel harmony?,0,"Sven-Erik Soosaar, p.c.",,
-UT130,Is there labial vowel harmony? ,0,"Sven-Erik Soosaar, p.c.",,
-UT131,Are there rising diphthongs? ,0,"Sven-Erik Soosaar, p.c.",,
+UT130,Is there labial vowel harmony?,0,"Sven-Erik Soosaar, p.c.",,
+UT131,Are there rising diphthongs?,0,"Sven-Erik Soosaar, p.c.",,
 UT132,Are there lowering diphthongs?,0,"Sven-Erik Soosaar, p.c.",,
 UT133,Is there qualitative contrast between subsets of short and long vowels?,1,"Sven-Erik Soosaar, p.c.",puj vs. púj,
-UT134,Are there full vs. reduced vowels as contrastive subsets? ,1,"Sven-Erik Soosaar, p.c.",,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,1,"Sven-Erik Soosaar, p.c.",,
 UT135,Is there front high rounded vowel ü [y]?,0,"Sven-Erik Soosaar, p.c.",,
 UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Sven-Erik Soosaar, p.c.",,
 UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Sven-Erik Soosaar, p.c.",,
@@ -144,11 +144,11 @@ UT142,Are there word-internal consonant clusters in syllable onset?,0,"Sven-Erik
 UT143,Are there consonant clusters in syllable coda?,1,"Sven-Erik Soosaar, p.c.","xarw 'larch', sampønorcʲ 'to talk with the souls of dead'",
 UT144,Are there clusters of three or more consonants in a word between vowels?,0,"Sven-Erik Soosaar, p.c.",,
 UT145,Are there word-final clusters of three or more consonants?,0,"Sven-Erik Soosaar, p.c.",,
-UT146,Are there palatalized dentals? ,1,"Sven-Erik Soosaar, p.c.",nʲaxør 'three' vs. naxør 'nut',"Also tʲ vs. t, lʲ vs. l "
-UT147,Are there palatalized labials and velars? ,1,"Sven-Erik Soosaar, p.c.","pʲa 'tree', mʲaʔ 'conical tent of reindeer hide'",
+UT146,Are there palatalized dentals?,1,"Sven-Erik Soosaar, p.c.",nʲaxør 'three' vs. naxør 'nut',"Also tʲ vs. t, lʲ vs. l "
+UT147,Are there palatalized labials and velars?,1,"Sven-Erik Soosaar, p.c.","pʲa 'tree', mʲaʔ 'conical tent of reindeer hide'",
 UT148,Is there palatal stop [c]?,1,"Sven-Erik Soosaar, p.c.",,
 UT149,Is there palatal nasal [ɲ]?,1,"Sven-Erik Soosaar, p.c.",,
-UT150, Is there palatal lateral [ʎ]?,1,"Sven-Erik Soosaar, p.c.",,
+UT150,Is there palatal lateral [ʎ]?,1,"Sven-Erik Soosaar, p.c.",,
 UT151,Is there phonemic velar nasal [ŋ]?,1,"Sven-Erik Soosaar, p.c.",,
 UT152,Is there dental affricate [t͡s]?,1,"Sven-Erik Soosaar, p.c.",,
 UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",0,"Sven-Erik Soosaar, p.c.",,

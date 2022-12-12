@@ -76,8 +76,8 @@ UT067,Is it possible to place an object between the negative marker and the main
 UT068,Are there preverbs?,0,"Khanina, Olesya, p.c.",,
 UT069,Are there verbal prefixes?,0,"Khanina, Olesya, p.c.",,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Khanina, Olesya, p.c.",,
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,"Khanina, Olesya, p.c.",,Morphological coincidence
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Khanina, Olesya, p.c.",,Morphological coincidence.
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,"Khanina, Olesya, p.c.",,Morphological coincidence
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,"Khanina, Olesya, p.c.",,Morphological coincidence.
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Siegl 2013: 179,bunki-xuń polđi-ŋa-xiʔ;dog-PX.DU.1SG black-FREQ-3DU;My two dogs are black;,"In the predicative position, the stative intransitive verb behaves like a verb."
 UT074,Is it possible to form synthetic superlative?,0,"Khanina, Olesya, p.c.",,
 UT075,Can adpositions have person/number marking?,1,"Khanina, Shluinsky, to appear : 8",irud [ir -d];under(dir) -OBL.SG.2SG;under you;,"However, there are postpositions that have never been attested with posessive suffixes."
@@ -87,7 +87,7 @@ UT078,Are there case categories only found in pronouns?,1,"Khanina, Shluinsky, t
 UT079,Does the numeral modification of a noun have an effect on its case selection?,0,"Khanina, Shluinsky, to appear : 3.5",,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Khanina, Shluinsky, to appear : 3.5",nexuʔ nʲe-jʔ;three child-NOM.SG.1SG;my three children;,Occasionally also plural is attested.
 UT081,Is there a genitive case that has an affix?,0,"Khanina, Shluinsky, to appear : 3.1.3",,Only nominative and oblique are morphologically distinct.
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Khanina, Shluinsky, to appear : 9.4",,See UT086.
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,"Khanina, Shluinsky, to appear : 9.4",,See UT086.
 UT083,Is there a terminative case?,0,"Khanina, Olesya, p.c.",,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Khanina, Shluinsky, to appear : 3.1.8",mɛ-tʃuz;house-CAR;without a house;,"However, the caritive
 does not combine with possessive suffixes and personal pronouns, and it does not have number forms."
@@ -111,17 +111,17 @@ UT100,Is it possible to use singular with paired body parts/clothing/accessories
 UT101,Can the marking of the possessor in the attributive construction vary?,1,"Ovsjannikova, in press","ɛɛ-da ubaj koa;mother-OBL.SG.3SG thimble find(pfv).3SG.S;She found her mother’s thimble;|ɛɛ-za anʲ  kɔdse-da         tɔnie-bi;mother-NOM.SG.3SG and place_for_sleeping-NOM.SG.3SG there_is(ipfv)-PRF.3SG.S;And her mother had bed curtains, after all;
 
 ",Both nominative as well as oblique can be used to encode nominal possessors.
-UT102,Can the possessor in the attributive construction be marked with the nominative?,1,"Ovsjannikova, in press","no te-r ke-za bɔa ɛ-zʔ nʲi-uʔ;well reindeer-NOM.SG.2SG side-NOM.SG.3SG bad be(ipfv)-FUT.CONN  NEG-3SG.S.CONT;But your reindeer’s body (lit. ‘side’) will be bad, after all;[LD080825_PCHE_039]
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,"Ovsjannikova, in press","no te-r ke-za bɔa ɛ-zʔ nʲi-uʔ;well reindeer-NOM.SG.2SG side-NOM.SG.3SG bad be(ipfv)-FUT.CONN  NEG-3SG.S.CONT;But your reindeer’s body (lit. ‘side’) will be bad, after all;[LD080825_PCHE_039]
 
 ",. 
 UT103,Is non-singular possession marked in the possessive declension?,1,"Khanina, Shluinsky, to appear : 3.1.5",mɛ-l;house-NOM.SG.2SG;your house;|mɛzu-z;house-NOM.PL.2SG;your houses (PL);|mɛ-kuu-z;house-DU-NOM.PL.2SG;your houses (DU);,
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,"Khanina, Shluinsky 2017","baʔa-d nʲe periʔ kɔlta-goo-za;bed-OBL.SG.2SG cover always wash-dur-3SG.O:SG;(About a daughter in law: she can sew, her house is in order, she cooks,...) she always washes the bed sheets;",
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,"Khanina, Shluinsky, to appear : 9.9",bizu -za dʲepi -Ø;water -NOM.SG.3SG be_hot(ipfv) -3SG.S;The water is hot;NI_GA100713_RYBNIZ_GA_008,3SG possessive suffixes are used less commonly than 2SG possessive suffixes.
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Khanina, Shluinsky, to appear : 3.2.3;Siegl 2013: 195",ʃee;;who;|ɔbu;;what;,"The pronoun ʃee 'who' is also used for bear, but it is an exception. For all other non-human referents ɔbu 'what ' is used."
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"Khanina, Shluinsky, to appear : 3.2.3;Siegl 2013: 195",ʃee;;who;|ɔbu;;what;,"The pronoun ʃee 'who' is also used for bear, but it is an exception. For all other non-human referents ɔbu 'what ' is used."
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Khanina, Shluinsky, to appear : 10.2",,Relative clauses usually occur before the head noun in the NP.
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Khanina, Shluinsky, to appear : 10.2",,Relative clauses usually occur before the head noun in the NP.
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Khanina, Shluinsky, to appear : 10.1","nɛku-ju-r ma-dʲa-uʔ, tɛxɛ to-xon dʲiri;this-LIM-NOM.SG.2SG say(PFV)-Q-3SG.CONT this lake-LOC.SG live(IPFV).3SG;That one, probably, said that he lives at this lake;",
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,"Khanina, Olesya, p.c.",mɛ-kone-d;house-LOC.SG-OBL.SG.2SG;in your house;,"The order becomes apparent from locative forms, and the order is fixed. Core cases (i.e. NOM and OBL) are always fused with possessive forms."
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,"Khanina, Olesya, p.c.",mɛ-kone-d;house-LOC.SG-OBL.SG.2SG;in your house;,"The order becomes apparent from locative forms, and the order is fixed. Core cases (i.e. NOM and OBL) are always fused with possessive forms."
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Khanina, Shluinsky, to appear : 3.1.7",mɛ-kuu-z;house-DU-NOM.PL.2SG;your houses (DU);|mɛzu-z;house-NOM.PL.2SG;your houses (PL);,"The oder becomes apparent from dual forms, whereas singular and plural possession is expressed cumulatively."
 UT112,Are there different words for mother’s brother and father’s brother?,?,"Khanina, Olesya, p.c.",,
 UT113,Are there different words for younger and older relative for other relations than siblings?,?,"Khanina, Olesya, p.c.",,

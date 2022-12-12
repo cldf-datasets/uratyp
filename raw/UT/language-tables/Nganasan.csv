@@ -69,8 +69,8 @@ UT067,Is it possible to place an object between the negative marker and the main
 UT068,Are there preverbs?,0,,,
 UT069,Are there verbal prefixes?,0,,,
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Wagner-Nagy 2018: 534,,"However, there is a suffix that can be used in the attenuative meaning (i.e. to do sth a bit)."
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",0,,,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,,,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",0,,,
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Wagner-Nagy 2018: 350,mənə numə-naŋgu-m i-sʲüə-m;I young-DIM-1SG be-PST-1SG;I was a young (girl);,
 UT074,Is it possible to form synthetic superlative?,0,Wagner-Nagy 2018: 392,,Analytic constructions are used.
 UT075,Can adpositions have person/number marking?,1,Wagner-Nagy 2018: 152;Wagner-Nagy 2018: 107[example],"ďesɨ ðɨ təbtə tənɨ i ču, kaďa nu ntu i ču;father-3SGPOSS also here be-AOR.[3SG] near-ADV-LOC-OBL.3SGPOSS be-AOR.[3 SG];The father is also there, near to her;",
@@ -80,7 +80,7 @@ UT078,Are there case categories only found in pronouns?,0,Wagner-Nagy 2018: 106,
 UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Wagner-Nagy 2018: 158,,
 UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Wagner-Nagy 2018: 158,sʲiti tǝjbǝ;two bird;two birds;,Plural or dual is rarely used.
 UT081,Is there a genitive case that has an affix?,0,Wagner-Nagy 2018: 190-191,,"Historically, there was an endin (-ŋ). "
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,Wagner-Nagy 2018: 196-197,,The lative is also used to express the recipient and the beneficiary.
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Wagner-Nagy 2018: 196-197,,The lative is also used to express the recipient and the beneficiary.
 UT083,Is there a terminative case?,0,Wagner-Nagy 2018: 191,,
 UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Wagner-Nagy 2018: 191,,
 UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,Wagner-Nagy 2018: 200,ńajbɨ-mənɨ kuni-mənɨ ďotü-r-ü-gəj;far-PROL what-PROL walk-FRQ-AOR-3DU;They walk in the tundra around;,Prolative is used to mark direction.
@@ -100,15 +100,15 @@ UT098,Is there an inflectional nominal marker for expressing benefactive or dest
 UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Wagner-Nagy 2018: 176,,
 UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Wagner-Nagy 2018: 186,,"With paired body parts, dual is typically used. In modern texts also plural can be found."
 UT101,Can the marking of the possessor in the attributive construction vary?,1,Wagner-Nagy 2018: 196,"tahari͡aa sɨðɨrhobtə təɁ əmtɨ-rə ŋülʲi͡aðə kuhu təɁ;now really you.know this-2SGPOSS wolf.[GEN] skin you.know;So, this is indeed a wolf's pelt;","The non-pronominal possessor appears in the genitive case, whereas the pronominal possessor occurs in the nominative case (see also UT102)."
-UT102,Can the possessor in the attributive construction be marked with the nominative?,1,"Beáta Wagner-Nagy, pc.",(mǝnǝ) ńemɨ-mǝ;I/my mother-1SGPOSS;my mother;,The nominative form is used with pronouns.
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,"Beáta Wagner-Nagy, pc.",(mǝnǝ) ńemɨ-mǝ;I/my mother-1SGPOSS;my mother;,The nominative form is used with pronouns.
 UT103,Is non-singular possession marked in the possessive declension?,1,Wagner-Nagy 2018: 201,,The possessive suffixes refer to the person and number of the possessor but also the number of the possessed.
 UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,Wagner-Nagy 2018: 465,,The referential use of 2sg possessive suffix may occur only when the marked NP occurs in the subject position (see also UT105).
 UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,"Wagner-Nagy 2018: 463, 209;Wagner-Nagy 2018: 466[example]","tahari͡aa kaŋkə-güə hi-ntənɨ hii ďalɨ-ďa ŋua-ðu bi͡arə-bti-Ɂi-ðə;now when-EMPH night-LOC night day-ALL door-3SGPOSS open-ATTEN-AOR.RFL-3SG.RFL;After one night, the door opened;",Possessive suffixes can be used in the referential function that is similar to the definite article but it cannot be argued that the language has definite articles.
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,Wagner-Nagy 2018: 122-123;Wagner-Nagy 2018: 131-133[example],sɨlɨ vs. maa;;who vs. what;,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent."
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Wagner-Nagy 2018: 122-123;Wagner-Nagy 2018: 131-133[example],sɨlɨ vs. maa;;who vs. what;,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent."
 UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Wagner-Nagy 2018: 105,,There are no relative pronouns.
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Wagner-Nagy 2018: 105,,There are no relative pronouns.
 UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Wagner-Nagy 2018: 106-107;Wagner-Nagy 2018: 375[example],ouɁ təndə-mtu helɨðə-Ɂə;EXCL that-ACC.3SGPOSS help-AOR.[3SG];He helped him;,
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,1,Wagner-Nagy 2018: 95,ma-tə-tu;tent-LAT-OBL.3SG POSS;in his/her tent;,
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Wagner-Nagy 2018: 95,ma-tə-tu;tent-LAT-OBL.3SG POSS;in his/her tent;,
 UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Wagner-Nagy 2018: 95,ma-kəi-ńə;tent-DU-ACCPOSS;my two tents;,"In plural, the number marker and the case suffix are fused."
 UT112,Are there different words for mother’s brother and father’s brother?,1,Wagner-Nagy 2018: 472-473,,
 UT113,Are there different words for younger and older relative for other relations than siblings?,1,Wagner-Nagy 2018: 472-473,,
