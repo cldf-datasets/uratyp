@@ -1,7 +1,7 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
-GB020,az eresz,,az eresz,DEF.ART eaves.NOM,the eaves,Balogh et al 2000: 283
-GB021,egy macska,,egy macska,INDF.ART cat.NOM,a cat,Balogh et al 2000: 284
-GB022,a Magyar Köztársaság,,a Magyar Köztársaság,DEF.ART Hungary Republic,the Republic of Hungary,Balogh et al 2000: 283
+GB020,az eresz,,az eresz,DEF.ART eaves.NOM,the eaves,Balogh et al. 2000: 283
+GB021,egy macska,,egy macska,INDF.ART cat.NOM,a cat,Balogh et al. 2000: 284
+GB022,a Magyar Köztársaság,,a Magyar Köztársaság,DEF.ART Hungary Republic,the Republic of Hungary,Balogh et al. 2000: 283
 GB024,két macska,,két macska,two cat.NOM,two cats,Korchmáros 2009: 79
 GB025,ez a szoba,,ez a szoba,this DEF.ART room.NOM,this room,Korchmáros 2009: 130
 GB027-1,Péter meg a többiek,,Péter meg a többi-ek,Peter and the other-PL,Peter and the others,Korchmáros 2009: 163
@@ -12,74 +12,77 @@ GB047 ,érzés,,érz-és,feel-AN,feeling,Korchmáros 2009: 226
 GB048 ,tudós,,tud-ós,know-AGN,scientist,Korchmáros 2009: 229
 GB049 ,írás,,ír-ás,write-OBJ.NMLZ,writing,Korchmáros 2009: 228
 GB057 ,hét szem gyógyszer,,hét szem gyógyszer,seven eye.CL medicine ,seven pills,Csirmaz and Dékány 2014: 141–160
-GB065-1,a Péter kalapja,,a Péter kalap-ja,DEF.ART Peter.NOM hat-POSS.3SG,Peter’s hat,Kenesei et al 1998: 94
-GB065-2,Péternek a kalapja,,Péter-nek a kalap-ja,Peter-DAT DEF.ART hat-POSS.3SG,Peter’s hat,Kenesei et al 1998: 94
-GB070 ,tudom a választ,,tud-om a válasz-t,know-1SG.OC DEF.ART answer-ACC,I know the answer,Kenesei et al 1998: 197
-GB071 ,Márta egy sálat vett magának,,Márta egy sál-at ve-tt magá-nak,Martha INDF.ART scarf-ACC buy-PSTX.3SG.INDF him/herself-DAT,Martha bought a scarf for herself,Kenesei et al 1998: 272
-GB072,a gyerek-ek nem figyel-t-ek a tanár-ra,,a gyerek-ek nem figyel-t-ek a tanár-ra,DEF.ART child-PL not pay.attention-PST-3PL.INDF DEF.ART teacher-SUBL,the children didn’t pay attention to the teacher,Kenesei et al 1998: 200
-GB073,bízzatok magatokban,,bíz-z-atok magatok-ban,trust-IMP-2PL.INDF yourselves-INE,trust yourselves,Kenesei et al 1998: 272
-GB075 ,Péter elnök gyanánt viselkedett,,Péter elnök gyanánt viselked-ett,Peter chairman like behave-PST.3SG,Peter chairman like behaved,Kenesei et al 1998: 9
-GB079 ,elolvastad a könyvet?,,el-olvas-t-ad a könyv-et?,PFX-read-PST-2SG.OC DEF.ART book-ACC,have you finished reading the book?,Kenesei et al 1998: 300
-GB080-1,hallgat,,hallgat,hear.DUR,listen,Kenesei et al 1998: 306
-GB080-2,nézeget ,,nézeget ,look.ITER,look repeatedly,Kenesei et al 1998: 303
-GB083 ,Márta telefonált,,Márta telefonál-t,Martha call-PST.3SG.INDF,Martha called,Kenesei et al 1998: 296
-GB086 ,József kiment a teremből,,József ki-men-t a terem-ből,Joseph out-go-PST.3SG.INDF DEF.ART classroom-ELA,Joseph went out of the classroom,Kenesei et al 1998: 300
-GB089,a virágok elhervadtak,,a virág-ok el-hervad-t-ak,DEF.ART flower-PL PFX-wilt-PST-3PL.INDF,the flowers wilted,Kenesei et al 1998: 195
-GB091 ,adok,,ad-ok,give-1SG.INDF,I give,Kenesei et al 1998: 289
-GB093 ,adom,,ad-om,give-1SG.OC,I give,Kenesei et al 1998: 289
+GB065-1,a Péter kalapja,,a Péter kalap-ja,DEF.ART Peter.NOM hat-POSS.3SG,Peter’s hat,Kenesei et al. 1998: 94
+GB065-2,Péternek a kalapja,,Péter-nek a kalap-ja,Peter-DAT DEF.ART hat-POSS.3SG,Peter’s hat,Kenesei et al. 1998: 94
+GB070 ,tudom a választ,,tud-om a válasz-t,know-1SG.OC DEF.ART answer-ACC,I know the answer,Kenesei et al. 1998: 197
+GB071 ,Márta egy sálat vett magának,,Márta egy sál-at ve-tt magá-nak,Martha INDF.ART scarf-ACC buy-PSTX.3SG.INDF him/herself-DAT,Martha bought a scarf for herself,Kenesei et al. 1998: 272
+GB072,a gyerek-ek nem figyel-t-ek a tanár-ra,,a gyerek-ek nem figyel-t-ek a tanár-ra,DEF.ART child-PL not pay.attention-PST-3PL.INDF DEF.ART teacher-SUBL,the children didn’t pay attention to the teacher,Kenesei et al. 1998: 200
+GB073,bízzatok magatokban,,bíz-z-atok magatok-ban,trust-IMP-2PL.INDF yourselves-INE,trust yourselves,Kenesei et al. 1998: 272
+GB075 ,Péter elnök gyanánt viselkedett,,Péter elnök gyanánt viselked-ett,Peter chairman like behave-PST.3SG,Peter chairman like behaved,Kenesei et al. 1998: 9
+GB079 ,elolvastad a könyvet?,,el-olvas-t-ad a könyv-et?,PFX-read-PST-2SG.OC DEF.ART book-ACC,have you finished reading the book?,Kenesei et al. 1998: 300
+GB080-1,hallgat,,hallgat,hear.DUR,listen,Kenesei et al. 1998: 306
+GB080-2,nézeget ,,nézeget ,look.ITER,look repeatedly,Kenesei et al. 1998: 303
+GB083 ,Márta telefonált,,Márta telefonál-t,Martha call-PST.3SG.INDF,Martha called,Kenesei et al. 1998: 296
+GB086 ,József kiment a teremből,,József ki-men-t a terem-ből,Joseph out-go-PST.3SG.INDF DEF.ART classroom-ELA,Joseph went out of the classroom,Kenesei et al. 1998: 300
+GB089,a virágok elhervadtak,,a virág-ok el-hervad-t-ak,DEF.ART flower-PL PFX-wilt-PST-3PL.INDF,the flowers wilted,Kenesei et al. 1998: 195
+GB091 ,adok,,ad-ok,give-1SG.INDF,I give,Kenesei et al. 1998: 289
+GB093 ,adom,,ad-om,give-1SG.OC,I give,Kenesei et al. 1998: 289
 GB099-1,vagyok : van,,vagy-ok : van,be-1SG : be.3SG,I am: he is,Korchmáros 2009: 53
 GB099-2,megyek : mész,,megy-ek : mész,go-1SG : go.3SG,I go: he goes,Korchmáros 2009: 54
 GB099-3,jövök : jön,,jöv-ök : jön,come-1SG : come.3SG,I come: he comes,Korchmáros 2009: 54
-GB108 ,felmegy,,fel-megy,up.PFX-go,go up,Kenesei et al 1998: 329
-GB111 -1,olvasok,,olvas-ok,read-1SG.INDF,I read,Kenesei et al 1998: 68
-GB111 -2,olvasom,,olvas-om,read-1SG.OC,I read,Kenesei et al 1998: 69
-GB113 ,a fiú csikorgatja a fogát,,a fiú csikorgat-ja a fog-á-t,DEF.ART boy squeak.CAUS-3SG.OC DEF.ART tooth-POSS.3SG-ACC,the boy is grinding his teeth,Kenesei et al 1998: 287
-GB114 ,ti mosakodtok,,ti mos-akod-tok,you wash-REFL-2PL,you are washing yourselves,Kenesei et al 1998: 129
-GB115 ,a gyerekek verekednek (egymással),,a gyerek-ek ver-eked-nek (egymás-sal),DEF.ART child-PL beat-REFL/RECP/-3PL (each-other-INS),the children are fighting (with each other),Kenesei et al 1998: 141
-GB117 ,a könyv a szobá-ban van,,a könyv a szobá-ban van,DEF.ART book DEF.ART room-INE is,the book is in the room,Kenesei et al 1998: 46
-GB121 ,meg fogom kérdezni erről Krisztinát,,meg fog-om kérdez-ni er-ről Krisztiná-t,PFX FUT-1SG.OC ask-INF this-DELA Christina-ACC,I’ll ask Christina about this,Kenesei et al 1998: 298
-GB122,súg-búg,,súg-búg,whisper.3SG.murmur.3SG,talk in a low voice incessantly,Kenesei et al 1998: 378
+GB108 ,felmegy,,fel-megy,up.PFX-go,go up,Kenesei et al. 1998: 329
+GB111 -1,olvasok,,olvas-ok,read-1SG.INDF,I read,Kenesei et al. 1998: 68
+GB111 -2,olvasom,,olvas-om,read-1SG.OC,I read,Kenesei et al. 1998: 69
+GB113 ,a fiú csikorgatja a fogát,,a fiú csikorgat-ja a fog-á-t,DEF.ART boy squeak.CAUS-3SG.OC DEF.ART tooth-POSS.3SG-ACC,the boy is grinding his teeth,Kenesei et al. 1998: 287
+GB114 ,ti mosakodtok,,ti mos-akod-tok,you wash-REFL-2PL,you are washing yourselves,Kenesei et al. 1998: 129
+GB115 ,a gyerekek verekednek (egymással),,a gyerek-ek ver-eked-nek (egymás-sal),DEF.ART child-PL beat-REFL/RECP/-3PL (each-other-INS),the children are fighting (with each other),Kenesei et al. 1998: 141
+GB117 ,a könyv a szobá-ban van,,a könyv a szobá-ban van,DEF.ART book DEF.ART room-INE is,the book is in the room,Kenesei et al. 1998: 46
+GB121 ,meg fogom kérdezni erről Krisztinát,,meg fog-om kérdez-ni er-ről Krisztiná-t,PFX FUT-1SG.OC ask-INF this-DELA Christina-ACC,I’ll ask Christina about this,Kenesei et al. 1998: 298
+GB122,súg-búg,,súg-búg,whisper.3SG.murmur.3SG,talk in a low voice incessantly,Kenesei et al. 1998: 378
 GB126,a fiúknak van pénze,,a fiú-k-nak van pénz-e,DEF.ART boy-PL-DAT be.3SG money-POSS.3SG,the boys have money,Kiss 2002: 175
 GB130,egy autó megállt a házunk előtt,,egy autó megáll-t a ház-unk előtt,INDF.ART car stop-PST.INDF DEF.ART house-POSS.1PL front,one of the cars has stopped in front of our house,Kiss 2002: 10
 GB133,János Marit keresi,,János Mari-t keres-i,John Mary-ACC seek-OC,"as for John, it is Mary that he seeks ",Kiss 2002: 2
-GB134,"a fiú, aki beteg volt, nem dolgozik",,"a fiú, aki beteg volt, nem dolgozik",DEF.ART boy who sick be.PST.3SG not work.3SG,the boy who was sick is not working,Kenesei et al 1998: 28
-GB139-1,ne másolj kulcsot!,,ne másol-j kulcs-ot!,not copy-IMP key-ACC,don’t copy a key!,Kenesei et al 1998: 22
-GB139-2,Anna nem olvassa a könyvet,,Anna nem olvassa a könyv-et,Anna not read.3SG.OC DEF.ART book-ACC,Anna is not reading the book,Kenesei et al 1998: 112
-GB147-1,egy autó meg volt véve,,egy autó meg vol-t vé-ve,INDF.ART car PFX be-PST.3SG buy-CVB,a car was bought,Kenesei et al 1998: 283
-GB147-2,ad: adatik,,ad: ad-atik,give: give-PASS,give: be given,Kenesei et al 1998: 285
+GB134,"a fiú, aki beteg volt, nem dolgozik",,"a fiú, aki beteg volt, nem dolgozik",DEF.ART boy who sick be.PST.3SG not work.3SG,the boy who was sick is not working,Kenesei et al. 1998: 28
+GB139-1,ne másolj kulcsot!,,ne másol-j kulcs-ot!,not copy-IMP key-ACC,don’t copy a key!,Kenesei et al. 1998: 22
+GB139-2,Anna nem olvassa a könyvet,,Anna nem olvassa a könyv-et,Anna not read.3SG.OC DEF.ART book-ACC,Anna is not reading the book,Kenesei et al. 1998: 112
+GB147-1,egy autó meg volt véve,,egy autó meg vol-t vé-ve,INDF.ART car PFX be-PST.3SG buy-CVB,a car was bought,Kenesei et al. 1998: 283
+GB147-2,ad: adatik,,ad: ad-atik,give: give-PASS,give: be given,Kenesei et al. 1998: 285
 GB148,András építkezik,,András épít-kez-ik,Andrew build-MID-3SG.MID,Andrew is building,Halm 2020: 3
-GB155-1,az anya elaltatta a gyereket,,az anya el-altat-t-a a gyerek-et,INDF.ART mother PFX-sleep.CAUS-PST-3SG.OC INDF.ART child-ACC,the mother made the child sleep,Kenesei et al 1998: 287
-GB155-2,olvas: olvastat,,olvas: olvastat,read: read.CAUS,read: make read,Kenesei et al 1998: 287
-GB185,ez a kalap: ezek a kalapok,,ez a kalap: ez-ek a kalap-ok,this DEF.ART hat: this-PL DEF.ART hat-PL,this hat: these hats,Kenesei et al 1998: 95
-GB187-1,asztal: asztalka,,asztal: asztal-ka,table: table-DIM,table: little table,Kenesei et al 1998: 353
-GB187-2,könyv: könyvecske,,könyv: könyv-ecske,book: book-DIM,book: little book,Kenesei et al 1998: 353
-GB187-3,Ferenc: Feri,,Ferenc: Fer-i,Ferenc: Fer-DIM,Ferenc: little Ferenc,Kenesei et al 1998: 353
-GB193,az idős és sikeres író,,az idős és sikeres író,DEF.ART old and successful writer,the old and successful writer,Kenesei et al 1998: 92
+GB155-1,az anya elaltatta a gyereket,,az anya el-altat-t-a a gyerek-et,INDF.ART mother PFX-sleep.CAUS-PST-3SG.OC INDF.ART child-ACC,the mother made the child sleep,Kenesei et al. 1998: 287
+GB155-2,olvas: olvastat,,olvas: olvastat,read: read.CAUS,read: make read,Kenesei et al. 1998: 287
+GB185,ez a kalap: ezek a kalapok,,ez a kalap: ez-ek a kalap-ok,this DEF.ART hat: this-PL DEF.ART hat-PL,this hat: these hats,Kenesei et al. 1998: 95
+GB187-1,asztal: asztalka,,asztal: asztal-ka,table: table-DIM,table: little table,Kenesei et al. 1998: 353
+GB187-2,könyv: könyvecske,,könyv: könyv-ecske,book: book-DIM,book: little book,Kenesei et al. 1998: 353
+GB187-3,Ferenc: Feri,,Ferenc: Fer-i,Ferenc: Fer-DIM,Ferenc: little Ferenc,Kenesei et al. 1998: 353
+GB193,az idős és sikeres író,,az idős és sikeres író,DEF.ART old and successful writer,the old and successful writer,Kenesei et al. 1998: 92
 GB203 ,csak ketten olvastak el minden könyvet a vizsgára,,csak ketten olvas-t-ak el minden könyv-et a vizsgá-ra,only two.of.them read-PST-3PL PFX all book-ACC DEF.ART exam-SUBL,only two persons read all the books for the exam,Kiss 2002: 123
-GB253-1,nekem a könyvem nem veszett el,,nek-em a könyv-em nem vesz-ett el ,DAT-1SG DEF.ART book-POSS.1SG not get.lost-PST.3SG PFX,"as for my book, it didn’t get lost",Kenesei et al 1998: 215
-GB253-2,az a kávé az enyém,,az a kávé az enyém,that DEF.ART coffee DEF.ART mine,that coffee is mine,Kenesei et al 1998: 273
+GB204-1,kibontották az összes csomagot,,ki-bont-ott-ák az összes csomag-ot,out.PFX-open-PST-3PL.OC DEF.ART all package-ACC,they opened up all of the packages,Rounds 2001: 75
+GB204-2,a lányok mindegyike,,a lány-ok mindegyik-e,DEF.ART girl-PL each-POSS.3SG,each of the girls,Kenesei et al. 1998: 230
+GB253-1,nekem a könyvem nem veszett el,,nek-em a könyv-em nem vesz-ett el ,DAT-1SG DEF.ART book-POSS.1SG not get.lost-PST.3SG PFX,"as for my book, it didn’t get lost",Kenesei et al. 1998: 215
+GB253-2,az a kávé az enyém,,az a kávé az enyém,that DEF.ART coffee DEF.ART mine,that coffee is mine,Kenesei et al. 1998: 273
 GB257,kész?,,kész?,ready,is it ready?,Korchmáros 2009: 249
-GB264,Péter nem volt-e betég?,,Péter nem volt-e betég?,Peter not be.PST.3SG-Q,wasn’t Peter sick?,Kenesei et al 1998: 2
-GB266 ,háromnál kevesebb lámpa,,három-nál keves-ebb lámpa,three-ADE few-CMPR light,lights fewer than three,Kenesei et al 1998: 363
-GB275,"János magasabb, mint én",,"János magas-abb, mint én",John tall-CMPR than 1SG,John is taller than I,Kenesei et al 1998: 334
-GB299,Anna nem olvassa a könyvet,,Anna nem olvassa a könyv-et,Anna not read.3SG.OC DEF.ART book-ACC,Anna is not reading the book,Kenesei et al 1998: 112
-GB304,a bankot kirabolták,,a bank-ot ki-rabol-t-ák,DEF.ART bank-ACC PFX-rob-PST-3PL.OC,the bank was robbed,Kenesei et al 1998: 204
-GB305,a fiúk látják magukat,,a fiú-k lát-ják mag-uk-at,DEF.ART boy-PL see-3PL.OC self.POSS.3PL-ACC,the boys see themselves,Kenesei et al 1998: 122
-GB312-1,várnék,,vár-né-k,wait-COND-1SG,I would wait,Kenesei et al 1998: 309
-GB312-2,menjünk moziba!,,men-j-ünk mozi-ba!,go-IMP-1PL movies-ILL,let’s go to the movies!,Kenesei et al 1998: 312
-GB313,az a kávé az enyém,,az a kávé az enyém,that DEF.ART coffee DEF.ART mine,that coffee is mine,Kenesei et al 1998: 273
-GB325,hány könyvet veszel?,,hány könyv-et vesz-el?,how.many book-ACC buy-2SG,how many books are you buying?,Kenesei et al 1998: 232
-GB327,"az a lány, aki a könyvet olvassa, beteg volt",,"az a lány, aki a könyv-et olvassa, beteg volt",that DEF.ART girl who DEF.ART book-ACC read.3SG.OC sick be.PST.3SG,"that girl, who’s reading the book, was sick",Kenesei et al 1998: 39
-GB328,milyen könyveket olvasó fiúkkal találkoztál?,,milyen könyv-ek-et olvas-ó fiú-kkal találkoz-t-ál?,what book-PL-ACC read-ACT.PTCP boy-PL.INS meet-PST-2SG,boys reading what books did you meet?,Kenesei et al 1998: 44
-GB329,a könyvet olvasó lány beteg volt,,a könyv-et olvas-ó lány beteg volt,DEF.ART book-ACC read-ACT.PTCP girl sick be.PST.3SG,the girl reading a/the book was sick,Kenesei et al 1998: 38
-GB331,"az a lány beteg volt, aki a könyvet olvassa",,"az a lány beteg volt, aki a könyv-et olvassa",that DEF.ART girl sick be.PST.3SG who DEF.ART book-ACC read.3SG.OC,the girl was sick who’s reading the book,Kenesei et al 1998: 39
-GB333,ötven,,öt-ven,five-SFX,fifty,Kenesei et al 1998: 341
-GB408,Mária szereti Andrást,,Mária szeret-i András-t,Mary like-3SG.OC Andrew-ACC,Mary likes Andrew,Kenesei et al 1998: 197
+GB264,Péter nem volt-e betég?,,Péter nem volt-e betég?,Peter not be.PST.3SG-Q,wasn’t Peter sick?,Kenesei et al. 1998: 2
+GB266 ,háromnál kevesebb lámpa,,három-nál keves-ebb lámpa,three-ADE few-CMPR light,lights fewer than three,Kenesei et al. 1998: 363
+GB275,"János magasabb, mint én",,"János magas-abb, mint én",John tall-CMPR than 1SG,John is taller than I,Kenesei et al. 1998: 334
+GB299,Anna nem olvassa a könyvet,,Anna nem olvassa a könyv-et,Anna not read.3SG.OC DEF.ART book-ACC,Anna is not reading the book,Kenesei et al. 1998: 112
+GB302,egy autó meg vol-t vé-ve,,egy autó meg vol-t vé-ve,INDF.ART car PFX be-PST.3SG buy-CVB,a car was bought,Kenesei et al. 1998: 283
+GB304,a bankot kirabolták,,a bank-ot ki-rabol-t-ák,DEF.ART bank-ACC PFX-rob-PST-3PL.OC,the bank was robbed,Kenesei et al. 1998: 204
+GB305,a fiúk látják magukat,,a fiú-k lát-ják mag-uk-at,DEF.ART boy-PL see-3PL.OC self.POSS.3PL-ACC,the boys see themselves,Kenesei et al. 1998: 122
+GB312-1,várnék,,vár-né-k,wait-COND-1SG,I would wait,Kenesei et al. 1998: 309
+GB312-2,menjünk moziba!,,men-j-ünk mozi-ba!,go-IMP-1PL movies-ILL,let’s go to the movies!,Kenesei et al. 1998: 312
+GB313,az a kávé az enyém,,az a kávé az enyém,that DEF.ART coffee DEF.ART mine,that coffee is mine,Kenesei et al. 1998: 273
+GB325,hány könyvet veszel?,,hány könyv-et vesz-el?,how.many book-ACC buy-2SG,how many books are you buying?,Kenesei et al. 1998: 232
+GB327,"az a lány, aki a könyvet olvassa, beteg volt",,"az a lány, aki a könyv-et olvassa, beteg volt",that DEF.ART girl who DEF.ART book-ACC read.3SG.OC sick be.PST.3SG,"that girl, who’s reading the book, was sick",Kenesei et al. 1998: 39
+GB328,milyen könyveket olvasó fiúkkal találkoztál?,,milyen könyv-ek-et olvas-ó fiú-kkal találkoz-t-ál?,what book-PL-ACC read-ACT.PTCP boy-PL.INS meet-PST-2SG,boys reading what books did you meet?,Kenesei et al. 1998: 44
+GB329,a könyvet olvasó lány beteg volt,,a könyv-et olvas-ó lány beteg volt,DEF.ART book-ACC read-ACT.PTCP girl sick be.PST.3SG,the girl reading a/the book was sick,Kenesei et al. 1998: 38
+GB331,"az a lány beteg volt, aki a könyvet olvassa",,"az a lány beteg volt, aki a könyv-et olvassa",that DEF.ART girl sick be.PST.3SG who DEF.ART book-ACC read.3SG.OC,the girl was sick who’s reading the book,Kenesei et al. 1998: 39
+GB333,ötven,,öt-ven,five-SFX,fifty,Kenesei et al. 1998: 341
+GB408,Mária szereti Andrást,,Mária szeret-i András-t,Mary like-3SG.OC Andrew-ACC,Mary likes Andrew,Kenesei et al. 1998: 197
 GB410-1,ismerem a bátyád,,ismer-em a bátyá-d,know-1SG.OC DEF.ART brother-POSS.2SG,I know your brother,Rounds 2001: 152
 GB410-2,otthon hagytam a könyveim,,otthon hagy-t-am a könyv-ei-m,home leave-PST-1SG DEF.ART book-PL-POSS.1SG,I left my books at home,Rounds 2001: 152
-GB415-1,hol lakik ön?,,hol lak-ik ön?,where live-3SG 3SG,"where do you (SG, formal) live?",Kenesei et al 1998: 267
-GB415-2,maguk tanárok?,,mag-uk tanár-ok?,you.formal-PL teacher-PL,"are you (PL, formal) teachers?",Kenesei et al 1998: 267
-GB421,"Anna tudta azt, hogy Péter beteg",,"Anna tud-t-a az-t, hogy Péter beteg",Anna know-PST-3SG.OC it-ACC that Peter sick,Anna knew that Peter was sick,Kenesei et al 1998: 28
-GB432,Péternek a kalapja,,Péter-nek a kalap-ja,Peter.DAT DEF.ART hat-POSS.3SG,Peter’s hat ,Kenesei et al 1998: 94
-GB433,a könyvem,,a könyv-em,DEF.ART book-POSS.1SG,my book,Kenesei et al 1998: 214
-GB522,(az) érdekes volt,,(az) érdekes volt,(it) interesting be.PST.3SG,it was interesting,Kenesei et al 1998: 66
+GB415-1,hol lakik ön?,,hol lak-ik ön?,where live-3SG 3SG,"where do you (SG, formal) live?",Kenesei et al. 1998: 267
+GB415-2,maguk tanárok?,,mag-uk tanár-ok?,you.formal-PL teacher-PL,"are you (PL, formal) teachers?",Kenesei et al. 1998: 267
+GB421,"Anna tudta azt, hogy Péter beteg",,"Anna tud-t-a az-t, hogy Péter beteg",Anna know-PST-3SG.OC it-ACC that Peter sick,Anna knew that Peter was sick,Kenesei et al. 1998: 28
+GB432,Péternek a kalapja,,Péter-nek a kalap-ja,Peter.DAT DEF.ART hat-POSS.3SG,Peter’s hat ,Kenesei et al. 1998: 94
+GB433,a könyvem,,a könyv-em,DEF.ART book-POSS.1SG,my book,Kenesei et al. 1998: 214
+GB522,(az) érdekes volt,,(az) érdekes volt,(it) interesting be.PST.3SG,it was interesting,Kenesei et al. 1998: 66
