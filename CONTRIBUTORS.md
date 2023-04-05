@@ -20,7 +20,7 @@ Outi Vesakoski |  | author
 ## Contributors
 
 ID|Subgroup|Language|UT|Values and examples|GB|Consulted for values|Examples
----|---|---|---|---|---|---
+---|---|---|---|---|---|---|---
 1|Finnic|Finnish|✔|Mervi de Heer, Minerva Piha|✔|Mervi de Heer|Maria Merilo
 2|Finnic|Estonian|✔|Helle Metslang, Miina Norvik, Karl Pajusalu, Eva Saar|✔|Miina Norvik, Eva Saar|Maria Merilo
 3|Finnic|North Karelian|✔|Olga Melentjeva, Eva Saar|✔||
