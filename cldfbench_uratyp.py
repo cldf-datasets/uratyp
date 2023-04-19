@@ -112,6 +112,11 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component(
             'ExampleTable',
             'Original_Script',
+            {
+                'name': 'Source',
+                'separator': ';',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            },
         )
         t = args.writer.cldf.add_component('ContributionTable')
         t.common_props['dc:description'] = \
@@ -129,7 +134,10 @@ class Dataset(BaseDataset):
             {
                 "name": "Feature_Description",
                 "dc:description": "Relative path to a markdown document describing the feature",
-            }
+            },
+            #
+            # FIXME: add content of CLDF markdown doc!
+            #
         )
         args.writer.cldf['LanguageTable', 'Glottocode'].null = ['?']
         args.writer.cldf['LanguageTable', 'ISO639P3code'].null = ['?']
@@ -155,6 +163,11 @@ class Dataset(BaseDataset):
                 lid = lid.strip()
                 refs[lid].append(src.id)
             args.writer.cldf.sources.add(src)
+
+        for key, entry in database.parse_file(str(self.etc_dir / 'feature_sources.bib')).entries.items():
+            src = Source.from_entry(key, entry)
+            if list(src.keys()) != ['cited_in']:
+                args.writer.cldf.sources.add(src)
 
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
             for row in reader(p, dicts=True):
@@ -208,6 +221,9 @@ class Dataset(BaseDataset):
                                 args.writer.objects['contributors.csv'].append(dict(ID=cid, Name=name))
                                 cids.add(cid)
                             lang['{}_Experts'.format(contrib)].append(cid)
+        #
+        # FIXME: add remaining contributors from CONTRIBUTORS.md!
+        #
 
         gb_features = {
             r['Feature_ID']: list(gb_codes(r['Possible Values']))
@@ -282,3 +298,22 @@ class Dataset(BaseDataset):
                         Comment=d.get('Comment'),
                         Example_ID=eids,
                     ))
+        for row in self.etc_dir.read_csv('feature_examples.csv', dicts=True):
+            lname = row['Language_ID'].replace(' ', '_').replace('-', '_')
+            if lname in lmap:
+                #
+                # FIXME: If there's no Gloss, then don't add "Analyzed_Word"
+                #
+                args.writer.objects['ExampleTable'].append(dict(
+                    ID=row['ID'],
+                    Language_ID=lmap[lname],
+                    Primary_Text=row['Primary_Text'].replace('-', ''),
+                    Analyzed_Word=row['Primary_Text'].strip().split(),
+                    Gloss=row['Gloss'].strip().split(),
+                    Translated_Text=row['Translated_Text'].strip(),
+                    Source=[r.strip() for r in row['Source'].split(';')],
+                    Original_Script=row['Original_Script'] or None,
+                    Comment=row['Comment'] or None,
+                ))
+            else:
+                print(row['ID'], row['Language_ID'], row)
