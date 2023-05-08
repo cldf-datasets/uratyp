@@ -1,166 +1,166 @@
 ID,Name,Kamas,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,"Gerson Klumpp, p.c.",,
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,"Gerson Klumpp, p.c.",,"In 3rd person; constructio ad sensum: NP in singular after numeral 2, verb in plural (e.g. R4, R15, R22). Also attested: S 3rd plural, verb 3rd singular."
-UT003,Can finite verbs agree in number with the nominal object?,0,"Gerson Klumpp, p.c.",,No indication of object number in the objective conjugation in Kamas.
-UT004,Can an adnominal property word agree with the noun in case?,0,"Gerson Klumpp, p.c.",,Only in case of inversion: Adj. N > N Adj.
-UT005,Are there cases that do not show agreement in terms of case?,1,"Gerson Klumpp, p.c.",,There is no agreement in case or number in the NP.
-UT006,Can adpositions be used to mark core verbal arguments?,0,"Gerson Klumpp, p.c.",,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,0,"Gerson Klumpp, p.c.",,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Gerson Klumpp, p.c.",,"Genitive subject with participle+LOC+Px is expected. Unfortunately, in all attested instances (Px-es, personal pronouns 1st/2nd persons) the genitive form is identical with the nominative."
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Gerson Klumpp, p.c.",,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,"Gerson Klumpp, p.c.",,Object marking depends on the givenness.
-UT011,Does object marking correlate with aspectuality?,0,"Gerson Klumpp, p.c.",,
-UT012,Does the marking of the object depend on the verb conjugation form?,1,"Gerson Klumpp, p.c.",,"Zero marking occurs with imperative, as in the other Samoyed languages."
-UT013,Is there differential subject marking?,0,"Gerson Klumpp, p.c.",,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Gerson Klumpp, p.c.",,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Gerson Klumpp, p.c.",,
-UT016,Is there a grammatical device for habituality?,0,"Gerson Klumpp, p.c.",,No special marker for habituality attested.
-UT017,Is there a grammatical device for frequentative?,1,"Gerson Klumpp, p.c.",,
-UT018,Is there a grammatical device for progressivity?,1,"Gerson Klumpp, p.c.",,
-UT019,Is it common to use a verb in the present tense for future time reference?,0,"Gerson Klumpp, p.c.",,
-UT020,Is there a grammatical device for immediate future?,1,"Gerson Klumpp, p.c.",,
-UT021,Is there a grammatical device for pluperfect?,1,"Gerson Klumpp, p.c.",,Converb in -bīzA.
-UT022,Can aspect be expressed overtly on the negative marker?,0,"Gerson Klumpp, p.c.",,No aspect derivation of the negation verb.
-UT023,Can tense be expressed overtly on the negative marker?,1,"Gerson Klumpp, p.c.",,Future tense (as opposed to imperative and conditional). Present and past tense operate with the negation particle.
-UT024,Is there grammatical marking of mirativity?,1,"Gerson Klumpp, p.c.",,"Converb construction with auxiliary nu- ‘stand’ (not entirely sure, however)."
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,"Gerson Klumpp, p.c.",,1) Verbs derived with the suffix -nzə; 2) construction with participle in -NTə + auxiliary mo- ‘become’.
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,"Gerson Klumpp, p.c.",,Conditional mood.
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,?,"Gerson Klumpp, p.c.",,Not attested.
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Gerson Klumpp, p.c.",,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,"Gerson Klumpp, p.c.",,
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,"Gerson Klumpp, p.c.",,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,"Gerson Klumpp, p.c.",,3rd person imperative (jussive).
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,"Gerson Klumpp, p.c.",,1st person imperative (hortative).
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,?,"Gerson Klumpp, p.c.",,Not attested.
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Gerson Klumpp, p.c.",,
-UT035,Is there reflexive conjugation?,0,"Gerson Klumpp, p.c.",,
-UT036,Are there syntactically ditransitive verbs?,0,"Gerson Klumpp, p.c.",,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Gerson Klumpp, p.c.",,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Gerson Klumpp, p.c.",,
-UT039,Can third person plural verb forms be used for impersonal reference?,1,"Gerson Klumpp, p.c.",,
-UT040,Can second person singular verb forms be used in generic meaning?,?,"Gerson Klumpp, p.c.",,Not attested.
-UT042,Are clauses with only infinitive predicates possible?,1,"Gerson Klumpp, p.c.",,Modal infinitive clauses as in Russian are attested in late Kamas.
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,"Gerson Klumpp, p.c.",,Infinitive + lative; but pure converb is possible.
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Gerson Klumpp, p.c.",ejüm-nie;become_warm-PRS.3SG;it becomes warm;,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Gerson Klumpp, p.c.",,The variation between clauses with copula (ige ‘is’) and without is not understood; but copulaless clauses do occur.
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Gerson Klumpp, p.c.",,
-UT047,Can locative adverbial phrases act as predicates without a copula?,1,"Gerson Klumpp, p.c.",,"R4, R6"
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,"Gerson Klumpp, p.c.",,da
-UT049,Does existential negation have a separate operator?,1,"Gerson Klumpp, p.c.",,naga
-UT050,Can standard negation be asymmetric in the present tense?,0,"Gerson Klumpp, p.c.",,"There are two standard negations in complementary distribution: 1) particle negation in PRS, PST, and with non-finite clauses; 2) negation verb in in FUT, COND and IMP."
-UT051,Can non-finite dependent clauses use the standard negation construction?,1,"Gerson Klumpp, p.c.",,Particle negation.
-UT052,Is there a special negator that combines with non-finite forms?,0,"Gerson Klumpp, p.c.",,
-UT053,Are there special negative non-finite forms?,1,"Gerson Klumpp, p.c.",,"Caritive converb -žət (‘without x-ing’), elsewhere the standard negation particle is used."
-UT054,Is there an impersonal passive construction?,0,"Gerson Klumpp, p.c.",,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Gerson Klumpp, p.c.",,"1) Interaction of valency derivation and participle, e.g. amor-o-na ‘eaten’ (P) vs. amor-tə-na ‘having eaten’ (S/A); 2) Participle in -gA: only S/A; 3) Participle in -mA: only P/S."
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,"Gerson Klumpp, p.c.",,Participle in -NTA.
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Gerson Klumpp, p.c.",,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Gerson Klumpp, p.c.",,
-UT059,Is there a future participle?,0,"Gerson Klumpp, p.c.",,
-UT060,Are there participles that can encode their subject by possessive suffixes?,1,"Gerson Klumpp, p.c.",amor-bi-n’i;eat-PTCP-LOC.1SG;when I was eating;,"However, there are px-marked attributive participles attested."
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,"Gerson Klumpp, p.c.",,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Gerson Klumpp, p.c.",,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"Gerson Klumpp, p.c.",,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Gerson Klumpp, p.c.",,
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,"Gerson Klumpp, p.c.",,
-UT066,Is OV the neutral order in affirmative imperative clauses?,1,"Gerson Klumpp, p.c.",,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,"Gerson Klumpp, p.c.",,
-UT068,Are there preverbs?,1,"Gerson Klumpp, p.c.",,"d'ürdəj ‘away’, saj ‘off’ etc."
-UT069,Are there verbal prefixes?,0,"Gerson Klumpp, p.c.",,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Gerson Klumpp, p.c.",,
-UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,"Gerson Klumpp, p.c.",,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,"Gerson Klumpp, p.c.",,The accusative case is used.
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Gerson Klumpp, p.c.",dʼala-ʔi bar numo-ʔi;day-PL PTCL long-PL;days are long;,Attested only in late Kamas.
-UT074,Is it possible to form synthetic superlative?,0,"Gerson Klumpp, p.c.",,
-UT075,Can adpositions have person/number marking?,1,"Gerson Klumpp, p.c.",,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Gerson Klumpp, p.c.",,
-UT077,Is case compounding possible?,0,"Gerson Klumpp, p.c.",,
-UT078,Are there case categories only found in pronouns?,0,"Gerson Klumpp, p.c.",,
-UT079,Does the numeral modification of a noun have an effect on its case selection?,0,"Gerson Klumpp, p.c.",,
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Gerson Klumpp, p.c.",,
-UT081,Is there a genitive case that has an affix?,1,"Gerson Klumpp, p.c.",,
-UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,"Gerson Klumpp, p.c.",,
-UT083,Is there a terminative case?,0,"Gerson Klumpp, p.c.",,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,"Gerson Klumpp, p.c.",,"Caritive -žət is rather derivation, not case."
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,"Gerson Klumpp, p.c.",,No prolative in Kamas.
-UT086,Is there a locative case that marks goal?,1,"Gerson Klumpp, p.c.",,
-UT087,Is there a locative case that marks location?,1,"Gerson Klumpp, p.c.",,
-UT088,Is there a locative case that marks source?,1,"Gerson Klumpp, p.c.",,
-UT089,Is there case syncretism of goal and location marking?,1,"Gerson Klumpp, p.c.",,In possessive declension.
-UT090,Is there case syncretism of location and source marking?,0,"Gerson Klumpp, p.c.",,
-UT091,Are there two sets of local cases?,0,"Gerson Klumpp, p.c.",,
-UT092,Is there a third set of local cases?,0,"Gerson Klumpp, p.c.",,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Gerson Klumpp, p.c.",,
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Gerson Klumpp, p.c.",,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,"Gerson Klumpp, p.c.",,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Gerson Klumpp, p.c.",,
-UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Gerson Klumpp, p.c.",,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Gerson Klumpp, p.c.",,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Gerson Klumpp, p.c.",,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,1,"Gerson Klumpp, p.c.",,"R5, 9.25"
-UT101,Can the marking of the possessor in the attributive construction vary?,0,"Gerson Klumpp, p.c.",,
-UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,"Gerson Klumpp, p.c.",,
-UT103,Is non-singular possession marked in the possessive declension?,1,"Gerson Klumpp, p.c.",,
-UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,"Gerson Klumpp, p.c.",,
-UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,"Gerson Klumpp, p.c.",,
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"Gerson Klumpp, p.c.",,
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Gerson Klumpp, p.c.",,No relative prominal use attested.
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Gerson Klumpp, p.c.",,No relative prominal use attested.
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Gerson Klumpp, p.c.",,There is no difference.
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,"Gerson Klumpp, p.c.",,
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Gerson Klumpp, p.c.",,
-UT112,Are there different words for mother’s brother and father’s brother?,0,"Gerson Klumpp, p.c.",,
-UT113,Are there different words for younger and older relative for other relations than siblings?,0,"Gerson Klumpp, p.c.",,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,"Gerson Klumpp, p.c.",,"ťăktə ‘old (of persons)’, kuju ‘old (of things)’, ďēt ‘young’, tăbdə ‘new’."
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Gerson Klumpp, p.c.",,
-UT116,Is there contrastive length of consonants?,0,"Gerson Klumpp, p.c.",,
-UT117,Is there contrastive length of vowels?,1,"Gerson Klumpp, p.c.",,"Secondarily, from contraction."
-UT118,Is there contrast between short and long unstressed vowels?,0,"Gerson Klumpp, p.c.",,
-UT119,Is there contrast in duration of geminate consonants?,0,"Gerson Klumpp, p.c.",,
-UT120,Are there more than two phonological quantities?,0,"Gerson Klumpp, p.c.",,
-UT121,Are there extralong syllables?,0,"Gerson Klumpp, p.c.",,
-UT122,Is the main foot structure trochaic?,1,"Gerson Klumpp, p.c.",,
-UT123,Is there lexically distinctive word stress?,1,"Gerson Klumpp, p.c.",,
-UT124,Is there morphologically conditioned stress?,1,"Gerson Klumpp, p.c.",,"Contraction of converb and aspectual auxiliary verb attratcs stress, e.g. kutla·ʔbi ‘caught’ (< kut-laʔ baʔ-bi ‘catching threw’); so while the converb -laʔ is unstressed, the aspectual morpheme -laʔ as in the example word is stressed."
-UT125,Is there fixed primary stress?,0,"Gerson Klumpp, p.c.",,
-UT126,Is there stress in heavy syllables?,1,"Gerson Klumpp, p.c.",,
-UT127,Is there non-initial primary stress?,1,"Gerson Klumpp, p.c.",,
-UT128,Is there palatal vowel harmony?,1,"Gerson Klumpp, p.c.",,
-UT129,Is there velar vowel harmony?,0,"Gerson Klumpp, p.c.",,
-UT130,Is there labial vowel harmony?,1,"Gerson Klumpp, p.c.",,
-UT131,Are there rising diphthongs?,0,"Gerson Klumpp, p.c.",,
-UT132,Are there lowering diphthongs?,0,"Gerson Klumpp, p.c.",,
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Gerson Klumpp, p.c.",,
-UT134,Are there full vs. reduced vowels as contrastive subsets?,1,"Gerson Klumpp, p.c.",,
-UT135,Is there front high rounded vowel ü [y]?,1,"Gerson Klumpp, p.c.",,
-UT136,Is there front midhigh rounded vowel ö [ø]?,1,"Gerson Klumpp, p.c.",,
-UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Gerson Klumpp, p.c.",,In loan words from Turkic and Russian.
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Gerson Klumpp, p.c.",,
-UT139,Is there back low round vowel [ɒ]?,1,"Gerson Klumpp, p.c.",,
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,"Gerson Klumpp, p.c.",,"Notorious problem; if yes, it’s marginal."
-UT141,Are there word-initial consonant clusters?,0,"Gerson Klumpp, p.c.",,
-UT142,Are there word-internal consonant clusters in syllable onset?,0,"Gerson Klumpp, p.c.",,
-UT143,Are there consonant clusters in syllable coda?,0,"Gerson Klumpp, p.c.",,
-UT144,Are there clusters of three or more consonants in a word between vowels?,0,"Gerson Klumpp, p.c.",,
-UT145,Are there word-final clusters of three or more consonants?,0,"Gerson Klumpp, p.c.",,
-UT146,Are there palatalized dentals?,1,"Gerson Klumpp, p.c.",,
-UT147,Are there palatalized labials and velars?,1,"Gerson Klumpp, p.c.",,
-UT148,Is there palatal stop [c]?,1,"Gerson Klumpp, p.c.",,Free variation with the affricate ťś as an allophone.
-UT149,Is there palatal nasal [ɲ]?,1,"Gerson Klumpp, p.c.",,Notorious problem: convergence of palatal and palatalized nasal.
-UT150,Is there palatal lateral [ʎ]?,0,"Gerson Klumpp, p.c.",,
-UT151,Is there phonemic velar nasal [ŋ]?,1,"Gerson Klumpp, p.c.",,
-UT152,Is there dental affricate [t͡s]?,0,"Gerson Klumpp, p.c.",,
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Gerson Klumpp, p.c.",,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Gerson Klumpp, p.c.",,
-UT155,"Are there voiced plosives [b, g, d]?",1,"Gerson Klumpp, p.c.",,
-UT156,Is there glottal stop [ˀ]?,1,"Gerson Klumpp, p.c.",,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Gerson Klumpp, p.c.",,
-UT158,Is there a constraint on word-initial r?,1,"Gerson Klumpp, p.c.",,
-UT159,Is there laryngeal fricative [h]?,1,"Gerson Klumpp, p.c.",,
-UT160,Is there voiced velar fricative [ɣ]?,0,"Gerson Klumpp, p.c.",,An allophone of [g].
-UT161,Is there voiceless velar fricative [x]?,1,"Gerson Klumpp, p.c.",,Free variation with.. [k].
-UT162,Is there voiced dental fricative [ð]?,1,"Gerson Klumpp, p.c.",,Free variation with.. [d].
-UT163,Is there phonemic labio-velar approximant [w]?,1,"Gerson Klumpp, p.c.",,Free variation with... [b].
-UT164,Is there voiceless labiodental fricative [f]?,0,"Gerson Klumpp, p.c.",,
-UT165,Is there radical qualitative consonant gradation?,0,"Gerson Klumpp, p.c.",,
-UT166,Is there quantitative consonant gradation?,0,"Gerson Klumpp, p.c.",,
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Gerson Klumpp (p.c. 2020),,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,Gerson Klumpp (p.c. 2020),,"In 3rd person; constructio ad sensum: NP in singular after numeral 2, verb in plural (e.g. R4, R15, R22). Also attested: S 3rd plural, verb 3rd singular."
+UT003,Can finite verbs agree in number with the nominal object?,0,Gerson Klumpp (p.c. 2020),,No indication of object number in the objective conjugation in Kamas.
+UT004,Can an adnominal property word agree with the noun in case?,0,Gerson Klumpp (p.c. 2020),,Only in case of inversion: Adj. N > N Adj.
+UT005,Are there cases that do not show agreement in terms of case?,1,Gerson Klumpp (p.c. 2020),,There is no agreement in case or number in the NP.
+UT006,Can adpositions be used to mark core verbal arguments?,0,Gerson Klumpp (p.c. 2020),,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,0,Gerson Klumpp (p.c. 2020),,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Gerson Klumpp (p.c. 2020),,"Genitive subject with participle+LOC+Px is expected. Unfortunately, in all attested instances (Px-es, personal pronouns 1st/2nd persons) the genitive form is identical with the nominative."
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Gerson Klumpp (p.c. 2020),,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Gerson Klumpp (p.c. 2020),,Object marking depends on the givenness.
+UT011,Does object marking correlate with aspectuality?,0,Gerson Klumpp (p.c. 2020),,
+UT012,Does the marking of the object depend on the verb conjugation form?,1,Gerson Klumpp (p.c. 2020),,"Zero marking occurs with imperative, as in the other Samoyed languages."
+UT013,Is there differential subject marking?,0,Gerson Klumpp (p.c. 2020),,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Gerson Klumpp (p.c. 2020),,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Gerson Klumpp (p.c. 2020),,
+UT016,Is there a grammatical device for habituality?,0,Gerson Klumpp (p.c. 2020),,No special marker for habituality attested.
+UT017,Is there a grammatical device for frequentative?,1,Gerson Klumpp (p.c. 2020),,
+UT018,Is there a grammatical device for progressivity?,1,Gerson Klumpp (p.c. 2020),,
+UT019,Is it common to use a verb in the present tense for future time reference?,0,Gerson Klumpp (p.c. 2020),,
+UT020,Is there a grammatical device for immediate future?,1,Gerson Klumpp (p.c. 2020),,
+UT021,Is there a grammatical device for pluperfect?,1,Gerson Klumpp (p.c. 2020),,Converb in -bīzA.
+UT022,Can aspect be expressed overtly on the negative marker?,0,Gerson Klumpp (p.c. 2020),,No aspect derivation of the negation verb.
+UT023,Can tense be expressed overtly on the negative marker?,1,Gerson Klumpp (p.c. 2020),,Future tense (as opposed to imperative and conditional). Present and past tense operate with the negation particle.
+UT024,Is there grammatical marking of mirativity?,1,Gerson Klumpp (p.c. 2020),,"Converb construction with auxiliary nu- ‘stand’ (not entirely sure, however)."
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,Gerson Klumpp (p.c. 2020),,1) Verbs derived with the suffix -nzə; 2) construction with participle in -NTə + auxiliary mo- ‘become’.
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Gerson Klumpp (p.c. 2020),,Conditional mood.
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,?,Gerson Klumpp (p.c. 2020),,Not attested.
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Gerson Klumpp (p.c. 2020),,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Gerson Klumpp (p.c. 2020),,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Gerson Klumpp (p.c. 2020),,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Gerson Klumpp (p.c. 2020),,3rd person imperative (jussive).
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Gerson Klumpp (p.c. 2020),,1st person imperative (hortative).
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,?,Gerson Klumpp (p.c. 2020),,Not attested.
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Gerson Klumpp (p.c. 2020),,
+UT035,Is there reflexive conjugation?,0,Gerson Klumpp (p.c. 2020),,
+UT036,Are there syntactically ditransitive verbs?,0,Gerson Klumpp (p.c. 2020),,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Gerson Klumpp (p.c. 2020),,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Gerson Klumpp (p.c. 2020),,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,Gerson Klumpp (p.c. 2020),,
+UT040,Can second person singular verb forms be used in generic meaning?,?,Gerson Klumpp (p.c. 2020),,Not attested.
+UT042,Are clauses with only infinitive predicates possible?,1,Gerson Klumpp (p.c. 2020),,Modal infinitive clauses as in Russian are attested in late Kamas.
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,0,Gerson Klumpp (p.c. 2020),,Infinitive + lative; but pure converb is possible.
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Gerson Klumpp (p.c. 2020),UT044,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Gerson Klumpp (p.c. 2020),,The variation between clauses with copula (ige ‘is’) and without is not understood; but copulaless clauses do occur.
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Gerson Klumpp (p.c. 2020),,
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,Gerson Klumpp (p.c. 2020),,"R4, R6"
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,Gerson Klumpp (p.c. 2020),,da
+UT049,Does existential negation have a separate operator?,1,Gerson Klumpp (p.c. 2020),,naga
+UT050,Can standard negation be asymmetric in the present tense?,0,Gerson Klumpp (p.c. 2020),,"There are two standard negations in complementary distribution: 1) particle negation in PRS, PST, and with non-finite clauses; 2) negation verb in in FUT, COND and IMP."
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,Gerson Klumpp (p.c. 2020),,Particle negation.
+UT052,Is there a special negator that combines with non-finite forms?,0,Gerson Klumpp (p.c. 2020),,
+UT053,Are there special negative non-finite forms?,1,Gerson Klumpp (p.c. 2020),,"Caritive converb -žət (‘without x-ing’), elsewhere the standard negation particle is used."
+UT054,Is there an impersonal passive construction?,0,Gerson Klumpp (p.c. 2020),,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Gerson Klumpp (p.c. 2020),,"1) Interaction of valency derivation and participle, e.g. amor-o-na ‘eaten’ (P) vs. amor-tə-na ‘having eaten’ (S/A); 2) Participle in -gA: only S/A; 3) Participle in -mA: only P/S."
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,Gerson Klumpp (p.c. 2020),,Participle in -NTA.
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Gerson Klumpp (p.c. 2020),,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Gerson Klumpp (p.c. 2020),,
+UT059,Is there a future participle?,0,Gerson Klumpp (p.c. 2020),,
+UT060,Are there participles that can encode their subject by possessive suffixes?,1,Gerson Klumpp (p.c. 2020),UT060,"However, there are px-marked attributive participles attested."
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,Gerson Klumpp (p.c. 2020),,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Gerson Klumpp (p.c. 2020),,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Gerson Klumpp (p.c. 2020),,
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Gerson Klumpp (p.c. 2020),,
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,Gerson Klumpp (p.c. 2020),,
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,Gerson Klumpp (p.c. 2020),,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Gerson Klumpp (p.c. 2020),,
+UT068,Are there preverbs?,1,Gerson Klumpp (p.c. 2020),,"d'ürdəj ‘away’, saj ‘off’ etc."
+UT069,Are there verbal prefixes?,0,Gerson Klumpp (p.c. 2020),,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Gerson Klumpp (p.c. 2020),,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,Gerson Klumpp (p.c. 2020),,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,Gerson Klumpp (p.c. 2020),,The accusative case is used.
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Gerson Klumpp (p.c. 2020),UT073,Attested only in late Kamas.
+UT074,Is it possible to form synthetic superlative?,0,Gerson Klumpp (p.c. 2020),,
+UT075,Can adpositions have person/number marking?,1,Gerson Klumpp (p.c. 2020),,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Gerson Klumpp (p.c. 2020),,
+UT077,Is case compounding possible?,0,Gerson Klumpp (p.c. 2020),,
+UT078,Are there case categories only found in pronouns?,0,Gerson Klumpp (p.c. 2020),,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Gerson Klumpp (p.c. 2020),,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Gerson Klumpp (p.c. 2020),,
+UT081,Is there a genitive case that has an affix?,1,Gerson Klumpp (p.c. 2020),,
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Gerson Klumpp (p.c. 2020),,
+UT083,Is there a terminative case?,0,Gerson Klumpp (p.c. 2020),,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Gerson Klumpp (p.c. 2020),,"Caritive -žət is rather derivation, not case."
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Gerson Klumpp (p.c. 2020),,No prolative in Kamas.
+UT086,Is there a locative case that marks goal?,1,Gerson Klumpp (p.c. 2020),,
+UT087,Is there a locative case that marks location?,1,Gerson Klumpp (p.c. 2020),,
+UT088,Is there a locative case that marks source?,1,Gerson Klumpp (p.c. 2020),,
+UT089,Is there case syncretism of goal and location marking?,1,Gerson Klumpp (p.c. 2020),,In possessive declension.
+UT090,Is there case syncretism of location and source marking?,0,Gerson Klumpp (p.c. 2020),,
+UT091,Are there two sets of local cases?,0,Gerson Klumpp (p.c. 2020),,
+UT092,Is there a third set of local cases?,0,Gerson Klumpp (p.c. 2020),,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Gerson Klumpp (p.c. 2020),,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Gerson Klumpp (p.c. 2020),,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Gerson Klumpp (p.c. 2020),,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Gerson Klumpp (p.c. 2020),,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,Gerson Klumpp (p.c. 2020),,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Gerson Klumpp (p.c. 2020),,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Gerson Klumpp (p.c. 2020),,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,1,Gerson Klumpp (p.c. 2020),,"R5, 9.25"
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Gerson Klumpp (p.c. 2020),,
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Gerson Klumpp (p.c. 2020),,
+UT103,Is non-singular possession marked in the possessive declension?,1,Gerson Klumpp (p.c. 2020),,
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Gerson Klumpp (p.c. 2020),,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Gerson Klumpp (p.c. 2020),,
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Gerson Klumpp (p.c. 2020),,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Gerson Klumpp (p.c. 2020),,No relative prominal use attested.
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Gerson Klumpp (p.c. 2020),,No relative prominal use attested.
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Gerson Klumpp (p.c. 2020),,There is no difference.
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Gerson Klumpp (p.c. 2020),,
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Gerson Klumpp (p.c. 2020),,
+UT112,Are there different words for mother’s brother and father’s brother?,0,Gerson Klumpp (p.c. 2020),,
+UT113,Are there different words for younger and older relative for other relations than siblings?,0,Gerson Klumpp (p.c. 2020),,
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,Gerson Klumpp (p.c. 2020),,"ťăktə ‘old (of persons)’, kuju ‘old (of things)’, ďēt ‘young’, tăbdə ‘new’."
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,Gerson Klumpp (p.c. 2020),,
+UT116,Is there contrastive length of consonants?,0,Gerson Klumpp (p.c. 2020),,
+UT117,Is there contrastive length of vowels?,1,Gerson Klumpp (p.c. 2020),,"Secondarily, from contraction."
+UT118,Is there contrast between short and long unstressed vowels?,0,Gerson Klumpp (p.c. 2020),,
+UT119,Is there contrast in duration of geminate consonants?,0,Gerson Klumpp (p.c. 2020),,
+UT120,Are there more than two phonological quantities?,0,Gerson Klumpp (p.c. 2020),,
+UT121,Are there extralong syllables?,0,Gerson Klumpp (p.c. 2020),,
+UT122,Is the main foot structure trochaic?,1,Gerson Klumpp (p.c. 2020),,
+UT123,Is there lexically distinctive word stress?,1,Gerson Klumpp (p.c. 2020),,
+UT124,Is there morphologically conditioned stress?,1,Gerson Klumpp (p.c. 2020),,"Contraction of converb and aspectual auxiliary verb attratcs stress, e.g. kutla·ʔbi ‘caught’ (< kut-laʔ baʔ-bi ‘catching threw’); so while the converb -laʔ is unstressed, the aspectual morpheme -laʔ as in the example word is stressed."
+UT125,Is there fixed primary stress?,0,Gerson Klumpp (p.c. 2020),,
+UT126,Is there stress in heavy syllables?,1,Gerson Klumpp (p.c. 2020),,
+UT127,Is there non-initial primary stress?,1,Gerson Klumpp (p.c. 2020),,
+UT128,Is there palatal vowel harmony?,1,Gerson Klumpp (p.c. 2020),,
+UT129,Is there velar vowel harmony?,0,Gerson Klumpp (p.c. 2020),,
+UT130,Is there labial vowel harmony?,1,Gerson Klumpp (p.c. 2020),,
+UT131,Are there rising diphthongs?,0,Gerson Klumpp (p.c. 2020),,
+UT132,Are there lowering diphthongs?,0,Gerson Klumpp (p.c. 2020),,
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Gerson Klumpp (p.c. 2020),,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,1,Gerson Klumpp (p.c. 2020),,
+UT135,Is there front high rounded vowel ü [y]?,1,Gerson Klumpp (p.c. 2020),,
+UT136,Is there front midhigh rounded vowel ö [ø]?,1,Gerson Klumpp (p.c. 2020),,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,Gerson Klumpp (p.c. 2020),,In loan words from Turkic and Russian.
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,Gerson Klumpp (p.c. 2020),,
+UT139,Is there back low round vowel [ɒ]?,1,Gerson Klumpp (p.c. 2020),,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,Gerson Klumpp (p.c. 2020),,"Notorious problem; if yes, it’s marginal."
+UT141,Are there word-initial consonant clusters?,0,Gerson Klumpp (p.c. 2020),,
+UT142,Are there word-internal consonant clusters in syllable onset?,0,Gerson Klumpp (p.c. 2020),,
+UT143,Are there consonant clusters in syllable coda?,0,Gerson Klumpp (p.c. 2020),,
+UT144,Are there clusters of three or more consonants in a word between vowels?,0,Gerson Klumpp (p.c. 2020),,
+UT145,Are there word-final clusters of three or more consonants?,0,Gerson Klumpp (p.c. 2020),,
+UT146,Are there palatalized dentals?,1,Gerson Klumpp (p.c. 2020),,
+UT147,Are there palatalized labials and velars?,1,Gerson Klumpp (p.c. 2020),,
+UT148,Is there palatal stop [c]?,1,Gerson Klumpp (p.c. 2020),,Free variation with the affricate ťś as an allophone.
+UT149,Is there palatal nasal [ɲ]?,1,Gerson Klumpp (p.c. 2020),,Notorious problem: convergence of palatal and palatalized nasal.
+UT150,Is there palatal lateral [ʎ]?,0,Gerson Klumpp (p.c. 2020),,
+UT151,Is there phonemic velar nasal [ŋ]?,1,Gerson Klumpp (p.c. 2020),,
+UT152,Is there dental affricate [t͡s]?,0,Gerson Klumpp (p.c. 2020),,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Gerson Klumpp (p.c. 2020),,
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Gerson Klumpp (p.c. 2020),,
+UT155,"Are there voiced plosives [b, g, d]?",1,Gerson Klumpp (p.c. 2020),,
+UT156,Is there glottal stop [ˀ]?,1,Gerson Klumpp (p.c. 2020),,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Gerson Klumpp (p.c. 2020),,
+UT158,Is there a constraint on word-initial r?,1,Gerson Klumpp (p.c. 2020),,
+UT159,Is there laryngeal fricative [h]?,1,Gerson Klumpp (p.c. 2020),,
+UT160,Is there voiced velar fricative [ɣ]?,0,Gerson Klumpp (p.c. 2020),,An allophone of [g].
+UT161,Is there voiceless velar fricative [x]?,1,Gerson Klumpp (p.c. 2020),,Free variation with.. [k].
+UT162,Is there voiced dental fricative [ð]?,1,Gerson Klumpp (p.c. 2020),,Free variation with.. [d].
+UT163,Is there phonemic labio-velar approximant [w]?,1,Gerson Klumpp (p.c. 2020),,Free variation with... [b].
+UT164,Is there voiceless labiodental fricative [f]?,0,Gerson Klumpp (p.c. 2020),,
+UT165,Is there radical qualitative consonant gradation?,0,Gerson Klumpp (p.c. 2020),,
+UT166,Is there quantitative consonant gradation?,0,Gerson Klumpp (p.c. 2020),,
