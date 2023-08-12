@@ -1,86 +1,92 @@
-﻿ID;Primary_Text;IPA;Analyzed;Gloss;Translation;Example_Source;;;
-GB024;viť aďami;;viť aďami;five person.NOM.SG;five people;Winkler 2011:38;;;
-GB025;so typy;;so typy;DEM.DIST.NOM.SG oak.NOM.SG;that oak;Bartens 1999:163;;;
-GB044-1;gurtjos;;gurt-jos;village-PL.NOM;villages;Winkler 2011:36;;;
-GB044-2;korkaos;;korka-os;house-PL.NOM;houses;Winkler 2011:36;;;
-GB046-1;Možgaos;;Možga-os;PN-PL.NOM;people from Mozhga;Winkler 2011:37;;;
-GB046-2;agajjos;;agaj-jos;uncle-PL.NOM;uncle and his people;Winkler 2011:37;;;
-GB047-1;veraśkon;;veraśk-on;talk-AN;talking;Winkler 2011:89;;;
-GB047-2;kulem;;kul-em;die-DN;death;Winkler 2011:89;;;
-GB048;dyšetiś;;dyšeti-ś;teach-AGN;teacher;Winkler 2011:89;;;
-GB049;ľuket;;ľuk-et;divide-ONMLZ;part;Winkler 2011:89;;;
-GB065;Ondilen nylyz;;Ondi-len nyl-yz;PN-GEN daughter-PX.3SG;Ondi's daughter;Winkler 2011:65;;;
-GB070-1;mašaly keźit;;maša-ly keźit;PN-DAT cold;Masha is cold;Edygarova 2022:519;;;
-GB070-2;petyrlen śijemez pote;;petyr-len śi-jem-ez pot-e;PN-GEN eat-NMLZ-PX.3SG go,out-PRS.3SG;Peter wants to eat.;Edygarova 2022:511;;;
-GB070-3;otyn kyšnojen karten kutsaśko;;ot-yn kyšno-jen kart-en kutsaśk-o;there-INE wife-INSTR husband-INSTR thresh-PRS.3PL;There a husband and a wife are threshing grain.;Winkler 2011:54;;;
-GB070-3;so ešezly gožtet ystiz;;so eš-ez-ly gožtet yst-i-z;3SG friend-PX.3SG-DAT letter.NOM send-PST1-3SG;He sent a letter to his friend;Winkler 2011:153;;;
-GB070-4;mon (ta) kńigajez lyďźi;;mon (ta) kńiga-jez lyďź-i;1SG (DEM.PROX) book-ACC read-PST.1SG;I have read this book / the book (we were talking about).;Winkler 2011:46;;;
-GB071-1;so-ly tros užany kule;;so-ly tros uža-ny kul-e;3SG-DAT many work-INF must-PRS.3SG;He should work a lot;Winkler 2011:144;;;
-GB071-2;mynam lyďźeme lue;;myn-a-m lyďź-em-e lu-e;1SG-GEN-1SG read-PP-1SG be-PRS.3SG;I can read / I have time to read;Winkler 2011:145;;;
-GB071-3;mon soje gožtet / gožtetez gožtytiśko;;mon so-je gožtet / gožtet-ez gožty-ti-śko;1SG 3SG-ACC letter.NOM / letter-ACC write-CAUS-PRS.1SG;I let him write a/the letter;Winkler 2011:152;;;
-GB071-4;stolovojyn soly kyk murtly tyrmymon šyd śotizy;;stolovoj-yn so-ly kyk murt-ly tyrmy-mon šyd śot-i-zy;cantine-INE 3SG-DAT two person-DAT give-PTCP soup give-PST-3PL;In the cantine they gave him a soup meant for two people.;Winkler 2011:153;;;
-GB072;pojezdleś kyľiśkom;;pojezd-leś kyľi-śko-m;train-ABL remain-PRS-1PL;We are late for the train.;Winkler 2011:50;;;
-GB073;monen;;mon-en;1SG-INSTR;with me;Winkler 2011:69;;;
-GB074;kotyr kyk jablok śotizi;;kotyr kyk jablok śot-i-zi;each/PREP 2 apple give-PST1-3PL;I gave two apples each.;Winkler 2011:136;;;
-GB075;(as) ponnam;;(as) ponna-m;(self) for.the.sake.of-PX.1SG;for myself;Winkler 2011:135;;;
-GB080;myniśko;;myni-śko;go-PRS.1SG;I go;Winkler 2011:96;;;
-GB082;myniśkod;;myni-śko-d;go-PRS-2SG;you go;Winkler 2011:96;;;
-GB083;mynid;;myn-i-d;go-PST-2SG;you went;Winkler 2011:97;;;
-GB084;mynod;;myn-o-d;go-FUT-2SG;you will go;Winkler 2011:96;;;
-GB086-1;köńa ćasyn tunne sultid?;;köńa ćas-yn tunne sult-i-d?;how.many hour-INE today get.up-PST1-2SG;At what time did you wake up today?;Winkler 2011:97;;;
-GB086-2;jazyčnik… kyleme vań so kylez;;jazyčnik… kyl-em-e vań so kyl-ez;pagan(Ru.) hear-PTCP-PX.1SG COP.EX.PRS DEM.DIST word-ACC;Pagan… I have already heard this word;Winkler 2001:48;;;
-GB089;šur dure myniśko;;šur dure myni-śko;river to/POSTP go-PRS.1SG;I go to the river.;Winkler 2011:150;;;
-GB105;mon ešely lyktyny kosi.;;mon eš-e-ly lykty-ny kos-i.;1SG friend-1SG-DAT come-INF order-PST1.1SG;I ordered my friend to go;Winkler 2011:51;;;
-GB107;mynymtejez;;myny-mte-jez;go-NEG.PFV-3SG;s/he hasn't gone;Winkler 2001:54;;;
-GB113;tupatiny;;tupa-ti-ny;fix-TR-INF;repair;Winkler 2011:123;;;
-GB114;dyśaskiny;;dyśa-ski-ny;put.on-REFL-INF;dress oneself;Winkler 2011:122;;;
-GB117;Pedor dyšetiś val;;Pedor dyšetiś val;PN teacher COP.PST1;Pedor was a teacher;Winkler 2011:92;;;
-GB120-1;viśisa ulyny;;viśi-sa uly-ny;be.ill-CV be-INF;be constantly ill ;Winkler 2011:119;;;
-GB120-2;kyrdžsa leźyny;;kyrdž-sa leźy-ny;sing-CV leave/let-INF;start singing;Winkler 2011:119;;;
-GB120-3;iźysa vuyny;;iźy-sa vuy-ny;sleeep-CV arrive-INF;having slept enough;Winkler 2011:119;;;
-GB122;šudyny-śerekjany;;šudyny-śerekjany;play.INF-laugh.INF;have a good time, enjoy oneself;Winkler 2011:124;;;
-GB126;džök vylyn kńiga vań;;džök vyl-yn kńiga vań;table on/POSTP-INE book EX.COP;There is a book on the table.;Winkler 2011:141;;;
-GB130;mon čukaźe kośkiśko;;mon čukaźe kośki-śko;1SG morning leave-PRS.1SG;I will go away in the morning.;Winkler 2011:96;;;
-GB133;anaj-ataj mar šuoz?;;anaj-ataj mar šu-o-z?;mother-father what say-FUT-3SG;What will the parents say?;Winkler 2011:163;;;
-GB134;mon Možgalan vordiśki, maly ke šuono, anaj-ataje otyn ulizy;;mon Možga-lan vordiśk-i, maly ke šuono, anaj-ataj-e otyn ul-i-zy;1SG PN-INE be.born-PST1.1SG because mother-father-1SG there live-PST-3PL;I was born in Možga, because my parents lived there.;Winkler 2001:74;;;
-GB139-1;en myn(y);;en myn(y);NEG.IMP.2SG go.CNG;Don't go!;Winkler 2011:108;;;
-GB139-2;ud myniśki;;ud myniśki;NEG.PRS.2SG go.PRS.CNG;You don't go.;Winkler 2011:107;;;
-GB140-1;otyn jegit pi övöl;;ot-yn jegit pi övöl;there-INE small boy NEG.EX;There is no small boy there.;Bartens 1999:292;;;
-GB140-2;śion ćeskyd övöl;;śion ćeskyd övöl;food tasty PTCL:NEG;Food is not good.;Bartens 1999:293;;;
-GB140-3;vu övöl;;vu övöl;water NEG.EX;There is no water.;Winkler 2011:141;;;
-GB146;pydze bićate;;pyd-z-e bićat-e;leg-3SG-ACC itch-PRS.3SG;The leg is itchy (lit. '(something) itches his/her foot');Winkler 2011:152;;;
-GB147;aďźiśkyny;;aďźi-śky-ny;see-REFL-INF;be seen;Winkler 2011:122;;;
-GB148;śiśkyny;;śi-śky-ny;eat-ANTIP-INF;eat (as a process);Winkler 2011:122;;;
-GB152-1;Kima, korka pyrysa, džök śöry pukśiz;;Kima, korka pyry-sa, džök śöry pukś-i-z;PN house enter-CV table behind/POSTP sit-PST1-3SG;After Kima had entered the house, she sat down to the table.;Winkler 2011:118;;;
-GB152-2;(mon) gurte beryku(m), dyšetiśme pumitaj;;(mon) gurt-e bery-ku(-m), dyšetiś-m-e pumita-j;(1SG) house-ILL come-CV(-PX.1SG) teacher-PX.1SG-ACC meet-PST1.1SG;While I was going home, I have met my teacher.;Winkler 2011:120;;;
-GB155;mon soje gožtet gožtytiśko;;mon so-je gožtet gožty-ti-śko;1SG 3SG-ACC letter write-CAUS-PRS.1SG;I'll have him write a letter.;Winkler 2011:123;;;
-GB158;gužembyt užaśkod~užaśkod;;gužembyt uža-śko-d~uža-śko-d;all.summer work-PRS-2SG~work-PRS-2SG;you work all summer (and still, you can achieve nothing);Shibanov 2014:529;;;
-GB160;gord~gord;;gord~gord;red~red;very red;Kel'makov & Saarinen 1994:112;;;
-GB184;baďźimeś gurtjos;;baďźim-eś gurt-jos;big-PL village-PL;big villages;Winkler 2011:82;;;
-GB204-1;aďamily byde;;aďami-ly byde;person-DAT every;for every person;Dušenkova et al. 2008;;;
-GB204-2;bydes ar;;bydes ar;whole year;whole year.NOM;Dušenkova et al. 2008;;;
-GB252;kin doryn kńigaje;;kin dor-yn kńiga-je;who next/POSTP-INE book-PX.1SG;Who has my book? (lit. next to whom is my book.);Winkler 2011:142;;;
-GB254;(mynam) kyk pinale vań;;(myn-a-m) kyk pinal-e vań;1SG-GEN-1SG two kid-PX.1SG COP.EX;I have two kids.;Winkler 2011:142;;;
-GB264-1;ton bakćaje-a vetlid?;;ton bakća-je-a vetl-i-d?;2SG garden-ILL-Q go-PST1-2SG;Did you go to the garden?;Winkler 2011:145;;;
-GB264-2;ton udmurt-a?;;ton udmurt-a?;2SG Udmurt-Q;Are you an Udmurt?;Winkler 2011:145;;;
-GB264-3;gurtad śkola vań-a?;;gurt-a-d śkola vań-a?;village-INE-2SG school COP.EX-Q;Is there a school in your village?;Winkler 2011:146;;;
-GB266;kilometr iśkemleś vakći;;kilometr iśkem-leś vakći;kilometer verst-ABL short;One kilometer is shorter than one verst.;Winkler 2011:84;;;
-GB275;trosly umojges;;tros-ly umoj-ges;much-DAT good-CMPR;much better;Winkler 2011:84;;;
-GB296;dol-dol ućkyny;;dol-dol ućky-ny;IDEO-IDEO look-INF;stare;Bartens 1999:326;;;
-GB297;Keľše-a ug-a so tynyd?;;Keľš-e-a ug-a so tynyd?;appeal-PRS.3SG-Q NEG.PRS.3SG-Q DEM.DIST 2SG.DAT;Do you like this or not?;Zubova et al. 2022:120;;;
-GB298;ug myniśky;;u-g myni-śk-y;NEG-1SG go.CNG-PRS-SG;I do not go;Winkler 2011:107;;;
-GB299;öj mynysalmy;;öj myny-sal-my;PTCL:NEG go-COND-1PL;I would not go;Winkler 2011:108;;;
-GB305;aćim no bygato aslym maje ke tupaśse byrjyny;;ać-im no bygat-o as-ly-m ma-je ke tupa-ś-se byrjy-ny;self-PX.1SG also can-FUT.1SG self-DAT-1SG what-ACC INDEF fit-PTCP-3SG-ACC choose-INF;I (myself) can choose something that will fit me (myself).;Winkler 2011:72;;;
-GB312;užasaldy;;uža-sal-dy;work-COND-2PL;you would work;Winkler 2011:103;;;
-GB323;džus vaďsyś jun kort rešetkajo uknojez šeďtiz… Aźlo tatyn kladovka vylem, šödske.;;džus vaďs-yś jun kort rešetka-jo ukno-jez šeďt-i-z… Aźlo tat-yn kladovka vylem, šödske.;bench next/POSTP-ELA hard iron grating-ADJ window-ACC earlier here-INE chamber COP.EX-PERF apparently;Next to the bend there was a window with solid iron grates… Apparently, there might have been a chamber here before.;Winkler 2011:105;;;
-GB326;ton kin?;;ton kin?;2SG who;Who are you?;Winkler 2011:147;;;
-GB327;veraśki todmojenym, kudze uramyn pumitaj;;veraśk-i todmo-jeny-m, kud-z-e uram-yn pumita-j;talk-PST1.1SG friend-INSTR-PX.1SG which-DET-ACC street-INE meet-PST.1SG;I talked with my firend whm I met on the street.;Winkler 2011:169;;;
-GB408;mon ńulesyn valez aďźi;;mon ńules-yn val-ez aďź-i;1SG forest-INE horse-ACC see-PST1.1SG;I saw the horse in the forest.;Winkler 2011:151;;;
-GB409;mon ńulesyn val aďźi;;mon ńules-yn val aďź-i;1SG forest-INE horse.NOM see-PST1.1SG;I saw a horse in the forest.;Winkler 2011:151;;;
-GB421;mon todiśko ćto so lyktoz šuysa;;mon todi-śko ćto so lykt-o-z šuysa;1SG know-PRS.1SG COMP 3SG come-FUT-3SG COMP;I know that s/he will come.;Winkler 2001:75;;;
-GB422;Pedor veraz, so vańmyz śaryś todiz šuysa.;;Pedor vera-z, so vańmyz śaryś tod-i-z šuysa.;PN say-PST1.3SG 3SG all about know-PST1.3SG COMP;Fedor said that he knows about it all.;Winkler 2001:74;;;
-GB432;ta Ondilen pijez;;ta Ondi-len pi-jez;DEM.PROX PN-GEN son-PX.3SG;It is Ondi's son.;Winkler 2011:47;;;
-GB433;köty;;köt-y;stomach-PX.1SG;my stomach;Winkler 2011:61;;;
-GB519;med mynoz;;med myn-o-z;PTCL:OPT go-FUT-3SG;Let him go. / He should go.;Winkler 2011:103;;;
-GB520;školayn užakum, mon pinaljosty oźy ik dyšetiśko val;;škola-yn uža-ku-m, mon pinal-jos-ty oźy ik dyšeti-śko val;school-INE work-CV-PX.1SG 1SG kid-PL-ACC so PTCL teach-PST2.1SG PTCL:AUX.PST2;When I worked in the school, I used to teach the kids this way.;Winkler 2011:99;;;
-GB522;šur dure myniśko;;šur dure myni-śko;river to/POSTP go-PRS.1SG;I go to the river.;Winkler 2011:150;;;
+ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
+GB024,viť aďami,,viť aďami,five person.NOM.SG,five people,Winkler 2011:38
+GB025,so typy,,so typy,DEM.DIST.NOM.SG oak.NOM.SG,that oak,Bartens 1999:163
+GB044-1,gurtjos,,gurt-jos,village-PL.NOM,villages,Winkler 2011:36
+GB044-2,korkaos,,korka-os,house-PL.NOM,houses,Winkler 2011:36
+GB046-1,Možgaos,,Možga-os,PN-PL.NOM,people from Mozhga,Winkler 2011:37
+GB046-2,agajjos,,agaj-jos,uncle-PL.NOM,uncle and his people,Winkler 2011:37
+GB047-1,veraśkon,,veraśk-on,talk-AN,talking,Winkler 2011:89
+GB047-2,kulem,,kul-em,die-DN,death,Winkler 2011:89
+GB048,dyšetiś,,dyšeti-ś,teach-AGN,teacher,Winkler 2011:89
+GB049,ľuket,,ľuk-et,divide-ONMLZ,part,Winkler 2011:89
+GB059-1,tymetyś čoryg,,tymet-yś čoryg,lake-ELA fish.NOM,fish of the lake,Edygarova 2009:113
+GB059-2,val jyr,,val jyr,horse.NOM head.NOM,horse's head,Edygarova 2009:111
+GB065,Ondilen nylyz,,Ondi-len nyl-yz,PN-GEN daughter-PX.3SG,Ondi's daughter,Winkler 2011:65
+GB070-1,mašaly keźit,,maša-ly keźit,PN-DAT cold,Masha is cold,Edygarova 2022:519
+GB070-2,petyrlen śijemez pote,,petyr-len śi-jem-ez pot-e,"PN-GEN eat-NMLZ-PX.3SG go,out-PRS.3SG",Peter wants to eat,Edygarova 2022:511
+GB070-3,otyn kyšnojen karten kutsaśko,,ot-yn kyšno-jen kart-en kutsaśk-o,there-INE wife-INSTR husband-INSTR thresh-PRS.3PL,There a husband and a wife are threshing grain,Winkler 2011:54
+GB070-3,so ešezly gožtet ystiz,,so eš-ez-ly gožtet yst-i-z,3SG friend-PX.3SG-DAT letter.NOM send-PST1-3SG,He sent a letter to his friend,Winkler 2011:153
+GB070-4,mon (ta) kńigajez lyďźi,,mon (ta) kńiga-jez lyďź-i,1SG (DEM.PROX) book-ACC read-PST.1SG,I have read this book / the book (we were talking about),Winkler 2011:46
+GB071-1,so-ly tros užany kule,,so-ly tros uža-ny kul-e,3SG-DAT many work-INF must-PRS.3SG,He should work a lot,Winkler 2011:144
+GB071-2,mynam lyďźeme lue,,myn-a-m lyďź-em-e lu-e,1SG-GEN-1SG read-PP-1SG be-PRS.3SG,I can read / I have time to read,Winkler 2011:145
+GB071-3,mon soje gožtet / gožtetez gožtytiśko,,mon so-je gožtet / gožtet-ez gožty-ti-śko,1SG 3SG-ACC letter.NOM / letter-ACC write-CAUS-PRS.1SG,I let him write a/the letter,Winkler 2011:152
+GB071-4,stolovojyn soly kyk murtly tyrmymon šyd śotizy,,stolovoj-yn so-ly kyk murt-ly tyrmy-mon šyd śot-i-zy,cantine-INE 3SG-DAT two person-DAT give-PTCP soup give-PST-3PL,In the cantine they gave him a soup meant for two people,Winkler 2011:153
+GB072,pojezdleś kyľiśkom,,pojezd-leś kyľi-śko-m,train-ABL remain-PRS-1PL,We are late for the train,Winkler 2011:50
+GB073,monen,,mon-en,1SG-INSTR,with me,Winkler 2011:69
+GB074,kotyr kyk jablok śotizi,,kotyr kyk jablok śot-i-zi,each/PREP 2 apple give-PST1-3PL,I gave two apples each,Winkler 2011:136
+GB075,(as) ponnam,,(as) ponna-m,(self) for.the.sake.of-PX.1SG,for myself,Winkler 2011:135
+GB080,myniśko,,myni-śko,go-PRS.1SG,I go,Winkler 2011:96
+GB082,myniśkod,,myni-śko-d,go-PRS-2SG,you go,Winkler 2011:96
+GB083,mynid,,myn-i-d,go-PST-2SG,you went,Winkler 2011:97
+GB084,mynod,,myn-o-d,go-FUT-2SG,you will go,Winkler 2011:96
+GB086-1,köńa ćasyn tunne sultid?,,köńa ćas-yn tunne sult-i-d?,how.many hour-INE today get.up-PST1-2SG,At what time did you wake up today?,Winkler 2011:97
+GB086-2,jazyčnik… kyleme vań so kylez,,jazyčnik… kyl-em-e vań so kyl-ez,pagan(Ru.) hear-PTCP-PX.1SG COP.EX.PRS DEM.DIST word-ACC,Pagan… I have already heard this word,Winkler 2001:48
+GB089,šur dure myniśko,,šur dure myni-śko,river to/POSTP go-PRS.1SG,I go to the river,Winkler 2011:150
+GB107,mynymtejez,,myny-mte-jez,go-NEG.PFV-3SG,s/he hasn't gone,Winkler 2001:54
+GB113,tupatiny,,tupa-ti-ny,fix-TR-INF,repair,Winkler 2011:123
+GB114,dyśaskiny,,dyśa-śky-ny,put.on-REFL-INF,dress oneself,Winkler 2011:122
+GB115,tyškaśkyny,,tyška-śky-ny,beat-REFL-INF,to beat each other,Winkler 2011:122
+GB117,Pedor dyšetiś val,,Pedor dyšetiś val,PN teacher COP.PST1,Pedor was a teacher,Winkler 2011:92
+GB120-1,viśisa ulyny,,viśi-sa uly-ny,be.ill-CV be-INF,be constantly ill ,Winkler 2011:119
+GB120-2,kyrdžsa leźyny,,kyrdž-sa leźy-ny,sing-CV leave/let-INF,start singing,Winkler 2011:119
+GB120-3,iźysa vuyny,,iźy-sa vuy-ny,sleeep-CV arrive-INF,having slept enough,Winkler 2011:119
+GB122,šudyny-śerekjany,,šudyny-śerekjany,play.INF-laugh.INF,"have a good time, enjoy oneself",Winkler 2011:124
+GB123-1,tau karyny,,tau kary-ny,thanks do-INF,to thank,Winkler 2011:125
+GB123-2,štrafovat' karyny,,štrafovat' kary-ny,fine:INF (Ru.) do-INF,to give a fine,Winkler 2011:124
+GB126,džök vylyn kńiga vań,,džök vyl-yn kńiga vań,table on/POSTP-INE book EX.COP,There is a book on the table,Winkler 2011:141
+GB130,mon čukaźe kośkiśko,,mon čukaźe kośki-śko,1SG morning leave-PRS.1SG,I will go away in the morning,Winkler 2011:96
+GB133,anaj-ataj mar šuoz?,,anaj-ataj mar šu-o-z?,mother-father what say-FUT-3SG,What will the parents say?,Winkler 2011:163
+GB134,"mon Možgalan vordiśki, maly ke šuono, anaj-ataje otyn ulizy",,"mon Možga-lan vordiśk-i, maly ke šuono, anaj-ataj-e otyn ul-i-zy",1SG PN-INE be.born-PST1.1SG because mother-father-1SG there live-PST-3PL,"I was born in Možga, because my parents lived there",Winkler 2001:74
+GB137,Mylkydy tunne no lapkamte,,Mylkyd-y tunne no lapka-mte.,mood-POSS.1SG today and calm.down-PTCP.NEG,I was worried today,Arkhangel'skiy 2020
+GB139-1,en myn(y),,en myn(y),NEG.IMP.2SG go.CNG,Don't go!,Winkler 2011:108
+GB139-2,ud myniśki,,VK Corpus: Džećbur! 2015.02.131123,NEG.PRS.2SG go.PRS.CNG,You don't go,Winkler 2011:107
+GB140-1,otyn jegit pi övöl,,ot-yn jegit pi övöl,there-INE small boy NEG.EX,There is no small boy there,Bartens 1999:292
+GB140-2,śion ćeskyd övöl,,śion ćeskyd övöl,food tasty PTCL:NEG,Food is not good,Bartens 1999:293
+GB140-3,vu övöl,,vu övöl,water NEG.EX,There is no water,Winkler 2011:141
+GB146,pydze bićate,,pyd-z-e bićat-e,leg-3SG-ACC itch-PRS.3SG,The leg is itchy (lit. '(something) itches his/her foot'),Winkler 2011:152
+GB147,aďźiśkyny,,aďźi-śky-ny,see-REFL-INF,be seen,Winkler 2011:122
+GB148,śiśkyny,,śi-śky-ny,eat-ANTIP-INF,eat (as a process),Winkler 2011:122
+GB152-1,"Kima, korka pyrysa, džök śöry pukśiz",,"Kima, korka pyry-sa, džök śöry pukś-i-z",PN house enter-CV table behind/POSTP sit-PST1-3SG,"After Kima had entered the house, she sat down to the table",Winkler 2011:118
+GB152-2,"(mon) gurte beryku(m), dyšetiśme pumitaj",,"(mon) gurt-e bery-ku(-m), dyšetiś-m-e pumita-j",(1SG) house-ILL come-CV(-PX.1SG) teacher-PX.1SG-ACC meet-PST1.1SG,"While I was going home, I have met my teacher",Winkler 2011:120
+GB155,mon soje gožtet gožtytiśko,,mon so-je gožtet gožty-ti-śko,1SG 3SG-ACC letter write-CAUS-PRS.1SG,I'll have him write a letter,Winkler 2011:123
+GB158,gužembyt užaśkod~užaśkod,,gužembyt uža-śko-d~uža-śko-d,all.summer work-PRS-2SG~work-PRS-2SG,"you work all summer (and still, you can achieve nothing)",Shibanov 2014:529
+GB160,gord~gord,,gord~gord,red~red,very red,Kel'makov and Saarinen 1994:112
+GB184,baďźimeś gurtjos,,baďźim-eś gurt-jos,big-PL village-PL,big villages,Winkler 2011:82
+GB203,vańmyzlen kokraoslen,,vańmyz-len kokra-os-len,all-GEN house-PL-GEN,of all houses,Winkler 2011:76
+GB204-1,aďamily byde,,aďami-ly byde,person-DAT every,for every person,Dušenkova et al. 2008
+GB204-2,bydes ar,,bydes ar,whole year,whole year.NOM,Dušenkova et al. 2008
+GB252,kin doryn kńigaje,,kin dor-yn kńiga-je,who next/POSTP-INE book-PX.1SG,Who has my book? (lit. next to whom is my book),Winkler 2011:142
+GB254,(mynam) kyk pinale vań,,(myn-a-m) kyk pinal-e vań,1SG-GEN-1SG two kid-PX.1SG COP.EX,I have two kids,Winkler 2011:142
+GB264-1,ton bakćaje-a vetlid?,,ton bakća-je-a vetl-i-d?,2SG garden-ILL-Q go-PST1-2SG,Did you go to the garden?,Winkler 2011:145
+GB264-2,ton udmurt-a?,,ton udmurt-a?,2SG Udmurt-Q,Are you an Udmurt?,Winkler 2011:145
+GB264-3,gurtad śkola vań-a?,,gurt-a-d śkola vań-a?,village-INE-2SG school COP.EX-Q,Is there a school in your village?,Winkler 2011:146
+GB273,kilometr iśkemleś vakći,,kilometr iśkem-leś vakći,kilometer verst-ABL short,One kilometer is shorter than one verst,Winkler 2011:84
+GB275,trosly umojges,,tros-ly umoj-ges,much-DAT good-CMPR,much better,Winkler 2011:84
+GB296,dol-dol ućkyny,,dol-dol ućky-ny,IDEO-IDEO look-INF,stare,Bartens 1999:326
+GB298,ug myniśky,,u-g myni-śk-y,NEG-1SG go.CNG-PRS-SG,I do not go,Winkler 2011:107
+GB299,öj mynysalmy,,öj myny-sal-my,PTCL:NEG go-COND-1PL,I would not go,Winkler 2011:108
+GB305,aćim no bygato aslym maje ke tupaśse byrjyny,,ać-im no bygat-o as-ly-m ma-je ke tupa-ś-se byrjy-ny,self-PX.1SG also can-FUT.1SG self-DAT-1SG what-ACC INDEF fit-PTCP-3SG-ACC choose-INF,I (myself) can choose something that will fit me (myself),Winkler 2011:72
+GB312,užasaldy,,uža-sal-dy,work-COND-2PL,you would work,Winkler 2011:103
+GB323,"džus vaďsyś jun kort rešetkajo uknojez šeďtiz… Aźlo tatyn kladovka vylem, šödske",,"džus vaďs-yś jun kort rešetka-jo ukno-jez šeďt-i-z… Aźlo tat-yn kladovka vylem, šödske.",bench next/POSTP-ELA hard iron grating-ADJ window-ACC earlier here-INE chamber COP.EX-PERF apparently,"Next to the bend there was a window with solid iron grates… Apparently, there might have been a chamber here before.",Winkler 2011:105
+GB326,ton kin?,,ton kin?,2SG who,Who are you?,Winkler 2011:147
+GB327,"veraśki todmojenym, kudze uramyn pumitaj",,"veraśk-i todmo-jeny-m, kud-z-e uram-yn pumita-j",talk-PST1.1SG friend-INSTR-PX.1SG which-DET-ACC street-INE meet-PST.1SG,I talked with my firend whm I met on the street,Winkler 2011:169
+GB328,restoranyn pukiś ešjosme aďďźi,,restoran-yn puki-ś eš-jos-m-e aďďź-i.,restaurant-INE sit-PTCP Friend-PL-1SG.POSS-ACC see-PST.1SG,,Winkler 2011:172
+GB408,mon ńulesyn valez aďźi,,mon ńules-yn val-ez aďź-i,1SG forest-INE horse-ACC see-PST1.1SG,I saw the horse in the forest,Winkler 2011:151
+GB409,mon ńulesyn val aďźi,,mon ńules-yn val aďź-i,1SG forest-INE horse.NOM see-PST1.1SG,I saw a horse in the forest,Winkler 2011:151
+GB421,mon todiśko ćto so lyktoz šuysa,,mon todi-śko ćto so lykt-o-z šuysa,1SG know-PRS.1SG COMP 3SG come-FUT-3SG COMP,I know that s/he will come,Winkler 2001:75
+GB422,"Pedor veraz, so vańmyz śaryś todiz šuysa",,"Pedor vera-z, so vańmyz śaryś tod-i-z šuysa.",PN say-PST1.3SG 3SG all about know-PST1.3SG COMP,Fedor said that he knows about it all,Winkler 2001:74
+GB432,ta Ondilen pijez,,ta Ondi-len pi-jez,DEM.PROX PN-GEN son-PX.3SG,It is Ondi's son,Winkler 2011:47
+GB433,köty,,köt-y,stomach-PX.1SG,my stomach,Winkler 2011:61
+GB519,med mynoz,,med myn-o-z,PTCL:OPT go-FUT-3SG,Let him go / He should go,Winkler 2011:103
+GB520,"školayn užakum, mon pinaljosty oźy ik dyšetiśko val",,"škola-yn uža-ku-m, mon pinal-jos-ty oźy ik dyšeti-śko val",school-INE work-CV-PX.1SG 1SG kid-PL-ACC so PTCL teach-PST2.1SG PTCL:AUX.PST2,"When I worked in the school, I used to teach the kids this way",Winkler 2011:99
+GB522,šur dure myniśko,,šur dure myni-śko,river to/POSTP go-PRS.1SG,I go to the river,Winkler 2011:150
