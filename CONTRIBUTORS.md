@@ -26,7 +26,7 @@ ID|Subgroup|Language|UT|Values and examples|GB|Consulted for values|Examples
 3|Finnic|North Karelian|✔|Olga Melentjeva, Eva Saar|✔||
 4|Finnic|Ludian|✔|Alexandra Rodionova|✔||
 5|Finnic|Tver Karelian|✔|Irina Novak|✔||
-6|Finnic|Central Veps|✔|Nina Zaiceva|✔|Janek Vaab|
+6|Finnic|Central Veps|✔|Nina Zaiceva|✔|(literary sources)|Janek Vaab|
 7|Finnic|West Votic|✔|Heinike Heinsoo, Eva Saar|✔|Heinike Heinsoo|Georg Timoštšenko
 8|Finnic|Võro South Estonian|✔|Sulev Iva, Karl Pajusalu, Eva Saar|✔|Sulev Iva|Janek Vaab
 9|Finnic|Courland Livonian|✔|Miina Norvik, Karl Pajusalu|✔|Miina Norvik|Marili Tomingas
@@ -53,7 +53,7 @@ ID|Subgroup|Language|UT|Values and examples|GB|Consulted for values|Examples
 30|Khanty|Kazym Khanty|✔|Mária Sipos|||
 31|Khanty|Surgut Khanty|✔|Márta Csepregi|✔|(literary sources)|
 32|Mordvin|Erzya|✔|Niina Aasmäe, Mariann Bernhardt, Denys Teptiuk|✔|Niina Aasmäe, Mariann Bernhardt|Rodolfo Basile
-33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt|
+33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt|Denys Teptiuk
 34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley|Przemysław Podleśny
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley|
 
