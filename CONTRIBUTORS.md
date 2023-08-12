@@ -26,18 +26,18 @@ ID|Subgroup|Language|UT|Values and examples|GB|Consulted for values|Examples
 3|Finnic|North Karelian|✔|Olga Melentjeva, Eva Saar|✔||
 4|Finnic|Ludian|✔|Alexandra Rodionova|✔||
 5|Finnic|Tver Karelian|✔|Irina Novak|✔||
-6|Finnic|Central Veps|✔|Nina Zaiceva|✔||
+6|Finnic|Central Veps|✔|Nina Zaiceva|✔|Janek Vaab|
 7|Finnic|West Votic|✔|Heinike Heinsoo, Eva Saar|✔|Heinike Heinsoo|Georg Timoštšenko
 8|Finnic|Võro South Estonian|✔|Sulev Iva, Karl Pajusalu, Eva Saar|✔|Sulev Iva|Janek Vaab
 9|Finnic|Courland Livonian|✔|Miina Norvik, Karl Pajusalu|✔|Miina Norvik|Marili Tomingas
 10|Finnic|Livvi-Karelian|✔|Ilja Moshnikov|✔||
 11|Finnic|Soikkola Ingrian|✔|Eva Saar|✔|Eva Saar|
 12|Permic|Komi-Zyrian|✔|Nikolay Kuznetsov|✔|Rogier Blokland|Przemysław Podleśny
-13|Permic|Udmurt|✔|Svetlana Edygarova, Nikolay Kuznetsov|✔|Denys Teptiuk|Denys Teptiuk
+13|Permic|Udmurt|✔|Svetlana Edygarova, Nikolay Kuznetsov|✔|(literary sources)|Denys Teptiuk
 14|Permic|Komi-Permyak|✔|Nikolay Kuznetsov|✔|Nikolett F. Gulyás|Nikolay Kuznetsov
 15|Saami|Ume Saami|||✔|(grambank team)
 16|Saami|North Saami|✔|Jussi Ylikoski, Katri Hiovain-Asikainen|✔|(literary sources)|Merit Niinemägi
-17|Saami|Inari Saami|✔|Petter Morottaja, Helen Türk|✔|Merit Niinemägi|Merit Niinemägi
+17|Saami|Inari Saami|✔|Petter Morottaja, Helen Türk|✔|(literary sources)|Merit Niinemägi
 18|Saami|Skolt Saami|✔|Markus Juutinen, Miika Lehtinen|✔|(literary sources)|
 19|Saami|South Saami|✔|Richard Kowalik|✔|Richard Kowalik|
 20|Saami|Pite Saami|✔|Joshua Wilbur|✔|Joshua Wilbur|Mihkel Rünkla
@@ -54,6 +54,6 @@ ID|Subgroup|Language|UT|Values and examples|GB|Consulted for values|Examples
 31|Khanty|Surgut Khanty|✔|Márta Csepregi|✔|(literary sources)|
 32|Mordvin|Erzya|✔|Niina Aasmäe, Mariann Bernhardt, Denys Teptiuk|✔|Niina Aasmäe, Mariann Bernhardt|Rodolfo Basile
 33|Mordvin|Moksha|✔|Niina Aasmäe,  Mariann Bernhardt|✔|Arja Hamari, Mariann Bernhardt|
-34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley|
+34|Mari|Meadow Mari|✔|Jeremy Bradley|✔|Jeremy Bradley|Przemysław Podleśny
 35|Mari|Hill Mari|✔|Jeremy Bradley|✔|Jeremy Bradley|
 
