@@ -1,166 +1,166 @@
 ID,Name,Moksha,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT003,Can finite verbs agree in number with the nominal object?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",сёрмадса сёрмать;[s'ormad-sa s'orma-t'];write-PRS.1SG>3SG letter-DEF.GEN;I will write the letter;|сёрмадсайне сёрматнень;[s'ormad-sajn'ä s'orma-t'-n'ǝ-ń];write-PRS.1SG>3PL letter-PL-DEF-GEN;I will write the letters;,
-UT004,Can an adnominal property word agree with the noun in case?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT005,Are there cases that do not show agreement in terms of case?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",стака шиста;[para ši-sta];hard day-ELA;on a hard day;,In attributive clauses the modifyer has no case/number marker.
-UT006,Can adpositions be used to mark core verbal arguments?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон эсон учи;[son e-sǝ-n uč-i];3SG PP-INE-POSS.1SG wait-PRS.3SG;s/he is waiting for me;,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Мон ванан лангозонза;[mon van-an langǝ-zǝ-nza];1SG look-PRS.1SG on-ILL-POSS.3SG;I am looking at her/him;,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон вдруг лоткась куду ардомстонза;[son vdrug lotka-s' kud-u ardǝ-mstǝ-nza];3SG suddenly stop-PST1.3SG home-LAT drive-GER-POSS.3SG;S/he suddenly stopped while he was driving home;,
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Ся книгась тейне питни, рамамстонза васедихтень тонь;[s'ä kn'iga-s' t'ejn'ä pit'n'i, rama-mstǝ-nza vas'ǝd'-iJt'än' ton'];this book-DEF.NOM 1SG.DAT expensive buy-GER-POSS.3SG meet-PST1.1SG>2SG;this book is dear to me, I met you while I was buying it;",
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT011,Does object marking correlate with aspectuality?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT012,Does the marking of the object depend on the verb conjugation form?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT013,Is there differential subject marking?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Мон тунь ошу;[mon tu-n' oš-u];1SG.NOM leave-PST1.1SG city-LAT;I left to the city;ǀТейне тумаль ошу;[t'ejn'ä tu-ma-l' oš-u];1SG.DAT leave-INF/PTCP-PST2.3SG city-LAT;I had to leave for the city;,The subject is in the dative in necessive constructions.
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",алясь няезе офтть да тусь ласькозь;[al'ä-s' n'äjǝ-z'ä oft-t' da tu-s' las'kǝ-z'];man-DEF.NOM see-PST1.3SG>3SG bear-DEF.GEN and go-PST1.3SG run-GER;the man saw the bear and went (away) running;,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT016,Is there a grammatical device for habituality?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Шабакс пингстон эрь кизоня якалень тоза;[Šaba-ks ping-stǝ-n er' kizǝ-n'ä jaka-l'ǝ-n' toza];child-TRA time-ELA-POSS.1SG every summer-TEMP go-PST2-1SG there;When I was a child I used to go there all summer;,PST2 expresses habituality.
-UT017,Is there a grammatical device for frequentative?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",сашендомс;[sa-šǝnd-ǝms];come-FRQ-INF1;to come several times;,
-UT018,Is there a grammatical device for progressivity?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Сон удоль, мзярда сувань куду;[Son ud-ǝl', mǝz'arda suva-n' kud-u];3SG.NOM sleep-PST2.3SG when enter-PST1.1SG house-LAT;S/he was sleeping when I entered the house;","In addition to expressing repeated events, PST2 can also express events that were continuing in the past."
-UT019,Is it common to use a verb in the present tense for future time reference?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",молян куду;[mol'-an kud-u];go-PRS.1SG home-LAT;I go/am going/will go home;,The forms of present cover both present and future time reference.
-UT020,Is there a grammatical device for immediate future?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT021,Is there a grammatical device for pluperfect?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT022,Can aspect be expressed overtly on the negative marker?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",ашень лува книгать;[aš-ǝn' luva kn'iga-t'];NEG.PST1-1SG read.CNG book-DEF.GEN;I did not read the book;ǀашине лува книгать;[aš-in'ä luva kn'iga-t'];NEG.PST1-1SG>3SG read.CNG book-DEF.GEN];I did not read the book;,"Aspectual oppositions can be expressed with the objective vs. subjective conjugation. In the past tense, the negative marker takes person marking, and the two conjugation types are differentiated in the negative marker."
-UT023,Can tense be expressed overtly on the negative marker?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Мон аф луван книга;[mon af luv-an kn'iga];1SG.NOM NEG read-PRS.1SG book;I do not read/am not reading a book;ǀМон ашень лува книга;[mon aš-ǝn' luva kn'iga];1SG.NOM NEG.PST1-1SG read.CNG book;I did not read a book;,
-UT024,Is there grammatical marking of mirativity?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",мярьголексолень;[mär'gǝ-l'ǝksǝl'-ǝn'];say-DES-1SG;I wanted to say;,
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Улендяряль воля, войнавок афоль уле;[ul'ǝ-n'd'är'ä-l' vol'ä, vojna-vǝk af-ǝl' yl'ä];be-COND-CONJ.3SG will war-and NEG-COND.3SG be.CNG;If there would be free will, there would not be war;",
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Улендяряль воля, войнавок афоль уле;[ul'ǝ-n'd'är'ä-l' vol'ä, vojna-vǝk af-ǝl' yl'ä];be-COND-CONJ.3SG will war-and NEG-COND.3SG be.CNG;If there would be free will, there would not be war;",
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Тейть куду молема;[tejt' kud-u mol'ǝ-ma];2SG.DAT home-LAT go-INF/PTCP;You have to go home;,The infinitive-participle -ma can mark necessity. The subject has to be in the dative case in this construction.
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Тондейть тявок тевсь тиеви;[ton'-d'ǝjt' t'ä-vǝk t'ev-s' t'ijǝ-v-i];2SG-DAT this-and work-DEF.NOM do-PASS-PRS.3SG;You can do this work too;,"The passive/reflexive marker v is used to express capability, possibility, passive voice (depending on a context)."
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",улеза;[ul'ǝ-za];be-OPT.3SG;let it/him/her be;|суваза;[suva-za];enter-OPT.3SG;let him/her enter;,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",улезан павазукс;[ul'ǝ-za-n pavazu-ks];be-OPT-1SG ;let me be healthy;,
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT035,Is there reflexive conjugation?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"There is no reflexive conjugation, there is only the passive/reflexive marker v, e.g. käd'-ǝn-za tapa-v-s't' (hand-PL-POSS.3SG break-PASS-PST1.3PL) 'his/her hands got broken'"
-UT036,Are there syntactically ditransitive verbs?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"However, verbs like 'feed' and 'give drink' can take two objects, one in the ablative and the other one in the nominative/genitive, e.g. andǝ-maz' jam-da (feed-3PL>1SG porridge-ABL) 'They fed me with porridge'."
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"In Moksha, 2nd and 3rd person plural is always distinguished: kunda-samas't' (catch-PRS.2PL>1SG/1PL) 'you catch me/us' and kunda-samaz' (catch-PRS.3PL>1SG/1PL) 'they catch me/us'."
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT039,Can third person plural verb forms be used for impersonal reference?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Мокшекс тоса корхтайхть;[Mokšǝ-ks tosa koRta-Jt'];Moksha-TRA there speak-PRS.3PL;Moksha is spoken there;,
-UT040,Can second person singular verb forms be used in generic meaning?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Кодак суват Карелиянь мастору;[kodak suv-at Karelija-n' mastor-u];as.soon.as enter-PRS.2SG Karelia-GEN land-LAT;As soon as you enter / one enters Karelia;,
-UT042,Are clauses with only infinitive predicates possible?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Тейть куду молема;[t'ejt' kud-u mol'ǝ-ma];2SG.DAT home-LAT go-INF/PTCP;You have to go home;,
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Улхкомбанга якань мичконь рамама;[uLkǝmbanga jaka-n' mičkǝ-n' rama-ma];recentlyand go-PST1.1SG quark-GEN buy-INF2;I went to buy quark recently;,
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",пизи;[piz'-i];rain-PRS.3SG;It's raining;,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,The copula is covert: son mokšа (3SG.NOM Moksha) 's/he is a Moksha'.
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон ульсь Москуса;[son ul'-s' Mosku-sa];3SG be-PST1.3SG Moscow-INE;S/he was in Moscow; ,"The copula in the present tense has future reference.  In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense: Mar'a stir'-ks mazije-l' (Mary girl-TRA beautiful-PST2.3SG) Mary was beautiful as a girl."
-UT047,Can locative adverbial phrases act as predicates without a copula?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон кудса;[Son kud-sa];3SG house-INE;S/he is at home; ,In other persons the locative adverbial gets verbal endings: Mon kud-s-an (1SG house-INE-1SG) 'I am at home'.
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"It is possible to use the same coordinating conjunction in all cases, though with nouns different types of coordinating is also possible: t'äd'ä-t-s't'iR'-t' (mother-PL.NOM-girl-PL.NOM) 'mothers and daughters'."
-UT049,Does existential negation have a separate operator?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Маря кудса аш;[Mar'a kud-sa aš];Mary house-INE NEG;Mary is not at home;ǀМаря аф уды;[Mar'a af ud-i];Mary NEG sleep-PRS.3SG;Mary is not sleeping;,"In existential sentences, the negation particle aš is used. In other sentences, the negation particle af is used in the present tense and the negation verb iz'- or aš- (which conjugates according to person) in the past tense."
-UT050,Can standard negation be asymmetric in the present tense?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"In the present tense, negation is symmetric, e.g. koRt-an : af koRt-an (speak-PRS.1SG : NEG speak-PRS.1SG) 'I speak : I don't speak'."
-UT051,Can non-finite dependent clauses use the standard negation construction?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Ньлне бта аф кирди, штоба аф молемс тов;[n'ǝl'n'ä bǝta af kir'd'-i, štoba af mol'ǝ-ms to-v];even if NEG restrain-PRS.3G that NEG go-INF1 there-LAT;Even as if he could not restrain of not going there;",
-UT052,Is there a special negator that combines with non-finite forms?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",апак арьсек;[apak ar's'ǝ-k];NEG think-CNG;without thinking,"Participle and gerund forms are negated with the negative construction apak + connegative (in Moksha the connegative with the participle apak ends in k, similar to the imperative of the 2nd person singular), instead of other constructions used with finite verbs."
-UT053,Are there special negative non-finite forms?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT054,Is there an impersonal passive construction?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Мазиста морай нармонць лийсь ичкози;[mazista mora-j narmǝn-c' l'ij-s' ičkǝzi];beautiful.ADV sing-PTCP.PRS.ACT bird-DEF.NOM fly-PST1.3SG far.away;The bird that sings beautifully flew far away;,
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон моли аф ичкозе шуди ляйняв;[son mol'-i af ičkǝzä šud'-i l'äj-n'ǝ-v];3SG go-PRS.3SG NEG far flow-PTCP.PRS.ACT river-DIM-LAT;S/he is going into the river that flows not far away;,See also UT055.
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT059,Is there a future participle?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT060,Are there participles that can encode their subject by possessive suffixes?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","Ётафнезе ванфонц кулхцондыензон ланга;[jotaf-n'ǝ-z'ä vanf-ǝn-c kuLcǝnd-i-jenzǝn lan-ga];pass-CAUS-FRQ-PST1.3SG>3SG look-GEN-POSS.3SG>SG listen-PTCP.PRS.ACT-GEN.POSS.3G>PL on-PROL;His/her eyes ranged over the people, who were listening to him (listeners);",
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кирпицень тиема завод;[kirpic'-ǝn' t'ijǝ-ma zavod];brick-GEN make-INF/PTCP factory.NOM;brick making factory;ǀ тевонь тиемась;[t'ev-ǝn' t'ijǝ-ma-s'];work-GEN do-NMLZ-DEF.NOM;the working (the work doing);,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",морай ломань;[mora-j loman'];sing-PTCP.PRS.ACT person;a singing person;|морайсь;[mora-j-s'];sing-NMLZ-DEF.NOM;the singer;,
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"The past participle and the gerund are syncretic only in the negated forms. In affirmative forms, there are different endings for the past participle and the gerund."
-UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,saJ-t' mar' (take-IMP.2SG apple) 'Take an apple'.
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Тяк кицень юмафта;[t'ak ki-cǝ-n' jumafta];NEG.IMP.2SG>3SG way-POSS.2SG-GEN lose.CNG;Do not lose your way;,"It is possible to place an object between the negative marker and the main verb, but it is not very common. "
-UT068,Are there preverbs?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT069,Are there verbal prefixes?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",штамац;[šta-ma-c]; wash-NMLZR-POSS.3SG>3SG; the washing of himself/herself / (his/her) washing something;,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",ве лангс кофеда симомась кальдяв;[ve lang-s kofe-da s'imǝ-ma-s' kal'd'av];night on-ILL coffee-ABL drink-NMLZ-DEF.NOM bad;Drinking of coffee is bad at night;,
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",алясь сире;[al'ä-s' s'ir'ä];man-DEF.NOM old;the man is old;|алятне сирет;al'ä-t'-n'ä s'ir'ǝ-t;man-PL-DEF.NOM old-PL;the men are old;,
-UT074,Is it possible to form synthetic superlative?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT075,Can adpositions have person/number marking?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",мархтонза;[maRtǝ-nza];with-POSS.3SG;with him/her;,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",ваксс : ваксса : ваксста;[vaks-s : vaks-sa : vaks-sta];near-ILL : near-INE : near-ELA;to near : near : from near;,
-UT077,Is case compounding possible?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кудсось;[kud-sǝ-s'];house-INE-DEF.NOM;the one at home;,
-UT078,Are there case categories only found in pronouns?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT079,Does the numeral modification of a noun have an effect on its case selection?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,It is possible to use either the nominative or the ablative with numerals.
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",ниле книга;[n'il'ä kn'iga];four book.NOM.SG; four books;ǀниле книгат;[n'il'ä kn'iga-t];four book-PL.NOM;four books;,Both the singular and the plural is possible with numerals bigger than 1. 
-UT081,Is there a genitive case that has an affix?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",нармонень пиза;[narmǝn'-ǝn' piza];bird-GEN nest.NOM;a bird's nest;,
-UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Сон корхтась нармонти;[Son koRta-s' narmǝn'-t'i];3SG talk-PST1.3SG bird-DEF.DAT;S/he was talking to the bird;,
-UT083,Is there a terminative case?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Ламоц покодихне лядсть тевфтома;[Lamǝ-c pokǝd'-i-Jn'ä l'äd'-s't' t'ev-ftǝma];lot-POSS.3SG work-PTCP.PRS.ACT-PL.DEF.NOM remain-PST1.3PL work-ABE;A lot of workers were left without work;,"The abessive can be used as a case-ending or in an adnominal function as an adjective. The latter function might be more frequent. Therefore, the abessive is not considered as a case-ending in most of the grammars."
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",вирьге;[vir'-gä];forest-PROL];through the forest;,
-UT086,Is there a locative case that marks goal?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кудс;[kud-s];house-ILL;into the house;,
-UT087,Is there a locative case that marks location?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кудса;[kud-sa];house-INE;in the house;,
-UT088,Is there a locative case that marks source?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кудста;[kud-sta];house-ELA;from the house;,
-UT089,Is there case syncretism of goal and location marking?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT090,Is there case syncretism of location and source marking?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT091,Are there two sets of local cases?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT092,Is there a third set of local cases?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,The inessive -sa expresses the instrumental as well: mašina-sa (car-INE) 'with a car'.
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Вастсть тиевсь мазыкс;[vast-s' t'ijǝ-v-s' mazi-ks];place-DEF.NOM make-PASS-PST1.3SG beautiful-TRA;the place became beautiful';,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT097,Is there a separate morphological marker for expressing equative meaning?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",вазняшка офта;vazn'ä-ška ofta;calf-COMP bear;a bear as big as a calf;,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,The dative is used (see UT082).
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",ош : ошсь;[oš : oš-s'];city : city-DEF.NOM;city : the city;,"Moksha has three declension types: basic declension, definite declension (expresses that the referent of the noun is known to the speaker and the listener) and the possessive declension."
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT101,Can the marking of the possessor in the attributive construction vary?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT103,Is non-singular possession marked in the possessive declension?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кудоц : кудонза;[kud-ǝc : kud-ǝnza];house-POSS.3SG>SG : house-POSS.3SG>PL;his/her house : his/her houses;,
-UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Шобдавац маниель;[Šobdava-c man'ij-ǝl'];morning-POSS.3SG>SG clear-PST2.3SG;the morning was clear;,"The 3SG possessive suffix can be used instead of the definite declension with some unique nouns, however, this use is restricted."
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",мезе : кие;[mez'ä : kijä];;what : who;,
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"The pronoun kijä 'who' is not used frequently, but the kona 'who, that, which' is used instead. It appears with animates: loman'-c'/buka-s', kona sa-s' c'ej (person-DEF.NOM/ox-DEF.NOM that come-PST1.3SG here) 'The person/ox that came here' as well as with inanimates valks-s', kona lis'-s' mel'ä (dictionary-DEF.NOM which come.out-PST1.3SG) 'the dictionary that came out last year'."
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"Kona 'who, that, which' is used with both animates and inanimates (see UT107)."
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",Ся азозе;[s'ä azǝ-z'ä];that tell-PST1.3SG>3SG;s/he told it;,
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"The possessive suffixes follow the case suffixes, e.g. vel'ǝ-sǝ-n (village-INE-POSS.1SG) 'in my village', except for the genitive and dative, which precede the possessive suffixes ava-z'ǝ-n' (mother-POSS.1SG-GEN) 'my mother's', ava-z'ǝ-n'd'i (mother-POSS.1SG-DAT) 'for my mother'"
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",тумотне : тумотненди;[tumǝ-t'-n'ä : tumǝ-t'-n'ǝ-n'd'i];oak-PL-DEF.NOM : oak-PL-DEF-DAT;the oaks : for the oaks;,"Plural marking is used in the basic declension only in the nominative. In other cases, the singular and the plural is distinguished only in the definite declension. The singular is unmarked, whereas in the plural the plural suffix t : t' (sometimes just the voicelessness of the previous consonant) follows the noun, and it is followed by the definiteness marker and the case ending."
-UT112,Are there different words for mother’s brother and father’s brother?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","щеня;[ščǝn'ä];;mother's brother, other relative from the mother's side, any other stranger man, who is older;оця;[oc'ä];;father's older brother;|патя;[pat'ä];;uncle, father's older brother;",
-UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",альгя;[al'gä];;husband's older brother;|вяждедня;[väžd'ǝd'n'ä];;husband's younger brother;|кастарня;[kastarn'ä];;husband's younger sister;,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"There is only distinction for 'old', i.e. tašta 'old (inanimate)', s'ir'ä 'old (animate)'."
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"There is only distinction for cold: kel'mä ved' 'cold water', ušǝ-sa jakšama (outside-INE cold) 'it is cold outdoors'."
-UT116,Is there contrastive length of consonants?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT117,Is there contrastive length of vowels?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT118,Is there contrast between short and long unstressed vowels?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT119,Is there contrast in duration of geminate consonants?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT120,Are there more than two phonological quantities?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT121,Are there extralong syllables?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT122,Is the main foot structure trochaic?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,See UT125.
-UT123,Is there lexically distinctive word stress?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT124,Is there morphologically conditioned stress?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"The variants of the emphatic particle (clitic), -ga, -ge, -ka, -ke, -vok, -nga 'even, too': mon-ga 'me, too' tend to have primary or secondary stress."
-UT125,Is there fixed primary stress?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"The first syllable tends to be stressed if the word is uttered as a dictionary item; in speech, mostly disyllabic feet with a stressed and unstressed syllable alternate: MOn sǝrxk-An insAru. - Mon sƏrxk-an InsarU 'I will go to Insar'."
-UT126,Is there stress in heavy syllables?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT127,Is there non-initial primary stress?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"A tendency to stress the non-first syllable is noticeable in words with the high vowels i, u in the first syllable and the low vowels a, ä in a non-first syllable: śijÄ 'silver', kujA 'fat'. However, rhythmic initial-syllable stress functions in these words as well."
-UT128,Is there palatal vowel harmony?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT129,Is there velar vowel harmony?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT130,Is there labial vowel harmony?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT131,Are there rising diphthongs?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT132,Are there lowering diphthongs?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT134,Are there full vs. reduced vowels as contrastive subsets?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT135,Is there front high rounded vowel ü [y]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT139,Is there back low round vowel [ɒ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",кедь : кядь;ked' : käd';[kedj : kædj];skin : hand;,
-UT141,Are there word-initial consonant clusters?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",шта;šta;[ʃta];beeswax;,
-UT142,Are there word-internal consonant clusters in syllable onset?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","кржалготкшнемс;kǝržalgǝtkšn'ǝms;[kǝrʒalgǝt.kʃnjǝms];to wear out, to reduce;",
-UT143,Are there consonant clusters in syllable coda?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",панчф;pančf;[pantʃf];flower;,
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","кржалготкшнемс;kǝržalgǝtkšn'ǝms;[kǝrʒalgǝt.kʃnjǝms];to wear out, to reduce;",
-UT145,Are there word-final clusters of three or more consonants?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",панчф;pančf;[panjtʃf];flower;,
-UT146,Are there palatalized dentals?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.","стирь;s't'ir';[sʲtʲirʲ];girl, daugter;",
-UT147,Are there palatalized labials and velars?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,"Before front vowels, labials and velars may be palatalized: ve 'night' > v'e, kev 'stone' > k'ev'."
-UT148,Is there palatal stop [c]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT149,Is there palatal nasal [ɲ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT150,Is there palatal lateral [ʎ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT151,Is there phonemic velar nasal [ŋ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT152,Is there dental affricate [t͡s]?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",цебярь;c'ebär';[tsjebærj];good;,
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",чавка;čavka;[tʃavka];jackdaw;,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",сай;saj;[saj];s/he comes;ǀши;ši;[ʃi];day;,
-UT155,"Are there voiced plosives [b, g, d]?",1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",карга;karga;[karga];crane;,
-UT156,Is there glottal stop [ˀ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT158,Is there a constraint on word-initial r?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT159,Is there laryngeal fricative [h]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT160,Is there voiced velar fricative [ɣ]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT161,Is there voiceless velar fricative [x]?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT162,Is there voiced dental fricative [ð]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT163,Is there phonemic labio-velar approximant [w]?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT164,Is there voiceless labiodental fricative [f]?,1,"Niina Aasmäe ja Mariann Bernhardt, p.c.",фкя;fkä;[fkæ];one;,
-UT165,Is there radical qualitative consonant gradation?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
-UT166,Is there quantitative consonant gradation?,0,"Niina Aasmäe ja Mariann Bernhardt, p.c.",,
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT003,Can finite verbs agree in number with the nominal object?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT003-1, UT003-2",
+UT004,Can an adnominal property word agree with the noun in case?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT005,Are there cases that do not show agreement in terms of case?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT005,In attributive clauses the modifyer has no case/number marker.
+UT006,Can adpositions be used to mark core verbal arguments?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT006,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT007,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT008,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT009,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT011,Does object marking correlate with aspectuality?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT012,Does the marking of the object depend on the verb conjugation form?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT013,Is there differential subject marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT013-1, UT013-2",The subject is in the dative in necessive constructions.
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT014,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT016,Is there a grammatical device for habituality?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT016,PST2 expresses habituality.
+UT017,Is there a grammatical device for frequentative?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT017,
+UT018,Is there a grammatical device for progressivity?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT018,"In addition to expressing repeated events, PST2 can also express events that were continuing in the past."
+UT019,Is it common to use a verb in the present tense for future time reference?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT019,The forms of present cover both present and future time reference.
+UT020,Is there a grammatical device for immediate future?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT021,Is there a grammatical device for pluperfect?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT022,Can aspect be expressed overtly on the negative marker?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT022-1, UT022-2","Aspectual oppositions can be expressed with the objective vs. subjective conjugation. In the past tense, the negative marker takes person marking, and the two conjugation types are differentiated in the negative marker."
+UT023,Can tense be expressed overtly on the negative marker?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT023-1, UT023-2",
+UT024,Is there grammatical marking of mirativity?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT025,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT026,
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT027,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT028,The infinitive-participle -ma can mark necessity. The subject has to be in the dative case in this construction.
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT030,"The passive/reflexive marker v is used to express capability, possibility, passive voice (depending on a context)."
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT031-1, UT031-2",
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT032,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT035,Is there reflexive conjugation?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"There is no reflexive conjugation, there is only the passive/reflexive marker v, e.g. käd'-ǝn-za tapa-v-s't' (hand-PL-POSS.3SG break-PASS-PST1.3PL) 'his/her hands got broken'"
+UT036,Are there syntactically ditransitive verbs?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"However, verbs like 'feed' and 'give drink' can take two objects, one in the ablative and the other one in the nominative/genitive, e.g. andǝ-maz' jam-da (feed-3PL>1SG porridge-ABL) 'They fed me with porridge'."
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"In Moksha, 2nd and 3rd person plural is always distinguished: kunda-samas't' (catch-PRS.2PL>1SG/1PL) 'you catch me/us' and kunda-samaz' (catch-PRS.3PL>1SG/1PL) 'they catch me/us'."
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT039,
+UT040,Can second person singular verb forms be used in generic meaning?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT040,
+UT042,Are clauses with only infinitive predicates possible?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT042,
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT043,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT044,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,The copula is covert: son mokšа (3SG.NOM Moksha) 's/he is a Moksha'.
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT046,"The copula in the present tense has future reference.  In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense: Mar'a stir'-ks mazije-l' (Mary girl-TRA beautiful-PST2.3SG) Mary was beautiful as a girl."
+UT047,Can locative adverbial phrases act as predicates without a copula?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT047,In other persons the locative adverbial gets verbal endings: Mon kud-s-an (1SG house-INE-1SG) 'I am at home'.
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"It is possible to use the same coordinating conjunction in all cases, though with nouns different types of coordinating is also possible: t'äd'ä-t-s't'iR'-t' (mother-PL.NOM-girl-PL.NOM) 'mothers and daughters'."
+UT049,Does existential negation have a separate operator?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT049-1, UT049-2","In existential sentences, the negation particle aš is used. In other sentences, the negation particle af is used in the present tense and the negation verb iz'- or aš- (which conjugates according to person) in the past tense."
+UT050,Can standard negation be asymmetric in the present tense?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"In the present tense, negation is symmetric, e.g. koRt-an : af koRt-an (speak-PRS.1SG : NEG speak-PRS.1SG) 'I speak : I don't speak'."
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT051,
+UT052,Is there a special negator that combines with non-finite forms?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT052,"Participle and gerund forms are negated with the negative construction apak + connegative (in Moksha the connegative with the participle apak ends in k, similar to the imperative of the 2nd person singular), instead of other constructions used with finite verbs."
+UT053,Are there special negative non-finite forms?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT054,Is there an impersonal passive construction?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT055,
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT056,See also UT055.
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT059,Is there a future participle?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT060,Are there participles that can encode their subject by possessive suffixes?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT060,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT063-1, UT063-2",
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT064-1, UT064-2",
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"The past participle and the gerund are syncretic only in the negated forms. In affirmative forms, there are different endings for the past participle and the gerund."
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,saJ-t' mar' (take-IMP.2SG apple) 'Take an apple'.
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT067,"It is possible to place an object between the negative marker and the main verb, but it is not very common. "
+UT068,Are there preverbs?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT069,Are there verbal prefixes?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT071,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT072,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT073-1, UT073-2",
+UT074,Is it possible to form synthetic superlative?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT075,Can adpositions have person/number marking?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT075,
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT076,
+UT077,Is case compounding possible?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT077,
+UT078,Are there case categories only found in pronouns?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,It is possible to use either the nominative or the ablative with numerals.
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT080-1, UT080-2",Both the singular and the plural is possible with numerals bigger than 1. 
+UT081,Is there a genitive case that has an affix?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT081,
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT082,
+UT083,Is there a terminative case?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT084,"The abessive can be used as a case-ending or in an adnominal function as an adjective. The latter function might be more frequent. Therefore, the abessive is not considered as a case-ending in most of the grammars."
+UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT085,
+UT086,Is there a locative case that marks goal?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT086,
+UT087,Is there a locative case that marks location?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT087,
+UT088,Is there a locative case that marks source?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT088,
+UT089,Is there case syncretism of goal and location marking?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT090,Is there case syncretism of location and source marking?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT091,Are there two sets of local cases?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT092,Is there a third set of local cases?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,The inessive -sa expresses the instrumental as well: mašina-sa (car-INE) 'with a car'.
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT095,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT097,Is there a separate morphological marker for expressing equative meaning?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT097,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,The dative is used (see UT082).
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT099,"Moksha has three declension types: basic declension, definite declension (expresses that the referent of the noun is known to the speaker and the listener) and the possessive declension."
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT103,Is non-singular possession marked in the possessive declension?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT103,
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT105,"The 3SG possessive suffix can be used instead of the definite declension with some unique nouns, however, this use is restricted."
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"The pronoun kijä 'who' is not used frequently, but the kona 'who, that, which' is used instead. It appears with animates: loman'-c'/buka-s', kona sa-s' c'ej (person-DEF.NOM/ox-DEF.NOM that come-PST1.3SG here) 'The person/ox that came here' as well as with inanimates valks-s', kona lis'-s' mel'ä (dictionary-DEF.NOM which come.out-PST1.3SG) 'the dictionary that came out last year'."
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"Kona 'who, that, which' is used with both animates and inanimates (see UT107)."
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT109,
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT110-1, UT110-2","The possessive suffixes usually follow the case suffixes, except for the genitive and dative, which precede the possessive suffixes."
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT111,"Plural marking is used in the basic declension only in the nominative. In other cases, the singular and the plural is distinguished only in the definite declension. The singular is unmarked, whereas in the plural the plural suffix t : t' (sometimes just the voicelessness of the previous consonant) follows the noun, and it is followed by the definiteness marker and the case ending."
+UT112,Are there different words for mother’s brother and father’s brother?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT112-1, UT112-2",
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT113-1, UT113-2, UT113-3",
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"There is only distinction for 'old', i.e. tašta 'old (inanimate)', s'ir'ä 'old (animate)'."
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"There is only distinction for cold: kel'mä ved' 'cold water', ušǝ-sa jakšama (outside-INE cold) 'it is cold outdoors'."
+UT116,Is there contrastive length of consonants?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT117,Is there contrastive length of vowels?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT118,Is there contrast between short and long unstressed vowels?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT119,Is there contrast in duration of geminate consonants?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT120,Are there more than two phonological quantities?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT121,Are there extralong syllables?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT122,Is the main foot structure trochaic?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,See UT125.
+UT123,Is there lexically distinctive word stress?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT124,Is there morphologically conditioned stress?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"The variants of the emphatic particle (clitic), -ga, -ge, -ka, -ke, -vok, -nga 'even, too': mon-ga 'me, too' tend to have primary or secondary stress."
+UT125,Is there fixed primary stress?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"The first syllable tends to be stressed if the word is uttered as a dictionary item; in speech, mostly disyllabic feet with a stressed and unstressed syllable alternate: MOn sǝrxk-An insAru. - Mon sƏrxk-an InsarU 'I will go to Insar'."
+UT126,Is there stress in heavy syllables?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT127,Is there non-initial primary stress?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"A tendency to stress the non-first syllable is noticeable in words with the high vowels i, u in the first syllable and the low vowels a, ä in a non-first syllable: śijÄ 'silver', kujA 'fat'. However, rhythmic initial-syllable stress functions in these words as well."
+UT128,Is there palatal vowel harmony?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT128,
+UT129,Is there velar vowel harmony?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT129,
+UT130,Is there labial vowel harmony?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT131,Are there rising diphthongs?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT132,Are there lowering diphthongs?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT135,Is there front high rounded vowel ü [y]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT139,Is there back low round vowel [ɒ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT140,
+UT141,Are there word-initial consonant clusters?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT141,
+UT142,Are there word-internal consonant clusters in syllable onset?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT142,
+UT143,Are there consonant clusters in syllable coda?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT143,
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT144,
+UT145,Are there word-final clusters of three or more consonants?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT145,
+UT146,Are there palatalized dentals?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT146,
+UT147,Are there palatalized labials and velars?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,"Before front vowels, labials and velars may be palatalized: ve 'night' > v'e, kev 'stone' > k'ev'."
+UT148,Is there palatal stop [c]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT149,Is there palatal nasal [ɲ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT150,Is there palatal lateral [ʎ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT151,Is there phonemic velar nasal [ŋ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT152,Is there dental affricate [t͡s]?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT152,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT153,
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),"UT154-1, UT154-2",
+UT155,"Are there voiced plosives [b, g, d]?",1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT155,
+UT156,Is there glottal stop [ˀ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT158,Is there a constraint on word-initial r?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT159,Is there laryngeal fricative [h]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT160,Is there voiced velar fricative [ɣ]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT161,Is there voiceless velar fricative [x]?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT162,Is there voiced dental fricative [ð]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT163,Is there phonemic labio-velar approximant [w]?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT164,Is there voiceless labiodental fricative [f]?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),UT164,
+UT165,Is there radical qualitative consonant gradation?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
+UT166,Is there quantitative consonant gradation?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt (p.c. 2022),,
