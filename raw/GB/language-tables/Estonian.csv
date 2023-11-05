@@ -145,12 +145,12 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,,,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,0,,,
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,"Erelt, Metslang 2017:182",,GB299
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,,,
-GB301,Is there an inclusory construction?,1,,GB301,
+GB301,Is there an inclusory construction?,1,,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,,,
 GB304,Can the agent be expressed overtly in a passive clause?,1,"Erelt, Metslang 2017:219",,GB304
 GB305,Is there a phonologically independent reflexive marker?,1,"Erelt, Metslang 2017:238-239",,GB305
-GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other, two + two)?,0,,
+GB306,"Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other, two + two)?",0,,,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,,,
 GB312,Is there overt morphological marking on the verb dedicated to mood?,1,Viht and Habicht 2019:113-114,,GB312
 GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,,,
@@ -193,4 +193,4 @@ GB433,Can adnominal possession be marked by a suffix on the possessed noun?,0,,,
 GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,,,
 GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,1,"Erelt, Metslang 2017:114-117",,GB520
 GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,,,
-GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,0,,,
+GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,,,
