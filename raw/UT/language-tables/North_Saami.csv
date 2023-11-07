@@ -1,167 +1,166 @@
 ID,Name,North.Saami,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Aikio 2009: 54,Moai Máhtiin vulge gávpái;1DU Matthew.COM leave.1DU store.ILL;Me and Matthew are going to the store;|Boahtibeahttigo doai Iŋggáin fárrui?;come.2DU.Q 2DU Ingá.COM along;Are you and Iŋgá coming along?;,
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,"Jussi Ylikoski, p.c.",,
-UT003,Can finite verbs agree in number with the nominal object?,0,"Jussi Ylikoski, p.c.",,
-UT004,Can an adnominal property word agree with the noun in case?,0,"Jussi Ylikoski, p.c.",,"The only adjective that agrees with the noun in case (and number) is buorre 'good', but it does not fully agree in all cases. E.g., buorre ovdamearka (good.NOM example.NOM), buori ovdamearkka (good.GENACC example.GENACC), buriin ovdamearkkain (good.COM example.COM), but buori ovdamearkkas (good.GENACC example.LOC). Additionally, many if not most present-day speakers (and even language authorities) use the non-declined buorre (NOM) in all cases."
-UT005,Are there cases that do not show agreement in terms of case?,1,"Jussi Ylikoski, p.c.",dán buori biillas;this.GENACC good.GENACC car.LOC;in this good car;,"There are cases that do not show full agreement, but have genitive modifiers instead."
-UT006,Can adpositions be used to mark core verbal arguments?,0,"Jussi Ylikoski, p.c.",,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Aikio 2009: 165,Kás'sa lea beavddi vuolde;box be.3SG table.GEN under.LOC;The box is under the table;,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,"Jussi Ylikoski, p.c.",Máreha boađedettiin;Máret.GENACC come.CVB;when Máret came;,
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,"Jussi Ylikoski, p.c.",,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,"Jussi Ylikoski, p.c.",,
-UT011,Does object marking correlate with aspectuality? ,0,"Jussi Ylikoski, p.c.",,
-UT012,Does the marking of the object depend on the verb conjugation form? ,0,"Jussi Ylikoski, p.c.",,
-UT013,Is there differential subject marking?,0,"Jussi Ylikoski, p.c.",,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,"Jussi Ylikoski, p.c.",,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,"Jussi Ylikoski, p.c.",,
-UT016,Is there a grammatical device for habituality?,0,"Jussi Ylikoski, p.c.",,
-UT017,Is there a grammatical device for frequentative?,1,"Jussi Ylikoski, p.c.;Sammallahti 1998: 92[example]",láhppit > láhp-ad-it;;lose > lose (many objects);|čohkánit > čohkán-adda-t;;sit down > sit down (of many);|báhčit > báhč-al-it;;shoot > shoot (many times);,There are many derivational suffixes with frequentative meaning.
-UT018,Is there a grammatical device for progressivity?,1,Ylikoski 2009: 40,Piera lea ~ le-i juhka-min vuola;Piera be.3SG ~ be-PST.3SG drink-ACTESS beer.GENACC;Piera is ~ was drinking beer;,
-UT019,Is it common to use a verb in the present tense for future time reference? ,1,Aikio 2009: 134[example1];Aikio 2009: 168[example2],"Mun vuoššan gáfe, jugažehpet dahje ehpet;1SG cook.1SG coffee.GEN drink.DUB.2PL or NEG.2PL;I will cook coffee, no matter whether you (pl.) will drink it or not;4|Máhtte boahtá vahku geažes;Matthew come.3SG week.GEN in;Matthew will come in a week;",
-UT020,Is there a grammatical device for immediate future?,1,"Jussi Ylikoski, p.c.",Toga lea (aiddo) vuolgi-min;train be.3SG (just) leave-PROG;The train is about to leave;,The adverb aiddo 'just' makes the prxoimative function of the progressive (”action essive”) form even more explicit.
-UT021,Is there a grammatical device for pluperfect?,1,Aikio 2009: 124,le-imme geahčča-n;be-PST.1DU watch-PST.PTCP;we two had watched;,
-UT022,Can aspect be expressed overtly on the negative marker?,0,"Jussi Ylikoski, p.c.",,
-UT023,Can tense be expressed overtly on the negative marker?,0,"Jussi Ylikoski, p.c.",,
-UT024,Is there grammatical marking of mirativity?,0,"Jussi Ylikoski, p.c.",,
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,"Jussi Ylikoski, p.c.",,
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Ylikoski 2009: 172,Dasgo jos muhtun makedonia-lačča-t boađá-š-edje mu fárus;for if some Macedonia-ADJ-PL come-COND-3PL 1SG.GENACC with;For if any Macedonians come with me […];,
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Aikio 2009: 131,"Livččiime vuolgán gávpogii, jos ii livčče arván:be.1DU.COND leave.PST.PTCP city.ILL if NEG.3SG be.COND.CNG rain.PST.PTCP;We would have gone to the city if it had not rained;",
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,"Jussi Ylikoski, p.c.",,
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility? ,1,"Jussi Ylikoski, p.c.;Sammallahti 2005: 145[example]",Niillas leažžá boahti-me;Niillas be.POT.3SG come-PROG;Niillas might be coming;,"The so-called potential mood is somewhat different from its namesake in Finnish, but sometimes fits into this category."
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility? ,0,"Jussi Ylikoski, p.c.",,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Aikio 2009: 128,Vulgos Máhtte baicce;leave.IMP.3SG Matthew instead;Let Matthew go instead;,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,"Jussi Ylikoski, p.c.",,
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will? ,0,"Jussi Ylikoski, p.c.",,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,"Jussi Ylikoski, p.c.",,
-UT035,Is there reflexive conjugation?,0,"Jussi Ylikoski, p.c.",,
-UT036,Are there syntactically ditransitive verbs?,0,"Jussi Ylikoski, p.c.",,"However, in some Torne dialects, causative verbs take two objects: Niillas daga-h-ii rávdi niibbi (Niillas make-CAUS-PST.3SG smith.GENACC knife.GENACC). Cf. other dialects: Niillas daga-h-ii rávdái niibbi (Niillas make-CAUS-PST.3SG smith.ILL knife.GENACC) ’Niillas made the smith make him a knife.’"
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,"Jussi Ylikoski, p.c.",,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,"Jussi Ylikoski, p.c.",,
-UT039,Can third person plural verb forms be used for impersonal reference?,1,"Jussi Ylikoski, p.c.",Norggas borret ollu guoli;Norway.LOC eat.3PL much fish.GENACC;People eat a lot of fish in Norway;,
-UT040,Can second person singular verb forms be used in generic meaning?,1,"Jussi Ylikoski, p.c.","Go gealat bániid guktii jándoris, dat váikkuha dearvvašvuhtii máŋgga ládje;when brush.2SG tooth.PL.GENACC twice day.LOC it affect.3SG health.ILL many.GENACC in.a.way;When you brush / one brushes teeth twice a day, it has many health effects;","Used colloquially, probably increasingly used due to Scandinavian influence. "
-UT042,Are clauses with only infinitive predicates possible?,1,Sammallahti 2005: 207,Sivvadit johti-t!;carefully travel-INF;Go carefully!;|Ii doarru-t!;NEG.3SG quarrel-INF;Do not quarrel!;,The infinitive can be used in imperative sentences.
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,"Jussi Ylikoski, p.c.",Mun vuolggán Ungárii oahppat ungáragiela;1SG leave.1SG Hungary.ILL learn.INF Hungarian.GENACC;I am going to Hungary to learn Hungarian; ,
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,"Jussi Ylikoski, p.c.",Arvá;rain.3SG;It’s raining;,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,Aikio 2009: 40,Ruoksat lea mu fávorihttaivdni;red(.NOM) be.3SG 1SG.GEN favorite.color;Red is my favorite color;,
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,"Jussi Ylikoski, p.c.",Máret lei ikte buohcci;Máret.NOM be.PST.3SG yesterday sick;Máret was sick yesterday;,
-UT047,Can locative adverbial phrases act as predicates without a copula?,0,"Jussi Ylikoski, p.c.",,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses? ",1,Aikio 2009: 149,"Ánná ja Piera;;Ánná and Piera;|Máhtte áiccai lotti ja rohttii hávlára báhčinláhkai;Matthew notice.PST.3SG bird.GEN and pull.quickly.PST.3SG shotgun.GEN
-shoot.nláhkai;Matthew noticed a bird and quickly drew out the shotgun;","Coordination can be expressed several ways: 1) Ánná ja Piera 'Ánná and Piera', 2) Ánná(-guovttos) Piera-in (Ánná.GENACC(-DU) Piera-COM) 'Ánná with Piera'"
-UT049,Does existential negation have a separate operator?,0,"Jussi Ylikoski, p.c.",,
-UT050,Can standard negation be asymmetric in the present tense?,1,"Jussi Ylikoski, p.c.",diehtá : ii dieđe;know.3SG : NEG.3SG know.CNG;s/he knows : s/he does not know,
-UT051,Can non-finite dependent clauses use the standard negation construction?,0,"Jussi Ylikoski, p.c.",,
-UT052,Is there a special negator that combines with non-finite forms?,1,"Jussi Ylikoski, p.c.",Mun vuolggán ruoktot ama-n nohkka-t;1SG leave.1SG home lest-1SG.POSS fall.asleep-INF;I will go home lest I fall asleep;,The purposive infinitive (cf. UT043) can be negated with the element ama- followed by a possessive suffix.
-UT053,Are there special negative non-finite forms?,1,Ylikoski 2009: 38,Piera daga-i rihkkos-a juga-keahttá vuola;Piera make-PST.3SG crime-GENACC drink-VABE beer.GA;Piera committed a crime without drinking beer;,
-UT054,Is there an impersonal passive construction?,0,"Jussi Ylikoski, p.c.",,
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,"Jussi Ylikoski, p.c.",Johan Turi čállin girji;Johan Turi.GENACC write.AG.PTCP book;the book written by Johan Turi;,The form čállin is traditionally the so-called agentive participle; nowadays it is  often replaced by čállojuvvon (write.PASS.PST.PTCP) or čállán (write.PST.PTCP).
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,"Jussi Ylikoski, p.c.",dán girjji čállán nisu;this.GENACC book.GENACC write.PST.PTCP woman;the woman who has written this book';|dán nissona čállán girji;this.GENACC woman.GENACC write.PST.PTCP book;the book written by this woman;,
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,"Jussi Ylikoski, p.c.",,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,"Jussi Ylikoski, p.c.;Ylikoski 2009: 162[example]",Vuosttažettiin namah-uvvo-jit nisson-ii-d bassal-keahtes;first mention-PASS-3PL woman-PL-GENACC wash-keahtes;buksa-hiitam-at dahje oapme-buvssa-t;pant-seat-PL or worn.out-pant-PL;The fi rst things to be mentioned are the unwashed seats of women’s pants or worn-out pants;,"Somewhat surprisingly, the suffix -keahtes has been ignored by most grammars, but it can be labeled as the negative participle."
-UT059,Is there a future participle?,0,"Jussi Ylikoski, p.c.",,
-UT060,Are there participles that can encode their subject by possessive suffixes?,0,"Jussi Ylikoski, p.c.",,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,"Jussi Ylikoski, p.c.",,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,"Jussi Ylikoski, p.c.",,"The agentive participle is homonymous with the action nominalization except for three-syllable stems, but even then, the agentive participle is identical with the short variant of the action nominalization used in compounds: čállin 1) write + agentive participle (’written by’)  or 2) action nominalization ’(act of) writing’); jorgalan translate-AG.PTCP >< jorgaleapmi translate-AN, but jorgalan- in, e.g., jorgal-an-bargu translate-AN-work"
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Ylikoski 2009: 132,áhči reivve lohka-n;father.GENACC letter.GENACC read-VN;reading of a letter by the father;Ylikoski 2009: 132;reivve lohka-n áhčči;letter.GENACC read-PTC.PST father;the father who read a letter;,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Ylikoski 2009: 132, 134",čáll-i;write-PTCP.PRS;writer (of the book);|;reivve čáll-i áhčči;letter.GENACC write-PTCP.PRS father;the father writing a letter;,
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,Ylikoski 2002: 99,– – ja son daja-i [issorasa-t geahpih-an];and s/he say-PST.3SG terrible-ADV be_relieved-PTCP.PRF;– – und er sagte ungeheuer erleichtert;,"The past participle is not commonly, but nevertheless occasionally used as an anterior converb."
-UT066,Is OV the neutral order in affirmative imperative clauses?,0,"Jussi Ylikoski, p.c.",Váldde dán/káfe!;take.IMP.2SG this.GENACC/coffee.GENACC;take this/take/have some coffee!;,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions? ,1,"Jussi Ylikoski, p.c.",Ale mu sivat!;NEG.IMP.2SG 1SG.ACC blame.CNG;Don't blame me!;,
-UT068,Are there preverbs?,1,"Jussi Ylikoski, p.c.", E.g. ovdan ’forth’ + buktit ’bring’ yields ovdanbuktit ~ ovdan buktit ~ buktit ovdan ’present’,
-UT069,Are there verbal prefixes?,0,"Jussi Ylikoski, p.c.",,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,"Jussi Ylikoski, p.c.",,
-UT071,Can modifiers of action nominalization in agent and patient roles both be marked like possessors?,1,Ylikoski 2002: 108,Vašálačča-i-d gávpog-a molle-n;enemy-PL-GENACC town-GENACC destruct-AN;Destruction of the city by the enemy/Destruction of the enemy's city?;,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be marked like the direct object?",1,"Jussi Ylikoski, p.c.",máná ohcan;child.GENACC seek-NMLZ;search for the child;|Mun oidne-n máná;1SG see-PST.3SG;child.GENACC;I saw a child;,
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Ylikoski 2009: 153,Báikki olbmo-t lea-t geafi-t;locality.GA human-PL be-3PL poor-PL;The local people are poor;,
-UT074,Is it possible to form synthetic superlative?,1,Ylikoski 2009: 114,ovttáá-in stuárráá-muzzáá-in kárbáá-in;one-COM large-SPRL-COM boat-COM;with one of the largest boats;,
-UT075,Can adpositions have person/number marking?,1,"Jussi Ylikoski, p.c.",birra-met;around-1PL;around us;,"Marginal, but possible."
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",0,"Jussi Ylikoski, p.c.",,
-UT077,Is case compounding possible?,0,"Jussi Ylikoski, p.c.",,
-UT078,Are there case categories only found in pronouns?,0,"Jussi Ylikoski, p.c.",,
-UT079,Does the numeral modification of a noun have an effect on its case selection? ,1,"Jussi Ylikoski, p.c.",guhtta jagi;six year.GENACC;six years;,
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,"Jussi Ylikoski, p.c.",guhtta jagi;six year.GENACC;six years;,
-UT081,Is there a genitive case that has an affix?,1,"Jussi Ylikoski, p.c.",Anton-a;Anton-GEN;Anton's;,"The original Uralic genitive singular has been lost, but the genitive-accusative plural is <-id > (-j(t)/; thus the genitive case has an affix. Moreover, inflectional paradigms like Anton : Anton-a SG.GEN : Anton-is SG.LOC suggest that -a is the new singular genitive marker for many words."
-UT082,Is there a dative case used to express indirect object/receiver/goal (different from a local case)?,0,"Jussi Ylikoski, p.c.",,
-UT083,Is there a terminative case?,0,"Jussi Ylikoski, p.c.",,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Norde 2009;Ylikoski 2016,,"The abessive case has degrammaticalized into postposition (and even adverb and preposition), but there are still traces of the abessive as a case marker."
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Aikio 2009: 54,"UT001-1, UT001-2",
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Jussi Ylikoski (p.c. 2020),,
+UT003,Can finite verbs agree in number with the nominal object?,0,Jussi Ylikoski (p.c. 2020),,
+UT004,Can an adnominal property word agree with the noun in case?,0,Jussi Ylikoski (p.c. 2020),,"The only adjective that agrees with the noun in case (and number) is buorre 'good', but it does not fully agree in all cases. E.g., buorre ovdamearka (good.NOM example.NOM), buori ovdamearkka (good.GENACC example.GENACC), buriin ovdamearkkain (good.COM example.COM), but buori ovdamearkkas (good.GENACC example.LOC). Additionally, many if not most present-day speakers (and even language authorities) use the non-declined buorre (NOM) in all cases."
+UT005,Are there cases that do not show agreement in terms of case?,1,Jussi Ylikoski (p.c. 2020),UT005,"There are cases that do not show full agreement, but have genitive modifiers instead."
+UT006,Can adpositions be used to mark core verbal arguments?,0,Jussi Ylikoski (p.c. 2020),,
+UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Aikio 2009: 165,UT007,
+UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Jussi Ylikoski (p.c. 2020),UT008,
+UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,Jussi Ylikoski (p.c. 2020),,
+UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,Jussi Ylikoski (p.c. 2020),,
+UT011,Does object marking correlate with aspectuality?,0,Jussi Ylikoski (p.c. 2020),,
+UT012,Does the marking of the object depend on the verb conjugation form?,0,Jussi Ylikoski (p.c. 2020),,
+UT013,Is there differential subject marking?,0,Jussi Ylikoski (p.c. 2020),,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Jussi Ylikoski (p.c. 2020),,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Jussi Ylikoski (p.c. 2020),,
+UT016,Is there a grammatical device for habituality?,0,Jussi Ylikoski (p.c. 2020),,
+UT017,Is there a grammatical device for frequentative?,1,Jussi Ylikoski (p.c. 2020),"UT017-1, UT017-2, UT017-3",There are many derivational suffixes with frequentative meaning.
+UT018,Is there a grammatical device for progressivity?,1,Ylikoski 2009: 40,UT018,
+UT019,Is it common to use a verb in the present tense for future time reference?,1,"Aikio 2009: 134, 168","UT019-1, UT019-2",
+UT020,Is there a grammatical device for immediate future?,1,Jussi Ylikoski (p.c. 2020),UT020,The adverb aiddo 'just' makes the prxoimative function of the progressive (”action essive”) form even more explicit.
+UT021,Is there a grammatical device for pluperfect?,1,Aikio 2009: 124,UT021,
+UT022,Can aspect be expressed overtly on the negative marker?,0,Jussi Ylikoski (p.c. 2020),,
+UT023,Can tense be expressed overtly on the negative marker?,0,Jussi Ylikoski (p.c. 2020),,
+UT024,Is there grammatical marking of mirativity?,0,Jussi Ylikoski (p.c. 2020),,
+UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,0,Jussi Ylikoski (p.c. 2020),,
+UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Ylikoski 2009: 172,UT026,
+UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Aikio 2009: 131,UT027,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Jussi Ylikoski (p.c. 2020),,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Jussi Ylikoski (p.c. 2020),UT029,"The so-called potential mood is somewhat different from its namesake in Finnish, but sometimes fits into this category."
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Jussi Ylikoski (p.c. 2020),,
+UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Aikio 2009: 128,UT031,
+UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Jussi Ylikoski (p.c. 2020),,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Jussi Ylikoski (p.c. 2020),,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Jussi Ylikoski (p.c. 2020),,
+UT035,Is there reflexive conjugation?,0,Jussi Ylikoski (p.c. 2020),,
+UT036,Are there syntactically ditransitive verbs?,0,Jussi Ylikoski (p.c. 2020),,"However, in some Torne dialects, causative verbs take two objects: Niillas daga-h-ii rávdi niibbi (Niillas make-CAUS-PST.3SG smith.GENACC knife.GENACC). Cf. other dialects: Niillas daga-h-ii rávdái niibbi (Niillas make-CAUS-PST.3SG smith.ILL knife.GENACC) ’Niillas made the smith make him a knife.’"
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Jussi Ylikoski (p.c. 2020),,
+UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Jussi Ylikoski (p.c. 2020),,
+UT039,Can third person plural verb forms be used for impersonal reference?,1,Jussi Ylikoski (p.c. 2020),UT039,
+UT040,Can second person singular verb forms be used in generic meaning?,1,Jussi Ylikoski (p.c. 2020),UT040,"Used colloquially, probably increasingly used due to Scandinavian influence. "
+UT042,Are clauses with only infinitive predicates possible?,1,Sammallahti 2005: 207,"UT042-1, UT042-2",The infinitive can be used in imperative sentences.
+UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Jussi Ylikoski (p.c. 2020),UT043,
+UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Jussi Ylikoski (p.c. 2020),UT044,
+UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,1,Aikio 2009: 40,UT045,
+UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Jussi Ylikoski (p.c. 2020),UT046,
+UT047,Can locative adverbial phrases act as predicates without a copula?,0,Jussi Ylikoski (p.c. 2020),,
+UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,Aikio 2009: 149,"UT048-1, UT048-2","Coordination can be expressed several ways: 1) Ánná ja Piera 'Ánná and Piera', 2) Ánná(-guovttos) Piera-in (Ánná.GENACC(-DU) Piera-COM) 'Ánná with Piera'"
+UT049,Does existential negation have a separate operator?,0,Jussi Ylikoski (p.c. 2020),,
+UT050,Can standard negation be asymmetric in the present tense?,1,Jussi Ylikoski (p.c. 2020),UT050,
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,Jussi Ylikoski (p.c. 2020),,
+UT052,Is there a special negator that combines with non-finite forms?,1,Jussi Ylikoski (p.c. 2020),UT052,The purposive infinitive (cf. UT043) can be negated with the element ama- followed by a possessive suffix.
+UT053,Are there special negative non-finite forms?,1,Ylikoski 2009: 38,UT053,
+UT054,Is there an impersonal passive construction?,0,Jussi Ylikoski (p.c. 2020),,
+UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Jussi Ylikoski (p.c. 2020),UT055,The form čállin is traditionally the so-called agentive participle; nowadays it is  often replaced by čállojuvvon (write.PASS.PST.PTCP) or čállán (write.PST.PTCP).
+UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,Jussi Ylikoski (p.c. 2020),"UT056-1, UT056-2",
+UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Jussi Ylikoski (p.c. 2020),,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Jussi Ylikoski (p.c. 2020),UT058,"Somewhat surprisingly, the suffix -keahtes has been ignored by most grammars, but it can be labeled as the negative participle."
+UT059,Is there a future participle?,0,Jussi Ylikoski (p.c. 2020),,
+UT060,Are there participles that can encode their subject by possessive suffixes?,0,Jussi Ylikoski (p.c. 2020),,
+UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,Jussi Ylikoski (p.c. 2020),,
+UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Jussi Ylikoski (p.c. 2020),,"The agentive participle is homonymous with the action nominalization except for three-syllable stems, but even then, the agentive participle is identical with the short variant of the action nominalization used in compounds: čállin 1) write + agentive participle (’written by’)  or 2) action nominalization ’(act of) writing’); jorgalan translate-AG.PTCP >< jorgaleapmi translate-AN, but jorgalan- in, e.g., jorgal-an-bargu translate-AN-work"
+UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,Ylikoski 2009: 132,"UT063-1, UT063-2",
+UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,"Ylikoski 2009: 132, 134","UT064-1, UT064-2",
+UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",1,Ylikoski 2002: 99,UT065,"The past participle is not commonly, but nevertheless occasionally used as an anterior converb."
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,Jussi Ylikoski (p.c. 2020),,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,1,Jussi Ylikoski (p.c. 2020),UT067,
+UT068,Are there preverbs?,1,Jussi Ylikoski (p.c. 2020),UT068, E.g. ovdan ’forth’ + buktit ’bring’ yields ovdanbuktit ~ ovdan buktit ~ buktit ovdan ’present’
+UT069,Are there verbal prefixes?,0,Jussi Ylikoski (p.c. 2020),,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Jussi Ylikoski (p.c. 2020),,
+UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,Ylikoski 2002: 108,UT071,
+UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,Jussi Ylikoski (p.c. 2020),"UT072-1, UT072-2",
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Ylikoski 2009: 153,UT073,
+UT074,Is it possible to form synthetic superlative?,1,Ylikoski 2009: 114,UT074,
+UT075,Can adpositions have person/number marking?,1,Jussi Ylikoski (p.c. 2020),UT075,"Marginal, but possible."
+UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",0,Jussi Ylikoski (p.c. 2020),,
+UT077,Is case compounding possible?,0,Jussi Ylikoski (p.c. 2020),,
+UT078,Are there case categories only found in pronouns?,0,Jussi Ylikoski (p.c. 2020),,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,1,Jussi Ylikoski (p.c. 2020),UT079,
+UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Jussi Ylikoski (p.c. 2020),UT079,
+UT081,Is there a genitive case that has an affix?,1,Jussi Ylikoski (p.c. 2020),UT081,"The original Uralic genitive singular has been lost, but the genitive-accusative plural is <-id > (-j(t)/; thus the genitive case has an affix. Moreover, inflectional paradigms like Anton : Anton-a SG.GEN : Anton-is SG.LOC suggest that -a is the new singular genitive marker for many words."
+UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Jussi Ylikoski (p.c. 2020),,
+UT083,Is there a terminative case?,0,Jussi Ylikoski (p.c. 2020),,
+UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Norde 2009; Ylikoski 2016,,"The abessive case has degrammaticalized into postposition (and even adverb and preposition), but there are still traces of the abessive as a case marker."
 UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Ylikoski 2014,,"There is a very much case-like suffix -ráigge that would in principle count as a case suffix to some extent, but is not a full case on a par with other cases."
-UT086,Is there a locative case that marks goal?,1,"Jussi Ylikoski, p.c.",meahccá-i;forest-ILL;to the forest,
-UT087,Is there a locative case that marks location?,0,"Jussi Ylikoski, p.c.",,
-UT088,Is there a locative case that marks source?,0,"Jussi Ylikoski, p.c.",,
-UT089,Is there case syncretism of goal and location marking?,0,"Jussi Ylikoski, p.c.",,
-UT090,Is there case syncretism of location and source marking?,1,"Jussi Ylikoski, p.c.",feastta-s;party-LOC;at a party / from a party,
-UT091,Are there two sets of local cases?,0,"Jussi Ylikoski, p.c.",,
-UT092,Is there a third set of local cases?,0,"Jussi Ylikoski, p.c.",,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,"Jussi Ylikoski, p.c.",guvtti-in gieđa-in;two-COM hand-COM;with both hands;,
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,"Jussi Ylikoski, p.c.",,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,"Jussi Ylikoski, p.c.",guolli-n;fish-ESS;into a fish/as a fish,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,"Jussi Ylikoski, p.c.",,
-UT097,Is there a separate morphological marker for expressing equative meaning?,0,"Jussi Ylikoski, p.c.",,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,"Jussi Ylikoski, p.c.",,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,"Jussi Ylikoski, p.c.",,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,"Jussi Ylikoski, p.c.",,
-UT101,Can the marking of the possessor in the attributive construction vary?,0,"Jussi Ylikoski, p.c.",,
-UT102,Can the possessor in the attributive construction be marked with the nominative?,0,"Jussi Ylikoski, p.c.",,
-UT103,Is non-singular possession marked in the possessive declension?,1,"Jussi Ylikoski, p.c.",vielljasan;brother.ILL.1SG;to my borther;|vieljaidasan; brother.PL.ILL.1SG;to my brothers;,"However, in most spoken varieties possessive forms are very marginal and even quite foreign to many speakers."
-UT104,Can 2Sg possessive suffix be used to mark definiteness? ,0,"Jussi Ylikoski, p.c.",,
-UT105,Can 3Sg possessive suffix be used to mark definiteness? ,0,"Jussi Ylikoski, p.c.",,
-UT106,Is there animacy distinction in independent interrogative pronouns?,1,"Jussi Ylikoski, p.c.",gii;;who;|mii;;what;;,
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,"Jussi Ylikoski, p.c.",,
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,"Jussi Ylikoski, p.c.",,
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,"Jussi Ylikoski, p.c.",Son/Dat lea mu skibir;3SG/it be.3SG 1SG.GENACC friend;S/he/it is my friend;,
-UT110,Is the order of possessive suffix and case suffix across the paradigm the same?,0,"Jussi Ylikoski, p.c.",máná-id-is;child-PL.GEN/ACC-3SG;;|máná-id-is-guin;child-PL(.COM)-3SG-PL.COM;;,"The dominant  order is cx+px, but the relatively recent comitative plural is an exception."
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,"Jussi Ylikoski, p.c.",,"Plural case forms are mostly distinguished from the singular ones by the use of a different set of case suffixes, even though historically these plural suffixes are bimorphemic and contain a plural marker *-j-. From a synchronic perspective, the question about the order of number and case suffixes is irrelevant, though the number and case markers cannot be distinguished."
-UT112,Are there different words for mother’s brother and father’s brother?,1,"Jussi Ylikoski, p.c.",eanu;;mother's brother;|eahki;;father's older brother;|čeahci;;father's younger brother;,
-UT113,Are there different words for younger and older relative for other relations than siblings?,1,"Jussi Ylikoski, p.c.",eahki;;father's older brother;|čeahci;;father's younger brother;|goaski;;mother's older sister;|muoŧŧá;;mother's younger sister;,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,"Jussi Ylikoski, p.c.",,"There is distinction only for 'young': nuorra – boaris 'young – old' (animate), ođđa – boaris 'new – old' (inanimate). In addition, vuoras ’elderly’ may refer to older persons, but is mostly a noun."
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,"Jussi Ylikoski, p.c.",,
-UT116,Is there contrastive length of consonants?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",gohpi [ˈko:hpi] ‘pit’ vs. gohppi [ˈkohp:i] ‘bay’; namma [ˈnɑm:ɑ] ‘name’ vs. nama [ˈnɑːmɑˑ] name.GENACC.SG,Both lexical and grammatical contrast although lexical contrast is not as common as grammatical.
-UT117,Is there contrastive length of vowels?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",cum’má [ˈt͡sumːæː] ‘kiss’ vs. cummá [ˈt͡suːmːæː] kiss.GENACC.SG,The contrastive length of vowels is present in the Western Inland dialects and in the Eastern Inland dialects. They differ from each other a lot in terms of phonetic realization of single vowels and diphthongs. Length is not straight-forwardly marked in standard orthography. 
-UT118,Is there contrast between short and long unstressed vowels?,1,"Jussi Ylikoski, p.c.",guolaš [ˈkŭĕlaʃ] vs. guoláš [ˈkuolaːʃ],"Mostly for unstressed a : aa, marginally for other vowels. "
-UT119,Is there contrast in duration of geminate consonants?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",guos’si [ˈkŭĕsːsiˑ] guest.NOM.SG vs. guossi [ˈkuosːiˑ] guest.GENACC.SG,"This difference is not marked in standard orthography. In dictionaries and grammars, the apostrophe is often used to mark Q3."
-UT120,Are there more than two phonological quantities? ,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.","gol’lis [ˈkolːliˑs] gold.NOM.SG.SG3.PX vs. gollis [ˈkolːiˑs] gold.GENACC.SG.SG3.PX vs. olis [ˈoliˑs] ‘at, near’","There are three phonological quantities in the intervocalic consonant but the consonantal quantity also affects the surrounding segments, especially V1."
-UT121,Are there extralong syllables? ,1,"Jussi Ylikoski, p.c.",meahcci [ˈmeaʰt͡sːi] ‘forest’,
-UT122,Is the main foot structure trochaic?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",guos’si [ˈkŭĕsː.siˑ] guest.NOM.SG,Primary word stress is always on the first syllable.
-UT123,Is there lexically distinctive word stress?,0,"Jussi Ylikoski, p.c.",,
-UT124,Is there morphologically conditioned stress?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.","beatnagat [ˈpiætˌna.ˌat] dog.NOM.PL, jearaldagat [ˈjeaˌralˈta.ˌat] question.NOM.PL","A stressed syllable is followed by one or two unstressed syllables. If a word has four or more syllables, every other syllable is stressed."
-UT125,Is there fixed primary stress?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",guos’si [ˈkŭĕsː.siˑ] guest.NOM.SG,Primary word stress is always on the first syllable.
-UT126,Is there stress in heavy syllables?,0,"Jussi Ylikoski, p.c.",,
-UT127,Is there non-initial primary stress?,0,"Jussi Ylikoski, p.c.",,
-UT128,Is there palatal vowel harmony?,0,"Jussi Ylikoski, p.c.",,
-UT129,Is there velar vowel harmony?,0,"Jussi Ylikoski, p.c.",,
-UT130,Is there labial vowel harmony? ,0,"Jussi Ylikoski, p.c.",,
-UT131,Are there rising diphthongs? ,0,"Jussi Ylikoski, p.c.",,
-UT132,Are there lowering diphthongs?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.","moai [ˈmoæj], doai [ˈdoæj],  soai  [ˈsoæj] ‘we two, you two, them two’ (dual pronouns)",
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,"Jussi Ylikoski, p.c.",,
-UT134,Are there full vs. reduced vowels as contrastive subsets? ,0,"Jussi Ylikoski, p.c.",,
-UT135,Is there front high rounded vowel ü [y]?,0,"Jussi Ylikoski, p.c.",,"Not in autochthonous vocabulary, but in various loanwords as well as in diphthongs in certain dialects."
-UT136,Is there front midhigh rounded vowel ö [ø]?,0,"Jussi Ylikoski, p.c.",,"Not in autochthonous vocabulary, but in various loanwords as well as in diphthongs in certain dialects."
-UT137,Is there back high unrounded vowel ï [ɯ]?,0,"Jussi Ylikoski, p.c.",,
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,"Jussi Ylikoski, p.c.",,
-UT139,Is there back low round vowel [ɒ]?,0,"Jussi Ylikoski, p.c.",,"[ɒ] is found in dialects spoken in Utsjoki, Karasjok, Tana etc., perhaps about 30–40 % of the speakers of the language."
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,"Jussi Ylikoski, p.c.",,In the easternmost dialects. 
-UT141,Are there word-initial consonant clusters?,1,"Jussi Ylikoski, p.c.",Tromsa [tromsa],"In the easternmost dialects. However, all speakers in Norway and Sweden (western dialects) have an ever-increasing number of Scandinavian loan words with word-initial consonant clusters. For example, the city of Tromsø is officially Romsa, but popularly Tromsa [tromsa], clearly the Saami name for [trumsø]."
-UT142,Are there word-internal consonant clusters in syllable onset?,1,"Jussi Ylikoski, p.c.",,
-UT143,Are there consonant clusters in syllable coda?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",geađ̄ggit [ˈgeaðk.ˌkiʰt] rock.NOM.PL,
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.","čalbmi [ˈt͡ʃɑlbmi] ‘eye’, návstu [ˈnavstuˑ] ‘shack’",
-UT145,Are there word-final clusters of three or more consonants?,0,"Jussi Ylikoski, p.c.",,
-UT146,Are there palatalized dentals? ,1,Aikio & Ylikoski (forthcoming),latnja [lɑtʲnʲɑɑ] ‘room’ ,"In the absence of phonetic studies, it may be a matter of taste whether the ”palatal” consonants include /nʲ/ or /ɲ/."
-UT147,Are there palatalized labials and velars? ,0,"Jussi Ylikoski, p.c.",,
-UT148,Is there palatal stop [c]?,0,Aikio & Ylikoski (forthcoming),,There is /tʲ/ instead of /c/.
-UT149,Is there palatal nasal [ɲ]?,0,"Jussi Ylikoski, p.c.",,See UT146.
-UT150, Is there palatal lateral [ʎ]?,0,Aikio & Ylikoski (forthcoming),,There is /lʲ/ instead of /ʎ/. 
-UT151,Is there phonemic velar nasal [ŋ]?,0,"Jussi Ylikoski, p.c.",,Present in the eastern dialects.
-UT152,Is there dental affricate [t͡s]?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",cum’má [ˈt͡sumːæː] ‘kiss’,
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Aikio & Ylikoski (forthcoming),čibbi [tɕibpi] 'knee',"In the absence of phonetic studies, it may be a matter of taste whether the non-dental consonants include /t͡ʃ/ and /ʃ/ or /t͡ɕ/ and /ɕ/. "
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Aikio & Ylikoski (forthcoming),ruossa [ruosː.sɑ] ‘cross’ vs. ruošša [ruoɕː.ɕɑ] ‘Russian’,"In the absence of phonetic studies, it may be a matter of taste whether the non-dental consonants include /t͡ʃ/ and /ʃ/ or /t͡ɕ/ and /ɕ/. "
-UT155,"Are there voiced plosives [b, g, d]?",0,"Jussi Ylikoski, p.c.",,
-UT156,Is there glottal stop [ˀ]?,0,"Jussi Ylikoski, p.c.",,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,"Jussi Ylikoski, p.c.",,
-UT158,Is there a constraint on word-initial r?,0,"Jussi Ylikoski, p.c.",,
-UT159,Is there laryngeal fricative [h]?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.","hállat [ˈhaːlːaːʰt] ‘to speak’, guhká [ˈkuːhkæː] ‘for a long time’",Pronunciation as in the Eastern dialect.
-UT160,Is there voiced velar fricative [ɣ]?,0,"Jussi Ylikoski, p.c.",,The last remnants of /ɣ/ in the eastern dialects seem to have disappeared by the 21th century.
-UT161,Is there voiceless velar fricative [x]?,0,"Jussi Ylikoski, p.c.",,
-UT162,Is there voiced dental fricative [ð]?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",gieđa [ˈkieða] hand.GENACC.SG,
-UT163,Is there phonemic labio-velar approximant [w]?,0,"Jussi Ylikoski, p.c.",,
-UT164,Is there voiceless labiodental fricative [f]?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",geaffi [ˈgeaf:iˑ] ‘poor’ ,
-UT165,Is there radical qualitative consonant gradation?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",giehta [ˈkiehta] ‘hand’ vs. gieđa [ˈkieða] hand.GENACC.SG,
-UT166,Is there quantitative consonant gradation?,1,"Jussi Ylikoski & Katri Hiovain-Asikainen, p.c.",gussa [ˈkuːsːa] ‘cow’ vs. gusa [ˈkuːsa] cow.GENACC.SG,
+UT086,Is there a locative case that marks goal?,1,Jussi Ylikoski (p.c. 2020),UT086,
+UT087,Is there a locative case that marks location?,0,Jussi Ylikoski (p.c. 2020),,
+UT088,Is there a locative case that marks source?,0,Jussi Ylikoski (p.c. 2020),,
+UT089,Is there case syncretism of goal and location marking?,0,Jussi Ylikoski (p.c. 2020),,
+UT090,Is there case syncretism of location and source marking?,1,Jussi Ylikoski (p.c. 2020),UT090,
+UT091,Are there two sets of local cases?,0,Jussi Ylikoski (p.c. 2020),,
+UT092,Is there a third set of local cases?,0,Jussi Ylikoski (p.c. 2020),,
+UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Jussi Ylikoski (p.c. 2020),UT093,
+UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Jussi Ylikoski (p.c. 2020),,
+UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,1,Jussi Ylikoski (p.c. 2020),UT095,
+UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Jussi Ylikoski (p.c. 2020),,
+UT097,Is there a separate morphological marker for expressing equative meaning?,0,Jussi Ylikoski (p.c. 2020),,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Jussi Ylikoski (p.c. 2020),,
+UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Jussi Ylikoski (p.c. 2020),,
+UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Jussi Ylikoski (p.c. 2020),,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Jussi Ylikoski (p.c. 2020),,
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Jussi Ylikoski (p.c. 2020),,
+UT103,Is non-singular possession marked in the possessive declension?,1,Jussi Ylikoski (p.c. 2020),"UT103-1, UT103-2","However, in most spoken varieties possessive forms are very marginal and even quite foreign to many speakers."
+UT104,Can 2Sg possessive suffix be used to mark definiteness?,0,Jussi Ylikoski (p.c. 2020),,
+UT105,Can 3Sg possessive suffix be used to mark definiteness?,0,Jussi Ylikoski (p.c. 2020),,
+UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Jussi Ylikoski (p.c. 2020),"UT106-1, UT106-2",
+UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Jussi Ylikoski (p.c. 2020),,
+UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Jussi Ylikoski (p.c. 2020),,
+UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Jussi Ylikoski (p.c. 2020),UT109,
+UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,Jussi Ylikoski (p.c. 2020),"UT110-1, UT110-2","The dominant  order is cx+px, but the relatively recent comitative plural is an exception."
+UT111,Is the order of number and case suffixes fixed across the paradigm the same?,N/A,Jussi Ylikoski (p.c. 2020),,"Plural case forms are mostly distinguished from the singular ones by the use of a different set of case suffixes, even though historically these plural suffixes are bimorphemic and contain a plural marker *-j-. From a synchronic perspective, the question about the order of number and case suffixes is irrelevant, though the number and case markers cannot be distinguished."
+UT112,Are there different words for mother’s brother and father’s brother?,1,Jussi Ylikoski (p.c. 2020),"UT112-1, UT112-2, UT112-3",
+UT113,Are there different words for younger and older relative for other relations than siblings?,1,Jussi Ylikoski (p.c. 2020),"UT113-1, UT113-2, UT113-3, UT113-4",
+UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,0,Jussi Ylikoski (p.c. 2020),,"There is distinction only for 'young': nuorra – boaris 'young – old' (animate), ođđa – boaris 'new – old' (inanimate). In addition, vuoras ’elderly’ may refer to older persons, but is mostly a noun."
+UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,Jussi Ylikoski (p.c. 2020),,
+UT116,Is there contrastive length of consonants?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"Ut116-1, UT116-2, UT116-3, UT116-4",Both lexical and grammatical contrast although lexical contrast is not as common as grammatical.
+UT117,Is there contrastive length of vowels?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT117-1, UT117-2",The contrastive length of vowels is present in the Western Inland dialects and in the Eastern Inland dialects. They differ from each other a lot in terms of phonetic realization of single vowels and diphthongs. Length is not straight-forwardly marked in standard orthography. 
+UT118,Is there contrast between short and long unstressed vowels?,1,Jussi Ylikoski (p.c. 2020),"UT118-1, UT118-2","Mostly for unstressed a : aa, marginally for other vowels. "
+UT119,Is there contrast in duration of geminate consonants?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT119-1, UT119-2","This difference is not marked in standard orthography. In dictionaries and grammars, the apostrophe is often used to mark Q3."
+UT120,Are there more than two phonological quantities?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT120-1, UT120-2, UT120-3","There are three phonological quantities in the intervocalic consonant but the consonantal quantity also affects the surrounding segments, especially V1."
+UT121,Are there extralong syllables?,1,Jussi Ylikoski (p.c. 2020),UT121,
+UT122,Is the main foot structure trochaic?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT122,Primary word stress is always on the first syllable.
+UT123,Is there lexically distinctive word stress?,0,Jussi Ylikoski (p.c. 2020),,
+UT124,Is there morphologically conditioned stress?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT124-1, UT124-2","A stressed syllable is followed by one or two unstressed syllables. If a word has four or more syllables, every other syllable is stressed."
+UT125,Is there fixed primary stress?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT125,Primary word stress is always on the first syllable.
+UT126,Is there stress in heavy syllables?,0,Jussi Ylikoski (p.c. 2020),,
+UT127,Is there non-initial primary stress?,0,Jussi Ylikoski (p.c. 2020),,
+UT128,Is there palatal vowel harmony?,0,Jussi Ylikoski (p.c. 2020),,
+UT129,Is there velar vowel harmony?,0,Jussi Ylikoski (p.c. 2020),,
+UT130,Is there labial vowel harmony?,0,Jussi Ylikoski (p.c. 2020),,
+UT131,Are there rising diphthongs?,0,Jussi Ylikoski (p.c. 2020),,
+UT132,Are there lowering diphthongs?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT132-1, UT132-2, UT132-3",
+UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Jussi Ylikoski (p.c. 2020),,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Jussi Ylikoski (p.c. 2020),,
+UT135,Is there front high rounded vowel ü [y]?,0,Jussi Ylikoski (p.c. 2020),,"Not in autochthonous vocabulary, but in various loanwords as well as in diphthongs in certain dialects."
+UT136,Is there front midhigh rounded vowel ö [ø]?,0,Jussi Ylikoski (p.c. 2020),,"Not in autochthonous vocabulary, but in various loanwords as well as in diphthongs in certain dialects."
+UT137,Is there back high unrounded vowel ï [ɯ]?,0,Jussi Ylikoski (p.c. 2020),,
+UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,Jussi Ylikoski (p.c. 2020),,
+UT139,Is there back low round vowel [ɒ]?,0,Jussi Ylikoski (p.c. 2020),,"[ɒ] is found in dialects spoken in Utsjoki, Karasjok, Tana etc., perhaps about 30–40 % of the speakers of the language."
+UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,Jussi Ylikoski (p.c. 2020),,In the easternmost dialects. 
+UT141,Are there word-initial consonant clusters?,1,Jussi Ylikoski (p.c. 2020),UT141,"In the easternmost dialects. However, all speakers in Norway and Sweden (western dialects) have an ever-increasing number of Scandinavian loan words with word-initial consonant clusters. For example, the city of Tromsø is officially Romsa, but popularly Tromsa [tromsa], clearly the Saami name for [trumsø]."
+UT142,Are there word-internal consonant clusters in syllable onset?,1,Jussi Ylikoski (p.c. 2020),,
+UT143,Are there consonant clusters in syllable coda?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT143,
+UT144,Are there clusters of three or more consonants in a word between vowels?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT144-1, UT144-2",
+UT145,Are there word-final clusters of three or more consonants?,0,Jussi Ylikoski (p.c. 2020),,
+UT146,Are there palatalized dentals?,1,Aikio and Ylikoski (forthcoming),UT146,"In the absence of phonetic studies, it may be a matter of taste whether the ”palatal” consonants include /nʲ/ or /ɲ/."
+UT147,Are there palatalized labials and velars?,0,Jussi Ylikoski (p.c. 2020),,
+UT148,Is there palatal stop [c]?,0,Aikio and Ylikoski (forthcoming),,There is /tʲ/ instead of /c/.
+UT149,Is there palatal nasal [ɲ]?,0,Jussi Ylikoski (p.c. 2020),,See UT146.
+UT150,Is there palatal lateral [ʎ]?,0,Aikio and Ylikoski (forthcoming),,There is /lʲ/ instead of /ʎ/. 
+UT151,Is there phonemic velar nasal [ŋ]?,0,Jussi Ylikoski (p.c. 2020),,Present in the eastern dialects.
+UT152,Is there dental affricate [t͡s]?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT152,
+UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,Aikio and Ylikoski (forthcoming),UT153,"In the absence of phonetic studies, it may be a matter of taste whether the non-dental consonants include /t͡ʃ/ and /ʃ/ or /t͡ɕ/ and /ɕ/. "
+UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,Aikio and Ylikoski (forthcoming),"UT154-1, UT154-2","In the absence of phonetic studies, it may be a matter of taste whether the non-dental consonants include /t͡ʃ/ and /ʃ/ or /t͡ɕ/ and /ɕ/. "
+UT155,"Are there voiced plosives [b, g, d]?",0,Jussi Ylikoski (p.c. 2020),,
+UT156,Is there glottal stop [ˀ]?,0,Jussi Ylikoski (p.c. 2020),,
+UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Jussi Ylikoski (p.c. 2020),,
+UT158,Is there a constraint on word-initial r?,0,Jussi Ylikoski (p.c. 2020),,
+UT159,Is there laryngeal fricative [h]?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT159-1, UT159-2",Pronunciation as in the Eastern dialect.
+UT160,Is there voiced velar fricative [ɣ]?,0,Jussi Ylikoski (p.c. 2020),,The last remnants of /ɣ/ in the eastern dialects seem to have disappeared by the 21th century.
+UT161,Is there voiceless velar fricative [x]?,0,Jussi Ylikoski (p.c. 2020),,
+UT162,Is there voiced dental fricative [ð]?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT162,
+UT163,Is there phonemic labio-velar approximant [w]?,0,Jussi Ylikoski (p.c. 2020),,
+UT164,Is there voiceless labiodental fricative [f]?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),UT164,
+UT165,Is there radical qualitative consonant gradation?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT165-1, UT165-2",
+UT166,Is there quantitative consonant gradation?,1,Jussi Ylikoski and Katri Hiovain-Asikainen (p.c. 2020),"UT166-1, UT166-2",

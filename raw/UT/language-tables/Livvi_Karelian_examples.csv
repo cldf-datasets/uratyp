@@ -1,91 +1,86 @@
-ID,Example,Primary_Text,IPA,Analyzed,Gloss,Translation,Comment
-UT004,suure-s järve-s;big-INE lake-INE;in a big lake;,suure-s järve-s,,suure-s	järve-s,big-INE	lake-INE,in a big lake,
-UT005,oma-n lapse-nke;own-GEN child-COM;with one's child;,oma-n lapse-nke,,oma-n	lapse-nke,own-GEN	child-COM,with one's child,
-UT007,Myö juoks-i-mmo silla-n alle;1PL run-PST-1PL bridge-GEN under;We ran under the bridge;,Myö juoks-i-mmo silla-n alle,,Myö	juoks-i-mmo	silla-n	alle,1PL	run-PST-1PL	bridge-GEN	under,We ran under the bridge,
-UT008,Muama-n kodi-h tul-duu rube-i-mmo yhtes pasta-ma-h;mother-GEN home-ILL come-PASS.PST.PTCP.PRT start-PST-1PL together bake-SUP-ILL;When mother came home we started to bake together;,Muama-n kodi-h tul-duu rube-i-mmo yhtes pasta-ma-h,,Muama-n	kodi-h	tul-duu	rube-i-mmo	yhtes	pasta-ma-h,mother-GEN	home-ILL	come-PASS.PST.PTCP.PRT	start-PST-1PL	together	bake-SUP-ILL,When mother came home we started to bake together,
-UT011,Muamo lämmit-ti päči-n;mother heat-PST.3SG oven-GEN;Mother heated up the oven;,Muamo lämmit-ti päči-n,,Muamo	lämmit-ti	päči-n,mother	heat-PST.3SG	oven-GEN,Mother heated up the oven,
-UT011,Muamo lämmit-ti päčči-i;mother heat-PST.3SG oven-PRT;Mother was heating the oven;,Muamo lämmit-ti päčči-i,,Muamo	lämmit-ti	päčči-i,mother	heat-PST.3SG	oven-PRT,Mother was heating the oven,
-UT012,Ota avain!;take.IMP.2SG key.NOM;Take the key!;,Ota avain!,,Ota	avain!,take.IMP.2SG	key.NOM,Take the key!,
-UT012, Älä ota avain-du!;NEG.IMP.2SG take.IMP key-PRT;Don't take the key!;, Älä ota avain-du!,,Älä	ota	avain-du!,NEG.IMP.2SG	take.IMP	key-PRT,Don't take the key!,
-UT013,Leiby on stola-l;bread.NOM be.3SG table-ADE;The bread is on the table;,Leiby on stola-l,,Leiby	on	stola-l,bread.NOM	be.3SG	table-ADE,The bread is on the table,
-UT013,Stola-l on leibi-ä;table-ADE be.3SG bread-PRT;There is some bread on the table;,Stola-l on leibi-ä,,Stola-l	on	leibi-ä,table-ADE	be.3SG	bread-PRT,There is some bread on the table,
-UT014,Tyttö näg-i mečä-s kondie-n da juoks-i iäres;girl.NOM see-PST.3SG forest-INE bear-GEN and run-PST.3SG away;The girl saw a bear in the forest and run away;,Tyttö näg-i mečä-s kondie-n da juoks-i iäres,,Tyttö	näg-i	mečä-s	kondie-n	da	juoks-i	iäres,girl.NOM	see-PST.3SG	forest-INE	bear-GEN	and	run-PST.3SG	away,The girl saw a bear in the forest and run away,
-UT017,juos-ta;run-INF;to run;,juos-ta,,juos-ta,run-INF,to run,
-UT017,juokse-ndele-n;run-FRQ-1SG;I run around;,juokse-ndele-n,,juokse-ndele-n,run-FRQ-1SG,I run around,
-UT018,Ole-n kaččo-mas televiizoru-a;be-1SG watch-SUP.INE televizion-PRT;I am watching the TV;,Ole-n kaččo-mas televiizoru-a,,Ole-n	kaččo-mas	televiizoru-a,be-1SG	watch-SUP.INE	televizion-PRT,I am watching the TV,
-UT019,"lähte-n Suome-h, osta-n piirua-du;go-1SG Finland-ILL buy-1SG pie-PRT;I'll go to Finland and buy a pie;","lähte-n Suome-h, osta-n piirua-du",,"lähte-n	Suome-h,	osta-n	piirua-du",go-1SG	Finland-ILL	buy-1SG	pie-PRT,I'll go to Finland and buy a pie,
-UT020,Ole-n lähte-mäs piha-le;be-1SG go-SUP.INE yard-ALL;I am going to the yard;,Ole-n lähte-mäs piha-le,,Ole-n	lähte-mäs	piha-le,be-1SG	go-SUP.INE	yard-ALL,I am going to the yard,
-UT021,"Konzu havaču-i-n, ol-dih muu-t jo lähtie-tty muarja-h;when wake_up-PST-1SG be-IPS.PST other-PL already go-PASS.PST.PTCP berry-ILL;When I woke up, others had already left to pick berries;","Konzu havaču-i-n, ol-dih muu-t jo lähtie-tty muarja-h",,"Konzu	havaču-i-n,	ol-dih	muu-t	jo	lähtie-tty	muarja-h",when	wake_up-PST-1SG	be-IPS.PST	other-PL	already	go-PASS.PST.PTCP	berry-ILL,"When I woke up, others had already left to pick berries",
-UT026,"Elä-zi-n kylä-s, gu vai sua-zi-n;live-COND-1SG village-INE, if only get-COND-1SG;I would live in a village if I only could;","Elä-zi-n kylä-s, gu vai sua-zi-n",,"Elä-zi-n	kylä-s,	gu	vai	sua-zi-n","live-COND-1SG	village-INE,	if	only	get-COND-1SG",I would live in a village if I only could,
-UT027,"Gu ol-izi-t pasta-nuh piirua-n, syö-zi-n se-n;if be-COND-2SG bake-ACT.PST.PTCP pie-GEN eat-COND-1SG it-GEN;If  you would have baked a pie, I would eat it;","Gu ol-izi-t pasta-nuh piirua-n, syö-zi-n se-n",,"Gu	ol-izi-t	pasta-nuh	piirua-n,	syö-zi-n	se-n",if	be-COND-2SG	bake-ACT.PST.PTCP	pie-GEN	eat-COND-1SG	it-GEN,"If  you would have baked a pie, I would eat it",
-UT029,"anda-ne-n;give-POT-1SG;I probably give, come;",anda-ne-n,,anda-ne-n,give-POT-1SG,"I probably give, come",
-UT031,anda-kkah;give-IMP.3PL;Let him/her give;,anda-kkah,,anda-kkah,give-IMP.3PL,Let him/her give,
-UT035,Ota-mmos : ota-ttos;take-REFL.1SG : take-REFL.2SG;;,Ota-mmos : ota-ttos,,Ota-mmos	:	ota-ttos,take-REFL.1SG	:	take-REFL.2SG,,
-UT038,hyö rua-tah;3PL work.IPS.PRS;they work;,hyö rua-tah,,hyö	rua-tah,3PL	work.IPS.PRS,they work,
-UT040,"Tahto-ne-t hyvin eli-ä, pidä-y äijy ruadu-a;want-POT-2SG well live-INF need-3SG much work-INF;If you want to live well you need to work much;","Tahto-ne-t hyvin eli-ä, pidä-y äijy ruadu-a",,"Tahto-ne-t	hyvin	eli-ä,	pidä-y	äijy	ruadu-a",want-POT-2SG	well	live-INF	need-3SG	much	work-INF,If you want to live well you need to work much,
-UT043,Halgu-o ei ole perti-s päčči-e lämmit-tiä;wood_log-PRT NEG be.CNG house-INE stove-PRT heat-INF;In the house there is no wood to heat the stove;,Halgu-o ei ole perti-s päčči-e lämmit-tiä,,Halgu-o	ei	ole	perti-s	päčči-e	lämmit-tiä,wood_log-PRT	NEG	be.CNG	house-INE	stove-PRT	heat-INF,In the house there is no wood to heat the stove,
-UT044,Vihmu-u;rain-3SG;It is raning;,Vihmu-u,,Vihmu-u,rain-3SG,It is raning,
-UT045,Häi on čoma;3SG be.3SG beautiful;She is beautiful;,Häi on čoma,,Häi	on	čoma,3SG	be.3SG	beautiful,She is beautiful,
-UT046,Häi ol-i čoma;3SG be-PST.3SG beautiful;She was beautiful;,Häi ol-i čoma,,Häi	ol-i	čoma,3SG	be-PST.3SG	beautiful,She was beautiful,
-UT050,minä ellendä-n :  minä e-n ellendä;1SG understand-1SG : NEG-1SG understand.CNG;1SG understand : I don't understand;,minä ellendä-n :  minä e-n ellendä,,minä	ellendä-n	:	minä	e-n	ellendä,1SG	understand-1SG	:	NEG-1SG	understand.CNG,1SG understand : I don't understand,
-UT053,Lähti iäre sanu-a sano-ma-ttah;go.PST.3SG away word-PRT say-SUP-ABE;S/he went away without saying a word;,Lähti iäre sanu-a sano-ma-ttah,,Lähti	iäre	sanu-a	sano-ma-ttah,go.PST.3SG	away	word-PRT	say-SUP-ABE,S/he went away without saying a word,
-UT054,Tiä ele-täh hyvin;here live-IPS.PRS well;Here (people) live well;,Tiä ele-täh hyvin,,Tiä	ele-täh	hyvin,here	live-IPS.PRS	well,Here (people) live well,
-UT055,lug-ii poigu;read-ACT.PRS.PTCP boy;a reading boy;,lug-ii poigu,,lug-ii	poigu,read-ACT.PRS.PTCP	boy,a reading boy,
-UT055,lugie-ttu kniigu;read-PASS.PST.PTCP book;a book that has been read;,lugie-ttu kniigu,,lugie-ttu	kniigu,read-PASS.PST.PTCP	book,a book that has been read,
-UT062,pala-nuo-s mečä-s;burn- forest-INE;in a burned forest;,pala-nuo-s mečä-s,,pala-nuo-s	mečä-s,burn-	forest-INE,in a burned forest,
-UT064,"opasta-i;teach-NMLZ;teacher, teaching;",opasta-i,,opasta-i,teach-NMLZ,"teacher, teaching",
-UT066,Kirjuta kirjaine sizäre-lle-s;write.IMP.2SG letter sister-ALL-POSS.2SG;Write a letter to your sister!;,Kirjuta kirjaine sizäre-lle-s,,Kirjuta	kirjaine	sizäre-lle-s,write.IMP.2SG	letter	sister-ALL-POSS.2SG,Write a letter to your sister!,
-UT067,Älä tä-dä kniigu-a luve;NEG.IMP.2SG this-PRT book-PRT read.CNG;Don't read this book (but read another one)!;,Älä tä-dä kniigu-a luve,,Älä	tä-dä	kniigu-a	luve,NEG.IMP.2SG	this-PRT	book-PRT	read.CNG,Don't read this book (but read another one)!,
-UT071,"tytö-n peze-mine/peze-ndy kest-i čuasu-n;girl-GEN wash-NMLZ/wash-NMLZ take-PST.3SG hour-GEN;washing the girl, the washing done by the girl took an hour;",tytö-n peze-mine/peze-ndy kest-i čuasu-n,,tytö-n	peze-mine/peze-ndy	kest-i	čuasu-n,girl-GEN	wash-NMLZ/wash-NMLZ	take-PST.3SG	hour-GEN,"washing the girl, the washing done by the girl took an hour",
-UT072,runo-n kirjuta-ndu/kirjuta-mine;poem-GEN write-NMLZ/write-NMLZ;the poem writing;,runo-n kirjuta-ndu/kirjuta-mine,,runo-n	kirjuta-ndu/kirjuta-mine,poem-GEN	write-NMLZ/write-NMLZ,the poem writing,
-UT072,kirjuta-n runo-n;write-1SG poem-GEN;I'll write a poem;,kirjuta-n runo-n,,kirjuta-n	runo-n,write-1SG	poem-GEN,I'll write a poem,
-UT073,Päivä-t ol-lah pit-kät;day-PL be-IPS.PRS long-PL;The days are long;,Päivä-t ol-lah pit-kät,,Päivä-t	ol-lah	pit-kät,day-PL	be-IPS.PRS	long-PL,The days are long,
-UT074,korge-vin puu;tall-SPRL tree;the tallest tree;,korge-vin puu,,korge-vin	puu,tall-SPRL	tree,the tallest tree,
-UT079,yksi lapsi : viizi lastu;one.NOM child.NOM : five.NOM child.PRT;one child : five children;,yksi lapsi : viizi lastu,,yksi	lapsi	:	viizi	lastu,one.NOM	child.NOM	:	five.NOM	child.PRT,one child : five children,
-UT080,yksi lapsi : viizi lastu;one.NOM child.NOM.SG : five.NOM child.PRT.SG;one child : five children;,yksi lapsi : viizi lastu,,yksi	lapsi	:	viizi	lastu,one.NOM	child.NOM.SG	:	five.NOM	child.PRT.SG,one child : five children,
-UT081,tuata-n kodi;father-GEN home;father's home;,tuata-n kodi,,tuata-n	kodi,father-GEN	home,father's home,
-UT084,denga-ttah;money-ABE;without money;,denga-ttah,,denga-ttah,money-ABE,without money,
-UT085,Myö tul-i-mmo kodi-h mečä-či;1PL come-PST-1PL home-ILL forest-PROL;We came home through/via the forest;,Myö tul-i-mmo kodi-h mečä-či,,Myö	tul-i-mmo	kodi-h	mečä-či,1PL	come-PST-1PL	home-ILL	forest-PROL,We came home through/via the forest,
-UT086,Lapse-t mennä-h škola-h;child-PL go-IPS.PRS school-ILL;The children are going to school;,Lapse-t mennä-h škola-h,,Lapse-t	mennä-h	škola-h,child-PL	go-IPS.PRS	school-ILL,The children are going to school,
-UT088,Nosta takki lattie-lpäi;take_up.IMP.2SG jacket floor-ABL;Take the jacket up from the floor;,Nosta takki lattie-lpäi,,Nosta	takki	lattie-lpäi,take_up.IMP.2SG	jacket	floor-ABL,Take the jacket up from the floor,
-UT090,"lattie-l;floor-ALL/ADE;on the floor, from the floor;",lattie-l,,lattie-l,floor-ALL/ADE,"on the floor, from the floor",
-UT093,"Egläi velle-nke ol-i-mmo siene-s;yesterday brother-COM be-PST-1PL muschroom-INE;Yesterday, together with brother, we were picking musrooms;",Egläi velle-nke ol-i-mmo siene-s,,Egläi	velle-nke	ol-i-mmo	siene-s,yesterday	brother-COM	be-PST-1PL	muschroom-INE,"Yesterday, together with brother, we were picking musrooms",
-UT095,Se naine jä-i leske-kse;this woman remain-PST.3SG widow-TRA;This woman became a widow;,Se naine jä-i leske-kse,,Se	naine	jä-i	leske-kse,this	woman	remain-PST.3SG	widow-TRA,This woman became a widow,
-UT096,Sizär ruada-u opastaja-nnu;sister work-3SG teacher-ESS;(My) sister is working as a teacher;,Sizär ruada-u opastaja-nnu,,Sizär	ruada-u	opastaja-nnu,sister	work-3SG	teacher-ESS,(My) sister is working as a teacher,
-UT106,ken;;who;,ken,,ken,,who,
-UT106,mi;;what;,mi,,mi,,what,
-UT110,eči-n tytär-dä-ni;look_for-1SG daugther-PRT-POSS.1SG;I'm looking for my daughter;,eči-n tytär-dä-ni,,eči-n	tytär-dä-ni,look_for-1SG	daugther-PRT-POSS.1SG,I'm looking for my daughter,
-UT111,kaži-loi-nke;cat-PL-COM;with cats;,kaži-loi-nke,,kaži-loi-nke,cat-PL-COM,with cats,
-UT116,kanan [ˈka.nan] hen.GEN.SG,kanan ,,ˈka.nan,hen.GEN.SG,,
-UT116,kannan [ˈkan.nan] heel.GEN.SG,kannan ,,ˈkan.nan,heel.GEN.SG,,
-UT117,tuli [ˈtu.lʲiˑ] ‘fire’,tuli ,ˈtu.lʲiˑ,,,fire,
-UT117,tuuli [ˈtuː.lʲi]  ‘wind’,tuuli ,ˈtuː.lʲi,,,wind,
-UT118,"puhu [ˈpu.huˑ] 'blowing, gust'",puhu ,ˈpu.huˑ,,,"blowing, gust",
-UT118,puhuu [ˈpu.huː] blow.PRS.3SG,puhuu ,,ˈpu.huː,blow.PRS.3SG,,
-UT121,juokso [ˈjuok.so] 'running',juokso ,ˈjuok.so,,,running,
-UT121,juoksii [ˈjuok.siː] 'runner',juoksii ,ˈjuok.siː,,,runner,
-UT122,kana [ˈka.naˑ] ’hen’,kana ,ˈka.naˑ,,,hen,
-UT124,hyppeämine [ˈhyp.peæˌmi.ne] 'jumping',hyppeämine ,ˈhyp.peæˌmi.ne,,,jumping,
-UT125,kana [ˈka.naˑ] 'hen',kana ,ˈka.naˑ,,,hen,
-UT128,eländy [ˈe.læn.dy] 'life',eländy ,ˈe.læn.dy,,,life,
-UT128,ötönöi [ˈø.tø.nøi] 'snail',ötönöi ,ˈø.tø.nøi,,,snail,
-UT128,väzymys [ˈvæ.zy.mys] 'tiredness',väzymys ,ˈvæ.zy.mys,,,tiredness,
-UT131,seiny [ˈsei.ny] 'wall',seiny ,ˈsei.ny,,,wall,
-UT132,ruadua [ˈrua.dua] work.INF,ruadua ,,ˈrua.dua,work.INF,,
-UT135,seiny [ˈsei.ny] 'wall',seiny ,ˈsei.ny,,,wall,
-UT136,pöly [ˈpø.lyˑ] 'dust',pöly ,ˈpø.lyˑ,,,dust,
-UT140,päre [ˈpæ.re] ‘pine splinter’,päre ,ˈpæ.re,,,pine splinter,
-UT140,pereh [ˈpe.reh] ‘family’,pereh ,ˈpe.reh,,,family,
-UT141,"klakku [ˈklak.ku] 'wisp, bunch'",klakku ,ˈklak.ku,,,"wisp, bunch",
-UT141,stauttšu [ˈstaut.t͡ʃu] 'bowl',stauttšu ,ˈstaut.t͡ʃu,,,bowl,
-UT143,"hursti [ˈhurs.tʲi] '(linen) fabric, towel, carpet'",hursti ,ˈhurs.tʲi,,,"(linen) fabric, towel, carpet",
-UT144,"hursti [ˈhurs.tʲi] '(linen) fabric, towel, carpet'",hursti ,ˈhurs.tʲi,,,"(linen) fabric, towel, carpet",
-UT146,pal´l´as [ˈpalʲ.lʲas] 'naked',pal´l´as ,ˈpalʲ.lʲas,,,naked,
-UT146,vil'l'u [ˈvilʲ.lʲu] 'wool',vil'l'u ,ˈvilʲ.lʲu,,,wool,
-UT153,"čakku [ˈt͡ʃak.ku] 'gnat, mosquito'",čakku ,ˈt͡ʃak.ku,,,"gnat, mosquito",
-UT155,hebo [ˈhe.boˑ] 'horse',hebo ,ˈhe.boˑ,,,horse,
-UT159,raha [ˈra.haˑ] 'money',raha ,ˈra.haˑ,,,money,
-UT165,paidu [ˈpai.du] 'shirt',paidu ,ˈpai.du,,,shirt,
-UT165,pajjad [ˈpaj.jad] 'shirts',pajjad ,ˈpaj.jad,,,shirts,
-UT166,sukku [ˈsuk.ku] 'stocking',sukku ,ˈsuk.ku,,,stocking,
-UT166,sukat [ˈsu.kat] 'stockings',sukat ,ˈsu.kat,,,stockings,
+ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
+UT004,suures järves,,suure-s	järve-s,big-INE	lake-INE,in a big lake,Ilja Moshnikov (p.c. 2019)
+UT005,oman lapsenke,,oma-n	lapse-nke,own-GEN	child-COM,with one's child,Ilja Moshnikov (p.c. 2019)
+UT007,Myö juoksimmo sillan alle,,Myö	juoks-i-mmo	silla-n	alle,1PL	run-PST-1PL	bridge-GEN	under,We ran under the bridge,Markianova 2002
+UT008,Muaman kodih tulduu rubeimmo yhtes pastamah,,Muama-n  kodi-h tul-duu rube-i-mmo yhtes pasta-ma-h,mother-GEN	home-ILL	come-PASS.PST.PTCP.PRT	start-PST-1PL	together	bake-SUP-ILL,When mother came home we started to bake together,Ilja Moshnikov (p.c. 2019)
+UT011-1,Muamo lämmitti päčin,,Muamo	lämmit-ti	päči-n,mother	heat-PST.3SG	oven-GEN,Mother heated up the oven,Markianova 2002
+UT011-2,Muamo lämmitti päččii,,Muamo	lämmit-ti	päčči-i,mother	heat-PST.3SG	oven-PRT,Mother was heating the oven,Markianova 2002
+UT012-1,Ota avain!,,Ota	avain!,take.IMP.2SG	key.NOM,Take the key!,Ilja Moshnikov (p.c. 2019)
+UT012-2, Älä ota avaindu!,,Älä	ota	avain-du!,NEG.IMP.2SG	take.IMP	key-PRT,Don't take the key!,Ilja Moshnikov (p.c. 2019)
+UT013-1,Leiby on stolal,,Leiby	on	stola-l,bread.NOM	be.3SG	table-ADE,The bread is on the table,Markianova 2002
+UT013-2,Stolal on leibiä,,Stola-l	on	leibi-ä,table-ADE	be.3SG	bread-PRT,There is some bread on the table,Markianova 2002
+UT014,Tyttö nägi mečäs kondien da juoksi iäres,,Tyttö	näg-i	mečä-s	kondie-n	da	juoks-i	iäres,girl.NOM	see-PST.3SG	forest-INE	bear-GEN	and	run-PST.3SG	away,The girl saw a bear in the forest and run away,Ilja Moshnikov (p.c. 2019)
+UT017-1,juosta,,juos-ta,run-INF,to run,Ilja Moshnikov (p.c. 2019)
+UT017-2,juoksendelen,,juokse-ndele-n,run-FRQ-1SG,I run around,Ilja Moshnikov (p.c. 2019)
+UT018,Olen kaččomas televiizorua,,Ole-n	kaččo-mas	televiizoru-a,be-1SG	watch-SUP.INE	televizion-PRT,I am watching the TV,Ilja Moshnikov (p.c. 2019)
+UT019,"lähten Suomeh, ostan piiruadu",,"lähte-n	Suome-h,	osta-n	piirua-du",go-1SG	Finland-ILL	buy-1SG	pie-PRT,I'll go to Finland and buy a pie,Ilja Moshnikov (p.c. 2019)
+UT020,Olen lähtemäs pihale,,Ole-n	lähte-mäs	piha-le,be-1SG	go-SUP.INE	yard-ALL,I am going to the yard,Ilja Moshnikov (p.c. 2019)
+UT021,"Konzu havačuin, oldih muut jo lähtietty muarjah",,"Konzu	havaču-i-n,	ol-dih	muu-t	jo	lähtie-tty	muarja-h",when	wake_up-PST-1SG	be-IPS.PST	other-PL	already	go-PASS.PST.PTCP	berry-ILL,"When I woke up, others had already left to pick berries",Ilja Moshnikov (p.c. 2019)
+UT026,"Eläzin kyläs, gu vai suazin",,"Elä-zi-n	kylä-s,	gu	vai	sua-zi-n","live-COND-1SG	village-INE,	if	only	get-COND-1SG",I would live in a village if I only could,Ilja Moshnikov (p.c. 2019)
+UT027,"Gu olizit pastanuh piiruan, syözin sen",,"Gu	ol-izi-t	pasta-nuh	piirua-n,	syö-zi-n	se-n",if	be-COND-2SG	bake-ACT.PST.PTCP	pie-GEN	eat-COND-1SG	it-GEN,"If  you would have baked a pie, I would eat it",Ilja Moshnikov (p.c. 2019)
+UT029,andanen,,anda-ne-n,give-POT-1SG,"I probably give, come",Ilja Moshnikov (p.c. 2019)
+UT031,andakkah,,anda-kkah,give-IMP.3PL,Let him/her give,Ilja Moshnikov (p.c. 2019)
+UT035,otammos : otattos,,Ota-mmos	:	ota-ttos,take-REFL.1SG	:	take-REFL.2SG,,Markianova 2002
+UT038,hyö ruatah,,hyö	rua-tah,3PL	work.IPS.PRS,they work,Ilja Moshnikov (p.c. 2019)
+UT040,"Tahtonet hyvin eliä, pidäy äijy ruadua",,"Tahto-ne-t	hyvin	eli-ä,	pidä-y	äijy	ruadu-a",want-POT-2SG	well	live-INF	need-3SG	much	work-INF,If you want to live well you need to work much,Ilja Moshnikov (p.c. 2019)
+UT043,Halguo ei ole pertis päččie lämmittiä,,Halgu-o	ei	ole	perti-s	päčči-e	lämmit-tiä,wood_log-PRT	NEG	be.CNG	house-INE	stove-PRT	heat-INF,In the house there is no wood to heat the stove,Markianova 2002
+UT044,Vihmuu,,Vihmu-u,rain-3SG,It is raning,Ilja Moshnikov (p.c. 2019)
+UT045,Häi on čoma,,Häi	on	čoma,3SG	be.3SG	beautiful,She is beautiful,Ilja Moshnikov (p.c. 2019)
+UT046,Häi oli čoma,,Häi	ol-i	čoma,3SG	be-PST.3SG	beautiful,She was beautiful,Ilja Moshnikov (p.c. 2019)
+UT050,minä ellendän :  minä en ellendä,,minä	ellendä-n	:	minä	e-n	ellendä,1SG understand-1SG : 1SG NEG-1SG understand.CNG,1SG understand : I don't understand,Ilja Moshnikov (p.c. 2019)
+UT053,Lähti iäre sanua sanomattah,,Lähti	iäre	sanu-a	sano-ma-ttah,go.PST.3SG	away	word-PRT	say-SUP-ABE,S/he went away without saying a word,Ilja Moshnikov (p.c. 2019)
+UT054,Tiä eletäh hyvin,,Tiä	ele-täh	hyvin,here	live-IPS.PRS	well,Here (people) live well,Ilja Moshnikov (p.c. 2019)
+UT055-1,lugii poigu,,lug-ii	poigu,read-ACT.PRS.PTCP	boy,a reading boy,Ilja Moshnikov (p.c. 2019)
+UT055-2,lugiettu kniigu,,lugie-ttu	kniigu,read-PASS.PST.PTCP	book,a book that has been read,Ilja Moshnikov (p.c. 2019)
+UT062,palanuos mečäs,,pala-nuo-s	mečä-s,burn-	forest-INE,in a burned forest,Ilja Moshnikov (p.c. 2019)
+UT064,opastai,,opasta-i,teach-NMLZ,"teacher, teaching",Ilja Moshnikov (p.c. 2019)
+UT067,Älä tädä kniigua luve,,Älä	tä-dä	kniigu-a	luve,NEG.IMP.2SG	this-PRT	book-PRT	read.CNG,Don't read this book (but read another one)!,Ilja Moshnikov (p.c. 2019)
+UT071,tytön pezemine/pezendy kesti čuasun,,tytö-n	peze-mine/peze-ndy	kest-i	čuasu-n,girl-GEN	wash-NMLZ/wash-NMLZ	take-PST.3SG	hour-GEN,"washing the girl, the washing done by the girl took an hour",Ilja Moshnikov (p.c. 2019)
+UT072-1,runon kirjutandu/kirjutamine,,runo-n	kirjuta-ndu/kirjuta-mine,poem-GEN	write-NMLZ/write-NMLZ,the poem writing,Ilja Moshnikov (p.c. 2019)
+UT072-2,kirjutan runon,,kirjuta-n runo-n,write-1SG	poem-GEN,I'll write a poem,Ilja Moshnikov (p.c. 2019)
+UT073,Päivät ollah pitkät,,Päivä-t	ol-lah	pit-kät,day-PL	be-IPS.PRS	long-PL,The days are long,Ilja Moshnikov (p.c. 2019)
+UT074,korgevin puu,,korge-vin	puu,tall-SPRL	tree,the tallest tree,Ilja Moshnikov (p.c. 2019)
+UT079,yksi lapsi : viizi lastu,,yksi	lapsi	:	viizi	lastu,one.NOM	child.NOM	:	five.NOM	child.PRT,one child : five children,Ilja Moshnikov (p.c. 2019)
+UT081,tuatan kodi,,tuata-n	kodi,father-GEN	home,father's home,Ilja Moshnikov (p.c. 2019)
+UT084,dengattah,,denga-ttah,money-ABE,without money,Ilja Moshnikov (p.c. 2019)
+UT085,Myö tulimmo kodih mečäči,,Myö tul-i-mmo  kodi-h mečä-či,1PL	come-PST-1PL	home-ILL	forest-PROL,We came home through/via the forest,Markianova 2002
+UT086,Lapset mennäh školah,,Lapse-t	mennä-h	škola-h,child-PL	go-IPS.PRS	school-ILL,The children are going to school,Markianova 2002
+UT088,Nosta takki lattielpäi,,Nosta	takki	lattie-lpäi,take_up.IMP.2SG	jacket	floor-ABL,Take the jacket up from the floor,Ilja Moshnikov (p.c. 2019)
+UT090,lattiel,,lattie-l,floor-ALL/ADE,"on the floor, from the floor",Ilja Moshnikov (p.c. 2019)
+UT093,Egläi vellenke olimmo sienes,,Egläi	velle-nke	ol-i-mmo	siene-s,yesterday	brother-COM	be-PST-1PL	muschroom-INE,"Yesterday, together with brother, we were picking musrooms",Markianova 2002
+UT095,Se naine jäi leskekse,,Se	naine	jä-i	leske-kse,this	woman	remain-PST.3SG	widow-TRA,This woman became a widow,Markianova 2002
+UT096,Sizär ruadau opastajannu,,Sizär	ruada-u	opastaja-nnu,sister	work-3SG	teacher-ESS,(My) sister is working as a teacher,Markianova 2002
+UT111,kažiloinke,,kaži-loi-nke,cat-PL-COM,with cats,Ilja Moshnikov (p.c. 2019)
+UT116-1,kanan ,ˈka.nan,,hen.GEN.SG,,Eva Saar (p.c. 2019)
+UT116-2,kannan ,ˈkan.nan,,heel.GEN.SG,,Eva Saar (p.c. 2019)
+UT117-1,tuli ,ˈtu.lʲiˑ,,,fire,Eva Saar (p.c. 2019)
+UT117-2,tuuli ,ˈtuː.lʲi,,,wind,Eva Saar (p.c. 2019)
+UT118-1,puhu ,ˈpu.huˑ,,,"blowing, gust",KKVS
+UT118-2,puhuu ,ˈpu.huː,,blow.PRS.3SG,,KKVS
+UT121-1,juokso ,ˈjuok.so,,,running,Eva Saar (p.c. 2019)
+UT121-2,juoksii ,ˈjuok.siː,,,runner,Eva Saar (p.c. 2019)
+UT122,kana ,ˈka.naˑ,,,hen,Eva Saar (p.c. 2019)
+UT124,hyppeämine ,ˈhyp.peæˌmi.ne,,,jumping,KKVS
+UT125,kana ,ˈka.naˑ,,,hen,Eva Saar (p.c. 2019)
+UT128-1,eländy ,ˈe.læn.dy,,,life,KKVS
+UT128-2,ötönöi ,ˈø.tø.nøi,,,snail,KKVS
+UT128-3,väzymys ,ˈvæ.zy.mys,,,tiredness,KKVS
+UT131,seiny ,ˈsei.ny,,,wall,Eva Saar (p.c. 2019)
+UT132,ruadua ,ˈrua.dua,,work.INF,,Eva Saar (p.c. 2019)
+UT135,seiny ,ˈsei.ny,,,wall,Eva Saar (p.c. 2019)
+UT136,pöly ,ˈpø.lyˑ,,,dust,Eva Saar (p.c. 2019)
+UT140-1,päre ,ˈpæ.re,,,pine splinter,Eva Saar (p.c. 2019)
+UT140-2,pereh ,ˈpe.reh,,,family,Eva Saar (p.c. 2019)
+UT141-1,klakku ,ˈklak.ku,,,"wisp, bunch",Eva Saar (p.c. 2019)
+UT141-2,stauttšu ,ˈstaut.t͡ʃu,,,bowl,Eva Saar (p.c. 2019)
+UT143,hursti ,ˈhurs.tʲi,,,"(linen) fabric, towel, carpet",Eva Saar (p.c. 2019)
+UT144,hursti ,ˈhurs.tʲi,,,"(linen) fabric, towel, carpet",Eva Saar (p.c. 2019)
+UT146-1,pal´l´as ,ˈpalʲ.lʲas,,,naked,Eva Saar (p.c. 2019)
+UT146-2,vil'l'u ,ˈvilʲ.lʲu,,,wool,Eva Saar (p.c. 2019)
+UT153,čakku ,ˈt͡ʃak.ku,,,"gnat, mosquito",Eva Saar (p.c. 2019)
+UT155,hebo ,ˈhe.boˑ,,,horse,Eva Saar (p.c. 2019)
+UT159,raha ,ˈra.haˑ,,,money,Eva Saar (p.c. 2019)
+UT165-1,paidu ,ˈpai.du,,,shirt,Eva Saar (p.c. 2019)
+UT165-2,pajjad ,ˈpaj.jad,,,shirts,Eva Saar (p.c. 2019)
+UT166-1,sukku ,ˈsuk.ku,,,stocking,Eva Saar (p.c. 2019)
+UT166-2,sukat ,ˈsu.kat,,,stockings,Eva Saar (p.c. 2019)
