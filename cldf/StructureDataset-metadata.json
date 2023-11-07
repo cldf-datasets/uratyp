@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uratyp",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-161-g06e4aef",
+            "dc:created": "v1.1-26-g6aa7baa",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.10.12"
         },
         {
             "dc:title": "python-packages",
@@ -37,13 +37,10 @@
     ],
     "rdf:ID": "uratyp",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 11094,
+            "dc:extent": 11850,
             "tableSchema": {
                 "columns": [
                     {
@@ -214,7 +211,7 @@
                         ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -278,7 +275,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 44,
+            "dc:extent": 52,
             "tableSchema": {
                 "columns": [
                     {
@@ -352,7 +349,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2895,
+            "dc:extent": 2059,
             "tableSchema": {
                 "columns": [
                     {
@@ -385,7 +382,7 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Analyzed_Word"
                     },
                     {
@@ -394,7 +391,7 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Gloss"
                     },
                     {
@@ -525,6 +522,12 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
                     },
                     {
                         "datatype": "string",

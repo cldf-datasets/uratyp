@@ -53,7 +53,7 @@ def fix_internal_stress(s):
     return ''.join(new)
 
 
-NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
+NA = ['N/A', '?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
       '?CHECK, possibly 1', '?CHECK']
 
 
@@ -63,8 +63,12 @@ def checkex(row):
             a = row['Analyzed'].strip().split()
             g = row['Gloss'].strip().split()
             if len(a) != len(g):
+                #print('\t'.join(a))
+                #print('\t'.join(g))
                 return False
         return True
+    if not row['Gloss'] and not row['Analyzed']:
+        return bool(row['Primary_Text'])
     return False
 
 
@@ -160,11 +164,23 @@ class Dataset(BaseDataset):
             for row in reader(p, dicts=True):
                 data[p.stem][row['ID']] = row
 
-        examples = collections.defaultdict(list)
+        examples_ut = collections.defaultdict(list)
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
             for row in reader(p, dicts=True):
                 if checkex(row):
-                    examples[p.stem.replace('_examples', ''), row['ID']].append(row)
+                    examples_ut[p.stem.replace('_examples', ''), row['ID']].append(row)
+                #else:
+                    #print('UT/language-tables/{}:{}'.format(p.name, row['ID']))
+                    #print('---')
+
+        examples_gb = collections.defaultdict(list)
+        for p in self.raw_dir.joinpath('GB', 'language-tables').glob('*_examples.csv'):
+            for row in reader(p, dicts=True):
+                if checkex(row):
+                    examples_gb[p.stem.replace('_examples', ''), row['ID']].append(row)
+                #else:
+                    #print('GB/language-tables/{}:{}'.format(p.name, row['ID']))
+                    #print('---')
 
         self._schema(args)
 
@@ -181,15 +197,15 @@ class Dataset(BaseDataset):
         experts = collections.defaultdict(lambda: collections.defaultdict(list))
         for row in t[1][1]:
             row = list(zip(t[1][0], row))
-            #[('ID', '33'), ('Subgroup', 'Mordvin'), ('Langauge', 'Moksha'), ('UT', '✔'), ('Language expert', 'Niina Aasmäe,  Mariann Bernhardt'), ('GB', '✔'), ('Language expert', 'Arja Hamari, Mariann Bernhardt')]
+            #ID | Subgroup | Language | UT | Values and examples | GB | Values | Examples
+            #[('ID', '33'), ('Subgroup', 'Mordvin'), ('Langauge', 'Moksha'), ('UT', '✔'), ('Values and examples', 'Niina Aasmäe,  Mariann Bernhardt'), ('GB', '✔'), ('Values', 'Arja Hamari, Mariann Bernhardt')]
             contrib, lid = None, None
             for k, v in row:
-                # "Langauge" (sic)
-                if k == 'Langauge':
+                if k == 'Language':
                     lid = lmap[unidecode(v).replace(' ', '_').replace('-', '_')]
                 if k in ['UT', 'GB']:
                     contrib = k
-                if k == 'Language expert':
+                if k in {'Values and examples', 'Values', 'Examples'}:
                     for e in v.split(','):
                         e = e.strip()
                         if e:
@@ -235,50 +251,57 @@ class Dataset(BaseDataset):
                         Parameter_ID=param['ID'],
                     ))
 
-            for row in read(self.raw_dir / sd / 'Finaldata.csv'):
-                for k in row:
-                    if k in ['language', 'subfam']:
+            known_cols = set('ID Name Source Example Comment'.split())
+            for p in self.raw_dir.joinpath(sd, 'language-tables').glob('*.csv'):
+                if p.stem.endswith('examples'):
+                    continue
+                lid = lmap[p.stem]
+                for row in reader(p, dicts=True, delimiter='\t' if sd == 'GB' and p.stem == 'North_Saami' else ','):
+                    if not row:
                         continue
                     # if ('?' in row[k]) or ('!!' in row[k]):
                     #    continue
                     d = {}
-                    lid = lmap[row['language']]
+                    try:
+                        k = row.get('Feature_ID', row.get('ID'))
+                        assert k, row
+                        vcols = [p.stem.replace('_', '.'), p.stem.replace('_', ' '), 'Value']
+                        unknown = set(row) - known_cols
+                        if len(unknown) == 1:
+                            # one column that isn't among the defined columns. Assume that's the Value
+                            vcols = [unknown.pop()]
+                        assert any(kk in row for kk in vcols)
+                        val = None
+                        for col in vcols:
+                            if col in row:
+                                val = row[col]
+                                break
+                    except:
+                        raise
                     eids = []
-                    if k.startswith('UT'):
-                        d = data[row['language']][k]
-                        #
-                        # FIXME: change the way missing data is treated - at least for UT?
-                        #
-                        if row[k] in ['N/A']:  # don't even include the rows
-                            continue
-                        assert list(d.values())[2] == row[k], '{}, {}: {} != {}'.format(row['language'], k, list(d.values())[2], row[k])
-                        if row[k] == '':
-                            row[k] = '?'
+                    for ex in (examples_ut if sd == 'UT' else examples_gb).get((p.stem, k), []):
+                        if ex['IPA']:
+                            ex['Original_Script'] = ex['Primary_Text']
+                            ex['Primary_Text'] = ex['IPA']
 
-                        for ex in examples.get((row['language'], k), []):
-                            if ex['IPA']:
-                                ex['Original_Script'] = ex['Primary_Text']
-                                ex['Primary_Text'] = ex['IPA']
-
-                            eid += 1
-                            args.writer.objects['ExampleTable'].append(dict(
-                                ID=str(eid),
-                                Language_ID=lid,
-                                Primary_Text=ex['Primary_Text'].strip().replace('-', ''),
-                                Analyzed_Word=ex['Analyzed'].strip().split() if ex['Analyzed'] else [],
-                                Gloss=ex['Gloss'].strip().split() if ex['Gloss'] else [],
-                                Translated_Text=ex['Translation'].strip() or None,
-                                Original_Script=ex.get('Original_Script', '').strip(),
-                            ))
-                            eids.append(str(eid))
+                        eid += 1
+                        args.writer.objects['ExampleTable'].append(dict(
+                            ID=str(eid),
+                            Language_ID=lid,
+                            Primary_Text=ex['Primary_Text'].strip().replace('-', ''),
+                            Analyzed_Word=ex['Analyzed'].strip().split() if ex['Analyzed'] else [],
+                            Gloss=ex['Gloss'].strip().split() if ex['Gloss'] else [],
+                            Translated_Text=ex['Translation'].strip() or None,
+                            Original_Script=ex.get('Original_Script', '').strip(),
+                        ))
+                        eids.append(str(eid))
 
                     args.writer.objects['ValueTable'].append(dict(
                         ID='{}-{}'.format(lid, k),
                         Language_ID=lid,
                         Parameter_ID=k,
-                        Value='?' if row[k] in NA else str(int(float(row[k]))),
-                        Code_ID=None if row[k] in NA else '{}-{}'.format(
-                            k, int(float(row[k]))),
+                        Value='?' if val in NA else str(int(float(val))),
+                        Code_ID=None if val in NA else '{}-{}'.format(k, int(float(val))),
                         Comment=d.get('Comment'),
                         Example_ID=eids,
                     ))

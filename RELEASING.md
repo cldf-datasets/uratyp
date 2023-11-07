@@ -9,7 +9,7 @@ ideally in a separate virtual environment.
 
 - Recreate the CLDF data:
   ```shell
-  cldfbench makecldf cldfbench_uratyp.py --glottolog PATH/TO/glottolog/glottolog --glottolog-version v4.5
+  cldfbench makecldf cldfbench_uratyp.py --glottolog PATH/TO/glottolog/glottolog --glottolog-version v4.8
   ```
 - Validate it:
   ```shell
