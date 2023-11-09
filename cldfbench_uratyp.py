@@ -168,7 +168,7 @@ class Dataset(BaseDataset):
         for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
             for row in reader(p, dicts=True):
                 if checkex(row):
-                    examples_ut[p.stem.replace('_examples', ''), row['ID']].append(row)
+                    examples_ut[p.stem.replace('_examples', ''), row['ID'].split('-')[0]].append(row)
                 #else:
                     #print('UT/language-tables/{}:{}'.format(p.name, row['ID']))
                     #print('---')
@@ -177,7 +177,7 @@ class Dataset(BaseDataset):
         for p in self.raw_dir.joinpath('GB', 'language-tables').glob('*_examples.csv'):
             for row in reader(p, dicts=True):
                 if checkex(row):
-                    examples_gb[p.stem.replace('_examples', ''), row['ID']].append(row)
+                    examples_gb[p.stem.replace('_examples', ''), row['ID'].split('-')[0]].append(row)
                 #else:
                     #print('GB/language-tables/{}:{}'.format(p.name, row['ID']))
                     #print('---')

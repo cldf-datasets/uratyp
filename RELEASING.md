@@ -19,4 +19,3 @@ ideally in a separate virtual environment.
   ```shell
   cldfbench cldfreadme cldfbench_uratyp.py
   ```
-
