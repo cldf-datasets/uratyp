@@ -49,7 +49,7 @@ UT051,Can non-finite dependent clauses use the standard negation construction?,0
 UT052,Is there a special negator that combines with non-finite forms?,0,Alexandra Rodionova (p.c. 2019),,
 UT053,Are there special negative non-finite forms?,1,Alexandra Rodionova (p.c. 2019),UT053,
 UT054,Is there an impersonal passive construction?,1,Alexandra Rodionova (p.c. 2019),UT054,
-UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Alexandra Rodionova (p.c. 2019),UT055,
+UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Alexandra Rodionova (p.c. 2019),UT055,Cf. UT062.
 UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,0,Alexandra Rodionova (p.c. 2019),,
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Alexandra Rodionova (p.c. 2019),,
 UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",0,Alexandra Rodionova (p.c. 2019),,
@@ -96,13 +96,12 @@ UT102,Can the possessor in the attributive construction be encoded with the nomi
 UT103,Are singular and plural possessee distinguished in the possessive declension? ,0,Alexandra Rodionova (p.c. 2019),,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Alexandra Rodionova (p.c. 2019),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Alexandra Rodionova (p.c. 2019),,
-UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,0,Alexandra Rodionova (p.c. 2019),"
-",
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,0,Alexandra Rodionova (p.c. 2019),,
 UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Alexandra Rodionova (p.c. 2019),,
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Alexandra Rodionova (p.c. 2019),,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Alexandra Rodionova (p.c. 2019),UT109,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Alexandra Rodionova (p.c. 2019),,The use of possessive suffixes is rare; they are mainly attested in folksongs and with words denoting close relatives.
-UT111,Are case and number marked cumulatively across the paradigm?,1,Alexandra Rodionova (p.c. 2019),UT111,
+UT111,Are case and number marked cumulatively across the paradigm?,0,Alexandra Rodionova (p.c. 2019),,
 UT112,Are there different words for mother’s brother and father’s brother?,0,Alexandra Rodionova (p.c. 2019),,
 UT113,Are there different words for younger and older relatives for relations other than siblings?,0,Alexandra Rodionova (p.c. 2019),,
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Alexandra Rodionova (p.c. 2019),,
@@ -156,6 +155,5 @@ UT161,Is there a voiceless velar fricative /x/?,0,Aleksandra Rodionova and Eva S
 UT162,Is there a voiced dental fricative /ð/?,0,Aleksandra Rodionova and Eva Saar (p.c. 2019),,
 UT163,Is there a labio-velar approximant /w/?,0,Aleksandra Rodionova and Eva Saar (p.c. 2019),,
 UT164,Is there a voiceless labiodental fricative /f/?,0,Aleksandra Rodionova and Eva Saar (p.c. 2019),,
-UT165,Is there radical qualitative consonant gradation?,0,Aleksandra Rodionova and Eva Saar (p.c. 2019),,"Only quantitative consonant gradation (see UT165).
-"
+UT165,Is there radical qualitative consonant gradation?,0,Aleksandra Rodionova and Eva Saar (p.c. 2019),,Only quantitative consonant gradation (see UT165).
 UT166,Is there quantitative consonant gradation?,1,Aleksandra Rodionova and Eva Saar (p.c. 2019),"UT166-1, UT166-2",

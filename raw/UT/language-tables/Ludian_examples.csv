@@ -4,12 +4,12 @@ UT002-2,kai külä kerävütt'ih,,kai külä kerävü-tt'ih,all	village	gather-P
 UT004,vahnas kodiš,,vahna-s	kodi-š,old-INE	house-INE,in an old house,
 UT005,vahnan akanke,,vahna-n	aka-nke,old-GEN	woman-COM,with an old woman,
 UT008,Kevädeл лumen lähtedüi peлdod kuivetah,,Keväde-л	лume-n	lähte-düi	peлdo-d	kuive-tah,spring-ADE	snow-GEN	go-PASS.PST.PTCP.PRT	field-PL	dry-PASS.PRS,In the spring after snow is gone the fields are dried,Ojansuu et al. 1934:281
-UT011-1,lämbitän külün,,lämbitä-n	külü-n,heat-1SG	sauna-GEN,I heat the sauna,
-UT011-2,lämbitänn külüd,,lämbitän-n	külü-d,heat-1SG	sauna-PRT,I'm heating the sauna,
+UT011-1,lämbitän külün,,lämbitä-n  külü-n,heat-1SG	sauna-GEN,I heat the sauna,
+UT011-2,lämbitänn külüd,,lämbitän-n külü-d,heat-1SG	sauna-PRT,I'm heating the sauna,
 UT012-1,Luge kird´!,,Luge	kird´!,read.IMP.2SG	book.NOM,Read the book!,
 UT012-2,Ela ~ Ala ~ Älä luge kird´ad!,,Ela~Ala~Älä	luge	kird´a-d!,NEG.IMP.2SG	read.IMP.2SG	book-PRT,Don't read the book!,
 UT013,Mečäs kazvau mard´ioi,,Mečä-s	kazvau	mard´ioi,forest-INE	grow.3SG	berry.PL.PRT,There are berries growing in the forest,
-UT014,"muamah ottau лapsen pätšiл, andau buabaлe",,"muamah	ottau	лapse-n	pätši-л,	andau	buaba-лe",mother	take.3SG	child-GEN	stove-ADE/ABL	give.3SG	midwife-ALL,Mother takes the child from top of the (Russian) stove and gives to the midwife,Ojansuu et al. 1934:280
+UT014,"muamah ottau лapsen pätšiл, andau buabaлe",,"muamah ottau лapse-n pätši-л, andau buaba-лe",mother	take.3SG	child-GEN	stove-ADE/ABL	give.3SG	midwife-ALL,Mother takes the child from top of the (Russian) stove and gives to the midwife,Ojansuu et al. 1934:280
 UT017-1,kärbäižed lendeltäh,,kärbäiže-d	lende-ltäh,fly-PL	fly-FRQ.PASS.PRS,flies are flying (around),Kujola 1944:199
 UT017-2,haikosteltaze,,haikosteltaze,,to yawn (continually),Kujola 1944:59
 UT018,hän on kirgitamas kird’ad,,hän	on	kirgita-ma-s	kird’a-d,3SG	be.3SG	write-SUP-INE	book-PRT,he is writing a book,
@@ -35,7 +35,7 @@ UT050,otan : en ota,,ota-n	:	en	ota,take-1SG	:	NEG.1SG	take.CNG,I take : I don't
 UT053,maltamattah,,malta-mattah,can-SUP.ABE,without skills,
 UT054,lähtedäh aigoi huondekseл,,lähte-däh	aigoi	huondekse-л,leave-PASS.PRS	early	morning-ADE,(People) are leaving early in the morning,Ojansuu et al. 1934:282
 UT055,hiihtäi mužik,,hiihtä-i	mužik,ski-AG.NMLZ	man,a skiing man,
-UT062,lugetuid kird´oid,,luge-tu-i-d	kird´oid,read-PASS.PST.PTCP-PL-PRT	book.PL.PRT,books that have been read,
+UT062,lugetuid kird´oid,,luge-tu-i-d kird´oid,read-PASS.PST.PTCP-PL-PRT	book.PL.PRT,books that have been read,
 UT064-1,pajatai,,pajata-i,sing-AG.NMLZ,a singer,
 UT064-2,pajatai poig,,pajata-i	poig,sing-AG.NMLZ	boy,a singing boy,
 UT067,Elgat händä nostatakkad!,,El-gat	hän-dä	nostata-kkad!,NEG.IMP-2PL	he-PRT	wake_2PL,Don't wake him up!,
@@ -61,7 +61,6 @@ UT093,kirveheidenke,,kirveheide-nke,ax.PL-COM,with axes,
 UT095,stoikke pidäu tahkota tahkol ülen teräväks,,stoikke pidäu tahko-ta tahko-l ülen terävä-ks,scythe	must.3SG	whet-INF	whetstone-ADE	very	sharp-TRA,The scythe must be whetted very sharp with a whetstone,Ojansuu et al. 1934:289
 UT096,minul papa paimoin oli kaks kezäd,,minu-l	papa	paimoi-n	oli	kaks	kezä-d,1SG-ADE	father	shepherd-ESS	be.PST.3SG	two	summer-PRT,my father was a shepherd for two summers,
 UT109,se tulou kodih,,se	tulou	kodih,it	come.3SG	home.ILL,S/he comes home,
-UT111,saraiлoiл,,sarai-лoi-л,raft-PL-ADE,on the rafts,Ojansuu et al. 1934:284
 UT116-1,hukkad,ˈhuk.kad,,wolf.PRT.SG,,
 UT116-2,hukad,ˈhu.kad,,wolf.PL,,
 UT117-1,tuli,ˈtu.lʲiˑ,,,fire,
