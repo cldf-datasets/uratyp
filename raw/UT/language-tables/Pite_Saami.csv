@@ -3,7 +3,7 @@ UT001,Is there a distinct category of dual for verbal agreement with a dual subj
 UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Joshua Wilbur (p.c. 2020),,
 UT003,Can finite verbs agree in number with a nominal object?,0,Joshua Wilbur (p.c. 2020),,
 UT004,Can an adnominal property word agree with the noun in case?,0,Joshua Wilbur (p.c. 2020),,
-UT005,Is there non-agreement between an adnominal property word and the head noun? ,0,Joshua Wilbur (p.c. 2020),,
+UT005,Is there non-agreement between an adnominal property word and the head noun?,0,Joshua Wilbur (p.c. 2020),,
 UT006,Can adpositions be used to mark core verbal arguments?,0,Joshua Wilbur (p.c. 2020),,
 UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,0,Joshua Wilbur (p.c. 2020),,
 UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Joshua Wilbur (p.c. 2020),,
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Joshua Wilbur (p.c. 2020),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Joshua Wilbur (p.c. 2020),,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Joshua Wilbur (p.c. 2020),,
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,Joshua Wilbur (p.c. 2020),UT103,Possessive suffixes are no longer productive.
+UT103,Are singular and plural possessee distinguished in the possessive declension?,0,Joshua Wilbur (p.c. 2020),,Possessive suffixes are no longer productive.
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Joshua Wilbur (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Joshua Wilbur (p.c. 2020),,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Joshua Wilbur (p.c. 2020),"UT106-1, UT106-2",
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Joshua Wilbur (p.c. 2020),,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Joshua Wilbur (p.c. 2020),,"However, it is considered informal or somewhat impolite. Cf. sån båhtá (3SG.NOM+HUM come.3SG.PRS) 's/he is coming'."
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Wilbur 2014:108-111,,Possessive suffixes precede case suffixes. But possissive suffixes are no longer productive.
-UT111,Are case and number marked cumulatively across the paradigm?,N/A,Joshua Wilbur (p.c. 2020),,It is not possible to separate them.
+UT111,Are case and number marked cumulatively across the paradigm?,1,Wilbur 2014:98-108,,
 UT112,Are there different words for mother’s brother and father’s brother?,1,Joshua Wilbur (p.c. 2020),"UT112-1, UT112-2",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Joshua Wilbur (p.c. 2020),"UT113-1, UT113-2",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,Joshua Wilbur (p.c. 2020),"UT114-1, UT114-2",gámbal is a loan from N-Germ.

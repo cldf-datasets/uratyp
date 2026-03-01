@@ -5,9 +5,9 @@ UT005,dán buori biillas,,dán	buori	biillas,this.GENACC	good.GENACC	car.LOC,in 
 UT008-1,Máreha boađedettiin,,Máreha	boađedettiin,Máret.GENACC come.CVB,when Máret came,
 UT008-2,Máret boahtá vahku geažes,,Máret	boahtá	vahku	geažes,Máret come.3SG	week.GEN	in,Máret will come in a week,
 UT014,Máhtte áiccai lotti ja rohttii hávlára báhčinláhkai,,Máhtte	áiccai	lotti	ja	rohttii	hávlára	báhčinláhkai,Matthew	notice.PST.3SG	bird.GEN	and	pull.quickly.PST.3SG	shotgun.GEN	shoot.nláhkai,Matthew noticed a bird and quickly drew out the shotgun,
-UT017-1,láhppit > láhpadit,,láhppit > láhp-ad-it,,lose > lose (many objects),Sammallahti 1998:92
-UT017-2,čohkánit > čohkánaddat,,čohkánit	>	čohkán-adda-t,,sit down > sit down (of many),Sammallahti 1998:92
-UT017-3,báhčit > báhčalit,,báhčit	>	báhč-al-it,,shoot > shoot (many times),Sammallahti 1998:92
+UT017-1,láhppit > láhpadit,,láhppit > láhp-ad-it,lose.INF > lose-FRQ-INF,lose > lose (many objects),Sammallahti 1998:92
+UT017-2,čohkánit > čohkánaddat,,čohkánit	>	čohkán-adda-t,sit_down.INF > sit_down-FRQ-INF,sit down > sit down (of many),Sammallahti 1998:92
+UT017-3,báhčit > báhčalit,,báhčit	>	báhč-al-it,shoot.INF > shoot-FRQ-INF,shoot > shoot (many times),Sammallahti 1998:92
 UT018,Iŋgá	lea	~	lei	čuohppamin	muoraid,,Iŋgá	lea	~	le-i	čuohppa-min	muoraid,Iŋgá be.3SG ~ be-PST.3SG cut-PROG tree.PL.GENACC,Iŋgá is ~ was cutting wood,Aikio and Ylikoski 2022:169
 UT019-1,"Mun vuoššan gáfe, jugažehpet dahje ehpet",,"Mun	vuoššan	gáfe,	jugažehpet	dahje	ehpet",1SG	cook.1SG	coffee.GEN	drink.DUB.2PL	or	NEG.2PL,"I will cook coffee, no matter whether you (pl.) will drink it or not",Aikio 2009:134
 UT019-2,Máhtte boahtá vahku geažes,,Máhtte	boahtá	vahku	geažes,Matthew	come.3SG	week.GEN	in,Matthew will come in a week,Aikio 2009:168
@@ -52,7 +52,6 @@ UT086,meahccái,,meahccá-i,forest-ILL,to the forest,
 UT090,feasttas,,feastta-s,party-LOC,"at a party, from a party",
 UT093,guvttiin gieđain,,guvtti-in	gieđa-in,two-COM	hand-COM,with both hands,
 UT095,guollin,,guolli-n,fish-ESS,"into a fish, as a fish",
-UT103,vielljasan :vieljaidasan,,vielljasan :vieljaidasan,brother.ILL.1SG :brother.PL.ILL.1SG,to my borther :to my brothers,
 UT106,gii :mii,,gii : mii,who : what,who : what,
 UT109,Son/Dat lea mu skibir,,Son/Dat	lea	mu	skibir,3SG/it	be.3SG	1SG.GENACC	friend,S/he/it is my friend,
 UT110-1,mánáidis,,máná-id-is,child-PL.GENACC-3SG,of his/her children,

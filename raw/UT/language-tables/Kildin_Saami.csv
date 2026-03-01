@@ -3,7 +3,7 @@ UT001,Is there a distinct category of dual for verbal agreement with a dual subj
 UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Rießler 2022:233,,Only quantity phrases with a noun in the genitive singular or essive do not agree with verbal predicates.
 UT003,Can finite verbs agree in number with a nominal object?,0,Kert 1971:in passim; Rießler 2022:233-234,,
 UT004,Can an adnominal property word agree with the noun in case?,0,Kert 1971:230; 272; Rießler 2022:233-234,,
-UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Ilya Egorov (p.c. 2024),"UT005-1, UT005-2","Demonstrative pronouns do not agree in terms of case in the adnominal position when a noun is marked with a case other than comitative singular (but not plural), genitive, or nominative. Numerals from 'one' to 'six' demonstrate similar behavior. Demonstrative pronouns and numerals are marked with genetive, however, this form can be analyzed as an underspecified oblique form as well."
+UT005,Is there non-agreement between an adnominal property word and the head noun?,1,Ilya Egorov (p.c. 2024),"UT005-1, UT005-2","Demonstrative pronouns do not agree in terms of case in the adnominal position when a noun is marked with a case other than comitative singular (but not plural), genitive, or nominative. Numerals from 'one' to 'six' demonstrate similar behavior. Demonstrative pronouns and numerals are marked with genetive, however, this form can be analyzed as an underspecified oblique form as well."
 UT006,Can adpositions be used to mark core verbal arguments?,0,Kert 1971:212-217; Rießler 2022:in passim,,
 UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Szabó 1984a; Szabó 1985,"UT008-1, UT008-2",Non-finites require marking an S/A-argument with genitive or comitative.
 UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Szabó 1984a; Szabó 1985,,
@@ -36,7 +36,7 @@ UT035,Is there a reflexive conjugation?,0,Kert 1971:in passim; Rießler 2022:in 
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Kert 1971:in passim; Rießler 2022:in passim,,
 UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Ilya Egorov (p.c. 2024),UT039,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Ilya Egorov (p.c. 2024),UT040,
-UT042,Can an infinitival verb form be used in a directive function?,1,Kert 1971:284,"UT042-1, UT042-2",
+UT042,Can an infinitival verb form be used in a directive function?,1,Kert 1971:284,UT042,
 UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,1,Ilya Egorov (p.c. 2024),UT043,
 UT044,Are there sentences without overt verbal arguments?,1,Kert 1971:284,UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,Kert 1971:257-258,"UT045-1, UT045-2",
@@ -54,14 +54,14 @@ UT056,Are there non-finite forms that can relativize all core participants (S/A/
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Szabó 1985,,
 UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",1,Szabó 1985,"UT058-1, UT058-2, UT058-3",
 UT059,Is there a future participle?,0,Szabó 1985,,
-UT060,Are there participles that can encode their subject with possessive suffixes?,0,Szabó 1985,,
+UT060,Are there participles that can encode their subject with possessive suffixes?,0,Szabó 1985,,"Szabó (1985) provides some examples of tentative possessive suffixes attached to participles (third person only), however, the interpretation of these examples remains somewhat doubtful."
 UT062,Are there participles that must agree with the nouns they modify in case and number in all contexts?,0,Szabó 1985,,
 UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,1,Szabó 1985,"UT063-1, UT063-2",
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Szabó 1985,"UT064-1, UT064-2",
 UT065,Are there non-finite forms that can be used both as participles and converbs?,1,Szabó 1985,"UT065-1, UT065-2, UT053, UT058-2",
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Ilya Egorov (p.c. 2024),,
 UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Potseluev 2024:in passim,,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Kert 1971:in passim; Rießler 2022:in passim,,"There is a marker that can be used to express politeness, but it is not a dedicated morpheme (it takes on special connotations in certain communicative situations)."
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,0,Egorov and Sergienko 2022:108,,
 UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Egorov and Sergienko 2022:108,UT072,
 UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Rießler 2022:227-228,"UT073-1, UT073-2",The agreement of adjectives in number has almost been lost in modern language.
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Ilya Egorov (p.c. 2024),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,Only genetive marking is possible in attributive constructions. External and predicative possessors require locative.
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Szabó 1984a,,
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,Kert 1971:156-160,"UT103-1, UT103-2",
+UT103,Are singular and plural possessee distinguished in the possessive declension?,0,Kert 1971:156-160,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Kert 1971:in passim; Rießler 2022:in passim,,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Kert 1971:in passim; Rießler 2022:in passim,,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Kert 1971:174; Rießler 2022:226-227,"UT106-1, UT106-2",
@@ -101,11 +101,11 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,1,Artyom Boyko (p.c. 2024),UT108,"The use of mʲiː 'what' and kuː 'which' is more common, but kʲeː 'who' can sometimes still be used for inanimate objects as well."
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Ilya Egorov (p.c. 2024),UT109,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Kert 1971:156-160,"UT110-1, UT110-2",
-UT111,Are case and number marked cumulatively across the paradigm?,?,Kert 1971:136-164; Rießler 2022:225-227,,Number and case are marked comulatively within a case-number marker.
+UT111,Are case and number marked cumulatively across the paradigm?,1,Rießler 2022:225,,Number and case are marked comulatively within a case-number marker.
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Kuruč 1985:78, 91, Antonova and Scheller 2021:s.v. че̄дзь","UT112-1, UT112-2, UT112-3",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,"Kuruč 1985:91, 138, 196","UT112-2, UT112-3, UT113-1, UT113-2",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,"Kuruč 1985:62, 217, 238, 273","UT114-1, UT114-2, UT114-3, UT114-4","There is a strict animacy distinction for the concepts 'new' and 'young'. For the concept 'old', there is a syncretic term wuəmʲː 'old (animate/inanimate)' alongside a specialized term puərʲesʲ 'old (animate); elder'."
-UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,"Kuruč 1985:146, 258.",,There is the distinction only for 'warm':pɒːhk ‘warm (of the atmosphere)’ vs lʸiːŋʸgʸ-esʸ ‘warm (of the liquids)’. 
+UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,"Kuruč 1985:146, 258.",,There is the distinction only for 'warm':pɒːhk ‘warm (of the atmosphere)’ vs lʸiːŋʸgʸ-esʸ ‘warm (of the liquids)’.
 UT116,Is there contrastive length for consonants?,1,Rießler 2022:221-223,"UT116-1, UT116-2",
 UT117,Is there contrastive length for vowels?,1,Buzanov et al. 2023,"UT116-1, UT117",
 UT118,Is there a contrast between short and long unstressed vowels?,0,Buzanov et al. 2023,,

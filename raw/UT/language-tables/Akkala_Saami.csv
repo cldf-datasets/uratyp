@@ -3,7 +3,7 @@ UT001,Is there a distinct category of dual for verbal agreement with a dual subj
 UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Zaikov 1987:in passim,,Only quantity phrases with a noun in the genitive singular or essive do not agree with verbal predicates.
 UT003,Can finite verbs agree in number with a nominal object?,0,Zaikov 1987:in passim,,
 UT004,Can an adnominal property word agree with the noun in case?,0,Zaikov 1987:in passim,,
-UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Zaikov 1987:in passim,UT005,
+UT005,Is there non-agreement between an adnominal property word and the head noun?,1,Zaikov 1987:in passim,UT005,
 UT006,Can adpositions be used to mark core verbal arguments?,0,Zaikov 1987:in passim,,
 UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Zaikov 1987:170,UT008,
 UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Zaikov 1987:in passim,,
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Zaikov 1987:in passim,,
 UT101,Can the marking of the possessor in the attributive construction vary?,1,Zaikov 1987:in passim,"UT101-1, UT101-2",
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Zaikov 1987:in passim,,
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,0,Zaikov 1987:138-140,,
+UT103,Are singular and plural possessee distinguished in the possessive declension?,0,Zaikov 1987:138-140,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Zaikov 1987:in passim,,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Zaikov 1987:in passim,,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Zaikov 1987:126,"UT106-1, UT106-2",
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Zaikov 1987:in passim,,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Zaikov 1987:in passim,UT093-2,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Zaikov 1987:135-138,"UT110-1, UT110-2, UT110-3, UT110-4",
-UT111,Are case and number marked cumulatively across the paradigm?,?,,,
+UT111,Are case and number marked cumulatively across the paradigm?,1,Zaikov 1987:104-105,,
 UT112,Are there different words for mother’s brother and father’s brother?,1,Zaikov 1987:175; Eliseev et al. 2007:290,"UT112-1, UT112-2","A survey of the existing corpus yields two words for 'uncle', although there is no direct evidence for the concrete meaning, the etymology suggests the semantic contrast in question."
 UT113,Are there different words for younger and older relatives for relations other than siblings?,?,Ilya Egorov (p.c. 2025),,"There is no evidence for the semantic contrast in question in Akkala Saami. However, it is likely to have existed in Akkala Saami, since it is present in the better-documented neighbouring Saami languages. In the absence of evidence, we are forced to mark this feature with '?'."
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Genetz 1891:in passim,,"There is an animacy distinction only for 'new/young', one adjective 'old' is used for animate and inanimate. However, there is a specialized adjective 'eldest'."
