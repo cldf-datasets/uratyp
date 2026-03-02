@@ -1,13 +1,14 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
 UT002,шинчаже ылыжыч ~ ылыже,ʃint͡ɕɑʒe ələʒət͡ɕ ~ ələʒe,ʃint͡ɕɑ-ʒe	ələʒ-ət͡ɕ	~	ʃint͡ɕɑ-ʒe	ələʒ-e,eye-POSS.3SG	light_up-PST1.3PL	~	eye-POSS.3SG	light_up-PST1.3SG,His/her eyes lit up,
-UT008,"унавлакын кайымекышт, ме малаш возынна","unɑvlɑkən kɑjəmekəʃt, me mɑlɑʃ vozənnɑ","unɑ-vlɑk-ən	kɑjə-mekə-ʃt,	me	mɑl-ɑʃ	voz-ən-nɑ","guest-PL-GEN	go-CVB.PRI-POSS.3PL,	1PL	sleep-INF	lie_down-PST2-1PL","After the guests left, we went to sleep",
-UT009,Петялан пареҥге эрыкташ кӱлеш,Petʲɑlɑn pɑreŋge erǝktɑʃ kyleʃ,Petʲɑ-lɑn	pɑreŋge	erǝkt-ɑʃ	kyl-eʃ,Petya-DAT	potato.NOM	clean-INF	be_necessary-3SG,Petya has to wash potatoes,
+UT008,"унавлакын кайымекышт, ме малаш возынна","unɑvlɑkən kɑjəmekəʃt, me mɑlɑʃ vozənnɑ","unɑ-vlɑk-ən kɑjə-mekə-ʃt, me mɑl-ɑʃ voz-ən-nɑ","guest-PL-GEN go-CVB.PRI-POSS.3PL, 1PL sleep-INF lie_down-PST2-1PL","After the guests left, we went to sleep",
+UT009-1,Петялан пареҥге эрыкташ кӱлеш,Petʲɑlɑn pɑreŋge erǝktɑʃ kyleʃ,Petʲɑ-lɑn	pɑreŋge	erǝkt-ɑʃ	kyl-eʃ,Petya-DAT	potato.NOM	clean-INF	be_necessary-3SG,Petya has to wash potatoes,
+UT009-2,паша ыштышыл,pɑʃɑ əʃtəʃəlɑ,pɑʃɑ əʃtə-ʃəlɑ,work.NOM do-CVB ,while working,Saarinen 2022:43
 UT014,[…] шонымыжым каласыш да писын ошкыльо,[…] ʃonəməʒəm kɑlɑsəʃ dɑ pisən oʃkəʎo,[…] ʃonə-mə-ʒə-m kɑlɑsə-ʃ dɑ pisə-n oʃkəʎo,[…]	think-PTPC.PASS-POSS.3SG-ACC	say-PST1.3SG	and	quick-ADV	walk.PST1.3SG,s/he expressed his/her thought to […] and paced quickly’,
 UT016-1,Йыван ончыч тамакым ок шупш ыле,jəvɑn ont͡ɕət͡ɕ tɑmɑkəm ok ʃupʃ əʎe,jəvɑn	ont͡ɕət͡ɕ	tɑmɑk-əm	ok	ʃupʃ	əʎe,Yyvan	before	tobacco-ACC	NEG.3SG	smoke.CNG	be.PST1.3SG,Yyvan didn’t use to smoke,
 UT016-2,пошкудовлак дене ваш_ваш полшен илена,poʃkudovlɑk dene vɑʃ_vɑʃ polʃen ilenɑ,poʃkudo-vlɑk	dene	vɑʃ_vɑʃ	polʃ-en	il-enɑ,neighbour-PL	with	one_another	help-CVB	live-1PL,Our neighbors and we help each other all the time,
 UT017-1,лӱмдаш → лӱмдылаш,lymdɑʃ → lymdəlɑʃ,,,to name → to call names,
 UT017-2,озавате шӱрлан шылым пӱчкын опта,ozɑvɑte ʃyrlɑn ʃələm pyt͡ɕkən optɑ,ozɑvɑte	ʃyr-lɑn	ʃəl-əm	pyt͡ɕk-ən	optɑ,housewife	soup-DAT	meat-ACC	cut-CVB	place-3SG,The housewife is chopping up meat for the soup,
-UT018,ялысе калык газ пуртымым кумшо ий вучен ила,jɑləse kɑlək gɑz purtəməm kumʃo ij vut͡ɕen ilɑ,jɑl-əse	kɑlək	gɑz	purtə-mə-m	kum-ʃo	ij	vut͡ɕ-en	il-ɑ,village-ADJ	people	gas	enter-PTCP.PASS-ACC	three-ORD	year	wait-CVB	live-3SG,The people in the village have been waiting to be connected to gas for three years,
+UT018,ялысе калык газ пуртымым кумшо ий вучен ила,jɑləse kɑlək gɑz purtəməm kumʃo ij vut͡ɕen ilɑ,jɑl-əse kɑlək gɑz purtə-mə-m kum-ʃo ij vut͡ɕ-en il-ɑ,village-ADJ people gas enter-PTCP.PASS-ACC three-ORD year wait-CVB live-3SG,The people in the village have been waiting to be connected to gas for three years,
 UT019,вашке шыже толеш,vɑʃke ʃəʒe toleʃ,vɑʃke	ʃəʒe	tol-eʃ,soon	autumn	come-3SG,Autumn will come soon,
 UT021-1,"кеҥеж шумеке, туриствлак шукемыныт","keŋeʒ ʃumeke, turistvlɑk ʃukemənət","keŋeʒ	ʃu-meke,	turist-vlɑk	ʃukem-ən-ət","summer	arrive-CVB.PRI,	tourist.PL	increase-PST2-3PL","once summer had arrived, more and more tourists arrived",
 UT021-2,"малаш возынам веле ыле, алакӧ омсаш тӱкалтыш","mɑlɑʃ vozənɑm vele əʎe, ɑlɑkø omsɑʃ tykɑltəʃ","mɑl-ɑʃ	voz-ən-ɑm	vele	əʎe,	ɑlɑ-kø	omsɑ-ʃ	tykɑltə-ʃ","sleep-INF	lie_down-PST2-1SG	only	be.PST1.3SG,	some-who	door-ILL	knock-PST1.3SG",I had just gone to sleep when someone knocked on the door,
