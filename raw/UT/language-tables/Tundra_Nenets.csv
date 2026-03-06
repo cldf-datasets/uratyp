@@ -34,13 +34,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,1,Nikolaeva 2014:90,UT034,
 UT035,Is there a reflexive conjugation?,1,Nikolaeva 2014:78-79,,The reflexive conjugation is formed based on the reflexive stem.
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Nikolaeva 2014:79,UT037,
-UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Nikolaeva 2014:200,UT039,
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Nikolaeva 2014:200,UT200,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,0,Sven-Erik Soosaar (p.c. 2020),,
-UT042,Can an infinitival verb form be used in a directive function?,0,Sven-Erik Soosaar (p.c. 2020),,
-UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,0,Nikolaeva 2014:382,,There is the purposive converb (final gerund).
+UT201,Can an infinitival verb form be used in a directive function?,0,Sven-Erik Soosaar (p.c. 2020),,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,0,Nikolaeva 2014:382,,There is the purposive converb (final gerund).
 UT044,Are there sentences without overt verbal arguments?,1,Nikolaeva 2014:228,"UT044-1, UT044-2",The subject (god/sky/wheather) can be omitted although it is more common to express the subject.
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,"Nikolaeva 2014:252, 254-255",,
-UT046,Is a copula commonly used for predicate nominals in the past tense?,0,"Nikolaeva 2014:252, 254-255",,"The copula is not required in the past and present; the past is expressed on the adjective or noun, as in pidər° xanʹena-nə-sʹ° (you hunter-2SG-PST) 'you were a hunter' (Nikolaeva 2014:254)."
+UT202,Is a copula commonly used for predicate nominals in the past tense?,0,"Nikolaeva 2014:252, 254-255",,"The copula is not required in the past and present; the past is expressed on the adjective or noun, as in pidər° xanʹena-nə-sʹ° (you hunter-2SG-PST) 'you were a hunter' (Nikolaeva 2014:254)."
 UT047,Can locative constructions commonly occur without a copula?,1,Nikolaeva 2014:263,UT047,
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",0,Nikolaeva 2014:414-417,,Coordinating conjunctions can be found but this is not the commonest coordination strategy.
 UT049,Does existential negation have a special negator?,1,"Nikolaeva 2014:250, 260",UT049,There are two existential copulas: tənʹa° (affirmative) and yəŋku (negative). Cf. standard negation: pida nʹī məncara-q (he NEG work-CONNEG) 'He did not work / he is not working'.
@@ -85,7 +85,7 @@ UT090,Is there case syncretism for location and source marking?,0,Nikolaeva 2014
 UT091,Are there two sets of local cases?,0,Nikolaeva 2014:60-66,,
 UT092,Are there three or more sets of local cases?,0,Nikolaeva 2014:60-66,,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,0,Nikolaeva 2014:63-64,,The locative case may be used in both functions.
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Nikolaeva 2014:63-64,,
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Nikolaeva 2014:63-64,,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Nikolaeva 2014:60-66,,"The derivational suffix -ngæ appears in a similar function, e.g. li 'bone', lingæ 'as a bone, for a bone'."
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Nikolaeva 2014:60-66,,
 UT097,Is there a dedicated case that expresses equativity?,0,Nikolaeva 2014:39,,"However, there is an adverbial form marked by the suffix -(də)r'em."
@@ -94,7 +94,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Nikolaeva 2014:59; Tereschenko 1956:40,,"Paired objects typically stand in plural, still, dual may be encountered as well - 'my eyes’ can be expressed either as sǣw°-xəyu-nʹi (DU) or as sǣw°-nʹi (PL)."
 UT101,Can the marking of the possessor in the attributive construction vary?,1,Nikolaeva 2014:143,"UT101-1, UT101-2","Whereas the lexical possessor takes the genitive form, the pronominal possessor appears in the nominative form."
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,Nikolaeva 2014:142-143,UT102,Pronominal possessor appears in the nominative form.
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,Nikolaeva 2014:59,"UT103-1, UT103-2",
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,1,Nikolaeva 2014:59,"UT204-1, UT204-2",
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,1,Nikolaeva 2014:69,UT104,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Nikolaeva 2014:68-69,UT105,"""[T]he 3rd person singular possessive affixes express identifiability based on deixis and situational context"" (Nikolaeva 2014: 68). Their usage in this function is, however, optional."
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Nikolaeva 2014:265,"UT106-1, UT106-2",
@@ -102,7 +102,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Sven-Erik Soosaar (p.c. 2020),,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,0,Sven-Erik Soosaar (p.c. 2020),,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Nikolaeva 2014:144,UT110,case + Px
-UT111,Are case and number marked cumulatively across the paradigm?,1,Sven-Erik Soosaar (p.c. 2020),,
+UT205,Are case and number marked cumulatively across the paradigm?,1,Sven-Erik Soosaar (p.c. 2020),,
 UT112,Are there different words for mother’s brother and father’s brother?,1,Sven-Erik Soosaar (p.c. 2020),,
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Sven-Erik Soosaar (p.c. 2020),"UT113-1, UT113-2, UT113-3",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,Sven-Erik Soosaar (p.c. 2020),"UT114-1, UT114-2",

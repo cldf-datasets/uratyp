@@ -34,13 +34,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Iva 2007:in passim,,
 UT035,Is there a reflexive conjugation?,0,Iva 2007:83-84,,"There are only some rudiments, e.g., tä hiit kivi järve (3SG throw.3SG stone.GEN lake.ILL) 's/he will throw the stone into the lake' vs. tä hiitäs pikäle (3SG throw.REFL.3SG down) 's/he lies down'."
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Iva 2007:91-92,"UT037-1, UT037-2","Only in imperfect forms, where one of the endings in both the second and the third person plural is a glottal stop. In both cases, it is neither the only nor the most frequently used ending, but it is nevertheless in use and can be used with all verbs. Pronoun is mostly dropped. In present tense forms, the glottal stop is not the ending for 2PL and 3PL."
-UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Sulev Iva (p.c. 2020),UT039,
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Sulev Iva (p.c. 2020),UT200,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Sulev Iva (p.c. 2020),UT040,
-UT042,Can an infinitival verb form be used in a directive function?,0,Sulev Iva (p.c. 2020),,
-UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,1,Plado and Lindström and Iva 2023:416,UT043,"It is possible for the main verb of a purpose clause to be in the infinitive form, but usually it is a finite verb in indicative or in conditional mood."
+UT201,Can an infinitival verb form be used in a directive function?,0,Sulev Iva (p.c. 2020),,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Plado and Lindström and Iva 2023:416,UT043,"It is possible for the main verb of a purpose clause to be in the infinitive form, but usually it is a finite verb in indicative or in conditional mood."
 UT044,Are there sentences without overt verbal arguments?,1,Sulev Iva (p.c. 2020),UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,Sulev Iva (p.c. 2020),UT045,
-UT046,Is a copula commonly used for predicate nominals in the past tense?,1,Sulev Iva (p.c. 2020),UT046,
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Sulev Iva (p.c. 2020),UT202,
 UT047,Can locative constructions commonly occur without a copula?,0,Sulev Iva (p.c. 2020),,"It is common to use a copula, e.g. ma olõ väläh (1SG be[1SG] outside) 'I am outside'. While playing a card game one could also say ma väläh (1SG out) 'I'm out’."
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Plado and Lindström and Iva 2023:409-410,"UT048-1, UT048-2",
 UT049,Does existential negation have a special negator?,0,Plado and Lindström and Iva 2023:421-422,,
@@ -84,7 +84,7 @@ UT090,Is there case syncretism for location and source marking?,0,Iva 2007:50-54
 UT091,Are there two sets of local cases?,1,Iva 2007:50-54,,
 UT092,Are there three or more sets of local cases?,0,Iva 2007:50-54,,Other local relations are expressed by postpositions.
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Iva 2007:55-56,"UT093-1, UT093-2",
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Iva 2007:41-57,,
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Iva 2007:41-57,,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Plado and Lindström and Iva 2023:393,UT095,
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Iva 2007:56,,"The inessive case is used, e.g., tä om Talna-h ministri-h (3SG be.3SG Tallinn-INE minister-INE) 'S/he is a minster in Tallinn'."
 UT097,Is there a dedicated case that expresses equativity?,0,Plado and Lindström and Iva 2023:417-424,,
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Sulev Iva (p.c. 2020),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Plado and Lindström and Iva 2023:408-409,,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Plado and Lindström and Iva 2023:408-409,,
-UT103,Are singular and plural possessee distinguished in the possessive declension?,0,Iva 2007:in passim,,
+UT204,Are singular and plural possessee distinguished in the possessive declension?,0,Iva 2007:in passim,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Iva 2007:in passim,,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Iva 2007:in passim,,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Plado and Lindström and Iva 2023:410,"UT106-1, UT106-2",
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,1,Janek Vaab (p.c. 2026),UT108,"Although the relativizer usually makes difference between animate and inanimate referents, the border between the two may vary, thus, tools and other inanimates could be used with 'who'."
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Plado and Lindström and Iva 2023:406,UT109,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Plado and Lindström and Iva 2023:in passim,,
-UT111,Are case and number marked cumulatively across the paradigm?,0,Sulev Iva (p.c. 2020),,
+UT205,Are case and number marked cumulatively across the paradigm?,0,Sulev Iva (p.c. 2020),,
 UT112,Are there different words for mother’s brother and father’s brother?,1,Sulev Iva (p.c. 2020),"UT112-1, UT112-2",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,0,Sulev Iva (p.c. 2020),,
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Sulev Iva (p.c. 2020),,"Only nuur 'young' and vahtsõnõ 'new' differ, not vana 'old'."

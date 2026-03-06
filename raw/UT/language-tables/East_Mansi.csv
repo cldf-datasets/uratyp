@@ -34,13 +34,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT035,Is there a reflexive conjugation?,0,Ulla-Maija Forsberg (p.c. 2020),,There is a derivative suffix.
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Ulla-Maija Forsberg (p.c. 2020),,There is syncretism in 2DU/2PL forms.
-UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,0,Ulla-Maija Forsberg (p.c. 2020),,"Occasionally the personal passive is used, in which case the verb appears in the 3SG form: tow-ax° nog-wǝ-s (row-INF start-PASS.3SG-PRT) ’one began to row’."
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,0,Ulla-Maija Forsberg (p.c. 2020),,"Occasionally the personal passive is used, in which case the verb appears in the 3SG form: tow-ax° nog-wǝ-s (row-INF start-PASS.3SG-PRT) ’one began to row’."
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,0,Ulla-Maija Forsberg (p.c. 2020),,Occasionally the personal passive is used.
-UT042,Can an infinitival verb form be used in a directive function?,0,Ulla-Maija Forsberg (p.c. 2020),,
-UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,1,Kulonen 2007:183,UT043,
+UT201,Can an infinitival verb form be used in a directive function?,0,Ulla-Maija Forsberg (p.c. 2020),,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Kulonen 2007:183,UT043,
 UT044,Are there sentences without overt verbal arguments?,0,Ulla-Maija Forsberg (p.c. 2020),,"The subject (e.g., toorǝm ’sky’) appears."
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Kulonen 2007:191,,"Copula is not needed, e.g. ,jääp-oåm lilǝng-äg? (brother-POSS.DU>1SG alive-DU) 'Are my two brothers alive?'."
-UT046,Is a copula commonly used for predicate nominals in the past tense?,1,Ulla-Maija Forsberg (p.c. 2020),UT046,
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Ulla-Maija Forsberg (p.c. 2020),UT202,
 UT047,Can locative constructions commonly occur without a copula?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",0,Ulla-Maija Forsberg (p.c. 2020),,There are no coordinating conjunctions.
 UT049,Does existential negation have a special negator?,1,Kulonen 2007:193,UT049,
@@ -84,7 +84,7 @@ UT090,Is there case syncretism for location and source marking?,0,Ulla-Maija For
 UT091,Are there two sets of local cases?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT092,Are there three or more sets of local cases?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Ulla-Maija Forsberg (p.c. 2020),"UT093-1, UT093-2","In the examples, the case is the same. The ending is either -l or -tǝl. The latter appears in the possessive declension."
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Ulla-Maija Forsberg (p.c. 2020),,
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Ulla-Maija Forsberg (p.c. 2020),,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Ulla-Maija Forsberg (p.c. 2020),UT095,The translative endings are -ii and -äg.
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Ulla-Maija Forsberg (p.c. 2020),,
 UT097,Is there a dedicated case that expresses equativity?,0,Ulla-Maija Forsberg (p.c. 2020),,
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,1,Ulla-Maija Forsberg (p.c. 2020),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Ulla-Maija Forsberg (p.c. 2020),,There is no marking on the possesor.
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,Kulonen 2007:37,UT102,
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,Kulonen 2007:35,"UT103-1, UT103-2, UT103-3","SG, DU and PL possession have their own series of possessive suffixes."
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,1,Kulonen 2007:35,"UT204-1, UT204-2, UT204-3","SG, DU and PL possession have their own series of possessive suffixes."
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Ulla-Maija Forsberg (p.c. 2020),"UT106-1, UT106-2",
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,0,Ulla-Maija Forsberg (p.c. 2020),,Only täw 's/he' can be used to refer to a human referent.
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Ulla-Maija Forsberg (p.c. 2020),"UT110-1, UT110-2","Cx + Px in adverbs, Px + Cx  in nouns."
-UT111,Are case and number marked cumulatively across the paradigm?,1,Ulla-Maija Forsberg (p.c. 2020),"UT111-1, UT111-2, UT111-3",Number + Cx
+UT205,Are case and number marked cumulatively across the paradigm?,1,Ulla-Maija Forsberg (p.c. 2020),"UT205-1, UT205-2, UT205-3",Number + Cx
 UT112,Are there different words for mother’s brother and father’s brother?,0,Ulla-Maija Forsberg (p.c. 2020),,The word ääk 'uncle' is used in both cases.
 UT113,Are there different words for younger and older relatives for relations other than siblings?,0,Ulla-Maija Forsberg (p.c. 2020),,
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Ulla-Maija Forsberg (p.c. 2020),,jälpǝl;;new;|weer;;young;

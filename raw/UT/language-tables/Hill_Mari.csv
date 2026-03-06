@@ -36,13 +36,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Jeremy Bradley (p.c. 2020),,
 UT035,Is there a reflexive conjugation?,0,Krasnova et al. 2017:281-282,,Realized by a highly productive derivational suffix.
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Jeremy Bradley (p.c. 2020),,
-UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT039,Probably Russian influence.
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT200,Probably Russian influence.
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT040,
-UT042,Can an infinitival verb form be used in a directive function?,1,Krasnova et al. 2017:150-151,UT042,
-UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,1,Krasnova et al. 2017:142,"UT043-1, UT043-2",
+UT201,Can an infinitival verb form be used in a directive function?,1,Krasnova et al. 2017:150-151,UT201,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Krasnova et al. 2017:142,"UT043-1, UT043-2",
 UT044,Are there sentences without overt verbal arguments?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT044,"This typically happens in Mari (only) with causative verb forms. The verbs meaning ‘rain’, ‘snow’ , and ‘blow’ (wind) require a subject."
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Krasnova et al. 2017:176,,"Copula is not needed 3rd person form of the present tense, e.g. тӹдӹ тымдышы [tə̈də̈ təmdəʃə] (3SG teacher) ‘s/he is a teacher’."
-UT046,Is a copula commonly used for predicate nominals in the past tense?,1,"Krasnova et al. 2017:177-179, 182-183",UT046,
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,"Krasnova et al. 2017:177-179, 182-183",UT203,
 UT047,Can locative constructions commonly occur without a copula?,1,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),UT047,
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Krasnova et al. 2017:257-258,"UT048-1, UT048-2",
 UT049,Does existential negation have a special negator?,1,"Krasnova et al. 2017:176-177, 186-187","UT049-1, UT049-2",
@@ -86,7 +86,7 @@ UT090,Is there case syncretism for location and source marking?,0,Jeremy Bradley
 UT091,Are there two sets of local cases?,0,Jeremy Bradley (p.c. 2020),,
 UT092,Are there three or more sets of local cases?,0,Jeremy Bradley (p.c. 2020),,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,0,Jeremy Bradley (p.c. 2020),,The so-called comitative case mentioned in Mari grammars and textbooks has a radically different function.
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Jeremy Bradley (p.c. 2020),,
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Jeremy Bradley (p.c. 2020),,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Jeremy Bradley (p.c. 2020),,
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Jeremy Bradley (p.c. 2020),,
 UT097,Is there a dedicated case that expresses equativity?,1,Krasnova et al. 2017:105-107,UT097,"“The comparative case is used in answer to the questions кӱлӓ [kylæ]? ‘like whom, as whom’ and мала? ‘like what, as what’”"
@@ -95,7 +95,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,1,Krasnova et al. 2017:68,"UT100-1, UT100-2",
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Jeremy Bradley (p.c. 2020),,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Jeremy Bradley (p.c. 2020),,"It should be noted that inanimate nouns traditionally did not occur in the genitive at all; inanimate nouns serving as a modification do occur in the nominative, e.g. Вена университет [Venɑ universitet] (Vienna.NOM university) ‘University of Vienna’ (see mrj.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B0)"
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,0,Saarinen 2022:443,,
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,0,Saarinen 2022:443,,
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Jeremy Bradley and Nadezhda Krasnova (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Krasnova et al. 2017:253,UT105,The possessive suffix is used to indicate a reference to something previously discussed or otherwise salient to the conversation. It is especially commonly used to refer to a subset of a larger whole that is salient.
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Riese et al. 2017: 213,"UT106-1, UT106-2",
@@ -103,7 +103,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Jeremy Bradley (p.c. 2020),,
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,0,Krasnova et al. 2017:209,,"“Both in Hill Mari and in Meadow Mari, the pronouns тидӹ [tidə̈] (тиде [tide]) ‘this’ and тӹдӹ [tə̈də̈] (тудо [tudo]) ‘that’ have short forms ти [ti] ~ тӹ [tə̈] (ты [tə] ~ ту [tu]). The long forms are used when they stand on their own and are subject to nominal inflection. Before a noun as an attribute, in Hill Mari only the short form is used, whereas in Meadow Mari either the short or long form can be used.”"
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Krasnova et al. 2017:87,"UT110-1, UT110-2",The “degrees of freedom” depend on the case.
-UT111,Are case and number marked cumulatively across the paradigm?,1,Krasnova et al. 2017:76-110,,
+UT205,Are case and number marked cumulatively across the paradigm?,1,Krasnova et al. 2017:76-110,,
 UT112,Are there different words for mother’s brother and father’s brother?,1,"Savatkova 1981:107, 329, 384","UT112-1, UT112-2, UT112-3",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,"Savatkova 1981:329, 384, 21, 107","UT113-1, UT113-2, UT113-3, UT113-4",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,"Savatkova 1981:296, 275, 242, 349, Krasnova et al. 2017:126, 148","UT114-1, UT114-2",

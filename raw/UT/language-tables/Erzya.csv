@@ -34,13 +34,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Hamari and Ajanki 2022:411,,
 UT035,Is there a reflexive conjugation?,0,Hamari and Ajanki 2022:in passim,,"There is no reflexive conjugation, there is only the passive/reflexive marker v, e.g. Mar'a-n' tomba-v-s' ked'-eze (Mary-GEN hurt-PASS-PST1.3SG hand-POSS.3SG) 'Mary's hand got hurt'."
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Hamari and Ajanki 2022:408,"UT037-1, UT037-2",2PL and 3PL subject are syncretic in the objective conjugation.
-UT039,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Hamari and Ajanki 2022:426,UT039,
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Hamari and Ajanki 2022:426,UT200,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Hamari and Ajanki 2022:426,UT040,
-UT042,Can an infinitival verb form be used in a directive function?,1,Bartens 1999:148,UT042,
-UT043,Can verbs in purposive subordinate clauses be bare infinitive forms?,1,Bartens 1999:147,UT043,It is also possible to use Russian loanword štoba 'in order to' + infinitive.
+UT201,Can an infinitival verb form be used in a directive function?,1,Bartens 1999:148,UT201,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Bartens 1999:147,UT043,It is also possible to use Russian loanword štoba 'in order to' + infinitive.
 UT044,Are there sentences without overt verbal arguments?,1,Hamari and Ajanki 2022:423-424,UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Hamari and Ajanki 2022:423,,Sonze kudo-zo mazij (3SG.GEN house-POSS.3SG beautiful) 'His/her house is beautiful'.
-UT046,Is a copula commonly used for predicate nominals in the past tense?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt and Denys Teptiuk (p.c. 2022),"UT046-1, UT046-2","In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense."
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Niina Aasmäe (p.c. 2020); Mariann Bernhardt and Denys Teptiuk (p.c. 2022),"UT202-1, UT202-2","In the past tense, it is possible to use the copula with predicate nominals, but predicate nominals can also be conjugated in the second past tense."
 UT047,Can locative constructions commonly occur without a copula?,1,Hamari and Ajanki 2022:423-424,UT047,In other persons the locative adverbial gets verbal endings: Mon kudo-s-an (1SG house-INE-1SG) 'I am at home'.
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Hamari and Ajanki 2022:428,,"Coordinating conjunctions are all of Russian origin (Hamari and Ajanki 2022:428). With nouns different types of coordinating is also possible, i.e., Pet'a-t-Mar'a-t (Pet'a-PL-Mar'a-PL) 'Pete and Mary' or Pet'a Mar'a marto (Pet'a Mar'a with) 'Pete with Mary' (Niina Aasmäe, p.c. 2020)."
 UT049,Does existential negation have a special negator?,1,Hamari and Ajanki 2022:425,UT049,"In existential sentences, the negation particle aras' is used. In other sentences, the negation particle a is used in the present tense and the negation verb ez' in the past tense."
@@ -84,7 +84,7 @@ UT090,Is there case syncretism for location and source marking?,0,Hamari and Aja
 UT091,Are there two sets of local cases?,0,Hamari and Ajanki 2022:399-400,,
 UT092,Are there three or more sets of local cases?,0,Hamari and Ajanki 2022:399-400,,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,0,Hamari and Ajanki 2022:399-400,,"The inessive -so/-se can also be used as instrumental, e.g., salmuks-so (needle-INS) 'by/with a needle'."
-UT094,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Hamari and Ajanki 2022:399-400,,
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Hamari and Ajanki 2022:399-400,,
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Hamari and Ajanki 2022:399-400,UT095,
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Hamari and Ajanki 2022:399-400,,
 UT097,Is there a dedicated case that expresses equativity?,1,Hamari and Ajanki 2022:399-400,UT097,The comparative is used to mark the size or the approximate quantity of a referent.
@@ -93,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Niina Aasmäe (p.c. 2020),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Bartens 1999:88-92,,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Bartens 1999:88-92,,
-UT103,Are singular and plural possessee distinguished in the possessive declension? ,1,Hamari and Ajanki 2022:402,UT103,"However, there are also syncretic forms: singular and plural possession overlap in most cases."
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,1,Hamari and Ajanki 2022:402,UT204,"However, there are also syncretic forms: singular and plural possession overlap in most cases."
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Niina Aasmäe (p.c. 2020); Mariann Bernhardt and Denys Teptiuk (p.c. 2022),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Hamari and Ajanki 2022:427,UT105,"The 3SG possessive suffix can be used instead of the definite declension with some unique nouns, however, this use is restricted."
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,?,Bartens 1999:115-117,,Not discussed.
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Niina Aasmäe (p.c. 2020),,See the comment in UT107.
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Niina Aasmäe (p.c. 2020),UT109,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Hamari and Ajanki 2022:403,,"The possessive suffixes usually follow case suffixes. In some cases, however, case suffixes and possessive suffixes are fused."
-UT111,Are case and number marked cumulatively across the paradigm?,1,Niina Aasmäe (p.c. 2020),,"Plural marking is used in the basic declension only in the nominative. In other cases the singular and the plural is distinguished only in the definite declension. The singular is unmarked, whereas in the plural the plural suffix t : t' follows the noun, and it is followed by the definiteness marker and the case ending."
+UT205,Are case and number marked cumulatively across the paradigm?,1,Niina Aasmäe (p.c. 2020),,"Plural marking is used in the basic declension only in the nominative. In other cases the singular and the plural is distinguished only in the definite declension. The singular is unmarked, whereas in the plural the plural suffix t : t' follows the noun, and it is followed by the definiteness marker and the case ending."
 UT112,Are there different words for mother’s brother and father’s brother?,0,Niina Aasmäe (p.c. 2020),,леля; l'el'a 'uncle' is used for both.
 UT113,Are there different words for younger and older relatives for relations other than siblings?,0,Niina Aasmäe (p.c. 2020),,
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Niina Aasmäe (p.c. 2020),,"There is only distinction for 'old', i.e. tašto 'old (inanimate), sir'e 'old (animate)'."

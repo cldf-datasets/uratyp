@@ -34,13 +34,13 @@ UT033,Is it common to use the imperative/jussive in complement clauses introduce
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Jussi Ylikoski (p.c. 2020),,
 UT035,Is there a reflexive conjugation?,0,Jussi Ylikoski (p.c. 2020),,
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Jussi Ylikoski (p.c. 2020),,
-UT039,Can 3rd person plural verb forms be used for impersonal reference?,1,Jussi Ylikoski (p.c. 2020),UT039,
+UT200,Can 3rd person plural verb forms be used for impersonal reference?,1,Jussi Ylikoski (p.c. 2020),UT200,
 UT040,Are 2nd singular verb forms commonly used with a generic meaning?,1,Jussi Ylikoski (p.c. 2020),UT040,"Used colloquially, probably increasingly used due to Scandinavian influence. "
-UT042,Can an infinitival verb form function as a predicate in an imperative clause?,1,Sammallahti 2005:207,"UT042-1, UT042-2",
-UT043,Can verbs in purposive subordinate clauses be in the bare infinitive form?,1,Aikio and Ylikoski 2022:170,UT043,There is also a purposive converb in -(a)ndihte ~ -(a)ndihtii.
+UT201,Can an infinitival verb form function as a predicate in an imperative clause?,1,Sammallahti 2005:207,"UT201-1, UT201-2",
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Aikio and Ylikoski 2022:170,UT043,There is also a purposive converb in -(a)ndihte ~ -(a)ndihtii.
 UT044,Are there sentences without overt verbal arguments?,1,Jussi Ylikoski (p.c. 2020),UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,Aikio 2009:40,UT045,
-UT046,Is a copula commonly used for predicate nominals in the past tense?,1,Jussi Ylikoski (p.c. 2020),UT046,
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Jussi Ylikoski (p.c. 2020),UT202,
 UT047,Is it common to omit a copula in locative constructions?,0,Jussi Ylikoski (p.c. 2020),,
 UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Aikio 2009:149,"UT048-1, UT048-2","Coordination can be expressed several ways:1) Ánná ja Piera 'Ánná and Piera', 2) Ánná(-guovttos) Piera-in (Ánná.GENACC(-DU) Piera-COM) 'Ánná with Piera'"
 UT049,Does existential negation have a special negator?,0,Jussi Ylikoski (p.c. 2020),,
@@ -61,7 +61,6 @@ UT064,Are there non-finite forms that can be used both as participles and agenti
 UT065,Are there non-finite forms that can be used both as participles and converbs?,1,Ylikoski 2002:99,UT065,"The past participle is not commonly, but nevertheless occasionally used as an anterior converb."
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Jussi Ylikoski (p.c. 2020),,
 UT067,Is it pragmatically neutral to place an object between the negative marker and the main verb in imperative constructions?,1,Jussi Ylikoski (p.c. 2020),UT067,
-UT068,Are there preverbs?,1,Jussi Ylikoski (p.c. 2020),,E.g. ovdan ’forth’ + buktit ’bring’ yields ovdanbuktit ~ ovdan buktit ~ buktit ovdan ’present’.
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Jussi Ylikoski (p.c. 2020),,
 UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Ylikoski 2002:108,UT071,
 UT072,Can the modifier of action nominalizations in the patient role be encoded like the direct object?,1,Jussi Ylikoski (p.c. 2020),"UT072-1, UT072-2",
@@ -85,7 +84,7 @@ UT090,Is there case syncretism for location and source marking?,1,Jussi Ylikoski
 UT091,Are there two sets of local cases?,0,Jussi Ylikoski (p.c. 2020),,
 UT092,Are there three or more sets of local cases?,0,Jussi Ylikoski (p.c. 2020),,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Jussi Ylikoski (p.c. 2020),UT093,
-UT094,"Is there a case that expresses instrument (instrumental), which is different from a case that expresses accompaniment (comitative)?",0,Jussi Ylikoski (p.c. 2020),,
+UT203,"Is there a case that expresses instrument (instrumental), which is different from a case that expresses accompaniment (comitative)?",0,Jussi Ylikoski (p.c. 2020),,
 UT095,Is there a dedicated case that expresses the result of a change (translative) and/or a state of being (essive)?,1,Jussi Ylikoski (p.c. 2020),UT095,
 UT096,"Is there a case that expresses the result of a change (translative), which is different from a case that expresses a state of being (essive)?",0,Jussi Ylikoski (p.c. 2020),,
 UT097,Is there morphological marking dedicated to the expression of equativity?,0,Jussi Ylikoski (p.c. 2020),,
@@ -94,7 +93,7 @@ UT099,Is there (in addition to the basic declension) a declension different from
 UT100,Is it possible to use the singular with paired body parts/clothing/accessories that accompany them?,0,Jussi Ylikoski (p.c. 2020),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Jussi Ylikoski (p.c. 2020),,
 UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Jussi Ylikoski (p.c. 2020),,
-UT103,Is non-singular possession marked in the possessive declension?,0,Jussi Ylikoski (p.c. 2020),,In most spoken varieties possessive forms are very marginal and even quite foreign to many speakers.
+UT204,Is non-singular possession marked in the possessive declension?,0,Jussi Ylikoski (p.c. 2020),,In most spoken varieties possessive forms are very marginal and even quite foreign to many speakers.
 UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Jussi Ylikoski (p.c. 2020),,
 UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Jussi Ylikoski (p.c. 2020),,
 UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Aikio 2009:104,UT106,"gii ’who’ refers to people, mii ’what, which’ refers to animals, inanimate objects, and abstract concepts."
@@ -102,7 +101,7 @@ UT107,"When used as a relative pronoun, is it common to use 'who' for animates o
 UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Jussi Ylikoski (p.c. 2020),,
 UT109,Can a demonstrative stem be used in the function of a pronoun with a 3Sg human referent?,1,Jussi Ylikoski (p.c. 2020),UT109,
 UT110,Are there possessive suffixes the position of which can vary in relation to case/number suffixes?,1,Jussi Ylikoski (p.c. 2020),"UT110-1, UT110-2","The dominant  order is cx+px, but the relatively recent comitative plural is an exception."
-UT111,Is the order of number and case suffixes the same across the paradigm?,1,Aikio and Ylikoski 2022:161,,"Plural case forms are mostly distinguished from the singular ones by the use of a different set of case suffixes, even though historically these plural suffixes are bimorphemic and contain a plural marker *-j-. From a synchronic perspective, the question about the order of number and case suffixes is irrelevant, though the number and case markers cannot be distinguished."
+UT205,Is the order of number and case suffixes the same across the paradigm?,1,Aikio and Ylikoski 2022:161,,"Plural case forms are mostly distinguished from the singular ones by the use of a different set of case suffixes, even though historically these plural suffixes are bimorphemic and contain a plural marker *-j-. From a synchronic perspective, the question about the order of number and case suffixes is irrelevant, though the number and case markers cannot be distinguished."
 UT112,Are there different words for mother’s brother and father’s brother?,1,Jussi Ylikoski (p.c. 2020),"UT112-1, UT112-2, UT112-3",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Jussi Ylikoski (p.c. 2020),"UT113-1, UT113-2, UT113-3, UT113-4",
 UT114,Is there an animacy distinction for both concepts:'new/young' and 'old'?,0,Jussi Ylikoski (p.c. 2020),,"There is distinction only for 'young':nuorra – boaris 'young – old' (animate), ođđa – boaris 'new – old' (inanimate). In addition, vuoras ’elderly’ may refer to older persons, but is mostly a noun."
