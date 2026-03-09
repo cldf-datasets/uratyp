@@ -36,7 +36,7 @@ Contributors
 |12|Permic|Komi Zyrian|✔|Nikolay Kuznetsov|✔|Rogier Blokland, Nikolay Kuznetsov, Przemysław Podleśny|
 |13|Permic|Udmurt|✔|Svetlana Edygarova, Nikolay Kuznetsov|✔|Denys Teptiuk|
 |14|Permic|Komi Permyak|✔|Nikolay Kuznetsov|✔|Nikolett F. Gulyás, Nikolay Kuznetsov|
-|15|Saami|Ume Saami|||✔|Ilya Egorov, Merit Niinemägi|
+|15|Saami|Ume Saami|✔|Ilya Egorov|✔|Ilya Egorov, Merit Niinemägi|
 |16|Saami|North Saami|✔|Katri Hiovain-Asikainen, Jussi Ylikoski|✔|Merit Niinemägi|
 |17|Saami|Inari Saami|✔|Petter Morottaja, Helen Türk|✔|Merit Niinemägi|
 |18|Saami|Skolt Saami|✔|Markus Juutinen, Miika Lehtinen|✔|Maria Merilo|
