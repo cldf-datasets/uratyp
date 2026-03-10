@@ -111,7 +111,7 @@ UT117,Is there contrastive length for vowels?,1,Klumpp et al. 2018; Wagner-Nagy 
 UT118,Is there a contrast between short and long unstressed vowels?,0,Pajusalu et al. 2018,,
 UT119,Is there a contrast in the length of geminate consonants?,0,Klumpp et al. 2018,,
 UT120,Are there more than two phonological quantities?,0,Pajusalu et al. 2018,,
-UT121,Are there extralong syllables?,1,Wagner-Nagy 2019:63; Wagner-Nagy 2022:757,UT121,The maximal syllable is CV͡VC; any vowel or diphtong can appear in the nucleus position. 
+UT121,Are there extralong syllables?,0,Wagner-Nagy 2019:63; Wagner-Nagy 2022:757,,The maximal syllable is CV͡VC; any vowel or diphtong can appear in the nucleus position. 
 UT122,Is the main foot structure trochaic?,1,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,
 UT123,Is there lexically distinctive word stress?,1,Klumpp et al. 2018,,
 UT124,Is there morphologically conditioned stress?,0,Wagner-Nagy 2022:760,,
@@ -129,7 +129,7 @@ UT135,Is there a high front rounded vowel /y/?,1,Pajusalu et al. 2018; Wagner-Na
 UT136,Is there a mid-high front rounded vowel /ø/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,
 UT137,Is there a high back unrounded vowel /ɯ ɨ/?,1,Wagner-Nagy 2022:760,UT137,
 UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,1,Wagner-Nagy 2022:760,,
-UT139,Is there a low back rounded vowel /ɒ/?,1,Janhunen and Gruzdeva 2020,,
+UT139,Is there a low back rounded vowel /ɒ/?,1,Janhunen and Gruzdeva 2020:183,,
 UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,1,Janhunen and Gruzdeva 2020,,
 UT141,Are there word-initial consonant clusters?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:757,,
 UT142,Are there word-internal consonant clusters in the syllable onset?,0,Wagner-Nagy 2019:63; Wagner-Nagy 2022:757,,
