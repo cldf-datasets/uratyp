@@ -4,9 +4,9 @@ GB025,se inimine,,se inimine,this human,this human,VKS:ahissaa
 GB027-1,tšellod ja bubentšikat trälissä,,tšello-d ja bubentšika-t träli-ssä,bell-PL and crotal.bell-PL ring-IPS.PRS,bells and crotal bells are ringing,VKS:bubentšikka
 GB027-2,tšäimmä õmaa mehekaa gruzaᴢ,,tšä-i-mmä õmaa mehe-kaa gruza-ᴢ,go-PST-1PL own husband-COM milk_mushroom-ADE,my husband and I went mushroom picking,VKS:gruzaza
 GB044,lehmäd,,lehmä-d,cow-PL,cows,VKS:lehmä
-GB047,juvva : juumin,,juvv-a : juu-minõ,drink-INF : drink-NMLZ,to drink : drinking,"VKS:juvva, joominõ"
-GB048,laulaa : laulaja,,laula-a : laula-ja,sing-INF : sing-AG.NMLZ,to sing : singer,"VKS:laulaa, laulaja"
-GB049,kattaa : katto,,katta-a : katt-o,cover-INF : cover-NMLZ,to cover : roof,"VKS kattaa, katto"
+GB047,juvva : juumin,,juvv-a : juu-minõ,drink-INF1 : drink-NMLZ,to drink : drinking,"VKS:juvva, joominõ"
+GB048,laulaa : laulaja,,laula-a : laula-ja,sing-INF1 : sing-AG.NMLZ,to sing : singer,"VKS:laulaa, laulaja"
+GB049,kattaa : katto,,katta-a : katt-o,cover-INF1 : cover-NMLZ,to cover : roof,"VKS kattaa, katto"
 GB065,poigaa suku,,poigaa suku,son.GEN family,son`s family,VKS:maa
 GB070,miä annõn lahsil kanfettia,,miä annõ-n lahs-i-l kanfett-i-a,1SG give-1SG child-PL-ALL candy-PL-PRT,I give the children candy,VKS:kanfetti
 GB071,suvvaat siä minnua,,suvvaa-t siä minnu-a,love-2SG 2SG 1SG-PRT,you love me,VKS:miä
@@ -17,10 +17,10 @@ GB075,Narvaa kautta,,Narvaa kautta,Narva.GEN via,via Narva,VKS:kautta
 GB080,juttelen,,jutt-ele-n,story-FRQ-1SG,I say,VKS:jutõlla
 GB083,elän : elin,,elä-n : el-i-n,live-1SG : live-PST-1SG,I live : I lived,VKS:elää
 GB089,"siä õlõd iloza, a miä en õõ",,"siä õlõ-d iloza, a miä en õõ",2SG be-2SG beautyful but 1SG NEG.1SG be.CNG,"you are beautyful, but I am not",VKS:õlla
-GB091,kukko kanoi kutsup süümää,,kukko kano-i kutsu-p süü-mää,rooster hen-PL.PRT call-3SG eat-SUP,the rooster calls the hens for a meal,VKS:süvvä
+GB091,kukko kanoi kutsup süümää,,kukko kano-i kutsu-p süü-mää,rooster hen-PL.PRT call-3SG eat-INF2,the rooster calls the hens for a meal,VKS:süvvä
 GB111,pajatin vs. sahazin,,pajat-i-n vs. saha-zi-n,say-PST-1SG vs. saw-PST-1SG ,I sayed vs. I sawed,"VKS:pajattaa, sahata"
-GB113,apata : apagoittaa,,apa-ta : apa-goitta-a,sour-INF : sour-CAUS-INF,to become sour : to make sour,Ariste 1948:129
-GB114,tõmmata : tõmpauta,,tõmma-ta : tõmpa-u-ta,pull-INF : pull-REFL-INF,to pull : to contract,Ariste 1948:129; VKS:tõmpauta
+GB113,apata : apagoittaa,,apa-ta : apa-goitta-a,sour-INF1 : sour-CAUS-INF1,to become sour : to make sour,Ariste 1948:129
+GB114,tõmmata : tõmpauta,,tõmma-ta : tõmpa-u-ta,pull-INF1 : pull-REFL-INF1,to pull : to contract,Ariste 1948:129; VKS:tõmpauta
 GB117,siä õõd laiskakoira,,siä õõ-d laiskakoira,2SG be-2SG lazybones,you are a lazybones,VKS:mikää
 GB121,jo miä õõn häülünnü kõik paikõd läpi,,jo miä õõ-n häülü-nnü kõik paikõ-d läpi,already 1SG be-1SG go-ACT.PST.PTCP all place-PL through,I have already gone through all the places ,VKS:häülüä
 GB130,hullukkõim makkaap tšättšüᴢ,,hullukkõim makkaa-p tšättšü-z,child sleep-3SG cradle-INE,a small child is sleeping in a cradle,VKS:hullukkõin
@@ -28,7 +28,7 @@ GB132,touku süüp puuta,,touku süü-p puu-ta,larva eat-3SG tree-PRT,larva eats
 GB134-1,"siäl õltii tüttered, kummad tšidgottii peenteriä",,"siäl õl-tii tüttere-d, kumma-d tšidgo-ttii peenter-i-ä ",there be-IPS.PST girl-PL which.one-PL pluck-IPS.PST bed-PL-PRT,there were girls who plucked the beds,VKS:kumpa
 GB134-2,kõnz siä tood miä leen taraz ,,kõnz siä too-d miä lee-n tara-z ,when 2SG come-2SG 1SG be.FUT-1SG garden-INE ,When you come I will be in te vegetable garden,Markus and Rozhanskiy_Votic 2022:348
 GB135-1,miä tahon murrua,,miä taho-n murru-a,1SG want-1SG crumb-PRT,I want crumbs,VKS:muru
-GB135-2,siso tuumõ-ź õssa sikka ,,siso tuumõ-ź õssa sikka ,sister think-PST.3SG buy.INF pig.PRT,My sister thought of buying a pig,Markus and Rozhanskiy_Votic 2022:347
+GB135-2,siso tuumõ-ź õssa sikka ,,siso tuumõ-ź õssa sikka ,sister think-PST.3SG buy.INF1 pig.PRT,My sister thought of buying a pig,Markus and Rozhanskiy_Votic 2022:347
 GB138,"että tüö lie elozaᴅ, liettä ilmaa päittä",,"e-ttä tüö lie eloza-ᴅ, lie-ttä ilmaa pä-i-ttä","NEG-2PL 2PL will.be.CNG alive-PL, will.be-2PL without head-PL-PRT","You will not be alive, you will be without heads",VKS:en
 GB139-1,ette süü süümizii,,e-tte süü süümizii,NEG-2PL eat.CNG food.PL.PRT,you do not eat foods,VKS:söömin
 GB139-2,elkoo jooko,,elkoo joo-ko,NEG.IMP drink-NEG.IMP,"do not drink (prohibitive) said to him, her or them",VKS:elä
@@ -43,7 +43,7 @@ GB203-1,mügrä pilap kõik peentarad,,mügrä pila-p kõik peentara-d,mole ruin
 GB203-2,med́d́ee izäd emät kõikk õltii vad́d́alaizõd,,med́d́ee izä-d emä-t kõikk õl-tii vad́d́alaizõ-d,1PL.GEN father-PL mother-PL all be-IPS.PST votian-PL,all our fathers and mothers were votic people,VKS:isä
 GB204-2,jõkahiin inemin on eritapõnõ,,jõkahiin inemin on eritapõnõ,every person be.3SG different,every person has its own character,VKS:eritapanõ
 GB252,mill on kahs ennoa,,mi-ll on kahs enno-a,1SG-ADE be.3SG two uncle-PRT,I have two uncles,VKS:eno
-GB257,tunnõd biĺjardia pelat?,,tunnõ-d biĺjardi-a pelat,can-2SG billiards-PRT play.INF,can you play billiards?,VKS:biljardi
+GB257,tunnõd biĺjardia pelat?,,tunnõ-d biĺjardi-a pelat,can-2SG billiards-PRT play.INF1,can you play billiards?,VKS:biljardi
 GB260,"Väsüzimm müü, štooĺi, ku tüüll ebõõ joutua? ",,"Väsü-zi-mm müü, štooĺi, ku tüü-ll eb-õõ joutua? ",get.tired-PST-1PL 1PL PTCL that work-ADE NEG.3SG-be.CNG progress-PRT ,"Are we tired, so that the work is not progressing? ",VKS:jõutu
 GB262,"vai siä ed näe, etti siäl on vöhheessaa vettä?",,"vai siä e-d näe, etti siäl on vö-hhee-ssaa vettä",Q 2SG NEG-2SG see.CNG that there be.3SG waist-ILL-TERM water.PRT,can't you see that there is water up to the waist?,VKS:vai
 GB264,lugõtko jõka päiv kazettia,,lugõ-t-ko jõka päiv kazetti-a,read-2SG-Q every day newspaper-PRT,do you read newspaper every day?,VKS:gazetti

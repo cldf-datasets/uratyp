@@ -76,7 +76,7 @@ This file contains literary sources used to answer the questions and provide exa
 SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by the Kone Foundation for Outi Vesakoski and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo and Harri Tolvanen; The Collegium for Transdisciplinary Studies in Archeology, Genetics and Linguistics, University of Tartu (2018–); Nikolai, Gerda, and Kadri Rõuk (2022-2024). PRG2184 “From East to West: Typological shift in Estonian and the Southern Finnic languages against the background of Uralic” (2024-2028), TK215 “Estonian Roots: Centre of Excellence for transdisciplinary studies on ethnogenesis and cultural diversity”.
 
 # Providing feedback
-If you would like to give feedback, please contact Miina Norvik (miina.norvik@ut.ee).
+If you would like to give feedback, please contact Miina Norvik (miina.norvik@ut.ee) or use `Issues` in GitHub.
 
 # Terms of use
 

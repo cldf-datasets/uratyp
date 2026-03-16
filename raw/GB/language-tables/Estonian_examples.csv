@@ -5,8 +5,8 @@ GB027-1,Jüri abiellus Mariga,,Jüri abiellu-s Mari-ga ,Jüri marry-PST.3SG Mari
 GB027-2,Jüri ja Mari abiellusid,,Jüri ja Mari abiellu-si-d,Jüri and Mari marry-PST-3PL,Jüri and Mari got married,Erelt et al. 1993:217
 GB044,raamatud,,raamatu-d,book-PL,books,Erelt et al. 1995: 61
 GB047,Isa kõva norskamine äratas lapse üles,,isa kõva norska-mine ärata-s lapse üles,father.GEN loud snore-NMLZ wake-PST.3SG child.GEN up ,Father's loud snoring woke up the child,Erelt et al. 1995:478
-GB048,koguma : koguja,,kogu-ma : kogu-ja,collect-SUP : collect-AG.NMLZ,to collect : collector,Erelt et al. 1995:482
-GB049,arenema : areng,,arene-ma : areng,develop-SUP : development,to develop : development,Erelt and Metslang 2017:832
+GB048,koguma : koguja,,kogu-ma : kogu-ja,collect-INF2 : collect-AG.NMLZ,to collect : collector,Erelt et al. 1995:482
+GB049,arenema : areng,,arene-ma : areng,develop-INF2 : development,to develop : development,Erelt and Metslang 2017:832
 GB065,minu vanaema lauluraamat,,minu vanaema lauluraamat,1SG.GEN grandmother.GEN songbook,my grandmother's songbook ,Erelt et al. 1995:53
 GB070,Aednik kasvatas suure kõrvitsa,,aednik kasvata-s suure kõrvitsa,gardener grow-PST.3SG big.GEN pumpkin.GEN,Gardener grew a big pumpkin,Erelt et al. 1993:46
 GB071,see teeb mind närviliseks,,see tee-b min-d närvilise-ks,it make-3SG 1SG-PRT nervous-TRA,It makes me nervous,Erelt and Metslang 2017:563
@@ -15,7 +15,7 @@ GB073,Oled sa temalt ka hiljem kirju saanud?,,ole-d sa tema-lt ka hiljem kirju s
 GB074,piki teed,,piki tee-d,along road-PRT,along the road,Erelt et al. 1995:37
 GB075,suure puu all,,suure puu all,big.GEN tree.GEN under,under the big tree,Erelt et al. 1995:37
 GB080,Mari kirjutavat luuletusi,,Mari kirjuta-vat luuletusi,Mari write-QUOT poem.PL.PRT,Mari is said to write poems,Erelt et al. 1995:79
-GB083,elama : elasin,,ela-ma : ela-si-n,live-SUP : live-PST-1SG,to live : I lived,Viht and Habicht 2019:116
+GB083,elama : elasin,,ela-ma : ela-si-n,live-INF2 : live-PST-1SG,to live : I lived,Viht and Habicht 2019:116
 GB089,meie puhkame,,meie puhka-me,1PL rest-1PL,we rest,Erelt and Metslang 2017:68
 GB091,kass lakub piima,,kass laku-b piima,cat lick-3SG milk.PRT,cat is licking milk,Erelt and Metslang 2017:69
 GB111,õppis vs. tuli,,õppi-s vs. tul-i,study-PST.3SG vs. come-PST.3SG,s/he studied vs. s/he came,Viht and Habicht 2019:180
@@ -25,7 +25,7 @@ GB114,poiss riietub,,poiss riiet-u-b,boy dress-REFL-3SG,A boy is getting dressed
 GB117,Taavi on õpetaja,,Taavi on õpetaja,Taavi be.3SG teacher,Taavi is a teacher,Erelt and Metslang 2017:278
 GB119,ma oleksin teinud,,ma ole-ksi-n tei-nud,1SG be-COND-1SG do-ACT.PST.PTCP,I would have done,Erelt and Metslang 2017:162
 GB121,töötan : olen töötanud,,tööta-n : ole-n tööta-nud,work-1SG : be-1SG work-ACT.PST.PTCP,I am working : I have been working,Viht and Habicht 2019:331
-GB130,Poiss käib õhtuti jooksmas,,poiss käi-b õhtu-ti jooks-mas,boy go-3SG evening-ADV run-SUP.INE,The boy goes running in the evenings,Erelt and Metslang 2017:242
+GB130,Poiss käib õhtuti jooksmas,,poiss käi-b õhtu-ti jooks-mas,boy go-3SG evening-ADV run-INF2.INE,The boy goes running in the evenings,Erelt and Metslang 2017:242
 GB132,Ema armastab isa,,ema armasta-b isa,mother love-3SG father-PRT,Mother loves father,Erelt and Metslang 2017:242
 GB134,"Ma usun, et Jüri sõitis hommikul Juhaniga Helsingisse",,ma usu-n et Jüri sõit-is hommiku-l Juhani-ga Helsingi-sse,1SG believe-1SG COMP Jüri drive-PST.3SG morning-ADE Juhan-COM Helsinki-ILL,I believe that Jüri drove to Helsinki with Juhan in the morning,Erelt and Metslang 2017:751
 GB135-1,Me ehitasime maja,,me ehita-si-me maja,1PL build-PST-1PL house.GEN,We built a house,Erelt and Metslang 2017: 242
@@ -47,11 +47,11 @@ GB252,Tal on kaks last,,ta-l on kaks las-t,3SG-ADE be.3SG two child-PRT,S/he has
 GB257,Peeter tuli koju?,,Peeter tul-i koju,Peeter come-PST.3SG home.ILL,Did Peeter come home? ,Erelt and Metslang 2017:516
 GB260,Tahad sa süüa?,,Taha-d sa süüa?,want-2SG 2SG eat.INF1,Do you want to eat?,Erelt and Metslang 2017:521
 GB262,Kas Indiasse sõiduks on vaja viisat?,,kas India-sse sõidu-ks on vaja viisa-t,Q India-ILL drive-TRA be.3SG need visa-PRT  ,Do you need a visa to go to India?,Erelt and Metslang 2017:518
-GB263,Tahad minuga koju tulla või?,,taha-d minu-ga koju tul-la või ,want-2SG 1SG-COM home.ILL come-INF Q,Do you want to come home with me?,Erelt and Metslang 2017:522
+GB263,Tahad minuga koju tulla või?,,taha-d minu-ga koju tul-la või ,want-2SG 1SG-COM home.ILL come-INF1 Q,Do you want to come home with me?,Erelt and Metslang 2017:522
 GB266,Jüri on Jaanist pikem,,Jüri on Jaani-st pik-em,Jüri be.3SG Jaan-ELA tall-CMPR,Jüri is taller than Jaan,Erelt and Metslang 2017:432
 GB273,Jüri on pikem kui Jaan,,Jüri on pik-em kui Jaan,Jüri be.3SG tall.CMPR CONJ Jaan,Jüri is taller than Jaan,Erelt and Metslang 2017:432
 GB299,Ta ei ole rumal,,ta ei ole rumal,3SG NEG be.CNG stupid ,S/he is not stupid,Erelt and Metslang 2017:182
-GB301,Meie sinuga läheme reisima ,,meie sinu-ga lähe-me reisi-ma,1PL 2SG-COM go-1PL travel-SUP,You and I are going to travel,Erelt and Metslang 2017:208
+GB301,Meie sinuga läheme reisima ,,meie sinu-ga lähe-me reisi-ma,1PL 2SG-COM go-1PL travel-INF2,You and I are going to travel,Erelt and Metslang 2017:208
 GB304,Ülesanded olid meie poolt lahendatud,,ülesande-d ol-i-d meie poolt lahenda-tud,task-PL be-PST-PL 1PL.GEN by solve-PASS.PST.PTCP,The tasks had been done by us,Erelt and Metslang 2017:304
 GB305 ,Poiss riietab ennast,,poiss riieta-b ennas-t,boy dress-3SG himself-PRT,Boy dresses himself,Erelt and Metslang 2017:238
 GB312,elaksin,,ela-ksi-n,live-COND-1SG,I would live,Viht and Habicht 2019:114
