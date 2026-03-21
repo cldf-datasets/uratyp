@@ -37,7 +37,7 @@ UT037,Can non-singular 2nd and 3rd person have the same person/number marking or
 UT200,Can 3rd person plural verb forms be used for impersonal reference?,1,Petter Morottaja (p.c. 2020),UT200,
 UT040,Are 2nd singular verb forms commonly used with a generic meaning?,0,Petter Morottaja (p.c. 2020),,
 UT201,Can an infinitival verb form function as a predicate in an imperative clause?,?,Petter Morottaja (p.c. 2020),,IMP.2PL and INF are syncretic.
-UT043,Can verbs in purposive subordinate clauses be infinitive forms?,0,Petter Morottaja (p.c. 2020),,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,?,Valtonen et al. 2022:in passim,,
 UT044,Are there sentences without overt verbal arguments?,1,Petter Morottaja (p.c. 2020),UT044,
 UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,Petter Morottaja (p.c. 2020),UT045,
 UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Petter Morottaja (p.c. 2020),UT202,
@@ -48,7 +48,7 @@ UT050,Can standard negation be asymmetric in the present tense?,1,Petter Morotta
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Petter Morottaja (p.c. 2020),,
 UT052,Is there a special negator that combines with non-finite forms?,0,Petter Morottaja (p.c. 2020),,
 UT053,Are there special negative non-finite forms?,1,Petter Morottaja (p.c. 2020),UT053,"There is also a caritive derivation for nouns and also for verbs, e.g., viste > viste-ttem 'house - houseless', jäämmiđ > jämi-mettum 'to die - never dying'. There is also an abessive case, meaning 'without': viste : viste-ttáá 'house' : 'without house' (see also UT084)."
-UT054,Is there an impersonal passive construction?,1,Petter Morottaja (p.c. 2020),,
+UT054,Is there an impersonal passive construction?,0,Valtonen et al. 2022:193,,
 UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Petter Morottaja (p.c. 2020),"UT055-1, UT055-2, UT055-3",luuhâm ja luhhum are the same form of a participle but from a different verb (luuhâđ 'to read' and luhhuđ 'to be read').
 UT056,Are there non-finite forms that can relativize at least all core participants (S/A/P) and possibly also some non-core participants?,0,Petter Morottaja (p.c. 2020),,
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all or some of the core participants?,0,Petter Morottaja (p.c. 2020),,
@@ -56,7 +56,7 @@ UT058,"Is there a specialized negative participial form, which cannot be analyze
 UT059,Is there a future participle?,0,Petter Morottaja (p.c. 2020),,
 UT060,Are there participles that can encode their subject with possessive suffixes?,0,Petter Morottaja (p.c. 2020),,
 UT062,Are there participles that must agree with the nouns they modify in case and number?,0,Petter Morottaja (p.c. 2020),,
-UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,1,Petter Morottaja (p.c. 2020),"UT063-1, UT063-2",Perfect participle can be used as action nominalization.
+UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,1,Valtonen et al. 2022:191,,Agentive passive participle and action nominalization are identical.
 UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Petter Morottaja (p.c. 2020),"UT064-1, UT064-2",Present participle can be used to express an agent.
 UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Petter Morottaja (p.c. 2020),,
 UT066,Is OV the neutral order in affirmative imperative clauses?,0,Petter Morottaja (p.c. 2020),,
