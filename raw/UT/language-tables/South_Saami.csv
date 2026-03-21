@@ -14,9 +14,9 @@ UT013,Is there differential subject marking?,0,Richard Kowalik (p.c. 2019),,
 UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Richard Kowalik (p.c. 2019),UT014,
 UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Richard Kowalik (p.c. 2019),,
 UT016,Is there grammatical marking of habituality?,0,Richard Kowalik (p.c. 2019),,
-UT017,Is there grammatical marking of frequentativity?,0,Richard Kowalik (p.c. 2019),,
+UT017,Is there grammatical marking of frequentativity?,1,Söder 2023:257,,
 UT018,Is there grammatical marking of progressivity?,1,Richard Kowalik (p.c. 2019),"UT018-1, UT018-2",The auxiliary is dropped in the present.
-UT019,Is it common to use a verb in the present tense for future time reference?,1,Richard Kowalik (p.c. 2019),UT019,
+UT019,Is it common to use a verb in the present tense for future time reference?,1,Söder 2023:287,UT019,
 UT020,Is there grammatical marking of the immediate future?,0,Richard Kowalik (p.c. 2019),,Modal verbs ('shall') are frequently used to express future.
 UT021,Is there grammatical marking of the pluperfect?,1,Richard Kowalik (p.c. 2019),UT021,
 UT022,Can aspect be expressed overtly in the negative marker?,0,Richard Kowalik (p.c. 2019),,
@@ -100,8 +100,8 @@ UT106,Is there a human vs. non-human distinction in independent interrogative pr
 UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Richard Kowalik (p.c. 2019),,"However, mij 'what' is used with animates/humans. "
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Richard Kowalik (p.c. 2019),,"However, mij 'what' is used with animates/humans. "
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Richard Kowalik (p.c. 2019),"UT109-1, UT109-2","dïhte 's/he, it'"
-UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Richard Kowalik (p.c. 2019),,There is alternation.
-UT205,Are case and number marked cumulatively across the paradigm?,1,Richard Kowalik (p.c. 2019),,"They are portmanteau suffixes. Synchronically, a segmentable plural marker cannot be identified."
+UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Ylikoski_South 2022:119-120,,"Possessive suffixes are marginally used, primarily with kinship terms."
+UT205,Are case and number marked cumulatively across the paradigm?,1,Richard Kowalik (p.c. 2019),,"Synchronically, a segmentable plural marker cannot be identified."
 UT112,Are there different words for mother’s brother and father’s brother?,1,Richard Kowalik (p.c. 2019),"UT112-1, UT112-2",
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Richard Kowalik (p.c. 2019),"UT113-1, UT113-2, UT113-3, UT113-4",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,0,Richard Kowalik (p.c. 2019),,"There is a distinction only for 'young' but not for 'old': noere maana 'young child' and orre gärja 'new book', but cf. båeries alma 'old man' and båeries gärja 'old book'."

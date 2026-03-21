@@ -27,14 +27,14 @@ UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Khanin
 UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Khanina and Shluinsky 2023:824,UT027,An analytic construction consisting of a conditional converb of the auxiliary with anterior participle is used.
 UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Khanina and Shluinsky 2023:823,UT028,Debitive also expresses reference to the future.
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Khanina and Shluinsky 2023:824,"UT029-1, UT029-2",The probabilitive and interrogative can be used in this function.
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,Khanina and Shluinsky 2023:819-822,UT030,The soft imperative is used to express mild commands.
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,1,"Khanina and Shluinsky 2023:819-822, 824",UT030,The soft imperative is used to express mild commands.
 UT031,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 3Sg?",1,Khanina and Shluinsky 2023:819-822,UT031,
 UT032,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 1Sg?",1,Khanina and Shluinsky 2023:819-822,UT032,
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Olesya Khanina (p.c. 2020),,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Khanina and Shluinsky 2023:823-824,,
 UT035,Is there a reflexive conjugation?,1,Khanina and Shluinsky 2023:in passim,,"It is not reflexive in meaning, but traditionally called so."
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Khanina and Shluinsky 2023:820,,Plural or dual object in 2DU and 3DU are both marked by -ziʔ.
-UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,?,Siegl 2013:409,,
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,0,Khanina and Shluinsky 2023:in passim,,
 UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Olesya Khanina (p.c. 2020),,
 UT201,Can an infinitival verb form be used in a directive function?,0,Olesya Khanina (p.c. 2020),,
 UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Khanina and Shluinsky 2023:846-847,,"With the verbs of motion, the converb or supine is used, while with other verbs the converb is used."
@@ -48,7 +48,7 @@ UT050,Can standard negation be asymmetric in the present tense?,1,Khanina and Sh
 UT051,Can non-finite dependent clauses use the standard negation construction?,1,Olesya Khanina (p.c. 2020),,
 UT052,Is there a special negator that combines with non-finite forms?,0,Olesya Khanina (p.c. 2020),,
 UT053,Are there special negative non-finite forms?,1,Khanina and Shluinsky 2023:817,,There is a negative anterior participle (see also UT058).
-UT054,Is there an impersonal passive construction?,?,Siegl 2013:348,,
+UT054,Is there an impersonal passive construction?,?,Khanina and Shluinsky 2023:829,,
 UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Olesya Khanina (p.c. 2020),,"Passive anterior participle (-duuj) relativizes objects, for all other participles there are frequency tendencies, not strict specializations. "
 UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,1,"Khanina, Olesya (p.c. 2020)","UT056-1, UT056-2","All participles are unoriented, except passive anterior participle. (The perfective participle has two allomorphs: -iʔ and -miʔ)."
 UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,1,Khanina and Shluinsky 2023:844,UT057,Relativization of participants other than subject and object is possible but very rare.
@@ -101,7 +101,7 @@ UT107,Does 'who' commonly appear as a relative pronoun used for animates other t
 UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Khanina and Shluinsky 2023:844,,Relative clauses usually occur before the head noun in the NP.
 UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Khanina and Shluinsky 2023:844,UT109,
 UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Khanina and Shluinsky 2023:804,,"The order becomes apparent from locative forms, and the order is fixed. Core cases (i.e. NOM and OBL) are always fused with possessive forms."
-UT205,Are case and number marked cumulatively across the paradigm?,1,Khanina and Shluinsky 2023:804,"UT205-1, UT205-2","The oder becomes apparent from dual forms, whereas singular and plural possession is expressed cumulatively."
+UT205,Are case and number marked cumulatively across the paradigm?,1,Khanina and Shluinsky 2023:804,,"The oder becomes apparent from dual forms, whereas singular and plural possession is expressed cumulatively."
 UT112,Are there different words for mother’s brother and father’s brother?,0,Shluinsky 2025:18,,See UT113.
 UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Shluinsky 2025:18,"UT113-1, UT113-2",
 UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,?,Olesya Khanina (p.c. 2020),,
