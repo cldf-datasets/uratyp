@@ -112,8 +112,7 @@ GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun
 GB184,Can an adnominal property word agree with the noun in number?,0,Forsberg 2022:575,,
 GB185,Can an adnominal demonstrative agree with the noun in number?,0,Forsberg 2022:575,,
 GB186,Can an article agree with the noun in number?,0,Kulonen 2017:in passim,,
-GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,0,Forsberg 2022:570,"The diminutive -kʷe, which is the most typical suffix attested
-in North Mansi, is not used in East Mansi; compounds are used instead.",
+GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,0,Forsberg 2022:570,"The diminutive -kʷe, which is the most typical suffix attested in North Mansi, is not used in East Mansi; compounds are used instead.",
 GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,0,Forsberg 2022:570,,
 GB192,Is there a noun class/gender system where a noun’s phonological properties are a factor in class assignment?,0,Kulonen 2017:in passim,,
 GB193,What is the order of adnominal property word and noun?,1,Forsberg 2022:575,Modifiers precede their heads.,
@@ -146,7 +145,7 @@ GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Ulla-Mai
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,0,Kulonen 2017:193-194,,
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,Kulonen 2017:193-194,,
 GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Ulla-Maija Forsberg (p.c. 2020),,
-GB301,Is there an inclusory construction?,1,Ulla-Maija Forsberg (p.c. 2020),,
+GB301,Is there an inclusory construction?,?,Ulla-Maija Forsberg (p.c. 2020),,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,"Forsberg 2022:574, 577",,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,"Forsberg 2022:574, 577",,
 GB304,Can the agent be expressed overtly in a passive clause?,1,"Forsberg 2022:574, 577",,
