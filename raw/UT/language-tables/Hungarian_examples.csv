@@ -25,10 +25,9 @@ UT051-2,Nem látta meg a kutyát és megbotlott,,Nem	lát-ta	meg	a	kutyá-t	és	
 UT053-1,befejezetlen,,befejez-etlen,finish-ADZ,not finished,
 UT053-2,megvarratlan,,megvarr-atlan,sew-ADZ,not sewn,
 UT055-1,olvasó fiú,,olvas-ó	fiú,read-PTCP	boy,a boy who is reading,
-UT055-2,olvasott könyv,,olvas-ott	könyv,read-PTCP	book,a book that has been read,
-UT056-1,az Anna által tegnap olvasott könyv,,az Anna által tegnap olvas-ott könyv,the Anna by yesterday read-PASS.PST.PTCP book,the book read by Anna yesterday,Kenesei et al. 1998:46
-UT056-2,a medencébe ugrott lány,,a medencé-be ugr-ott lány,the pool-ILL dive-PASS.PST.PTCP girl,the girl that (has/had) dived into the pool,Kenesei et al. 1998:47
-UT059,Olvasandó könyv,,Olvas-andó	könyv,read-PTCP	book,a book that will be/has to be read,
+UT055-2,az Anna által tegnap olvasott könyv,,az Anna által tegnap olvas-ott könyv,the Anna by yesterday read-PASS.PST.PTCP book,the book read by Anna yesterday,Kenesei et al. 1998:46
+UT055-3,a medencébe ugrott lány,,a medencé-be ugr-ott lány,the pool-ILL dive-PASS.PST.PTCP girl,the girl that (has/had) dived into the pool,Kenesei et al. 1998:47
+UT059,olvasandó könyv,,olvas-andó könyv,read-PTCP	book,a book that will be/has to be read,
 UT064-1,író,,ír-ó,write-PTCP,writer,
 UT064-2,író fiú,,ír-ó	fiú,write-PTCP	boy,a boy who is writing,
 UT071-1,A fiú megmosása/megfürdetése,,A fiú meg-mosás-a/meg-fürdetés-e,DEF boy PRV-washing-POSS.3SG/PRV-bathing-POSS.3SG,"the washing of the boy, the bathing of the boy",

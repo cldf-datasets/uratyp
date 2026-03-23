@@ -90,7 +90,7 @@ GB137,Can standard negation be marked clause-finally?,0,Bartens 1999:140-144,,
 GB138,Can standard negation be marked clause-initially?,0,Bartens 1999:140-144,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Hamari and Ajanki 2015:299,,"GB139-1, GB139-2"
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Bartens 1999:140-144,,
-GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,Arkhangelskiy 2019,,GB146
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,Hamari and Ajanki 2022:419,,
 GB147,Is there a morphological passive marked on the lexical verb?,1,Bartens 1999:160,"Productively expressed by the -vo-, -ve- suffix attached to the root. Another passive suffix, -to- can be found in folkloric and spoken texts.",GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Bartens 1999:158-162,,
 GB149,Is there a morphologically marked inverse on verbs?,0,Bartens 1999:158-162,,
@@ -140,7 +140,7 @@ GB276,Is there a non-bound comparative degree marker modifying the property word
 GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,Bartens 1999:176,,
 GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,Bartens 1999:176,,
 GB291,Can polar interrogation be marked by tone?,0,Bartens 1999:176,,
-GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Bartens 1999:168,,
+GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,1,Bartens 1999:168,,
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Bartens 1999:176,,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Bartens 1999:140,,GB298
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,1,Bartens 1999:141,,GB139-2
@@ -148,7 +148,7 @@ GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Bartens 1999:in
 GB301,Is there an inclusory construction?,0,Bartens 1999:in passim,,
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Bartens 1999:158-162,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Bartens 1999:in passim,,
-GB304,Can the agent be expressed overtly in a passive clause?,0,Bartens 1999:174,,
+GB304,Can the agent be expressed overtly in a passive clause?,1,Bartens 1999,,
 GB305,Is there a phonologically independent reflexive marker?,1,Bartens 1999:114,"The word pŕa 'head' (also with possessive suffixes) can be used as a reflexive object marker. For other uses, both in reflexive and emphatic meanings, declined forms of the pronoun eś are used, also suffixes to personal pronouns.",GB305
 GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,0,Bartens 1999:114,,
 GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Bartens 1999:127-131,,
@@ -184,7 +184,7 @@ GB408,Is there any accusative alignment of flagging?,1,Bartens 1999:175-176,"Pro
 GB409,Is there any ergative alignment of flagging?,0,Bartens 1999:173-176,,
 GB410,Is there any neutral alignment of flagging?,0,Bartens 1999:175,"However, indefinite objects of verbs appear in nominative.",
 GB415,Is there a politeness distinction in second person forms?,1,Arkhangelskiy 2019,Polite usage of 2PL forms in place of the expected 2SG may be stigmatised by some speakers as purported Russian influence.,GB415
-GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,0,Bartens 1999:in passim,"However, Russian-borrowed 'што' is fairly common though its usage is never compulsory.",
+GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Teptiuk 2020,,
 GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Bartens 1999:in passim,,
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Bartens 1999:100-105,,
 GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Bartens 1999:100-105,,
