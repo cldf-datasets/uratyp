@@ -74,7 +74,7 @@ UT079,Does the numeral modification of a noun have an effect on its case selecti
 UT080,Is the singular form of the noun also used with numerals greater than 1?,1,Szabó 1968:108-109,UT080,
 UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,0,Szabó 1968:94-102; Tereshkin 2002:90-113,,
 UT083,Is there a dedicated case that expresses a terminative meaning?,0,Tereshkin 2002:94-105,,
-UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,1,Szabó 1984с:167-169,"UT084-1, UT084-2",
+UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,1,Szabó 1984c:167-169,"UT084-1, UT084-2",
 UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Tereshkin 2002:94-105,,
 UT086,Is there a locative case that expresses goal?,1,Szabó 1984a:28-46,"UT017, UT086",
 UT087,Is there a locative case that expresses location?,0,Tereshkin 2002:94-105,,
@@ -83,10 +83,10 @@ UT089,Is there case syncretism for goal and location marking?,0,Tereshkin 2002:9
 UT090,Is there case syncretism for location and source marking?,1,Szabó 1984a:7-28,"UT090-1, UT090-2",
 UT091,Are there two sets of local cases?,0,Tereshkin 2002:94-105,,
 UT092,Are there three or more sets of local cases?,0,Tereshkin 2002:94-105,,
-UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Szabó 1984с:159-167,"UT093-1, UT093-2",
-UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Szabó 1984с:159-167,,"A relatively large group of nouns can form a separate instrumental case, but the commitative maintains polysemy. "
-UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Szabó 1984с:157-159,"UT095-1, UT095-2",
-UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Szabó 1984с:157-159,,
+UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Szabó 1984c:159-167,"UT093-1, UT093-2",
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Szabó 1984c:159-167,,"A relatively large group of nouns can form a separate instrumental case, but the commitative maintains polysemy. "
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Szabó 1984c:157-159,"UT095-1, UT095-2",
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Szabó 1984c:157-159,,
 UT097,Is there a dedicated case that expresses equativity?,0,Szabó 1968:94-102; Tereshkin 2002:90-113,,
 UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Szabó 1968:94-102; Tereshkin 2002:90-113,,
 UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Szabó 1968:94-102; Tereshkin 2002:90-113,,

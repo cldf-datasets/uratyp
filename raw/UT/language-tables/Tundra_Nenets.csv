@@ -137,24 +137,24 @@ UT142,Are there word-internal consonant clusters in the syllable onset?,0,Nikola
 UT143,Are there consonant clusters in the syllable coda?,0,Nikolaeva 2014:27,,The maximal syllable structure is (C)V(C).
 UT144,Are there word-internal intervocalic clusters of three or more consonants?,0,Nikolaeva 2014:27,,There are no consonantal clusters word-initially and word-finally; three-consonantal clusters are not allowed.
 UT145,Are there word-final clusters of three or more consonants?,0,Nikolaeva 2014:27,,There are no consonantal clusters word-initially and word-finally; three-consonantal clusters are not allowed.
-UT146,Are there palatalized alveolar consonants?,1,"Nikolaeva 2014:19, Burkova 2022:679","UT146-1, UT146-2",
-UT147,Are there palatalized labial and velar consonants?,1,"Nikolaeva 2014:19, Burkova 2022:679","UT147-1, UT147-2","Most labial consonants have a palatalized (palato-labial) variant, in Forest Nenets there are palatalized velars as well."
-UT148,Is there a palatal stop?,0,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT149,Is there a palatal nasal /ɲ/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT150,Is there a palatal lateral /ʎ/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT151,Is there a velar nasal /ŋ/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT152,Is there an alveolar affricate /t͡s/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",0,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT155,"Are there voiced plosives (e.g., /b g d/)?",1,"Nikolaeva 2014:19, Burkova 2022:680",,"b bʹ d dʹ c cʹ and k only occur in restricted positions, e.g., they do not stand word-initially or in a post-consonantal position, except that postconsonantal b appears as a result of the change of w in some stems"
-UT156,Is there a glottal stop /ʔ/?,1,"Janhunen 1986, Nikolaeva 2014:19-20, Burkova 2022:680",,
-UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,"Nikolaeva 2014:19, Burkova 2022:680",,
+UT146,Are there palatalized alveolar consonants?,1,"Nikolaeva 2014:19; Burkova 2022:679","UT146-1, UT146-2",
+UT147,Are there palatalized labial and velar consonants?,1,"Nikolaeva 2014:19; Burkova 2022:679","UT147-1, UT147-2","Most labial consonants have a palatalized (palato-labial) variant, in Forest Nenets there are palatalized velars as well."
+UT148,Is there a palatal stop?,0,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT149,Is there a palatal nasal /ɲ/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT150,Is there a palatal lateral /ʎ/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT151,Is there a velar nasal /ŋ/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT152,Is there an alveolar affricate /t͡s/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",0,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT155,"Are there voiced plosives (e.g., /b g d/)?",1,"Nikolaeva 2014:19; Burkova 2022:680",,"b bʹ d dʹ c cʹ and k only occur in restricted positions, e.g., they do not stand word-initially or in a post-consonantal position, except that postconsonantal b appears as a result of the change of w in some stems"
+UT156,Is there a glottal stop /ʔ/?,1,"Janhunen 1986; Nikolaeva 2014:19-20; Burkova 2022:680",,
+UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,"Nikolaeva 2014:19; Burkova 2022:680",,
 UT158,Is there a constraint on the word-initial alveolar trill /r/?,0,Nikolaeva 2014:19,,"Like secondary consonants, r and rʹ do not occur word-initially, except in recent loanwords."
 UT159,Is there a laryngeal fricative /h/?,0,Nikolaeva 2014:19-21,,
-UT160,Is there a voiced velar fricative /ɣ/?,0,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT161,Is there a voiceless velar fricative /x/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT162,Is there a voiced dental fricative /ð/?,0,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT163,Is there a labio-velar approximant /w/?,1,"Nikolaeva 2014:19, Burkova 2022:680",,
-UT164,Is there a voiceless labiodental fricative /f/?,0,"Nikolaeva 2014:19, Burkova 2022:680",,
+UT160,Is there a voiced velar fricative /ɣ/?,0,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT161,Is there a voiceless velar fricative /x/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT162,Is there a voiced dental fricative /ð/?,0,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT163,Is there a labio-velar approximant /w/?,1,"Nikolaeva 2014:19; Burkova 2022:680",,
+UT164,Is there a voiceless labiodental fricative /f/?,0,"Nikolaeva 2014:19; Burkova 2022:680",,
 UT165,Is there radical qualitative consonant gradation?,0,Burkova 2022:in passim,,
 UT166,Is there quantitative consonant gradation?,0,Burkova 2022:in passim,,
