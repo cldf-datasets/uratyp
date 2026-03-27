@@ -151,7 +151,7 @@ UT157,"Is there a phonological contrast between plain and labial velar consonant
 UT158,Is there a constraint on the word-initial alveolar trill /r/?,0,Korhonen 1984:320,,
 UT159,Is there a laryngeal fricative /h/?,0,Korhonen 1984:320,,"T.I. Itkonen (1958) distinguished between glottal (voiceless vowel in his terms) and velar fricatives. However, Korhonen's (1984:323) description does not confirm this contrast. "
 UT160,Is there a voiced velar fricative /ɣ/?,1,Korhonen 1984:320,"UT160-1, UT160-2",[ɣ] is an allophone of /g/occurring before dental obstruents.
-UT161,Is there a voiceless velar fricative /x/?,1,Korhonen 1984:320,"UT161-1, UT162-2, UT163-3",
+UT161,Is there a voiceless velar fricative /x/?,1,Korhonen 1984:320,"UT161-1, UT161-2, UT161-3",
 UT162,Is there a voiced dental fricative /ð/?,0,Korhonen 1984:320,,
 UT163,Is there a labio-velar approximant /w/?,0,Korhonen 1984:320,,[w] is an allophone of /v/ occurring before other consonant and in word-final position.
 UT164,Is there a voiceless labiodental fricative /f/?,1,Korhonen 1984:320,UT164; UT147-1,

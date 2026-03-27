@@ -82,16 +82,16 @@ GB129,Is there a notably small number of verb roots in the language?,0,Kaškin e
 GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Kaškin et al. 2023:554,,GB130
 GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Kaškin et al. 2023:554,,
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,0,Kaškin et al. 2023:554,,
-GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Kaškin et al. 2023:554,,GB239
+GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Kaškin et al. 2023:554,,
 GB134,Is the order of constituents the same in main and subordinate clauses?,1,Kaškin et al. 2023:735,"The syntactic parameters of main and subordinate finite clauses are the same, i.e. the consituent order therein may vary (see GB136).","GB134, GB408"
 GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Kaškin et al. 2023:722-735,"Non-finite clausal objects typically occupy the position before the verb, similar to nominal objects. The position of finite clauses is conditioned by the type of complementizer and the complement type (Kaškin et al. 2023:734).","GB135, GB408"
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Kaškin et al. 2023:554-556,"There is variation in the ordering of core argument constituents, conditioned by information-structural parameters.","GB408, GB136"
 GB137,Can standard negation be marked clause-finally?,0,Kaškin et al. 2023:566-572,,
 GB138,Can standard negation be marked clause-initially?,0,Kaškin et al. 2023:566-573,,
-GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Kaškin et al. 2023:59-60,,"GB139, GB239"
+GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Kaškin et al. 2023:59-60,,GB139
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Kaškin et al. 2023:566-572,,
 GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Kaškin et al. 2023:in passim,,
-GB147,Is there a morphological passive marked on the lexical verb?,1,Kaškin et al. 2023:507-509,There is a passive participle with the suffix ‐mə̑ /‐mӛ. The mediopassive suffix -alt- has the proper passive meaning.,"GB044, GB056, GB147"
+GB147,Is there a morphological passive marked on the lexical verb?,1,Kaškin et al. 2023:507-509,There is a passive participle with the suffix ‐mə̑ /‐mӛ. The mediopassive suffix -alt- has the proper passive meaning.,"GB044, GB065, GB147"
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Kaškin et al. 2023:in passim,,
 GB149,Is there a morphologically marked inverse on verbs?,0,Kaškin et al. 2023:45-71,,
 GB150,Is there clause chaining?,1,"Kaškin et al. 2023:766-767, 776-779",,"GB150-1, GB150-2"
