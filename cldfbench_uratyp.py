@@ -1,3 +1,4 @@
+import dataclasses
 import re
 import pathlib
 import collections
@@ -57,17 +58,6 @@ NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
       '?CHECK, possibly 1', '?CHECK']
 
 
-def checkex(row):
-    if row['Primary_Text']:
-        if row['Analyzed'] and row['Gloss']:
-            a = row['Analyzed'].strip().split()
-            g = row['Gloss'].strip().split()
-            if len(a) != len(g):
-                return False
-        return True
-    return False
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "uratyp"
@@ -111,7 +101,7 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
             'ExampleTable',
-            'Original_Script',
+            #'Original_Script',
         )
         t = args.writer.cldf.add_component('ContributionTable')
         t.common_props['dc:description'] = \
@@ -144,9 +134,9 @@ class Dataset(BaseDataset):
 
 
     def cmd_makecldf(self, args):
-        data = collections.defaultdict(dict)
         bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
         refs = collections.defaultdict(list)
+        refkeys = {}
         for key, entry in bibdata.entries.items():
             src = Source.from_entry(key, entry)
             for k in src:
@@ -154,17 +144,13 @@ class Dataset(BaseDataset):
             for lid in src.get('langref', '').split(','):
                 lid = lid.strip()
                 refs[lid].append(src.id)
+            rk = src.get('key')
+            if not rk:
+                rk = src.refkey(year_brackets=None)
+            assert rk not in refkeys, (rk, src)
+            refkeys[rk] = src.id
             args.writer.cldf.sources.add(src)
-
-        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*.csv'):
-            for row in reader(p, dicts=True):
-                data[p.stem][row['ID']] = row
-
-        examples = collections.defaultdict(list)
-        for p in self.raw_dir.joinpath('UT', 'language-tables').glob('*_examples.csv'):
-            for row in reader(p, dicts=True):
-                if checkex(row):
-                    examples[p.stem.replace('_examples', ''), row['ID']].append(row)
+        refkeys['Aikio 2009'] = refkeys['Aikio and Ylikoski 2009']
 
         self._schema(args)
 
@@ -175,21 +161,25 @@ class Dataset(BaseDataset):
             del lang['citations']
             args.writer.objects['LanguageTable'].append(lang)
             lmap[lang['Name']] = lang['ID']
+            lmap[unidecode(lang['Name'])] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
+
+        data = Data.from_repos(self.raw_dir, lmap, refkeys, args.log)
+        #data.check(refkeys)
+        print(data.stats())
 
         t = list(iter_markdown_tables(self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8')))
         experts = collections.defaultdict(lambda: collections.defaultdict(list))
         for row in t[1][1]:
             row = list(zip(t[1][0], row))
-            #[('ID', '33'), ('Subgroup', 'Mordvin'), ('Langauge', 'Moksha'), ('UT', '✔'), ('Language expert', 'Niina Aasmäe,  Mariann Bernhardt'), ('GB', '✔'), ('Language expert', 'Arja Hamari, Mariann Bernhardt')]
+            #[('ID', '35'), ('Subgroup', 'Mari'), ('Language', 'Hill Mari'), ('UT', '✔'), ('Values and/or examples', 'Jeremy Bradley'), ('GB', '✔'), ('Values and/or examples', 'Jeremy Bradley, Denys Teptiuk, Marili Tomingas')]
             contrib, lid = None, None
             for k, v in row:
-                # "Langauge" (sic)
-                if k == 'Langauge':
+                if k == 'Language':
                     lid = lmap[unidecode(v).replace(' ', '_').replace('-', '_')]
                 if k in ['UT', 'GB']:
                     contrib = k
-                if k == 'Language expert':
+                if k == 'Values and/or examples':
                     for e in v.split(','):
                         e = e.strip()
                         if e:
@@ -213,6 +203,7 @@ class Dataset(BaseDataset):
             r['Feature_ID']: list(gb_codes(r['Possible Values']))
             for r in self.raw_dir.read_csv('gb.csv', dicts=True)}
         eid = 0
+
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
             args.writer.objects['ContributionTable'].append(
                 dict(ID=sd, Name=contrib))
@@ -235,50 +226,269 @@ class Dataset(BaseDataset):
                         Parameter_ID=param['ID'],
                     ))
 
-            for row in read(self.raw_dir / sd / 'Finaldata.csv'):
-                for k in row:
-                    if k in ['language', 'subfam']:
-                        continue
-                    # if ('?' in row[k]) or ('!!' in row[k]):
-                    #    continue
-                    d = {}
-                    lid = lmap[row['language']]
-                    eids = []
-                    if k.startswith('UT'):
-                        d = data[row['language']][k]
-                        #
-                        # FIXME: change the way missing data is treated - at least for UT?
-                        #
-                        if row[k] in ['N/A']:  # don't even include the rows
-                            continue
-                        assert list(d.values())[2] == row[k], '{}, {}: {} != {}'.format(row['language'], k, list(d.values())[2], row[k])
-                        if row[k] == '':
-                            row[k] = '?'
+        #
+        # FIXME: fill ExampleTable and ValueTable with the data aggregated in data!
+        #
+        eids, pk = collections.defaultdict(list), 0
+        for (lid, eid), exs in data.examples.items():
+            for ex in exs:
+                pk += 1
+                eids[eid].append(pk)
+                args.writer.objects['ExampleTable'].append(dict(
+                    ID=str(pk),
+                    Language_ID=lmap[lid],
+                    Primary_Text=ex.Primary_Text.replace('-', ''),
+                    Analyzed_Word=ex.Analyzed,
+                    Gloss=ex.Gloss,
+                    Translated_Text=ex.Translation or None,
+                ))
+                #eids.append(str(eid))
 
-                        for ex in examples.get((row['language'], k), []):
-                            if ex['IPA']:
-                                ex['Original_Script'] = ex['Primary_Text']
-                                ex['Primary_Text'] = ex['IPA']
+        for lid, vv in data.values.items():
+            for fid, v in vv.items():
+                args.writer.objects['ValueTable'].append(dict(
+                    ID='{}-{}'.format(lid, fid),
+                    Language_ID=lmap[lid],
+                    Parameter_ID=fid,
+                    Value=v.Value,
+                    #Code_ID=None if row[k] in NA else '{}-{}'.format(
+                    #    k, int(float(row[k]))),
+                    #Comment=d.get('Comment'),
+                    #Example_ID=eids,
+                ))
 
-                            eid += 1
-                            args.writer.objects['ExampleTable'].append(dict(
-                                ID=str(eid),
-                                Language_ID=lid,
-                                Primary_Text=ex['Primary_Text'].strip().replace('-', ''),
-                                Analyzed_Word=ex['Analyzed'].strip().split() if ex['Analyzed'] else [],
-                                Gloss=ex['Gloss'].strip().split() if ex['Gloss'] else [],
-                                Translated_Text=ex['Translation'].strip() or None,
-                                Original_Script=ex.get('Original_Script', '').strip(),
-                            ))
-                            eids.append(str(eid))
 
-                    args.writer.objects['ValueTable'].append(dict(
-                        ID='{}-{}'.format(lid, k),
-                        Language_ID=lid,
-                        Parameter_ID=k,
-                        Value='?' if row[k] in NA else str(int(float(row[k]))),
-                        Code_ID=None if row[k] in NA else '{}-{}'.format(
-                            k, int(float(row[k]))),
-                        Comment=d.get('Comment'),
-                        Example_ID=eids,
-                    ))
+def _checked_sources(s, refkeys, what, log):
+    #
+    # FIXME: If what == 'example':
+    # must recognize corpus refs, e.g.
+    # OUDB 1238:91
+    # Gusev et al. 2019:PKZ_1964_SU0205.PKZ.263 (055.003)
+    # UCKSPT:Yakimovich2015_txt10_100
+    # Komi-Zyrian corpus: Art 2011
+    #
+    refpattern = re.compile(r'({})(\:\s*([0-9, f§XIV\-]+|in passim|[^\s]+))?'.format('|'.join(re.escape(k) for k in refkeys)))
+
+    s = re.sub(r'\s+', ' ', s)
+
+    res = {'Source': [], 'SourceComment': []}
+    for src in s.split(';'):
+        src = src.strip()
+        if src:
+            if ('p.c. ' in src) or ('p.c.)' in src) or ('p. c.' in src):
+                res['SourceComment'].append(src)
+                continue
+
+            if refpattern.fullmatch(src):
+                key, _, pages = src.partition(':')
+                s = refkeys[key.strip()]
+                if pages:
+                    s += f"[{pages.replace('[', '(').replace(']', ')')}]"
+                res['Source'].append(s)
+                continue
+
+            if ':' in src:
+                refkey, _, pages = src.partition(':')
+                if refkey.strip() in refkeys and (
+                        re.fullmatch(r'[^\s]+(,\s([^\s]+|in passim))+', pages.strip()) or
+                        what == 'example'):
+                    s = refkeys[refkey.strip()]
+                    if pages:
+                        s += f"[{pages.replace('[', '(').replace(']', ')')}]"
+                    res['Source'].append(s)
+                    continue
+
+            log.warning('Ignoring %s reference: %s', what, src)
+            res['SourceComment'].append(src)
+    return res
+
+
+@dataclasses.dataclass
+class DataRow:
+    ID: str
+    Feature: str
+    Value: str
+    Source: list[str]
+    Example: list[str]
+    Comment: str
+    SourceComment: str = ''
+
+    @classmethod
+    def from_row(cls, fname, row, eids, invalid_eids, refkeys, log):
+        assert re.fullmatch(r'(UT|GB)[0-9]+', row['ID'])
+        assert row['Value'] in {'?', '0', '1', '2', '3'}, row
+        row.update(_checked_sources(row['Source'], refkeys, 'value', log))
+        row.update(cls._checked_example(row['Example'], eids, invalid_eids, fname))
+        return cls(**row)
+
+    @staticmethod
+    def _checked_example(s, eids, invalid_eids, fname):
+        res = {'Example': []}
+        for ex in re.split(r'[.,;]', s):
+            ex = ex.strip()
+            if not ex:
+                continue
+            ex = ex.replace('FB', 'GB')
+            ex = ex.replace('Ut', 'UT')
+            ex = ex.replace(' ', '')
+            ex = ex.replace('T-', 'T')
+            ex = ex.replace('B-', 'B')
+            ex = re.sub(r'G(?P<digit>[0-9])', lambda m: 'GB' + m.group('digit'), ex)
+            assert re.fullmatch(r'(UT|GB)[0-9]{3}(-[0-9]+)?', ex), s
+            #
+            # FIXME: The below check may fail in case of invalid examples!
+            #
+            assert (ex in eids) or ((fname, ex) in invalid_eids), (fname, s)
+            res['Example'].append(ex)
+        return res
+
+
+def _align(s1, s2):
+    import itertools
+    t1, t2 = [], []
+    for c1, c2 in itertools.zip_longest(s1, s2, fillvalue=''):
+        t1.append(c1.ljust(max([len(c1), len(c2)])))
+        t2.append(c2.ljust(max([len(c1), len(c2)])))
+    return f'{" ".join(t1)}\n{" ".join(t2)}'
+
+
+@dataclasses.dataclass
+class ExampleRow:
+    ID: str
+    Primary_Text: str
+    IPA: str
+    Analyzed: list[str]
+    Gloss: list[str]
+    Translation: str
+    Example_Source: str
+    Comment: str = ''
+    Source: list[str] = dataclasses.field(default_factory=[])
+    SourceComment: str = ''
+
+    @staticmethod
+    def split_colon(items):
+        res = []
+        for item in items:
+            if item != ':' and item.endswith(':'):
+                res.extend([item[:-1], ':'])
+            else:
+                res.append(item)
+        return res
+
+    @staticmethod
+    def is_list(items):
+        return len(items) > 1 and all(item.endswith(',') for item in items[:-1])
+
+    @classmethod
+    def from_row(cls, row, refkeys, log):
+        row.update(_checked_sources(row['Example_Source'], refkeys, 'example', log))
+
+        row['Analyzed'] = row['Analyzed'].split()
+        row['Gloss'] = row['Gloss'].split()
+
+        if not row['Primary_Text']:
+            if row['Analyzed']:
+                row['Primary_Text'] = ' '.join(row['Analyzed']).replace('-', '')
+
+        if row['Primary_Text']:
+            if row['Gloss'] and not row['Analyzed']:
+                row['Analyzed'] = row['Primary_Text'].split()
+
+            if row['Analyzed'] and row['Gloss']:
+                a = row['Analyzed']
+                g = row['Gloss']
+                if len(a) != len(g):
+                    if a[-1] == '…':
+                        a = a[:-1]
+                        assert len(a) == len(g), f'misaligned example: {row}'
+                        row['Gloss'].append('…')
+                    elif len(row['Analyzed']) == 1 and cls.is_list(row['Gloss']):
+                        row['Gloss'] = [';'.join(item.replace(',', '') for item in row['Gloss'])]
+                    elif len(cls.split_colon(a)) == len(cls.split_colon(g)):
+                        row['Analyzed'] = cls.split_colon(row['Analyzed'])
+                        row['Gloss'] = cls.split_colon(row['Gloss'])
+                    else:
+                        log.error('misaligned %s \n%s', row['Primary_Text'], _align(row['Analyzed'], row['Gloss']))
+                        return None
+
+            if len(row['Analyzed']) != len(row['Gloss']):
+                if not row['Gloss']:
+                    if len(row['Analyzed']) == 1 and row['Analyzed'][0] in {row['Primary_Text'], row['IPA']}:
+                        row['Analyzed'] = []
+                    elif ' '.join(row['Analyzed']) in {row['Primary_Text'], row['IPA']}:
+                        row['Analyzed'] = []
+                    else:
+                        assert ' '.join(row['Analyzed']).replace('-', '') in {
+                            row['Primary_Text'].replace('-', ''), row['IPA'].replace('-', '')}
+                        row['Analyzed'] = []
+
+                assert len(row['Analyzed']) == len(row['Gloss'])
+
+            return cls(**row)
+        assert not any(row[key] for key in {'Primary_Text', 'Analyzed', 'Gloss'})
+        return None
+
+
+@dataclasses.dataclass
+class Data:
+    values: dict[str, dict[str, DataRow]] = dataclasses.field(
+        default_factory=lambda: collections.defaultdict(dict))
+    examples: dict[tuple[str, str], list[ExampleRow]] = dataclasses.field(
+        default_factory=lambda: collections.defaultdict(list))
+    invalid_examples: set[tuple[str, str]] = dataclasses.field(default_factory=set)
+
+    @staticmethod
+    def norm_row(row, lmap):
+        new = {}
+        for k, v in row.items():
+            k = k.strip()
+            v = v.strip()
+            if k in {'x', 'y'}:
+                continue
+            if lmap.get(k.replace('.', '_')):
+                k = 'Value'
+            elif k == 'Name':
+                k = 'Feature'
+            v = v.replace('\xa0', ' ')
+            v = re.sub(r'\s+', ' ', v)
+            new[k] = v
+        return new
+
+    @staticmethod
+    def _iter_rows(d, what, lmap):
+        glob = '*_examples.csv' if what == 'examples' else '*.csv'
+        for p in sorted(d.glob(glob), key=lambda p_: p_.stem):
+            if what != 'examples' and p.stem.endswith('_examples'):
+                continue
+            for row in reader(p, dicts=True):
+                yield p, Data.norm_row(row, lmap)
+
+    @classmethod
+    def from_repos(cls, raw_dir, lmap, refkeys, log):
+        for key in list(refkeys):
+            if ' and ' in key:
+                refkeys[key.replace(' and ', ' & ')] = refkeys[key]
+            if ' & ' in key:
+                refkeys[key.replace(' & ', ' and ')] = refkeys[key]
+        res = cls()
+        for sd in ['UT', 'GB']:
+            eids = set()
+            for p, row in cls._iter_rows(raw_dir / sd / 'language-tables', 'examples', lmap):
+                ex = ExampleRow.from_row(row, refkeys, log)
+                if ex:
+                    res.examples[p.stem.replace('_examples', ''), row['ID']].append(ex)
+                    eids.add(row['ID'])
+                else:
+                    res.invalid_examples.add((p.stem.replace('_examples', ''), row['ID']))
+
+            for p, row in cls._iter_rows(raw_dir / sd / 'language-tables', 'values', lmap):
+                try:
+                    assert row['ID'] not in res.values[p.stem], f"Duplicate: {p.stem}:{row['ID']}"
+                    res.values[p.stem][row['ID']] = DataRow.from_row(p.stem, row, eids, res.invalid_examples, refkeys, log)
+                except KeyError:
+                    raise ValueError(p)
+
+        return res
+
+    def stats(self):
+        return (len(self.values), sum(len(self.values[s]) for s in self.values), len(self.examples), len(self.invalid_examples))
