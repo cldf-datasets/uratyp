@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "9dd9716",
+            "dc:created": "9a81b3c",
             "dc:title": "Repository"
         },
         {
@@ -96,6 +96,10 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Comment"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
@@ -426,6 +430,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
                         "name": "Comment"
+                    },
+                    {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "IPA"
                     }
                 ],
                 "foreignKeys": [

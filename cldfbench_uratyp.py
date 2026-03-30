@@ -38,26 +38,6 @@ def gb_codes(s):
         yield n.strip(), label.strip()
 
 
-def fix_internal_stress(s):
-    import unicodedata
-
-    def is_letter(c):
-        return c and unicodedata.category(c)[0] == 'L'
-
-    new, last = [], None
-    for i, c in enumerate(s):
-        next = s[i + 1] if i + 1 < len(s) else None
-        if c == "'" and is_letter(next) and is_letter(last):
-            c = '\u02c8'
-        new.append(c)
-        last = c
-    return ''.join(new)
-
-
-NA = ['?', '0?', '1?', '?1', '!!', '?CHECK, possibly 0',
-      '?CHECK, possibly 1', '?CHECK']
-
-
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "uratyp"
@@ -101,6 +81,12 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component('CodeTable')
         args.writer.cldf.add_component(
             'ExampleTable',
+            {
+                'name': 'Source',
+                'separator': ';',
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            },
+            'IPA',
             #'Original_Script',
         )
         t = args.writer.cldf.add_component('ContributionTable')
@@ -127,11 +113,11 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_columns('LanguageTable', 'Subfamily')
         args.writer.cldf.add_columns(
             'ValueTable',
+            'Source_Comment',
             {
                 'name': 'Example_ID',
                 'separator': ' ',
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
-
 
     def cmd_makecldf(self, args):
         bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
@@ -227,7 +213,7 @@ class Dataset(BaseDataset):
                     ))
 
         #
-        # FIXME: fill ExampleTable and ValueTable with the data aggregated in data!
+        # Fill ExampleTable and ValueTable with the data aggregated in data!
         #
         eids, pk = collections.defaultdict(list), 0
         for (lid, eid), exs in data.examples.items():
@@ -241,20 +227,27 @@ class Dataset(BaseDataset):
                     Analyzed_Word=ex.Analyzed,
                     Gloss=ex.Gloss,
                     Translated_Text=ex.Translation or None,
+                    IPA=ex.IPA,
+                    Source=ex.Source,
                 ))
                 #eids.append(str(eid))
 
         for lid, vv in data.values.items():
             for fid, v in vv.items():
+                exs = []
+                for eid in v.Example:
+                    if eid in eids:
+                        exs.extend(eids[eid])
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, fid),
                     Language_ID=lmap[lid],
                     Parameter_ID=fid,
-                    Value=v.Value,
-                    #Code_ID=None if row[k] in NA else '{}-{}'.format(
-                    #    k, int(float(row[k]))),
-                    #Comment=d.get('Comment'),
-                    #Example_ID=eids,
+                    Value=None if v.Value == '?' else v.Value,
+                    Code_ID=None if v.Value == '?' else f'{fid}-{v.Value}',
+                    Comment=v.Comment,
+                    Example_ID=[str(pk) for pk in sorted(set(exs))],
+                    Source=v.Source,
+                    Source_Comment="; ".join(v.SourceComment),
                 ))
 
 
@@ -338,7 +331,9 @@ class DataRow:
             #
             # FIXME: The below check may fail in case of invalid examples!
             #
-            assert (ex in eids) or ((fname, ex) in invalid_eids), (fname, s)
+            if (fname, ex) in invalid_eids:
+                continue
+            assert ex in eids, (fname, s)
             res['Example'].append(ex)
         return res
 
@@ -380,7 +375,7 @@ class ExampleRow:
         return len(items) > 1 and all(item.endswith(',') for item in items[:-1])
 
     @classmethod
-    def from_row(cls, row, refkeys, log):
+    def from_row(cls, row, refkeys, sd, pname, log):
         row.update(_checked_sources(row['Example_Source'], refkeys, 'example', log))
 
         row['Analyzed'] = row['Analyzed'].split()
@@ -408,6 +403,8 @@ class ExampleRow:
                         row['Analyzed'] = cls.split_colon(row['Analyzed'])
                         row['Gloss'] = cls.split_colon(row['Gloss'])
                     else:
+                        print(f'{sd}/language-tables/{pname}:{row['ID']}')
+                        print(_align(row['Analyzed'], row['Gloss']))
                         log.error('misaligned %s \n%s', row['Primary_Text'], _align(row['Analyzed'], row['Gloss']))
                         return None
 
@@ -474,7 +471,7 @@ class Data:
         for sd in ['UT', 'GB']:
             eids = set()
             for p, row in cls._iter_rows(raw_dir / sd / 'language-tables', 'examples', lmap):
-                ex = ExampleRow.from_row(row, refkeys, log)
+                ex = ExampleRow.from_row(row, refkeys, sd, p.name, log)
                 if ex:
                     res.examples[p.stem.replace('_examples', ''), row['ID']].append(ex)
                     eids.add(row['ID'])
