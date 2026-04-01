@@ -21,10 +21,10 @@ UT020,Is there grammatical marking of the immediate future?,0,Norvik 2015:66,,
 UT021,Is there grammatical marking of the pluperfect?,1,Blokland 2025:381-382,UT021,
 UT022,Can aspect be expressed overtly in the negative marker?,0,Blokland 2025:385-386; Viitso 2008:321,,
 UT023,Can tense be expressed overtly in the negative marker?,1,Blokland 2025:385-386; Viitso 2008:321,UT023,
-UT024,Is there grammatical marking of mirativity?,0,Viitso 2025:319-320,,
-UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,0,Viitso 2025:319-320,,
-UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Viitso 2025:319-320,UT026,
-UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Viitso 2025:319-320,UT027,
+UT024,Is there grammatical marking of mirativity?,0,Viitso 2008:319-320,,
+UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,0,Viitso 2008:319-320,,
+UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Viitso 2008:319-320,UT026,
+UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Viitso 2008:319-320,UT027,
 UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"Laakso 2022:386; Viitso 2008:324, 344",UT028,The so called debitive forms are commonly used to convey deontic necessity.
 UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Viitso 2008:319-320,,
 UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Viitso 2008:319-320,,
@@ -68,19 +68,19 @@ UT073,Do core adjectives agree with the subject noun in number in the predicativ
 UT074,Is there a bound superlative degree marker on property words?,0,Blokland 2025:380; Viitso 2008:330,,
 UT075,Can adpositions have person/number marking?,0,Blokland 2025:377; Viitso 2008:336,,Possessive suffixes have been lost.
 UT076,Are there adpositions that show a tripartite system?,1,Viitso 2008:333-334,UT076,"In Livonian one can also encounter syncretism,  especially in the case of adpositions expressing external location."
-UT077,Is there case compounding?,0,Blokland 2025:374-377; Viitso 2025:325-330,,
+UT077,Is there case compounding?,0,Blokland 2025:374-377; Viitso 2008:325-330,,
 UT078,Are there morphological cases only used with pronouns?,0,Viitso 2008:325-330,,
 UT079,Does the numeral modification of a noun have an effect on its case selection?,1,Blokland 2025:400,UT079,
 UT080,Is the singular form of the noun also used with numerals greater than 1?,1,Blokland 2025:400,UT079,
 UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,1,Blokland 2025:20; Viitso 2008:326-327,UT082,"Untypically for a Finnic language, Livonian has the dative case."
-UT083,Is there a dedicated case that expresses a terminative meaning?,0,Blokland 2025:374; Viitso 2025:325-330,,
+UT083,Is there a dedicated case that expresses a terminative meaning?,0,Blokland 2025:374; Viitso 2008:325-330,,
 UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,0,Blokland 2025:377,,The abessive case has been replaced by the prepositional construction bäs 'without' + a noun in the partitive case.
-UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Blokland 2025:374; Viitso 2025:325-329,,
+UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Blokland 2025:374; Viitso 2008:325-329,,
 UT086,Is there a locative case that expresses goal?,1,Viitso 2008:327,UT086,
 UT087,Is there a locative case that expresses location?,1,Viitso 2008:327,UT087,
 UT088,Is there a locative case that expresses source?,1,Viitso 2008:328,UT088,
 UT089,Is there case syncretism for goal and location marking?,1,Blokland 2025:376,UT089,The addessive and allative (not included in the case paradigm nowadays) show conflation.
-UT090,Is there case syncretism for location and source marking?,0,Blokland 2025:374-377; Viitso 2025:325-330,,
+UT090,Is there case syncretism for location and source marking?,0,Blokland 2025:374-377; Viitso 2008:325-330,,
 UT091,Are there two sets of local cases?,0,"Blokland 2025: 374, 376",,The external local cases occur in fossilized adverbs.
 UT092,Are there three or more sets of local cases?,0,Blokland 2025:374,,
 UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Viitso 2008:327,"UT093-1, UT093-2",The so-called instrumental case is used in both functions.
@@ -88,7 +88,7 @@ UT203,"Is there a case that expresses the means by which something is carried ou
 UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Viitso 2008:327-328,,The translative has collapsed withe the instrumental case; there are only lexicalized examples of the essive case.
 UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Viitso 2008:328; Blokland 2025:377,,"There is no dedicated translative case, but the instrumental case is used (see GB093)."
 UT097,Is there a dedicated case that expresses equativity?,0,Blokland 2025:in passim; Viitso 2008:in passim,,
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Blokland 2025:374-377; Viitso 2025:325-330,,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Blokland 2025:374-377; Viitso 2008:325-330,,
 UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Blokland 2025:374,,
 UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Miina Norvik (p.c. 2019),,
 UT101,Can the marking of the possessor in the attributive construction vary?,0,Viitso 2008:343,,

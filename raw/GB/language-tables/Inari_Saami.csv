@@ -63,7 +63,7 @@ GB107,"Can standard negation be marked by an affix, clitic or modification of th
 GB108,Is there directional or locative morphological marking on verbs?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
 GB109,Is there verb suppletion for participant number?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
 GB110,Is there verb suppletion for tense or aspect?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
-GB111,Are there conjugation classes?,0,"Olthuis 2000:24-25; Valtonen and Ylikoski and Aikio 2022:188","There are conjugation classes, but they are based on morphophonological alternations.",
+GB111,Are there conjugation classes?,0,Olthuis 2000:24-25; Valtonen and Ylikoski and Aikio 2022:188,"There are conjugation classes, but they are based on morphophonological alternations.",
 GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Valtonen and Ylikoski and Aikio 2022:191,The causative suffix -tt- can transitivize intransitive sentences and add an additional role to an already transitive clause (Valtonen and Ylikoski and Aikio 2022: 191).,GB113
 GB114,Is there a phonologically bound reflexive marker on the verb?,1,Itkonen 1987:394,,"GB114-1, GB114-2"
 GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Itkonen 1987:260,,GB115
@@ -109,7 +109,7 @@ GB170,Can an adnominal property word agree with the noun in noun class/gender?,0
 GB171,Can an adnominal demonstrative agree with the noun in noun class/gender?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
 GB172,Can an article agree with the noun in noun class/gender?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
 GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun class/gender of the argument visible in the NP domain?",0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
-GB184,Can an adnominal property word agree with the noun in number?,1,Valtonen and Ylikoski and Aikio 2022:193; Niinemägi (forthcoming),,GB184
+GB184,Can an adnominal property word agree with the noun in number?,1,Valtonen and Ylikoski and Aikio 2022:193,,GB184
 GB185,Can an adnominal demonstrative agree with the noun in number?,1,Valtonen and Ylikoski and Aikio 2022:193,,GB185
 GB186,Can an article agree with the noun in number?,0,Olthuis 2000:in passim; Valtonen and Ylikoski and Aikio 2022:in passim,,
 GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Valtonen and Ylikoski and Aikio 2022:191,,GB187
