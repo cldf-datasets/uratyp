@@ -35,7 +35,7 @@ UT055-2,luettu kirje,,lue-ttu	kirje,read-PASS.PST.PTCP	letter,A letter that has 
 UT060,tekemäni työ,,teke-mä-ni	työ,do-AG.PTCP-POSS.1SG	work,Work that I did,
 UT062,Puhuin eilen lähetetyistä kirjeistä,,Puhu-i-n eilen lähete-ty-i-stä kirje-i-stä,speak-PST-1SG yesterday send-PASS.PST.PTCP-PL-ELA letter-PL-ELA,I was speaking about the letters that were sent yesterday,
 UT064-1,kateissa olevaa esinettä etsivä poika,,kateissa ole-va-a esine-ttä etsi-vä poika,missing be-ACT.PRS.PTCP-PRT item-PRT seek-ACT.PRS.PTCP boy,A boy searching for a missing item,
-UT064-2,Tekevälle sattuu,,teke-vä-lle sattuu,do-ACT.PRS.PTCP-ALL happen-3SG,(Things) happen to the one who does (something),Finnish proverb
+UT064-2,Tekevälle sattuu,,teke-vä-lle sattuu,do-ACT.PRS.PTCP-ALL happen-3SG,(Things) happen to the one who does (something),
 UT067,Älä kirjaa unohda!,,Älä kirja-a unohda!,NEG.IMP.2SG book-PRT forget.CNG,Don't forget the book!,
 UT071,Vihollisen kaupungin valloittaminen,,Vihollise-n	kaupungi-n	valloitta-minen,enemy-GEN	city-GEN	conquest-NMLZ,the conquest of the enemy's city / the enemy's conquest of the city,
 UT072-1,Teen juominen,,Tee-n	juominen,tea-GEN	drinking-NMLZ,drinking of tea,
@@ -57,7 +57,7 @@ UT088,Tulen talosta,,Tule-n	talo-sta,come-1SG	house-ELA,I come from (inside of) 
 UT091-1,pöydälle : pöydällä : pöydältä,,pöydä-lle : pöydä-llä : pöydä-ltä,table-ALL : table-ADE: table-ABL,onto the table : on the table : from (top of) the table,
 UT091-2,koriin : korissa : korista,,kori-in : kori-ssa : kori-sta,basket-ILL : basket-INE : basket-ELA,into the basket : in the basket : from the basket,
 UT093,Hän kirjoitti kynineen,,Hän	kirjoitti	kyn-i-ne-en,3SG	write.PST.3SG	pen-PL-COM-POSS.3,S/he wrote with a pen,
-UT203,Yksityistä omistusoikeutta alettiin turvata uusin säännöin ja keksinnöin,,Yksityis-tä omistusoikeut-ta ale-ttiin turva-ta uus-i-n säännö-i-n ja keksinnö-i-n,private-PRT property_right-PRT begin-PASS.PST protect-INF1 new-PL-INS regulation-PL-INS and invention-PL-INS,Private property rights began to be protected by new regulations and inventions,Hakulinen et al. 2004: §1263:
+UT203,Yksityistä omistusoikeutta alettiin turvata uusin säännöin ja keksinnöin,,Yksityis-tä omistusoikeut-ta ale-ttiin turva-ta uus-i-n säännö-i-n ja keksinnö-i-n,private-PRT property_right-PRT begin-PASS.PST protect-INF1 new-PL-INS regulation-PL-INS and invention-PL-INS,Private property rights began to be protected by new regulations and inventions,Hakulinen et al. 2004: §1263
 UT095,Hän työskentelee opettajana,,Hän	työskentelee	opettaja-na,3SG	work-3SG	teacher-ESS,She works as a teacher,
 UT096,Hän opiskeli opettajaksi,,Hän	opiskel-i	opettaja-ksi,3SG	study-PST.3SG	teacher-TRA,S/he studied to become a teacher,
 UT109-1,Toi ihmettelee välillä että m- nukun selkä häneem päin,,Toi ihmettelee välillä että m- nuku-n selkä häne-em päin,that_one wonder-3SG occasionally that m- sleep-1SG back 3SG-ILL towards,S/he sometimes wonders why I sleep with my back to him.,Hakulinen et al. 2004: § 720

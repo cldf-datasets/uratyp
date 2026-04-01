@@ -1,63 +1,63 @@
-ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source,Comment
-GB020,veľeś,,veľe-ś,village-DEF,the village,Bartens 1999:83,PST > PST1?
-GB024,kavto traktort,,kavto traktort,two tractor.PL,two tractors,Bartens 1999:120,
-GB025,śe čisteńť,,śe čisteńť,DEM.DIST day.ELA.DEF,on that day,Bartens 1999:114,
-GB027-1,эрзятне ды мокшотне,erʲzʲatʲnʲe dɨ mokʃotʲnʲe,erʲzʲa-tʲnʲe dɨ mokʃo-tʲnʲe,Erzyan-PL and Mokshan-PL,Erzyans and Mokshans,Arkhangelskiy 2019,
-GB027-2,сон ялганзо марто,son jalganzo marto,son jalga-nzo marto,3SG friend-PX.3SG.GEN.SG/NOM.PL with,(s)he and his/her friends,Arkhangelskiy 2019,
-GB044,kalt,,kal-t,fish-PL,fish(es),Bartens 1999:82,
-GB046,paťiďeť,,pať-iďe-ť,older.sister-APL-PX.2SG,your older sister and the ones with her,Bartens 1999:107,
-GB047,palamo,,pala-mo,kiss-AN,kissing,Bartens 1999:106,
-GB048,tonavtytsja,,tonavt-ytsja,teach-AGN,teacher,Arkhangelskiy 2019,
-GB049,puromks,,purom-ks,meet-ONMLZ,meeting,Bartens 1999:106,
-GB065,avańť ćorazo,,ava-ńť ćora-zo,mother-GEN.DEF boy-PX.3SG,the mother's son,Bartens 1999:105,
-GB068,mon čumovtoman,,mon čumo-vtom-an,1SG guilty-ABE-PRS.1SG,I am innocent,Hamari and Ajanki 2022:423,
-GB072,sovat bańas,,sova-t bańa-s,enter-2SG sauna-ILL,You enter the sauna,Bartens 1999:95,
-GB073,mońťemeń,,moń-ťeme-ń,1SG-ABE-PX.1SG,without me,Hamari and Ajanki 2022:404,
-GB075,kulomado ikeľe,,kuloma-do ikeľe,death-ABL before,before death,Bartens 1999:94,
-GB089,jutan,,juta-n,walk-PRS.1SG,I walk,Arkhangelskiy 2019,
-GB083,palin,,pal-i-n,kiss-PST-1SG,I kissed,Bartens 1999:122,
-GB091,palan,,pala-n,kiss-PRS.1SG,I kiss,Bartens 1999:122,
-GB093,kundasamak,,kunda-samak,catch-2SG>1SG,You catch me,Bartens 1999:127,
-GB095-1,son śimiźe śe veďeńť,,son śim-iźe śe veďe-ńť,3SG drink-PST1.3SG>3SG that water-GEN.DEF.SG,S/he drank all of that water,Alhoniemi 1991:21,
-GB095-2,son śimś čajďe,,son śim-ś čaj-ďe,3SG drink-PST1.3SG tea-ABL,S/he was drinking tea,Alhoniemi 1991:21,
-GB098-1,kundatadiź,,kunda-tadiź,catch-PL.1/3>2,I catch you_pl / we catch you_sg / we catch you_pl / (s)he catches you_pl / they catch you_sg / they catch you_pl,Bartens 1999:126-7,
-GB098-2,kundasińek,,kunda-sińek,catch-1PL>3,we catch him/her / we catch them,Bartens 1999:126,
-GB098-3,kundasiń,,kunda-siń,catch-1SG>3PL,I catch them,Bartens 1999:126,
-GB113,moravtoms,,mora-vto-ms,sing-CAUS-INF,to make sb. sing,Bartens 1999:159,
-GB114,pandžovoms,,pandžo-vo-ms,open-REFL-INF,to open (oneself),Bartens 1999:160,
-GB117,son uĺńeś šabranok,,son uĺń-eś šabra-nok,3SG be-PST1.3SG neighbour-POSS.1PL>SG,S/he was our neighbour,Aasmäe 2018:195,
-GB121,mon karman kortamo,,mon karm-an korta-mo,1SG begin-1SG talk-INF3,I am going to talk,Bartens 1999:128,
-GB122,tŕams-kastoms,,tŕa-ms-kasto-ms,feed-INF-let.grow-INF,grow sth.,Bartens 1999:157,
-GB130,lovoś čikordi,,lovo-ś čikord-i,snow-DEF creak-3SG,The snow is creaking,Bartens 1999:91,
-GB132,riveś śovniźe veŕgiźeń,,rive-ś śovn-iźe veŕgiźe-ń,fox-DEF curse-PST1.3SG>3SG wolf-GEN,The fox cursed the wolf,Grünthal 2008:234,
-GB135,"Эрьвась а соды, кода сынст чарькодемс. ","erʲvasʲ a sodɨ, koda sɨnst t͡ɕarʲkodʲems","erʲva-sʲ a sod-ɨ, koda sɨnst t͡ɕarʲkodʲe-ms",every-NOM.SG NEG know-PRS.3SG how 3PL.GEN understand-INF,Not everyone knows how to understand them [the riddles],Arkhangelskiy 2019,
-GB139-1,iĺa učo,,iĺa učo,NEG.IMP.2SG wait.CNG,Do not wait!,Hamari and Ajanki 2015:299,
-GB139-2,a moran,,a mor-an,NEG sing-PRS.1SG,I do not sing,Bartens 1999:141,
-GB147,ńejavoms : ńejems,,ńeja-vo-ms : ńeje-ms,see-PASS-INF : see-INF,"to seem, to appear : to see",Bartens 1999:160,
-GB152,čiń śťamsto moľan pakśav,,či-ń śťa-msto moľ-an pakśa-v,sun-GEN stand.up-GER.ELA go-PRS.1SG field-LAT,at the sunrise I will go to the field,Bartens 1999:155,
-GB155,moravtoms : morams,,mora-vto-ms : mora-ms,sing-CAUS-INF : sing-INF,to make somebody sing : to sing,Bartens 1999:159,
-GB184,part ťejťeŕť,,par-t ťejťeŕ-ť,good-PL girl-PL,good girls,Bartens 1999:108,
-GB185,ńeť valtneń,,ńeť val-t-ne-ń,this.PL word-PL-DEF-GEN,of these words,Bartens 1999:114,
-GB186,modaś : modaťńe,,moda-ś : moda-ť-ńe,earth-DEF.SG.NOM : earth-PL-DEF.NOM,the ground : the grounds,"Bartens 1999:83,87",
-GB187,kudińe,,kud-ińe,house-DIM,a small house,Bartens 1999:106,
-GB203,весе инжетне,vesʲe inʒetʲnʲe,vesʲe inʒe-tʲnʲe,all guest-DEF.PL.NOM,all of the guests,Arkhangelskiy 2019,
-GB204,эрьва эрзянь кудосо,erʲva erʲzʲanʲ kudoso,erʲva erʲzʲa-nʲ kudo-so,every Erzya-GEN house-INE,in every Erzyan house,Arkhangelskiy 2019,
-GB254,eŕźań uľńeś ajgorozo,,eŕźa-ń uľńe-ś ajgoro-zo,erzya-GEN be-PST.3SG stallion-PX.3SG.SG.NOM,an Erzya had a stallion,Bartens 1999:91,
-GB256,ton moľat ošov?,,ton moľ-at ošo-v,2SG go-PRS.2SG city-LAT,are you going to the city?,Bartens 1999:176,
-GB266-1,kize ťeľeďe paro,,kize ťeľe-ďe paro,summer winter-ABL good,summer is better than winter,Bartens 1999:94,
-GB266-2,kudodo kudos,,kudo-do kudo-s,house-ABL house-ILL,from house to house,Bartens 1999:94,
-GB276,śeďe paro,,śe-ďe paro,this-ABL good,better,Bartens 1999:109,
-GB298,avoľiń pala,,a-voľ-iń pala,NEG-CONJ-1SG kiss.CNG,I would not kiss,Bartens 1999:142,
-GB306,vanodo pŕank!,,vano-do pŕa-nk,watch-IMP.2PL REFL-PX.2PL,watch yourselves!,Bartens 1999:114,
-GB312-1,palińďeŕavľiń,,pal-ińďeŕa-vľ-iń,kiss-COND-CONJ-1SG,if I kissed,Bartens 1999:137,
-GB312-2,morikseľińek,,mor-ikseľ-ińek,sing-DES-1PL,we wanted to sing,Bartens 1999:133,
-GB327,"Сёрматнеде, конатнень авась получинзе фронтсто, весемезэ кавто.","sʲormatʲnʲedʲe, konatʲnʲenʲ avasʲ polut͡ɕinʲzʲe frontsto, vesʲemeze kavto","sʲorma-tʲnʲe-dʲe, kona-tʲnʲe-nʲ ava-sʲ polut͡ɕ-inʲzʲe front-sto, vesʲeme-ze kavto",letter-DEF.PL-ABL which-DEF.PL-GEN woman-DEF.NOM.SG receive-PST.3SG>3SG front-ELA all-PX.3SG two,"Of the letters which the woman received from the front, there are altogether two.",Hamari and Ajanki 2022:429,
-GB328,тетянь рамавт лишмесь,tʲetʲanʲ ramavt lʲiʃmesʲ,tʲetʲa-nʲ rama-vt lʲiʃme-sʲ,father-GEN buy-PTCP horse-DEF.NOM.SG,the horse bought by the father,Hamari and Ajanki 2022:417,
-GB333,veďgemeń,,veď-gemeń,five-ten,fifty,Bartens 1999:119,
-GB408-1,ťe ľišmeńť ťeťam ramiźe,,ťe ľišme-ńť ťeťa-m ram-iźe,this horse-DEF.GEN.SG father-1SG.NOM.SG buy-PST.3SG>3SG,it was my father who bought this horse,Bartens 1999:175,
-GB408-2,śimś vinado,,śim-ś vina-do,drink-PST.3SG wine-ABL.SG,he drank (some) wine,Bartens 1999:176,
-GB415,"Николай Федорович, тынк сюпав эрямонь кинк.","nʲikolaj fedorovit͡ɕ, tɨnk sʲupav erʲamonʲ kink","nʲikolaj fedorovit͡ɕ, tɨnk sʲupav erʲamo-nʲ ki-nk","Nikolay Fedorovich, 2PL.GEN rich life-GEN.SG path-PX.2PL","Nikolay Fedorovich, yours is a rich biography (=you have a rich biography)",Arkhangelskiy 2019,
-GB432,avańť ćorazo,,ava-ń-ť ćora-zo,mother-GEN-DEF.SG son-PX.3SG.NOM.SG,the mother's son,Bartens 1999:105,
-GB519,kadik sajťanzat,,kadik saj-ťanzat,OPT take-PRS.3SG>2SG,may he take you,Bartens 1999:139,
-GB522-1,piźi,,piź-i,rain-PRS.3SG,it is raining,Bartens 1999:169,
-GB522-2,vasolojan,,vasolo-jan,far-PRS.1SG,I am far away,Bartens 1999:169,
+ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
+GB020,veľeś,,veľe-ś,village-DEF,the village,Bartens 1999:83
+GB024,kavto traktort,,kavto traktort,two tractor.PL,two tractors,Bartens 1999:120
+GB025,śe čisteńť,,śe čisteńť,DEM.DIST day.ELA.DEF,on that day,Bartens 1999:114
+GB027-1,эрзятне ды мокшотне,erʲzʲatʲnʲe dɨ mokʃotʲnʲe,erʲzʲa-tʲnʲe dɨ mokʃo-tʲnʲe,Erzyan-PL and Mokshan-PL,Erzyans and Mokshans,Arkhangelskiy 2019
+GB027-2,сон ялганзо марто,son jalganzo marto,son jalga-nzo marto,3SG friend-PX.3SG.GEN.SG/NOM.PL with,(s)he and his/her friends,Arkhangelskiy 2019
+GB044,kalt,,kal-t,fish-PL,fish(es),Bartens 1999:82
+GB046,paťiďeť,,pať-iďe-ť,older.sister-APL-PX.2SG,your older sister and the ones with her,Bartens 1999:107
+GB047,palamo,,pala-mo,kiss-AN,kissing,Bartens 1999:106
+GB048,tonavtytsja,,tonavt-ytsja,teach-AGN,teacher,Arkhangelskiy 2019
+GB049,puromks,,purom-ks,meet-ONMLZ,meeting,Bartens 1999:106
+GB065,avańť ćorazo,,ava-ńť ćora-zo,mother-GEN.DEF boy-PX.3SG,the mother's son,Bartens 1999:105
+GB068,mon čumovtoman,,mon čumo-vtom-an,1SG guilty-ABE-PRS.1SG,I am innocent,Hamari and Ajanki 2022:423
+GB072,sovat bańas,,sova-t bańa-s,enter-2SG sauna-ILL,You enter the sauna,Bartens 1999:95
+GB073,mońťemeń,,moń-ťeme-ń,1SG-ABE-PX.1SG,without me,Hamari and Ajanki 2022:404
+GB075,kulomado ikeľe,,kuloma-do ikeľe,death-ABL before,before death,Bartens 1999:94
+GB089,jutan,,juta-n,walk-PRS.1SG,I walk,Arkhangelskiy 2019
+GB083,palin,,pal-i-n,kiss-PST-1SG,I kissed,Bartens 1999:122
+GB091,palan,,pala-n,kiss-PRS.1SG,I kiss,Bartens 1999:122
+GB093,kundasamak,,kunda-samak,catch-2SG>1SG,You catch me,Bartens 1999:127
+GB095-1,son śimiźe śe veďeńť,,son śim-iźe śe veďe-ńť,3SG drink-PST1.3SG>3SG that water-GEN.DEF.SG,S/he drank all of that water,Alhoniemi 1991:21
+GB095-2,son śimś čajďe,,son śim-ś čaj-ďe,3SG drink-PST1.3SG tea-ABL,S/he was drinking tea,Alhoniemi 1991:21
+GB098-1,kundatadiź,,kunda-tadiź,catch-PL.1/3>2,I catch you_pl / we catch you_sg / we catch you_pl / (s)he catches you_pl / they catch you_sg / they catch you_pl,Bartens 1999:126-7
+GB098-2,kundasińek,,kunda-sińek,catch-1PL>3,we catch him/her / we catch them,Bartens 1999:126
+GB098-3,kundasiń,,kunda-siń,catch-1SG>3PL,I catch them,Bartens 1999:126
+GB113,moravtoms,,mora-vto-ms,sing-CAUS-INF,to make sb. sing,Bartens 1999:159
+GB114,pandžovoms,,pandžo-vo-ms,open-REFL-INF,to open (oneself),Bartens 1999:160
+GB117,son uĺńeś šabranok,,son uĺń-eś šabra-nok,3SG be-PST1.3SG neighbour-POSS.1PL>SG,S/he was our neighbour,Niina Aasmäe (p.c. 2020)
+GB121,mon karman kortamo,,mon karm-an korta-mo,1SG begin-1SG talk-INF3,I am going to talk,Bartens 1999:128
+GB122,tŕams-kastoms,,tŕa-ms-kasto-ms,feed-INF-let.grow-INF,grow sth.,Bartens 1999:157
+GB130,lovoś čikordi,,lovo-ś čikord-i,snow-DEF creak-3SG,The snow is creaking,Bartens 1999:91
+GB132,riveś śovniźe veŕgiźeń,,rive-ś śovn-iźe veŕgiźe-ń,fox-DEF curse-PST1.3SG>3SG wolf-GEN,The fox cursed the wolf,Grünthal 2008:234
+GB135,"Эрьвась а соды, кода сынст чарькодемс. ","erʲvasʲ a sodɨ, koda sɨnst t͡ɕarʲkodʲems","erʲva-sʲ a sod-ɨ, koda sɨnst t͡ɕarʲkodʲe-ms",every-NOM.SG NEG know-PRS.3SG how 3PL.GEN understand-INF,Not everyone knows how to understand them [the riddles],Arkhangelskiy 2019
+GB139-1,iĺa učo,,iĺa učo,NEG.IMP.2SG wait.CNG,Do not wait!,Hamari and Ajanki 2015:299
+GB139-2,a moran,,a mor-an,NEG sing-PRS.1SG,I do not sing,Bartens 1999:141
+GB147,ńejavoms : ńejems,,ńeja-vo-ms : ńeje-ms,see-PASS-INF : see-INF,"to seem, to appear : to see",Bartens 1999:160
+GB152,čiń śťamsto moľan pakśav,,či-ń śťa-msto moľ-an pakśa-v,sun-GEN stand.up-GER.ELA go-PRS.1SG field-LAT,at the sunrise I will go to the field,Bartens 1999:155
+GB155,moravtoms : morams,,mora-vto-ms : mora-ms,sing-CAUS-INF : sing-INF,to make somebody sing : to sing,Bartens 1999:159
+GB184,part ťejťeŕť,,par-t ťejťeŕ-ť,good-PL girl-PL,good girls,Bartens 1999:108
+GB185,ńeť valtneń,,ńeť val-t-ne-ń,this.PL word-PL-DEF-GEN,of these words,Bartens 1999:114
+GB186,modaś : modaťńe,,moda-ś : moda-ť-ńe,earth-DEF.SG.NOM : earth-PL-DEF.NOM,the ground : the grounds,"Bartens 1999:83,87"
+GB187,kudińe,,kud-ińe,house-DIM,a small house,Bartens 1999:106
+GB203,весе инжетне,vesʲe inʒetʲnʲe,vesʲe inʒe-tʲnʲe,all guest-DEF.PL.NOM,all of the guests,Arkhangelskiy 2019
+GB204,эрьва эрзянь кудосо,erʲva erʲzʲanʲ kudoso,erʲva erʲzʲa-nʲ kudo-so,every Erzya-GEN house-INE,in every Erzyan house,Arkhangelskiy 2019
+GB254,eŕźań uľńeś ajgorozo,,eŕźa-ń uľńe-ś ajgoro-zo,erzya-GEN be-PST.3SG stallion-PX.3SG.SG.NOM,an Erzya had a stallion,Bartens 1999:91
+GB256,ton moľat ošov?,,ton moľ-at ošo-v,2SG go-PRS.2SG city-LAT,are you going to the city?,Bartens 1999:176
+GB266-1,kize ťeľeďe paro,,kize ťeľe-ďe paro,summer winter-ABL good,summer is better than winter,Bartens 1999:94
+GB266-2,kudodo kudos,,kudo-do kudo-s,house-ABL house-ILL,from house to house,Bartens 1999:94
+GB276,śeďe paro,,śe-ďe paro,this-ABL good,better,Bartens 1999:109
+GB298,avoľiń pala,,a-voľ-iń pala,NEG-CONJ-1SG kiss.CNG,I would not kiss,Bartens 1999:142
+GB306,vanodo pŕank!,,vano-do pŕa-nk,watch-IMP.2PL REFL-PX.2PL,watch yourselves!,Bartens 1999:114
+GB312-1,palińďeŕavľiń,,pal-ińďeŕa-vľ-iń,kiss-COND-CONJ-1SG,if I kissed,Bartens 1999:137
+GB312-2,morikseľińek,,mor-ikseľ-ińek,sing-DES-1PL,we wanted to sing,Bartens 1999:133
+GB327,"Сёрматнеде, конатнень авась получинзе фронтсто, весемезэ кавто.","sʲormatʲnʲedʲe, konatʲnʲenʲ avasʲ polut͡ɕinʲzʲe frontsto, vesʲemeze kavto","sʲorma-tʲnʲe-dʲe, kona-tʲnʲe-nʲ ava-sʲ polut͡ɕ-inʲzʲe front-sto, vesʲeme-ze kavto",letter-DEF.PL-ABL which-DEF.PL-GEN woman-DEF.NOM.SG receive-PST.3SG>3SG front-ELA all-PX.3SG two,"Of the letters which the woman received from the front, there are altogether two.",Hamari and Ajanki 2022:429
+GB328,тетянь рамавт лишмесь,tʲetʲanʲ ramavt lʲiʃmesʲ,tʲetʲa-nʲ rama-vt lʲiʃme-sʲ,father-GEN buy-PTCP horse-DEF.NOM.SG,the horse bought by the father,Hamari and Ajanki 2022:417
+GB333,veďgemeń,,veď-gemeń,five-ten,fifty,Bartens 1999:119
+GB408-1,ťe ľišmeńť ťeťam ramiźe,,ťe ľišme-ńť ťeťa-m ram-iźe,this horse-DEF.GEN.SG father-1SG.NOM.SG buy-PST.3SG>3SG,it was my father who bought this horse,Bartens 1999:175
+GB408-2,śimś vinado,,śim-ś vina-do,drink-PST.3SG wine-ABL.SG,he drank (some) wine,Bartens 1999:176
+GB415,"Николай Федорович, тынк сюпав эрямонь кинк.","nʲikolaj fedorovit͡ɕ, tɨnk sʲupav erʲamonʲ kink","nʲikolaj fedorovit͡ɕ, tɨnk sʲupav erʲamo-nʲ ki-nk","Nikolay Fedorovich, 2PL.GEN rich life-GEN.SG path-PX.2PL","Nikolay Fedorovich, yours is a rich biography (=you have a rich biography)",Arkhangelskiy 2019
+GB432,avańť ćorazo,,ava-ń-ť ćora-zo,mother-GEN-DEF.SG son-PX.3SG.NOM.SG,the mother's son,Bartens 1999:105
+GB519,kadik sajťanzat,,kadik saj-ťanzat,OPT take-PRS.3SG>2SG,may he take you,Bartens 1999:139
+GB522-1,piźi,,piź-i,rain-PRS.3SG,it is raining,Bartens 1999:169
+GB522-2,vasolojan,,vasolo-jan,far-PRS.1SG,I am far away,Bartens 1999:169
