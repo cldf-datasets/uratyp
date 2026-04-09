@@ -1,4 +1,4 @@
-ID,Feature,Value,Source,Comment,Example
+D,Feature,Value,Source,Comment,Example
 GB020,Are there definite or specific articles?,0,Riese et al. 2022:18,Sometimes possessive suffixes can be used to indicate discourse-relevance.,
 GB021,Are there indefinite or non-specific articles?,0,Riese et al. 2022:18,"In certain contexts, the numeral ик 'one' functions as a non-definite determiner.",
 GB022,Are there prenominal articles?,0,Riese et al. 2022:18,"In certain contexts, the numeral ик 'one' functions as a non-definite determiner. ",
@@ -90,7 +90,7 @@ GB137,Can standard negation be marked clause-finally?,1,Riese et al. 2022:213-21
 GB138,Can standard negation be marked clause-initially?,0,Riese et al. 2022:in passim,,
 GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,1,Riese et al. 2022:234,,GB139
 GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Riese et al. 2022:299,Present-tense existential and possessive clauses use a special negator уке. ,
-GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,"Bradley et al. 2022:кокырыкташ, варныкташ, кылмыкташ","Certain verbs of feeling (e.g. кокырыкташ 'to make/have a cough', варныкташ 'to make/be sick', кылмыкташ 'to freeze, to feel cold') can be used impersonally with their experiencer in accusative.",GB146
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,1,"Riese et al. 2022:кокырыкташ, варныкташ, кылмыкташ","Certain verbs of feeling (e.g. кокырыкташ 'to make/have a cough', варныкташ 'to make/be sick', кылмыкташ 'to freeze, to feel cold') can be used impersonally with their experiencer in accusative.",GB146
 GB147,Is there a morphological passive marked on the lexical verb?,1,Riese et al. 2022:383,"The suffix -алт can be used to form, among others, verbs with a passive meaning.",GB147
 GB148,Is there a morphological antipassive marked on the lexical verb?,0,Riese et al. 2022:in passim,,
 GB149,Is there a morphologically marked inverse on verbs?,0,Riese et al. 2022:in passim,,
@@ -144,7 +144,7 @@ GB296,Is there a phonologically or morphosyntactically definable class of ideoph
 GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Saarinen 2022:463,,
 GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Riese et al. 2022:274-276,,GB139
 GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Riese et al. 2022:in passim,The negation auxiliary (Riese et al. 2022:274-276) and contracted negated forms of the verb улаш 'to be' (Riese et al. 2022:292) cover the entire finite verb paradigm.,
-GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Bradley et al. 2022:пуаш (-эм) [1],The verb 'to give' is a regular 2nd conjugation (-эм) verb.,
+GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Riese et al. 2022:пуаш (-эм) [1],The verb 'to give' is a regular 2nd conjugation (-эм) verb.,
 GB301,Is there an inclusory construction?,1,Riese et al. 2022:167,,GB301
 GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Riese et al. 2022:in passim,,
 GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Riese et al. 2022:in passim,,
@@ -178,8 +178,8 @@ GB335,Is there synchronic evidence for any element of a vigesimal numeral system
 GB336,Is there a body-part tallying system?,0,Riese et al. 2022:in passim,,
 GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Riese et al. 2022:in passim,,
 GB401,Is there a class of patient-labile verbs?,0,Riese et al. 2022:in passim,,
-GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Bradley et al. 2022:ужаш,The verb ужаш 'to see' is a regular 1st conjugation (-ам) verb.,
-GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Bradley et al. 2022:толаш,The verb толаш 'to come' is a regular 1st conjugation (-ам) verb.,
+GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Riese et al. 2022:ужаш,The verb ужаш 'to see' is a regular 1st conjugation (-ам) verb.,
+GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Riese et al. 2022:толаш,The verb толаш 'to come' is a regular 1st conjugation (-ам) verb.,
 GB408,Is there any accusative alignment of flagging?,1,Riese et al. 2022:17,,"GB089, GB091"
 GB409,Is there any ergative alignment of flagging?,0,Riese et al. 2022:17,,
 GB410,Is there any neutral alignment of flagging?,0,Riese et al. 2022:17,,

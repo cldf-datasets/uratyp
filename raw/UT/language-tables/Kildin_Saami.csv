@@ -136,10 +136,10 @@ UT142,Are there word-internal consonant clusters in the syllable onset?,0,Rießl
 UT143,Are there consonant clusters in the syllable coda?,1,"Kert 1971:71; Rießler 2022:223-224","UT143-1, UT143-2",
 UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,Kert 1971:79-81,"UT143-2, UT144",
 UT145,Are there word-final clusters of three or more consonants?,0,Kert 1971:79-81,,
-UT146,Are there palatalized alveolar consonants?,1,Kuzmenko and Rießler 2012,"UT146-1, UT146-2, UT-146-3, UT146-4",
+UT146,Are there palatalized alveolar consonants?,1,Kuzmenkov and Rießler 2012,"UT146-1, UT146-2, UT-146-3, UT146-4",
 UT147,Are there palatalized labial and velar consonants?,1,"Kert 1971:63; Rießler 2022:221-223","UT147-1, UT147-2, UT-147-3, UT139-1",
 UT148,Is there a palatal stop?,0,"Kert 1971:63; Rießler 2022:221-223",,
-UT149,Is there a palatal nasal /ɲ/?,1,Kuzmenko and Rießler 2012,"UT149-1, UT149-2",
+UT149,Is there a palatal nasal /ɲ/?,1,Kuzmenkov and Rießler 2012,"UT149-1, UT149-2",
 UT150,Is there a palatal lateral /ʎ/?,0,Kert 1971:63,,"There was palatal [ʎ] opposed to palatalized [lʲ] in more archaic dialects. Nowadays, a cluster /lʲj/ is attested on the place of [ʎ]."
 UT151,Is there a velar nasal /ŋ/?,1,"Kert 1971:63; Rießler 2022:221-223",UT151,
 UT152,Is there an alveolar affricate /t͡s/?,1,"Kert 1971:63; Rießler 2022:221-223","UT152-1, UT152-2",
