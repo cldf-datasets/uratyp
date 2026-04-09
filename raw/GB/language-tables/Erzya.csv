@@ -21,7 +21,7 @@ GB043,Is there a productive morphological dual marker on nouns?,0,Bartens 1999:7
 GB044,Is there a productive morphological plural marker on nouns?,1,Bartens 1999:82,,GB044
 GB046,Is there an associative plural marker for nouns?,1,Bartens 1999:107,,GB046
 GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Bartens 1999:106,,GB047
-GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Arkhangelskiy 2019; Hamari and Ajanki 2022:416,,GB048
+GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Arkhangelskiy 2020; Hamari and Ajanki 2022:416,,GB048
 GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Bartens 1999:106,,GB049
 GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Bartens 1999:in passim,,
 GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Bartens 1999:in passim,,
@@ -40,7 +40,7 @@ GB073,"Are there morphological cases for phonologically independent oblique pers
 GB074,Are there prepositions?,0,Bartens 1999:163,,
 GB075,Are there postpositions?,1,Bartens 1999:163,,GB075
 GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Bartens 1999:in passim,,
-GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",1,Arkhangelskiy 2019,,GB083
+GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",1,Arkhangelskiy 2020,,GB083
 GB081,Is there productive infixation in verbs?,0,Bartens 1999:in passim,,
 GB082,Is there overt morphological marking of present tense on verbs?,0,Bartens 1999:122,,
 GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Bartens 1999:122,,GB083
@@ -83,8 +83,8 @@ GB130,What is the pragmatically unmarked order of S and V in intransitive clause
 GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Bartens 1999:168-169,,
 GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,1,Bartens 1999:168-169,,GB132
 GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,0,Bartens 1999:168-169,,
-GB134,Is the order of constituents the same in main and subordinate clauses?,1,Arkhangelskiy 2019,,
-GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Arkhangelskiy 2019,SVO preferred for both nominal and clausal objects.,GB135
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,Arkhangelskiy 2020,,
+GB135,Do clausal objects usually occur in the same position as nominal objects?,1,Arkhangelskiy 2020,SVO preferred for both nominal and clausal objects.,GB135
 GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Hamari and Ajanki 2022:419,See also GB134.,
 GB137,Can standard negation be marked clause-finally?,0,Bartens 1999:140-144,,
 GB138,Can standard negation be marked clause-initially?,0,Bartens 1999:140-144,,
@@ -119,8 +119,8 @@ GB193,What is the order of adnominal property word and noun?,1,Bartens 1999:108;
 GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,Bartens 1999:111-112,,
 GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Bartens 1999:111-112,,
 GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Bartens 1999:in passim,,
-GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Arkhangelskiy 2019,"vese 'all' precedes its head noun; it can also be used standalone in the meaning of 'all', 'everyone'.",GB203
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Arkhangelskiy 2019,Eŕva 'every' vs. vese 'all'.,"GB203, GB204"
+GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,1,Arkhangelskiy 2020,"vese 'all' precedes its head noun; it can also be used standalone in the meaning of 'all', 'everyone'.",GB203
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Arkhangelskiy 2020,Eŕva 'every' vs. vese 'all'.,"GB203, GB204"
 GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,0,Bartens 1999:162,,
 GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Bartens 1999:162,,
 GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Bartens 1999:162,,
@@ -183,7 +183,7 @@ GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Bartens 1999:in
 GB408,Is there any accusative alignment of flagging?,1,Bartens 1999:175-176,"Pronouns and definite nouns are marked with the genitive case, sometimes called genitive-accusative. However, some verbs can additionally or exclusively govern other cases, especially ablative, which if optional denotes a partial quantity (used as partitive).","GB408-1, GB408-2"
 GB409,Is there any ergative alignment of flagging?,0,Bartens 1999:173-176,,
 GB410,Is there any neutral alignment of flagging?,0,Bartens 1999:175,"However, indefinite objects of verbs appear in nominative.",
-GB415,Is there a politeness distinction in second person forms?,1,Arkhangelskiy 2019,Polite usage of 2PL forms in place of the expected 2SG may be stigmatised by some speakers as purported Russian influence.,GB415
+GB415,Is there a politeness distinction in second person forms?,1,Arkhangelskiy 2020,Polite usage of 2PL forms in place of the expected 2SG may be stigmatised by some speakers as purported Russian influence.,GB415
 GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,1,Teptiuk 2020,,
 GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Bartens 1999:in passim,,
 GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Bartens 1999:100-105,,

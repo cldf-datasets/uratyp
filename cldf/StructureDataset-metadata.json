@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "9a81b3c",
+            "dc:created": "5522166",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.3-10-gf73cfc344d",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
@@ -353,7 +353,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 5370,
+            "dc:extent": 5418,
             "tableSchema": {
                 "columns": [
                     {

@@ -482,8 +482,8 @@ class Data:
                 try:
                     assert row['ID'] not in res.values[p.stem], f"Duplicate: {p.stem}:{row['ID']}"
                     res.values[p.stem][row['ID']] = DataRow.from_row(p.stem, row, eids, res.invalid_examples, refkeys, log)
-                except KeyError:
-                    raise ValueError(p)
+                except KeyError as e:
+                    raise ValueError(p) from e
 
         return res
 
