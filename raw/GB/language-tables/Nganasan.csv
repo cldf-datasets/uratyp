@@ -1,196 +1,196 @@
 ID,Feature,Value,Source,Comment,Example
-GB020,Are there definite or specific articles?,0,Wagner-Nagy 2019:19,,
-GB021,Are there indefinite or non-specific articles?,0,Wagner-Nagy 2019:308,,
-GB022,Are there prenominal articles?,0,Wagner-Nagy 2019,,
-GB023,Are there postnominal articles?,0,Wagner-Nagy 2019,,
-GB024,What is the order of numeral and noun in the NP?,1,Wagner-Nagy 2019:158,,GB024
-GB025,What is the order of adnominal demonstrative and noun?,1,Wagner-Nagy 2019:127,,GB025
-GB026,Can adnominal property words occur discontinuously?,0,Wagner-Nagy 2019:96,,
-GB027,Are nominal conjunction and comitative expressed by different elements?,1,Wagner-Nagy 2019:326-327,,"GB027-1, GB027-2"
-GB028,Is there a distinction between inclusive and exclusive?,0,Wagner-Nagy 2019:in passim,,
-GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,Wagner-Nagy 2019:106,,
-GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,1,Wagner-Nagy 2019:106,,"GB031-1, GB031-2, GB031-3"
-GB035,Are there three or more distance contrasts in adnominal demonstratives?,0,Wagner-Nagy 2019:127,,
-GB036,Do adnominal demonstratives show an elevation distinction?,0,Wagner-Nagy 2019:127,,
-GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,Wagner-Nagy 2019:127,,
-GB038,Are there demonstrative classifiers?,0,Wagner-Nagy 2019:127,,
-GB039,Is there nonphonological allomorphy of noun number markers?,0,Wagner-Nagy 2019:176,,
-GB041,Are there several nouns (more than three) which are suppletive for number?,0,Wagner-Nagy 2019:in passim,,
-GB042,Is there a productive overt morphological singular marker on nouns?,0,Wagner-Nagy 2019:95,,
-GB043,Is there a productive morphological dual marker on nouns?,1,Wagner-Nagy 2019:95,,GB043
-GB044,Is there a productive morphological plural marker on nouns?,1,Wagner-Nagy 2019:95,,GB024
-GB046,Is there an associative plural marker for nouns?,0,"Wagner-Nagy 2019:187,188",The PL marker can have associative reading in some contexts.,
-GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Wagner-Nagy 2019:513-514,,GB047
-GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Wagner-Nagy 2019:516,,GB048
-GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Wagner-Nagy 2019:518,,GB049
-GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Wagner-Nagy 2019:94,No gender.,
-GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Wagner-Nagy 2019:94,No gender.,
-GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,Wagner-Nagy 2019:94,No gender.,
-GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,Wagner-Nagy 2019:94,No gender.,
-GB057,Are there numeral classifiers?,0,Wagner-Nagy 2019:in passim,,
-GB058,Are there possessive classifiers?,0,Wagner-Nagy 2019:in passim,,
-GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Wagner-Nagy 2019:317,,
-GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Wagner-Nagy 2019:317,,GB065
-GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Wagner-Nagy 2019:97,,
-GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Wagner-Nagy 2019:97,,
-GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Wagner-Nagy 2019:191,,"GB204, GB070"
-GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",0,Wagner-Nagy 2019:107,NOM = ACC.,
-GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,Wagner-Nagy 2019:191,,"GB133, GB266, GB410"
-GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,Wagner-Nagy 2019:108,,"GB073-1, GB073-2"
-GB074,Are there prepositions?,0,Wagner-Nagy 2019:152,,
-GB075,Are there postpositions?,1,Wagner-Nagy 2019:152,,GB075
-GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Wagner-Nagy 2019:509,No prefixes in the language.,
-GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Wagner-Nagy 2019:214,,
-GB081,Is there productive infixation in verbs?,?,Wagner-Nagy 2019:504,"Infixiation mentioned, but no examples for verbs given.",
-GB082,Is there overt morphological marking of present tense on verbs?,0,Wagner-Nagy 2019:233,,
-GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Wagner-Nagy 2019:234,,GB083
-GB084,Is there overt morphological marking on the verb dedicated to future tense?,1,Wagner-Nagy 2019:234,,GB084
-GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,1,Wagner-Nagy 2019:234,"Their aorist suffix will differ: for perfective verbs - -Ɂə, for imperfective - NTU.","GB086-1, GB086-2"
-GB089,Can the S argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2019:229,,GB027-1
-GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2019:229,,
-GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2019:229,,GB091
-GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2019:229,,
-GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2019:230,,GB093
-GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2019:230,,
-GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Wagner-Nagy 2019:214,,
-GB096,Are variations in marking strategies of core participants based on verb classes?,0,Wagner-Nagy 2019:214,,
-GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Wagner-Nagy 2019:214,,
-GB099,Is there verb suppletion for participant person?,0,Wagner-Nagy 2019:214,,
-GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Wagner-Nagy 2019:211,Destinative/benefactive is marked on the nouns or demonstrative pronouns in the beneficiary or destinative constructions.,
-GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Wagner-Nagy 2019:211,Instrumental marked on nouns.,
-GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Wagner-Nagy 2019:395,,
-GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Wagner-Nagy 2019:405,,
-GB108,Is there directional or locative morphological marking on verbs?,0,Wagner-Nagy 2019:211,"Destinative/benefactive, but no directional.",
-GB109,Is there verb suppletion for participant number?,0,Wagner-Nagy 2019:215,,
-GB110,Is there verb suppletion for tense or aspect?,0,Wagner-Nagy 2019:222,,
-GB111,Are there conjugation classes?,1,Wagner-Nagy 2019:225,,"GB086-2, GB091"
-GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Wagner-Nagy 2019:304,,GB113
-GB114,Is there a phonologically bound reflexive marker on the verb?,0,Wagner-Nagy 2019:304,"Nganasan has a separate reflexive conjugation, i.e. no dedicated reflexive marker.",
-GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Wagner-Nagy 2019:303,,GB115
-GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Wagner-Nagy 2019:in passim,,
-GB117,Is there a copula for predicate nominals?,1,Wagner-Nagy 2019:356,,GB117
-GB118,Are there serial verb constructions?,0,Wagner-Nagy 2019:in passim,,
-GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2019:98,,
-GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2019:98,,
-GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2019:98,,
-GB122,Is verb compounding a regular process?,0,Wagner-Nagy 2019:504,,
-GB123,Are there verb-adjunct (aka light-verb) constructions?,0,Wagner-Nagy 2019:in passim,,
-GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Wagner-Nagy 2019:304,,
-GB126,Is there an existential verb?,1,Wagner-Nagy 2019:354,,GB126
-GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. ‘to lie’ vs. ‘to stand’)?,0,Wagner-Nagy 2019:in passim,,
-GB129,Is there a notably small number of verb roots in the language?,0,Wagner-Nagy 2019,,
-GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Wagner-Nagy 2019:289,,GB130
-GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Wagner-Nagy 2019:363,,
-GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,0,Wagner-Nagy 2019:363,,
-GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Wagner-Nagy 2019:363,,GB133
-GB134,Is the order of constituents the same in main and subordinate clauses?,1,Wagner-Nagy 2019:429,,GB134
-GB135,Do clausal objects usually occur in the same position as nominal objects?,0,Wagner-Nagy 2019:435-437,,
-GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Wagner-Nagy 2019:363,,
-GB137,Can standard negation be marked clause-finally?,0,Wagner-Nagy 2019:405,,
-GB138,Can standard negation be marked clause-initially?,0,Wagner-Nagy 2019:405,,
-GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,0,Wagner-Nagy 2019:412-413,,
-GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Wagner-Nagy 2019:406,,
-GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Wagner-Nagy 2019:in passim,,
-GB147,Is there a morphological passive marked on the lexical verb?,1,Wagner-Nagy 2019:100,,GB147
-GB148,Is there a morphological antipassive marked on the lexical verb?,0,Wagner-Nagy 2019:in passim,,
-GB149,Is there a morphologically marked inverse on verbs?,0,Wagner-Nagy 2019:in passim,,
-GB150,Is there clause chaining?,0,Wagner-Nagy 2019:in passim,,
-GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Wagner-Nagy 2019:in passim,,
-GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,Wagner-Nagy 2019:in passim,,
-GB155,Are causatives formed by affixes or clitics on verbs?,1,Wagner-Nagy 2019:304,A transitive verb can be formed from an intrasitive verb with a transitive-causative suffixes -BTU and -RU.,"GB113, GB155"
-GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Wagner-Nagy 2019:304,,
-GB158,Are verbs reduplicated?,0,Wagner-Nagy 2019:504,,
-GB159,Are nouns reduplicated?,0,Wagner-Nagy 2019:504,,
-GB160,Are elements apart from verbs or nouns reduplicated?,0,Wagner-Nagy 2019:504,,
-GB165,Is there a productive morphological trial marker on nouns?,0,Wagner-Nagy 2019:94,,
-GB166,Is there a productive morphological paucal marker on nouns?,0,Wagner-Nagy 2019:94,,
-GB167,Is there a logophoric pronoun?,0,Wagner-Nagy 2019:in passim,,
-GB170,Can an adnominal property word agree with the noun in noun class/gender?,0,Wagner-Nagy 2019:94,No gender.,
-GB171,Can an adnominal demonstrative agree with the noun in noun class/gender?,0,Wagner-Nagy 2019:94,No gender.,
-GB172,Can an article agree with the noun in noun class/gender?,0,Wagner-Nagy 2019,No gender.,
-GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun class/gender of the argument visible in the NP domain?",0,Wagner-Nagy 2019:214,,
-GB184,Can an adnominal property word agree with the noun in number?,1,Wagner-Nagy 2019:97,,GB184
-GB185,Can an adnominal demonstrative agree with the noun in number?,0,Wagner-Nagy 2019:127,,
-GB186,Can an article agree with the noun in number?,0,Wagner-Nagy 2019,No articles.,
-GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Wagner-Nagy 2019:511,,GB187
-GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,1,Wagner-Nagy 2019:509,,GB188
-GB192,Is there a noun class/gender system where a noun’s phonological properties are a factor in class assignment?,0,Wagner-Nagy 2019:94,No grammatical gender.,
-GB193,What is the order of adnominal property word and noun?,1,Wagner-Nagy 2019:308,,GB184
-GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,Wagner-Nagy 2019:106,,
-GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Wagner-Nagy 2019:106,,
-GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Wagner-Nagy 2019:94,,
-GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,3,Wagner-Nagy 2019:315,,"GB203-1, GB203-2"
-GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Wagner-Nagy 2019:315,"The quantifiers differ in form: bǝnsǝ 'all; whole', bǝńd'ika 'every; all of them'.","GB203-2, GB204"
-GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,1,Wagner-Nagy 2019:360,,GB250
-GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Wagner-Nagy 2019:359,,
-GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Wagner-Nagy 2019:359,,
-GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,1,Wagner-Nagy 2019:359,,GB254
-GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Wagner-Nagy 2019:359,,
-GB257,Can polar interrogation be marked by intonation only?,1,Wagner-Nagy 2019:380,"Verbless interrogative sentences have a high-pitch intonation pattern, the tone peek being higher than that of an affirmative sentence.",
-GB260,Can polar interrogation be indicated by a special word order?,0,Wagner-Nagy 2019:379,,
-GB262,Is there a clause-initial polar interrogative particle?,0,Wagner-Nagy 2019:379,,
-GB263,Is there a clause-final polar interrogative particle?,0,Wagner-Nagy 2019:379,,
-GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,0,Wagner-Nagy 2019:379,,
-GB265,"Is there a comparative construction that includes a form that elsewhere means ‘surpass, exceed’?",0,Wagner-Nagy 2019:390,,
-GB266,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Wagner-Nagy 2019:390,,GB266
-GB270,Can comparatives be expressed using two conjoined clauses?,0,Wagner-Nagy 2019:390,,
-GB273,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a ‘surpass/exceed’ meaning?,0,Wagner-Nagy 2019:390,,
-GB275,Is there a bound comparative degree marker on the property word in a comparative construction?,0,Wagner-Nagy 2019:390,,
-GB276,Is there a non-bound comparative degree marker modifying the property word in a comparative construction?,0,Wagner-Nagy 2019:390,,
-GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,Wagner-Nagy 2019:379,,
-GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,Wagner-Nagy 2019:379,,
-GB291,Can polar interrogation be marked by tone?,0,Wagner-Nagy 2019:379,,
-GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Wagner-Nagy 2019:in passim,,
-GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Wagner-Nagy 2019:379,,
-GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Wagner-Nagy 2019:405,,GB134
-GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2019:405-406,,
-GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Wagner-Nagy 2019:217,,
-GB301,Is there an inclusory construction?,0,Wagner-Nagy 2019:330,,
-GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Wagner-Nagy 2019:295,,
-GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Wagner-Nagy 2019,,
-GB304,Can the agent be expressed overtly in a passive clause?,1,Wagner-Nagy 2019:295,,GB304
-GB305,Is there a phonologically independent reflexive marker?,0,Wagner-Nagy 2019:304,,
-GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,0,Wagner-Nagy 2019:519,,
-GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Wagner-Nagy 2019:214-215,,
-GB312,Is there overt morphological marking on the verb dedicated to mood?,0,Wagner-Nagy 2019:214,,
-GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,Wagner-Nagy 2019:19,,
-GB314,Can augmentative meaning be expressed productively by a shift of noun class/gender?,0,Wagner-Nagy 2019:94,,
-GB315,Can diminutive meaning be expressed productively by a shift of noun class/gender?,0,Wagner-Nagy 2019:94,,
-GB316,Is singular number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2019:95,,
-GB317,Is dual number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2019:95,,
-GB318,Is plural number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2019:95,,
-GB319,Is trial number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2019:95,,
-GB320,Is paucal number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2019:95,,
-GB321,Is there a large class of nouns whose noun class/gender is not phonologically or semantically predictable?,0,Wagner-Nagy 2019:94,,
-GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Wagner-Nagy 2019:275,Direct evidentiality is unmarked.,
-GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",1,Wagner-Nagy 2019:275,,"GB117, GB323-1, GB323-2"
-GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Wagner-Nagy 2019:130,,
-GB325,Is there a count/mass distinction in interrogative quantifiers?,1,Wagner-Nagy 2019:137,"There are two interrogative quantifiers kanə 'how many, which' and kaŋkə 'which, how much'.",
-GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,1,Wagner-Nagy 2019:382,,GB326
-GB327,Can the relative clause follow the noun?,1,Wagner-Nagy 2019:452,,GB327
-GB328,Can the relative clause precede the noun?,1,Wagner-Nagy 2019:452,,GB328
-GB329,Are there internally-headed relative clauses?,0,Wagner-Nagy 2019:453,,
-GB330,Are there correlative relative clauses?,0,Wagner-Nagy 2019:453,,
-GB331,Are there non-adjacent relative clauses?,0,Wagner-Nagy 2019:453,,
-GB333,Is there a decimal numeral system?,1,Wagner-Nagy 2019:158,"Cardinal numerals are compounded in numbers 11 and above. Between 11 and 19 the structure of the numerals is ""10 + 1, 2 …"". Numerals ending in 0 are also compounded: 20 is 2 + 10 etc.",
-GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Wagner-Nagy 2019:158,,
-GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Wagner-Nagy 2019:158,,
-GB336,Is there a body-part tallying system?,0,Wagner-Nagy 2019:158,,
-GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Wagner-Nagy 2019,,
-GB401,Is there a class of patient-labile verbs?,0,Wagner-Nagy 2019:in passim,,
-GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Wagner-Nagy 2019:217,,
-GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Wagner-Nagy 2019:217,,
-GB408,Is there any accusative alignment of flagging?,1,Wagner-Nagy 2019:363,,GB328
-GB409,Is there any ergative alignment of flagging?,0,Wagner-Nagy 2019:363,,
-GB410,Is there any neutral alignment of flagging?,1,"Wagner-Nagy 2019:363, 374",The personal pronouns have the same form in the role of an object and subject. ,GB410
-GB415,Is there a politeness distinction in second person forms?,0,Wagner-Nagy 2019:106,,
-GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,0,Wagner-Nagy 2019:433,,
-GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Wagner-Nagy 2019:433,,
-GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Wagner-Nagy 2019:317,,
-GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Wagner-Nagy 2019:317,,
-GB432,Can adnominal possession be marked by a suffix on the possessor?,1,Wagner-Nagy 2019:317,,"GB065, GB432"
-GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,Wagner-Nagy 2019:317,,"GB025, GB027-2"
-GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,Wagner-Nagy 2019:240,,
-GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2019:222,,
-GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2019:233,,
-GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Wagner-Nagy 2019:106,,GB522
+GB020,Are there definite or specific articles?,0,Wagner-Nagy 2018:19,,
+GB021,Are there indefinite or non-specific articles?,0,Wagner-Nagy 2018:308,,
+GB022,Are there prenominal articles?,0,Wagner-Nagy 2018,,
+GB023,Are there postnominal articles?,0,Wagner-Nagy 2018,,
+GB024,What is the order of numeral and noun in the NP?,1,Wagner-Nagy 2018:158,,GB024
+GB025,What is the order of adnominal demonstrative and noun?,1,Wagner-Nagy 2018:127,,GB025
+GB026,Can adnominal property words occur discontinuously?,0,Wagner-Nagy 2018:96,,
+GB027,Are nominal conjunction and comitative expressed by different elements?,1,Wagner-Nagy 2018:326-327,,"GB027-1, GB027-2"
+GB028,Is there a distinction between inclusive and exclusive?,0,Wagner-Nagy 2018:in passim,,
+GB030,Is there a gender distinction in phonologically independent third person pronouns?,0,Wagner-Nagy 2018:106,,
+GB031,Is there a dual or unit augmented form (in addition to plural or augmented) for all person categories in the pronoun or person index system?,1,Wagner-Nagy 2018:106,,"GB031-1, GB031-2, GB031-3"
+GB035,Are there three or more distance contrasts in adnominal demonstratives?,0,Wagner-Nagy 2018:127,,
+GB036,Do adnominal demonstratives show an elevation distinction?,0,Wagner-Nagy 2018:127,,
+GB037,Do adnominal demonstratives show a visible-nonvisible distinction?,0,Wagner-Nagy 2018:127,,
+GB038,Are there demonstrative classifiers?,0,Wagner-Nagy 2018:127,,
+GB039,Is there nonphonological allomorphy of noun number markers?,0,Wagner-Nagy 2018:176,,
+GB041,Are there several nouns (more than three) which are suppletive for number?,0,Wagner-Nagy 2018:in passim,,
+GB042,Is there a productive overt morphological singular marker on nouns?,0,Wagner-Nagy 2018:95,,
+GB043,Is there a productive morphological dual marker on nouns?,1,Wagner-Nagy 2018:95,,GB043
+GB044,Is there a productive morphological plural marker on nouns?,1,Wagner-Nagy 2018:95,,GB024
+GB046,Is there an associative plural marker for nouns?,0,"Wagner-Nagy 2018:187,188",The PL marker can have associative reading in some contexts.,
+GB047,Is there a productive morphological pattern for deriving an action/state noun from a verb?,1,Wagner-Nagy 2018:513-514,,GB047
+GB048,Is there a productive morphological pattern for deriving an agent noun from a verb?,1,Wagner-Nagy 2018:516,,GB048
+GB049,Is there a productive morphological pattern for deriving an object noun from a verb?,1,Wagner-Nagy 2018:518,,GB049
+GB051,Is there a noun class/gender system where masculine and feminine categories are a factor in class assignment?,0,Wagner-Nagy 2018:94,No gender.,
+GB052,Is there a noun class/gender system where shape is a factor in class assignment?,0,Wagner-Nagy 2018:94,No gender.,
+GB053,Is there a noun class/gender system where animacy is a factor in class assignment?,0,Wagner-Nagy 2018:94,No gender.,
+GB054,Is there a noun class/gender system where plant status is a factor in class assignment?,0,Wagner-Nagy 2018:94,No gender.,
+GB057,Are there numeral classifiers?,0,Wagner-Nagy 2018:in passim,,
+GB058,Are there possessive classifiers?,0,Wagner-Nagy 2018:in passim,,
+GB059,Is the adnominal possessive construction different for alienable and inalienable nouns?,0,Wagner-Nagy 2018:317,,
+GB065,What is the pragmatically unmarked order of adnominal possessor and possessed noun?,1,Wagner-Nagy 2018:317,,GB065
+GB068,"Do property words (defined semantically as property concepts such as value, shape, age, dimension) act like verbs in predicative position?",0,Wagner-Nagy 2018:97,,
+GB069,"Do adnominal property words (defined semantically as property concepts; value, shape, age, dimension) used attributively require the same morphological treatment as verbs?",0,Wagner-Nagy 2018:97,,
+GB070,"Are there morphological cases for non-pronominal core arguments (i.e. S, A or P)?",1,Wagner-Nagy 2018:191,,"GB204, GB070"
+GB071,"Are there morphological cases for phonologically independent personal pronominal core arguments (i.e. S, A or P)?",0,Wagner-Nagy 2018:107,NOM = ACC.,
+GB072,"Are there morphological cases for oblique non-pronominal NPs (i.e. not S, A or P)?",1,Wagner-Nagy 2018:191,,"GB133, GB266, GB410"
+GB073,"Are there morphological cases for phonologically independent oblique personal pronouns (i.e. not S, A or P)?",1,Wagner-Nagy 2018:108,,"GB073-1, GB073-2"
+GB074,Are there prepositions?,0,Wagner-Nagy 2018:152,,
+GB075,Are there postpositions?,1,Wagner-Nagy 2018:152,,GB075
+GB079,"Do verbs have prefixes or proclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Wagner-Nagy 2018:509,No prefixes in the language.,
+GB080,"Do verbs have suffixes or enclitics other than S, A or P indexes (do include indexes that also mark TAM or negation)?",0,Wagner-Nagy 2018:214,,
+GB081,Is there productive infixation in verbs?,?,Wagner-Nagy 2018:504,"Infixiation mentioned, but no examples for verbs given.",
+GB082,Is there overt morphological marking of present tense on verbs?,0,Wagner-Nagy 2018:233,,
+GB083,Is there overt morphological marking on the verb dedicated to past tense?,1,Wagner-Nagy 2018:234,,GB083
+GB084,Is there overt morphological marking on the verb dedicated to future tense?,1,Wagner-Nagy 2018:234,,GB084
+GB086,Is a morphological distinction between perfective and imperfective aspect available on verbs?,1,Wagner-Nagy 2018:234,"Their aorist suffix will differ: for perfective verbs - -Ɂə, for imperfective - NTU.","GB086-1, GB086-2"
+GB089,Can the S argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2018:229,,GB027-1
+GB090,Can the S argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2018:229,,
+GB091,Can the A argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2018:229,,GB091
+GB092,Can the A argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2018:229,,
+GB093,Can the P argument be indexed by a suffix/enclitic on the verb in the simple independent clause?,1,Wagner-Nagy 2018:230,,GB093
+GB094,Can the P argument be indexed by a prefix/proclitic on the verb in the simple independent clause?,0,Wagner-Nagy 2018:230,,
+GB095,Are variations in marking strategies of core participants based on TAM distinctions?,0,Wagner-Nagy 2018:214,,
+GB096,Are variations in marking strategies of core participants based on verb classes?,0,Wagner-Nagy 2018:214,,
+GB098,Are variations in marking strategies of core participants based on person distinctions?,0,Wagner-Nagy 2018:214,,
+GB099,Is there verb suppletion for participant person?,0,Wagner-Nagy 2018:214,,
+GB103,Can a verb have a benefactive marker (applicative marker or index)?,0,Wagner-Nagy 2018:211,Destinative/benefactive is marked on the nouns or demonstrative pronouns in the beneficiary or destinative constructions.,
+GB104,Can a verb have an instrumental marker (applicative marker or index)?,0,Wagner-Nagy 2018:211,Instrumental marked on nouns.,
+GB105,Can the recipient in a ditransitive construction be marked like the transitive patient?,0,Wagner-Nagy 2018:395,,
+GB107,"Can standard negation be marked by an affix, clitic or modification of the verb?",0,Wagner-Nagy 2018:405,,
+GB108,Is there directional or locative morphological marking on verbs?,0,Wagner-Nagy 2018:211,"Destinative/benefactive, but no directional.",
+GB109,Is there verb suppletion for participant number?,0,Wagner-Nagy 2018:215,,
+GB110,Is there verb suppletion for tense or aspect?,0,Wagner-Nagy 2018:222,,
+GB111,Are there conjugation classes?,1,Wagner-Nagy 2018:225,,"GB086-2, GB091"
+GB113,Are there verbal affixes or clitics that turn intransitive verbs into transitive ones?,1,Wagner-Nagy 2018:304,,GB113
+GB114,Is there a phonologically bound reflexive marker on the verb?,0,Wagner-Nagy 2018:304,"Nganasan has a separate reflexive conjugation, i.e. no dedicated reflexive marker.",
+GB115,Is there a phonologically bound reciprocal marker on the verb?,1,Wagner-Nagy 2018:303,,GB115
+GB116,"Do verbs classify the shape, size or consistency of absolutive arguments by means of incorporated nouns, verbal affixes or suppletive verb stems?",0,Wagner-Nagy 2018:in passim,,
+GB117,Is there a copula for predicate nominals?,1,Wagner-Nagy 2018:356,,GB117
+GB118,Are there serial verb constructions?,0,Wagner-Nagy 2018:in passim,,
+GB119,Can mood be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2018:98,,
+GB120,Can aspect be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2018:98,,
+GB121,Can tense be marked by an inflecting word (‘auxiliary verb’)?,0,Wagner-Nagy 2018:98,,
+GB122,Is verb compounding a regular process?,0,Wagner-Nagy 2018:504,,
+GB123,Are there verb-adjunct (aka light-verb) constructions?,0,Wagner-Nagy 2018:in passim,,
+GB124,Is incorporation of nouns into verbs a productive intransitivizing process?,0,Wagner-Nagy 2018:304,,
+GB126,Is there an existential verb?,1,Wagner-Nagy 2018:354,,GB126
+GB127,Are different posture verbs used obligatorily depending on an inanimate locatum's shape or position (e.g. ‘to lie’ vs. ‘to stand’)?,0,Wagner-Nagy 2018:in passim,,
+GB129,Is there a notably small number of verb roots in the language?,0,Wagner-Nagy 2018,,
+GB130,What is the pragmatically unmarked order of S and V in intransitive clauses?,1,Wagner-Nagy 2018:289,,GB130
+GB131,Is a pragmatically unmarked constituent order verb-initial for transitive clauses?,0,Wagner-Nagy 2018:363,,
+GB132,Is a pragmatically unmarked constituent order verb-medial for transitive clauses?,0,Wagner-Nagy 2018:363,,
+GB133,Is a pragmatically unmarked constituent order verb-final for transitive clauses?,1,Wagner-Nagy 2018:363,,GB133
+GB134,Is the order of constituents the same in main and subordinate clauses?,1,Wagner-Nagy 2018:429,,GB134
+GB135,Do clausal objects usually occur in the same position as nominal objects?,0,Wagner-Nagy 2018:435-437,,
+GB136,"Is the order of core argument (i.e. S, A, and P) constituents fixed?",0,Wagner-Nagy 2018:363,,
+GB137,Can standard negation be marked clause-finally?,0,Wagner-Nagy 2018:405,,
+GB138,Can standard negation be marked clause-initially?,0,Wagner-Nagy 2018:405,,
+GB139,Is there a difference between imperative (prohibitive) and declarative negation constructions?,0,Wagner-Nagy 2018:412-413,,
+GB140,"Is verbal predication marked by the same negator as all of the following types of predication: locational, existential and nominal?",0,Wagner-Nagy 2018:406,,
+GB146,Is there a morpho-syntactic distinction between predicates expressing controlled versus uncontrolled events or states?,0,Wagner-Nagy 2018:in passim,,
+GB147,Is there a morphological passive marked on the lexical verb?,1,Wagner-Nagy 2018:100,,GB147
+GB148,Is there a morphological antipassive marked on the lexical verb?,0,Wagner-Nagy 2018:in passim,,
+GB149,Is there a morphologically marked inverse on verbs?,0,Wagner-Nagy 2018:in passim,,
+GB150,Is there clause chaining?,0,Wagner-Nagy 2018:in passim,,
+GB151,Is there an overt verb marker dedicated to signaling coreference or noncoreference between the subject of one clause and an argument of an adjacent clause (‘switch reference’)?,0,Wagner-Nagy 2018:in passim,,
+GB152,Is there a morphologically marked distinction between simultaneous and sequential clauses?,0,Wagner-Nagy 2018:in passim,,
+GB155,Are causatives formed by affixes or clitics on verbs?,1,Wagner-Nagy 2018:304,A transitive verb can be formed from an intrasitive verb with a transitive-causative suffixes -BTU and -RU.,"GB113, GB155"
+GB156,Is there a causative construction involving an element that is unmistakably grammaticalized from a verb for ‘to say’?,0,Wagner-Nagy 2018:304,,
+GB158,Are verbs reduplicated?,0,Wagner-Nagy 2018:504,,
+GB159,Are nouns reduplicated?,0,Wagner-Nagy 2018:504,,
+GB160,Are elements apart from verbs or nouns reduplicated?,0,Wagner-Nagy 2018:504,,
+GB165,Is there a productive morphological trial marker on nouns?,0,Wagner-Nagy 2018:94,,
+GB166,Is there a productive morphological paucal marker on nouns?,0,Wagner-Nagy 2018:94,,
+GB167,Is there a logophoric pronoun?,0,Wagner-Nagy 2018:in passim,,
+GB170,Can an adnominal property word agree with the noun in noun class/gender?,0,Wagner-Nagy 2018:94,No gender.,
+GB171,Can an adnominal demonstrative agree with the noun in noun class/gender?,0,Wagner-Nagy 2018:94,No gender.,
+GB172,Can an article agree with the noun in noun class/gender?,0,Wagner-Nagy 2018,No gender.,
+GB177,"Can the verb carry a marker of animacy of argument, unrelated to any noun class/gender of the argument visible in the NP domain?",0,Wagner-Nagy 2018:214,,
+GB184,Can an adnominal property word agree with the noun in number?,1,Wagner-Nagy 2018:97,,GB184
+GB185,Can an adnominal demonstrative agree with the noun in number?,0,Wagner-Nagy 2018:127,,
+GB186,Can an article agree with the noun in number?,0,Wagner-Nagy 2018,No articles.,
+GB187,Is there any productive diminutive marking on the noun (exclude marking by system of nominal classification only)?,1,Wagner-Nagy 2018:511,,GB187
+GB188,Is there any productive augmentative marking on the noun (exclude marking by system of nominal classification only)?,1,Wagner-Nagy 2018:509,,GB188
+GB192,Is there a noun class/gender system where a noun’s phonological properties are a factor in class assignment?,0,Wagner-Nagy 2018:94,No grammatical gender.,
+GB193,What is the order of adnominal property word and noun?,1,Wagner-Nagy 2018:308,,GB184
+GB196,Is there a masculine/feminine distinction in phonologically independent second person pronouns?,0,Wagner-Nagy 2018:106,,
+GB197,Is there a masculine/feminine distinction in phonologically independent first person pronouns?,0,Wagner-Nagy 2018:106,,
+GB198,Can an adnominal numeral agree with the noun in noun class/gender?,0,Wagner-Nagy 2018:94,,
+GB203,What is the order of the adnominal collective universal quantifier (‘all’) and the noun?,3,Wagner-Nagy 2018:315,,"GB203-1, GB203-2"
+GB204,Do collective (‘all’) and distributive (‘every’) universal quantifiers differ in their forms or their syntactic positions?,1,Wagner-Nagy 2018:315,"The quantifiers differ in form: bǝnsǝ 'all; whole', bǝńd'ika 'every; all of them'.","GB203-2, GB204"
+GB250,Can predicative possession be expressed with a transitive ‘habeo’ verb?,1,Wagner-Nagy 2018:360,,GB250
+GB252,Can predicative possession be expressed with an S-like possessum and a locative-coded possessor?,0,Wagner-Nagy 2018:359,,
+GB253,Can predicative possession be expressed with an S-like possessum and a dative-coded possessor?,0,Wagner-Nagy 2018:359,,
+GB254,Can predicative possession be expressed with an S-like possessum and a possessor that is coded like an adnominal possessor?,1,Wagner-Nagy 2018:359,,GB254
+GB256,Can predicative possession be expressed with a comitative/conjunctional construction?,0,Wagner-Nagy 2018:359,,
+GB257,Can polar interrogation be marked by intonation only?,1,Wagner-Nagy 2018:380,"Verbless interrogative sentences have a high-pitch intonation pattern, the tone peek being higher than that of an affirmative sentence.",
+GB260,Can polar interrogation be indicated by a special word order?,0,Wagner-Nagy 2018:379,,
+GB262,Is there a clause-initial polar interrogative particle?,0,Wagner-Nagy 2018:379,,
+GB263,Is there a clause-final polar interrogative particle?,0,Wagner-Nagy 2018:379,,
+GB264,Is there a polar interrogative particle that most commonly occurs neither clause-initially nor clause-finally?,0,Wagner-Nagy 2018:379,,
+GB265,"Is there a comparative construction that includes a form that elsewhere means ‘surpass, exceed’?",0,Wagner-Nagy 2018:390,,
+GB266,Is there a comparative construction that employs a marker of the standard which elsewhere has a locational meaning?,1,Wagner-Nagy 2018:390,,GB266
+GB270,Can comparatives be expressed using two conjoined clauses?,0,Wagner-Nagy 2018:390,,
+GB273,Is there a comparative construction with a standard marker that elsewhere has neither a locational meaning nor a ‘surpass/exceed’ meaning?,0,Wagner-Nagy 2018:390,,
+GB275,Is there a bound comparative degree marker on the property word in a comparative construction?,0,Wagner-Nagy 2018:390,,
+GB276,Is there a non-bound comparative degree marker modifying the property word in a comparative construction?,0,Wagner-Nagy 2018:390,,
+GB285,Can polar interrogation be marked by a question particle and verbal morphology?,0,Wagner-Nagy 2018:379,,
+GB286,Can polar interrogation be indicated by overt verbal morphology only?,0,Wagner-Nagy 2018:379,,
+GB291,Can polar interrogation be marked by tone?,0,Wagner-Nagy 2018:379,,
+GB296,Is there a phonologically or morphosyntactically definable class of ideophones that includes ideophones depicting imagery beyond sound?,0,Wagner-Nagy 2018:in passim,,
+GB297,Can polar interrogation be indicated by a V-not-V construction?,0,Wagner-Nagy 2018:379,,
+GB298,Can standard negation be marked by an inflecting word (‘auxiliary verb’)?,1,Wagner-Nagy 2018:405,,GB134
+GB299,Can standard negation be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2018:405-406,,
+GB300,Does the verb for ‘give’ have suppletive verb forms?,0,Wagner-Nagy 2018:217,,
+GB301,Is there an inclusory construction?,0,Wagner-Nagy 2018:330,,
+GB302,Is there a phonologically free passive marker (‘particle’ or ‘auxiliary’)?,0,Wagner-Nagy 2018:295,,
+GB303,Is there a phonologically free antipassive marker (‘particle’ or ‘auxiliary’)?,0,Wagner-Nagy 2018,,
+GB304,Can the agent be expressed overtly in a passive clause?,1,Wagner-Nagy 2018:295,,GB304
+GB305,Is there a phonologically independent reflexive marker?,0,Wagner-Nagy 2018:304,,
+GB306,Is there a phonologically independent reciprocal marker that does not consist of two quantifiers (e.g. each + other; two + two)?,0,Wagner-Nagy 2018:519,,
+GB309,"Are there multiple past or multiple future tenses, distinguishing distance from Time of Reference?",0,Wagner-Nagy 2018:214-215,,
+GB312,Is there overt morphological marking on the verb dedicated to mood?,0,Wagner-Nagy 2018:214,,
+GB313,Are there special adnominal possessive pronouns that are not formed by an otherwise regular process?,0,Wagner-Nagy 2018:19,,
+GB314,Can augmentative meaning be expressed productively by a shift of noun class/gender?,0,Wagner-Nagy 2018:94,,
+GB315,Can diminutive meaning be expressed productively by a shift of noun class/gender?,0,Wagner-Nagy 2018:94,,
+GB316,Is singular number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2018:95,,
+GB317,Is dual number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2018:95,,
+GB318,Is plural number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2018:95,,
+GB319,Is trial number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2018:95,,
+GB320,Is paucal number regularly marked in the noun phrase by a phonologically free element?,0,Wagner-Nagy 2018:95,,
+GB321,Is there a large class of nouns whose noun class/gender is not phonologically or semantically predictable?,0,Wagner-Nagy 2018:94,,
+GB322,Is there grammatical marking of direct evidence (perceived with the senses)?,0,Wagner-Nagy 2018:275,Direct evidentiality is unmarked.,
+GB323,"Is there grammatical marking of indirect evidence (hearsay, inference, etc.)?",1,Wagner-Nagy 2018:275,,"GB117, GB323-1, GB323-2"
+GB324,"Is there an interrogative verb for content interrogatives (who?, what?, etc.)?",0,Wagner-Nagy 2018:130,,
+GB325,Is there a count/mass distinction in interrogative quantifiers?,1,Wagner-Nagy 2018:137,"There are two interrogative quantifiers kanə 'how many, which' and kaŋkə 'which, how much'.",
+GB326,Do (nominal) content interrogatives normally or frequently occur in situ?,1,Wagner-Nagy 2018:382,,GB326
+GB327,Can the relative clause follow the noun?,1,Wagner-Nagy 2018:452,,GB327
+GB328,Can the relative clause precede the noun?,1,Wagner-Nagy 2018:452,,GB328
+GB329,Are there internally-headed relative clauses?,0,Wagner-Nagy 2018:453,,
+GB330,Are there correlative relative clauses?,0,Wagner-Nagy 2018:453,,
+GB331,Are there non-adjacent relative clauses?,0,Wagner-Nagy 2018:453,,
+GB333,Is there a decimal numeral system?,1,Wagner-Nagy 2018:158,"Cardinal numerals are compounded in numbers 11 and above. Between 11 and 19 the structure of the numerals is ""10 + 1, 2 …"". Numerals ending in 0 are also compounded: 20 is 2 + 10 etc.",
+GB334,Is there synchronic evidence for any element of a quinary numeral system?,0,Wagner-Nagy 2018:158,,
+GB335,Is there synchronic evidence for any element of a vigesimal numeral system?,0,Wagner-Nagy 2018:158,,
+GB336,Is there a body-part tallying system?,0,Wagner-Nagy 2018:158,,
+GB400,"Are all person categories neutralized in some voice, tense, aspect, mood and/or negation?",0,Wagner-Nagy 2018,,
+GB401,Is there a class of patient-labile verbs?,0,Wagner-Nagy 2018:in passim,,
+GB402,Does the verb for ‘see’ have suppletive verb forms?,0,Wagner-Nagy 2018:217,,
+GB403,Does the verb for ‘come’ have suppletive verb forms?,0,Wagner-Nagy 2018:217,,
+GB408,Is there any accusative alignment of flagging?,1,Wagner-Nagy 2018:363,,GB328
+GB409,Is there any ergative alignment of flagging?,0,Wagner-Nagy 2018:363,,
+GB410,Is there any neutral alignment of flagging?,1,"Wagner-Nagy 2018:363, 374",The personal pronouns have the same form in the role of an object and subject. ,GB410
+GB415,Is there a politeness distinction in second person forms?,0,Wagner-Nagy 2018:106,,
+GB421,Is there a preposed complementizer for complements of verbs of thinking and/or knowing?,0,Wagner-Nagy 2018:433,,
+GB422,Is there a postposed complementizer for complements of verbs of thinking and/or knowing?,0,Wagner-Nagy 2018:433,,
+GB430,Can adnominal possession be marked by a prefix on the possessor?,0,Wagner-Nagy 2018:317,,
+GB431,Can adnominal possession be marked by a prefix on the possessed noun?,0,Wagner-Nagy 2018:317,,
+GB432,Can adnominal possession be marked by a suffix on the possessor?,1,Wagner-Nagy 2018:317,,"GB065, GB432"
+GB433,Can adnominal possession be marked by a suffix on the possessed noun?,1,Wagner-Nagy 2018:317,,"GB025, GB027-2"
+GB519,Can mood be marked by a non-inflecting word ('auxiliary particle')?,0,Wagner-Nagy 2018:240,,
+GB520,Can aspect be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2018:222,,
+GB521,Can tense be marked by a non-inflecting word (‘auxiliary particle’)?,0,Wagner-Nagy 2018:233,,
+GB522,Can the S or A argument be omitted from a pragmatically unmarked clause when the referent is inferable from context ('pro-drop')?,1,Wagner-Nagy 2018:106,,GB522
