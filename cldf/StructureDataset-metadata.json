@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "5522166",
+            "dc:created": "784bd50",
             "dc:title": "Repository"
         },
         {
@@ -353,7 +353,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 5418,
+            "dc:extent": 5421,
             "tableSchema": {
                 "columns": [
                     {
