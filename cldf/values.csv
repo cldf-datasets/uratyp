@@ -3180,7 +3180,7 @@ Hungarian-UT001,24,UT001,0,UT001-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-UT002,24,UT002,0,UT002-0,,"kenesei_hungarian_1998[321, 327-328]",,
 Hungarian-UT003,24,UT003,0,UT003-0,,kenesei_hungarian_1998[321],,
 Hungarian-UT004,24,UT004,0,UT004-0,,kenesei_hungarian_1998[92],,
-Hungarian-UT005,24,UT005,1,UT005-1,,rounds_hungarian:_2001[164],,1 131 222 306 396 484 825 926 1036 1335 1535 1620 1909 2217 2396 3082 3180 3275
+Hungarian-UT005,24,UT005,1,UT005-1,,rounds_hungarian_2001[164],,1 131 222 306 396 484 825 926 1036 1335 1535 1620 1909 2217 2396 3082 3180 3275
 Hungarian-UT006,24,UT006,0,UT006-0,,kenesei_hungarian_1998[195-197],,
 Hungarian-UT008,24,UT008,0,UT008-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-UT009,24,UT009,0,UT009-0,,kenesei_hungarian_1998[in passim],,
@@ -3220,7 +3220,7 @@ Hungarian-UT045,24,UT045,0,UT045-0,,kenesei_hungarian_1998[62],,
 Hungarian-UT202,24,UT202,1,UT202-1,,kenesei_hungarian_1998[62],,154 243 320 508 599 742 841 942 1054 1141 1222 1353 1451 1560 1646 1723 1819 1938 2014 2085 2160 2240 2327 2415 2522 2609 2694 2826 3016 3106 3205 3298
 Hungarian-UT047,24,UT047,0,UT047-0,There are locative constructions without copula: Előtte az élet ‘Life is before him/her.’ (Kenesei et al. 1998: 186).,kenesei_hungarian_1998[61],,
 Hungarian-UT048,24,UT048,1,UT048-1,,kenesei_hungarian_1998[102-109],,21 22 155 156 244 245 509 510 600 601 744 745 842 843 943 944 1056 1057 1143 1144 1223 1224 1355 1356 1647 1648 1821 1822 2086 2087 2241 2242 2328 2329 2416 2417 2523 2524 2611 2612 2696 2697 2829 2830 3017 3018 3206 3207
-Hungarian-UT049,24,UT049,1,UT049-1,"To compare, standard negation is expressed using ""nem"": Nem megyek haza (NEG go-PRS.1SG home) 'I do not go home'.",kenesei_hungarian_1998[114];rounds_hungarian:_2001[271],,321 432 845 1058 1145 1358 1453 2016 2162 2698 2951 3108
+Hungarian-UT049,24,UT049,1,UT049-1,"To compare, standard negation is expressed using ""nem"": Nem megyek haza (NEG go-PRS.1SG home) 'I do not go home'.",kenesei_hungarian_1998[114];rounds_hungarian_2001[271],,321 432 845 1058 1145 1358 1453 2016 2162 2698 2951 3108
 Hungarian-UT050,24,UT050,0,UT050-0,,kenesei_hungarian_1998[112-119],,
 Hungarian-UT051,24,UT051,1,UT051-1,,"kenesei_hungarian_1998[112-119, 234]",,846 847
 Hungarian-UT052,24,UT052,0,UT052-0,,kenesei_hungarian_1998[in passim],,
@@ -3420,7 +3420,7 @@ Hungarian-GB132,24,GB132,1,GB132-1,,bakro-nagy_hungarian_2022[647];havas_basic_2
 Hungarian-GB133,24,GB133,1,GB133-1,,kiss_syntax_2002[1-7];havas_basic_2015,,3404 3862 4019 4367 4559 4812 4945 5192 5259
 Hungarian-GB134,24,GB134,1,GB134-1,,kenesei_hungarian_1998[28],,3405 3466 3529 3665 3731 3793 3863 4020 4088 4167 4302 4501 4560 4606 4753 4872 4946 5042 5118 5193 5314
 Hungarian-GB135,24,GB135,1,GB135-1,,kenesei_hungarian_1998[28-29];bakro-nagy_hungarian_2022[654],,
-Hungarian-GB136,24,GB136,0,GB136-0,,rounds_hungarian:_2001[258-259],,
+Hungarian-GB136,24,GB136,0,GB136-0,,rounds_hungarian_2001[258-259],,
 Hungarian-GB137,24,GB137,0,GB137-0,,kenesei_hungarian_1998[112],,
 Hungarian-GB138,24,GB138,0,GB138-0,,kenesei_hungarian_1998[112],,
 Hungarian-GB139,24,GB139,1,GB139-1,,"kenesei_hungarian_1998[22, 112-114]",,3408 3409 3469 3470 3532 3533 3607 3608 3668 3669 3864 3865 3945 3946 4022 4090 4091 4169 4170 4241 4242 4306 4307 4370 4371 4505 4506 4609 4610 4685 4686 4757 4758 4813 4814 4875 4876 4950 4951 5045 5046 5195 5196 5263 5264 5317 5318 5385 5386
@@ -3446,7 +3446,7 @@ Hungarian-GB172,24,GB172,0,GB172-0,,kenesei_hungarian_1998[256],,
 Hungarian-GB177,24,GB177,0,GB177-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-GB184,24,GB184,0,GB184-0,,kenesei_hungarian_1998[59],,
 Hungarian-GB185,24,GB185,1,GB185-1,,kenesei_hungarian_1998[95-96],,3613 3675 3870 3954 4309 4377 4444 4693 4763 4960 5122 5268 5325 5392
-Hungarian-GB186,24,GB186,0,GB186-0,,rounds_hungarian:_2001[82-83],,
+Hungarian-GB186,24,GB186,0,GB186-0,,rounds_hungarian_2001[82-83],,
 Hungarian-GB187,24,GB187,1,GB187-1,,kenesei_hungarian_1998[353],,3871 3872 3873 4100 4101 4310 4311 4312 4618 4619 4620 4961 4962 5057 5058
 Hungarian-GB188,24,GB188,0,GB188-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-GB192,24,GB192,0,GB192-0,,kenesei_hungarian_1998[256],,
@@ -3455,20 +3455,20 @@ Hungarian-GB196,24,GB196,0,GB196-0,,kenesei_hungarian_1998[260-261],,
 Hungarian-GB197,24,GB197,0,GB197-0,,kenesei_hungarian_1998[260-261],,
 Hungarian-GB198,24,GB198,0,GB198-0,,kenesei_hungarian_1998[256],,
 Hungarian-GB203,24,GB203,1,GB203-1,,kenesei_hungarian_1998[346],,3420 3482 3544 3616 3678 3746 3803 3875 3957 4030 4106 4179 4314 4380 4446 4622 4696 4766 4822 4964 5061 5209 5271 5328
-Hungarian-GB204,24,GB204,1,GB204-1,,"rounds_hungarian:_2001[73, 75];kenesei_hungarian_1998[229-230]",,3483 3484 3545 3546 3747 3748 3876 3877 3958 3959 4107 4108 4180 4181 4251 4252 4315 4316 4513 4514 4623 4624 4697 4698 4767 4768 4823 4824 4889 4890 5062 5063 5125 5126 5210 5211 5329 5330 5396
-Hungarian-GB250,24,GB250,0,GB250-0,,rounds_hungarian:_2001[272],,
+Hungarian-GB204,24,GB204,1,GB204-1,,"rounds_hungarian_2001[73, 75];kenesei_hungarian_1998[229-230]",,3483 3484 3545 3546 3747 3748 3876 3877 3958 3959 4107 4108 4180 4181 4251 4252 4315 4316 4513 4514 4623 4624 4697 4698 4767 4768 4823 4824 4889 4890 5062 5063 5125 5126 5210 5211 5329 5330 5396
+Hungarian-GB250,24,GB250,0,GB250-0,,rounds_hungarian_2001[272],,
 Hungarian-GB252,24,GB252,0,GB252-0,,bakro-nagy_hungarian_2022[650],,
 Hungarian-GB253,24,GB253,1,GB253-1,,bakro-nagy_hungarian_2022[650],,3878 3879
 Hungarian-GB254,24,GB254,0,GB254-0,,bakro-nagy_hungarian_2022[650],,
-Hungarian-GB256,24,GB256,0,GB256-0,,rounds_hungarian:_2001[140-154],,
+Hungarian-GB256,24,GB256,0,GB256-0,,rounds_hungarian_2001[140-154],,
 Hungarian-GB257,24,GB257,1,GB257-1,,korchmaros_valeria_lepesenkent_2009[249-252];bakro-nagy_hungarian_2022[650],,3423 3486 3548 3682 3880 4110 4183 4318 4449 4516 4892 4968 5066 5272 5398
 Hungarian-GB260,24,GB260,0,GB260-0,,kenesei_hungarian_1998[2],,
 Hungarian-GB262,24,GB262,0,GB262-0,,kenesei_hungarian_1998[2-3],,
 Hungarian-GB263,24,GB263,0,GB263-0,,kenesei_hungarian_1998[2-3],,
 Hungarian-GB264,24,GB264,0,GB264-0,,kenesei_hungarian_1998[2-5];bakro-nagy_hungarian_2022[650],,
-Hungarian-GB265,24,GB265,0,GB265-0,,rounds_hungarian:_2001[172-176],,
+Hungarian-GB265,24,GB265,0,GB265-0,,rounds_hungarian_2001[172-176],,
 Hungarian-GB266,24,GB266,1,GB266-1,,kenesei_hungarian_1998[363-364],,3551 3686 3806 3882 3961 4033 4256 4386 4571 4700 4772 4896 4972 5128 5335 5402
-Hungarian-GB270,24,GB270,0,GB270-0,,rounds_hungarian:_2001[172-176],,
+Hungarian-GB270,24,GB270,0,GB270-0,,rounds_hungarian_2001[172-176],,
 Hungarian-GB273,24,GB273,1,GB273-1,,kenesei_hungarian_1998[5-6],,3425 3488 3552 3687 3752 3807 3883 4113 4185 4257 4320 4387 4630 4897 4973 5217 5274 5336 5403
 Hungarian-GB275,24,GB275,1,GB275-1,,kenesei_hungarian_1998[332-335],,3489 3553 3753 3808 3884 3964 4034 4114 4186 4321 4388 4631 4703 4773 4827 4898 5218
 Hungarian-GB276,24,GB276,0,GB276-0,,kenesei_hungarian_1998[332-335],,
@@ -3517,7 +3517,7 @@ Hungarian-GB402,24,GB402,0,GB402-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-GB403,24,GB403,0,GB403-0,,kenesei_hungarian_1998[in passim],,
 Hungarian-GB408,24,GB408,1,GB408-1,,kenesei_hungarian_1998[197],,3435 3496 3568 3763 3819 3899 4043 4127 4199 4717 4781 4837 4985 5228 5279 5416
 Hungarian-GB409,24,GB409,0,GB409-0,,kenesei_hungarian_1998[195],,
-Hungarian-GB410,24,GB410,1,GB410-1,,rounds_hungarian:_2001[152],,3900 3901
+Hungarian-GB410,24,GB410,1,GB410-1,,rounds_hungarian_2001[152],,3900 3901
 Hungarian-GB415,24,GB415,1,GB415-1,,kenesei_hungarian_1998[266-267],,3902 3903 4271 4272 4461 4462 5417 5418
 Hungarian-GB421,24,GB421,1,GB421-1,,kenesei_hungarian_1998[27-28],,3436 3571 3701 3765 3820 3904 4128 4273 4643 4718 4782 4907 4987 5085 5230 5419
 Hungarian-GB422,24,GB422,0,GB422-0,,"kenesei_hungarian_1998[118-119, 126]",,
@@ -7218,123 +7218,123 @@ Moksha-GB520,21,GB520,0,GB520-0,,bartens_mordvalaiskielten_1999[127-131],,
 Moksha-GB521,21,GB521,0,GB521-0,,bartens_mordvalaiskielten_1999[127-131],,
 Moksha-GB522,21,GB522,1,GB522-1,,bartens_mordvalaiskielten_1999[112],,3439 3499 3574 3768 3823 3907 4047 4131 4203 4276 4330 4397 4465 4531 4580 4720 4783 4841 4910 4989 5145 5236 5280 5353 5421
 Nganasan-UT001,33,UT001,1,UT001-1,"There is an agreement with the logical subject. In the comitative construction the agreement is dual (plural), however a few instances of singular, the verb is always in dual if the subject in a pronoun in dual. If there are two grammatical subjects (such as my mother and my father) in a sentence, the predicate is in the dual. This expresses that the two subjects act together. After quantifiers such as ŋukəgəə ‘many, much’, bǝnsǝ ‘all’ or numerals, the predicate agrees formally with the subject, i.e. it appears in the singular.",,Beáta Wagner-Nagy (p.c. 2020),
-Nganasan-UT002,33,UT002,0,UT002-0,The predicate agrees in person and number with the subject.,wagner-nagy_grammar_2019[369],,
+Nganasan-UT002,33,UT002,0,UT002-0,The predicate agrees in person and number with the subject.,wagner-nagy_grammar_2018[369],,
 Nganasan-UT003,33,UT003,1,UT003-1,"Verbs in the objective conjugation agree with the object in number, the ending depends on the number. The verbal marker for object in dual is complex, it contains the dual marker.",,Beáta Wagner-Nagy (p.c. 2020),394 395 1127 1128 1907 1908 1993 1994 2681 2682
 Nganasan-UT004,33,UT004,1,UT004-1,"Only the declination of three grammatical cases (nominative, accusative, genitive) can appear on adjectives. In all other cases, the pre-modifier is in the genitive case.",,Beáta Wagner-Nagy (p.c. 2020),1995 1996
 Nganasan-UT005,33,UT005,1,UT005-1,In all locative cases.,,Beáta Wagner-Nagy (p.c. 2020),
 Nganasan-UT006,33,UT006,0,UT006-0,,bakro-nagy_nganasan_2022[761-762],,
-Nganasan-UT008,33,UT008,1,UT008-1,The subject of the temporal clause may be appear in the genitive.,wagner-nagy_grammar_2019[437-438],,398 485 577 672 717 1037 1336 1433 1536 1621 1794 1912 1997 2062 2683 2934 2995 3083 3181 3276
+Nganasan-UT008,33,UT008,1,UT008-1,The subject of the temporal clause may be appear in the genitive.,wagner-nagy_grammar_2018[437-438],,398 485 577 672 717 1037 1336 1433 1536 1621 1794 1912 1997 2062 2683 2934 2995 3083 3181 3276
 Nganasan-UT009,33,UT009,0,UT009-0,,bakro-nagy_nganasan_2022[in passim],,
-Nganasan-UT010,33,UT010,0,UT010-0,,wagner-nagy_grammar_2019[195],,
+Nganasan-UT010,33,UT010,0,UT010-0,,wagner-nagy_grammar_2018[195],,
 Nganasan-UT011,33,UT011,0,UT011-0,,,Beáta Wagner-Nagy (p.c. 2020),
 Nganasan-UT012,33,UT012,1,UT012-1,With imperative forms the nominative is used.,bakro-nagy_nganasan_2022[772],,1040 1998 2935
-Nganasan-UT013,33,UT013,0,UT013-0,"In the active sentence, the over subject is always expressed with the nominative case.",wagner-nagy_grammar_2019[193],,
-Nganasan-UT014,33,UT014,1,UT014-1,,wagner-nagy_grammar_2019[364],,
-Nganasan-UT015,33,UT015,0,UT015-0,,wagner-nagy_grammar_2019[364],,
-Nganasan-UT016,33,UT016,1,UT016-1,The suffix -mUNHA shows that a situation takes place reguraly.,wagner-nagy_grammar_2019[534-535],,673 1342 1439 1917 1999 2152 2809 2936 3087
-Nganasan-UT017,33,UT017,1,UT017-1,,wagner-nagy_grammar_2019[534],,139 310 407 493 674 827 1042 1132 1343 1440 1709 1918 2000 2070 2153 2508 2810 3088 3189 3284
-Nganasan-UT018,33,UT018,0,UT018-0,"However, the imperfective verbs in the aorist tense refer to the present tense and thus express progressivity.",wagner-nagy_grammar_2019[233],,
-Nganasan-UT019,33,UT019,0,UT019-0,,wagner-nagy_grammar_2019[233],,
+Nganasan-UT013,33,UT013,0,UT013-0,"In the active sentence, the over subject is always expressed with the nominative case.",wagner-nagy_grammar_2018[193],,
+Nganasan-UT014,33,UT014,1,UT014-1,,wagner-nagy_grammar_2018[364],,
+Nganasan-UT015,33,UT015,0,UT015-0,,wagner-nagy_grammar_2018[364],,
+Nganasan-UT016,33,UT016,1,UT016-1,The suffix -mUNHA shows that a situation takes place reguraly.,wagner-nagy_grammar_2018[534-535],,673 1342 1439 1917 1999 2152 2809 2936 3087
+Nganasan-UT017,33,UT017,1,UT017-1,,wagner-nagy_grammar_2018[534],,139 310 407 493 674 827 1042 1132 1343 1440 1709 1918 2000 2070 2153 2508 2810 3088 3189 3284
+Nganasan-UT018,33,UT018,0,UT018-0,"However, the imperfective verbs in the aorist tense refer to the present tense and thus express progressivity.",wagner-nagy_grammar_2018[233],,
+Nganasan-UT019,33,UT019,0,UT019-0,,wagner-nagy_grammar_2018[233],,
 Nganasan-UT020,33,UT020,1,UT020-1,The resultative is used to indicate that an action will start immediately.,bakro-nagy_nganasan_2022[767],,142 496 589 933 1210 1548 1632 2001 2074 2227 2511 3191
 Nganasan-UT021,33,UT021,1,UT021-1,,bakro-nagy_nganasan_2022[766],,11 143 231 497 590 675 934 1044 1211 1346 1443 1549 1633 1712 2002 2075 2228 2322 2404 2512 2604 2813 2939 3091 3192 3289
 Nganasan-UT022,33,UT022,1,UT022-1,,,Beáta Wagner-Nagy (p.c. 2020),2003
 Nganasan-UT023,33,UT023,1,UT023-1,All tense markers can appear on the negative auxiliary.,,Beáta Wagner-Nagy (p.c. 2020),232 676 1045 1347 2004 2323 2940 3193
-Nganasan-UT024,33,UT024,1,UT024-1,The dubitative mood may be used to express surprise. There is also an exclamative clitic that has a mirative usage.,"wagner-nagy_grammar_2019[259, 540]",,
-Nganasan-UT025,33,UT025,1,UT025-1,"Optative may be used to express wishes or admonition. This mood is, however, rarely attested.",wagner-nagy_grammar_2019[246-247],,414 731 1047 1808 1925 2005
-Nganasan-UT026,33,UT026,1,UT026-1,,wagner-nagy_grammar_2019[255],,145 234 315 416 499 592 678 830 936 1214 1551 1636 1715 1927 2006 2077 2230 2406 2514 3008 3097 3195 3291
-Nganasan-UT027,33,UT027,1,UT027-1,,wagner-nagy_grammar_2019[256],,145 234 315 416 499 592 678 830 936 1214 1551 1636 1715 1927 2006 2077 2230 2406 2514 3008 3097 3195 3291
-Nganasan-UT028,33,UT028,1,UT028-1,"There is necessitive (or debitive mood), but it is only seldom used.",wagner-nagy_grammar_2019[256-257],,235 417 679 1928 2007 2672 2941 3098
-Nganasan-UT029,33,UT029,1,UT029-1,There is a speculative mood that is used to express speaker's assumptions.,wagner-nagy_grammar_2019[260-261],,593 734 937 1552 1637 1716 1811 2008 2078 2231 2324 2515 2818 2942 3009
-Nganasan-UT030,33,UT030,0,UT030-0,,wagner-nagy_grammar_2019[240-262],,
-Nganasan-UT031,33,UT031,1,UT031-1,,wagner-nagy_grammar_2019[246],,146 236 500 594 683 735 834 938 1049 1553 1638 1717 1812 2009 2079 2232 2409 2516 2943 3010 3196 3292
-Nganasan-UT032,33,UT032,1,UT032-1,,wagner-nagy_grammar_2019[242],,237 318 421 501 684 835 1050 1932 2010 2944 3099 3197
-Nganasan-UT033,33,UT033,0,UT033-0,,wagner-nagy_grammar_2019[435-437],,
-Nganasan-UT034,33,UT034,0,UT034-0,,wagner-nagy_grammar_2019[241],,
-Nganasan-UT035,33,UT035,1,UT035-1,,wagner-nagy_grammar_2019[225],,147 1554 1639 2011
-Nganasan-UT037,33,UT037,1,UT037-1,"Reflexive-medial conjugation shows the same person/number marking, e.g., ďeŋhiďi-Ɂi-ti is used for 2DU and 3DU (< ďembiɁsʲi 'to dress').",wagner-nagy_grammar_2019[233],,
+Nganasan-UT024,33,UT024,1,UT024-1,The dubitative mood may be used to express surprise. There is also an exclamative clitic that has a mirative usage.,"wagner-nagy_grammar_2018[259, 540]",,
+Nganasan-UT025,33,UT025,1,UT025-1,"Optative may be used to express wishes or admonition. This mood is, however, rarely attested.",wagner-nagy_grammar_2018[246-247],,414 731 1047 1808 1925 2005
+Nganasan-UT026,33,UT026,1,UT026-1,,wagner-nagy_grammar_2018[255],,145 234 315 416 499 592 678 830 936 1214 1551 1636 1715 1927 2006 2077 2230 2406 2514 3008 3097 3195 3291
+Nganasan-UT027,33,UT027,1,UT027-1,,wagner-nagy_grammar_2018[256],,145 234 315 416 499 592 678 830 936 1214 1551 1636 1715 1927 2006 2077 2230 2406 2514 3008 3097 3195 3291
+Nganasan-UT028,33,UT028,1,UT028-1,"There is necessitive (or debitive mood), but it is only seldom used.",wagner-nagy_grammar_2018[256-257],,235 417 679 1928 2007 2672 2941 3098
+Nganasan-UT029,33,UT029,1,UT029-1,There is a speculative mood that is used to express speaker's assumptions.,wagner-nagy_grammar_2018[260-261],,593 734 937 1552 1637 1716 1811 2008 2078 2231 2324 2515 2818 2942 3009
+Nganasan-UT030,33,UT030,0,UT030-0,,wagner-nagy_grammar_2018[240-262],,
+Nganasan-UT031,33,UT031,1,UT031-1,,wagner-nagy_grammar_2018[246],,146 236 500 594 683 735 834 938 1049 1553 1638 1717 1812 2009 2079 2232 2409 2516 2943 3010 3196 3292
+Nganasan-UT032,33,UT032,1,UT032-1,,wagner-nagy_grammar_2018[242],,237 318 421 501 684 835 1050 1932 2010 2944 3099 3197
+Nganasan-UT033,33,UT033,0,UT033-0,,wagner-nagy_grammar_2018[435-437],,
+Nganasan-UT034,33,UT034,0,UT034-0,,wagner-nagy_grammar_2018[241],,
+Nganasan-UT035,33,UT035,1,UT035-1,,wagner-nagy_grammar_2018[225],,147 1554 1639 2011
+Nganasan-UT037,33,UT037,1,UT037-1,"Reflexive-medial conjugation shows the same person/number marking, e.g., ďeŋhiďi-Ɂi-ti is used for 2DU and 3DU (< ďembiɁsʲi 'to dress').",wagner-nagy_grammar_2018[233],,
 Nganasan-UT200,33,UT200,0,UT200-0,Passive sentences are formed using a passive suffix or a passive participle.,bakro-nagy_nganasan_2022[769-770],,
-Nganasan-UT040,33,UT040,1,UT040-1,"In generic statement, normally the 2nd person possessive suffix is used as subject marker.",wagner-nagy_grammar_2019[434],,
-Nganasan-UT201,33,UT201,?,,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-UT043,33,UT043,1,UT043-1,Typically supine structures are used; the bare infinitive occurs with motion verbs.,wagner-nagy_grammar_2019[442-444],,18 151 319 427 505 596 839 1052 1138 1218 1351 1449 1557 1642 1720 1936 2012 2082 2157 2237 2411 2519 2691 3013 3104 3202 3295
-Nganasan-UT044,33,UT044,1,UT044-1,,wagner-nagy_grammar_2019[288],,152 241 428 506 597 685 741 840 940 1053 1219 1352 1450 1558 1721 1818 1937 2013 2083 2238 2325 2520 2608 2673 3014 3105 3203 3296
-Nganasan-UT045,33,UT045,0,UT045-0,,wagner-nagy_grammar_2019[347],,
-Nganasan-UT202,33,UT202,1,UT202-1,Tense and mood markers only appear on verbal categories.,wagner-nagy_grammar_2019[350],,154 243 320 508 599 742 841 942 1054 1141 1222 1353 1451 1560 1646 1723 1819 1938 2014 2085 2160 2240 2327 2415 2522 2609 2694 2826 3016 3106 3205 3298
-Nganasan-UT047,33,UT047,1,UT047-1,"If the pivot is expressed by a pronoun, copula is not obligatory.",wagner-nagy_grammar_2019[358],,20 431 743 1055 1142 1354 1452 1820 1939 2015 2161 2610 2695 2950 3107
-Nganasan-UT048,33,UT048,0,UT048-0,"Conjunctive coordinated clauses are usually juxtaposed without any coordinator. However, there are also some borrowed coordinators. The Russian coordinator is only used at the clause level.",wagner-nagy_grammar_2019[429],,
-Nganasan-UT049,33,UT049,1,UT049-1,,wagner-nagy_grammar_2019[414-415],,321 432 845 1058 1145 1358 1453 2016 2162 2698 2951 3108
-Nganasan-UT050,33,UT050,1,UT050-1,,wagner-nagy_grammar_2019[272],,511 602 1359 1454 1561 1649 1724 2017 2088 2243 2418 2525 2952 3208
-Nganasan-UT051,33,UT051,1,UT051-1,,wagner-nagy_grammar_2019[409],,248 433 1059 1146 1942 2018 2163 2699 2953
-Nganasan-UT052,33,UT052,0,UT052-0,,wagner-nagy_grammar_2019[409],,
-Nganasan-UT053,33,UT053,1,UT053-1,The abessive participle.,wagner-nagy_grammar_2019[266-267],,159 249 322 514 948 1060 1228 1457 1562 1650 1725 2019 2089 2164 2245 2419 2526 2674 2833 2954 3021 3113 3209 3302
-Nganasan-UT054,33,UT054,1,UT054-1,Passive structures can be formed from both transitive and intransitive verbs.,wagner-nagy_grammar_2019[295],,
-Nganasan-UT055,33,UT055,0,UT055-0,,wagner-nagy_grammar_2019[263-268],,
-Nganasan-UT056,33,UT056,1,UT056-1,,wagner-nagy_grammar_2019[263-268],,
-Nganasan-UT057,33,UT057,0,UT057-0,,wagner-nagy_grammar_2019[263-268],,
-Nganasan-UT058,33,UT058,1,UT058-1,The abessive participle refers to actions that have not yet occurred.,wagner-nagy_grammar_2019[266],,33 328 758 1366 1461 2020 2167 2249 2424 2839 2955 3116
-Nganasan-UT059,33,UT059,0,UT059-0,"However, the necessitative participle has also been treated as a future participle.",wagner-nagy_grammar_2019[263],,
-Nganasan-UT060,33,UT060,1,UT060-1,,wagner-nagy_grammar_2019[265],,438 608 761 1066 1148 1840 1946 2021 2168 2957 3118
-Nganasan-UT062,33,UT062,0,UT062-0,Participles show only partial agreement in case.,wagner-nagy_grammar_2019[263],,
+Nganasan-UT040,33,UT040,1,UT040-1,"In generic statement, normally the 2nd person possessive suffix is used as subject marker.",wagner-nagy_grammar_2018[434],,
+Nganasan-UT201,33,UT201,?,,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-UT043,33,UT043,1,UT043-1,Typically supine structures are used; the bare infinitive occurs with motion verbs.,wagner-nagy_grammar_2018[442-444],,18 151 319 427 505 596 839 1052 1138 1218 1351 1449 1557 1642 1720 1936 2012 2082 2157 2237 2411 2519 2691 3013 3104 3202 3295
+Nganasan-UT044,33,UT044,1,UT044-1,,wagner-nagy_grammar_2018[288],,152 241 428 506 597 685 741 840 940 1053 1219 1352 1450 1558 1721 1818 1937 2013 2083 2238 2325 2520 2608 2673 3014 3105 3203 3296
+Nganasan-UT045,33,UT045,0,UT045-0,,wagner-nagy_grammar_2018[347],,
+Nganasan-UT202,33,UT202,1,UT202-1,Tense and mood markers only appear on verbal categories.,wagner-nagy_grammar_2018[350],,154 243 320 508 599 742 841 942 1054 1141 1222 1353 1451 1560 1646 1723 1819 1938 2014 2085 2160 2240 2327 2415 2522 2609 2694 2826 3016 3106 3205 3298
+Nganasan-UT047,33,UT047,1,UT047-1,"If the pivot is expressed by a pronoun, copula is not obligatory.",wagner-nagy_grammar_2018[358],,20 431 743 1055 1142 1354 1452 1820 1939 2015 2161 2610 2695 2950 3107
+Nganasan-UT048,33,UT048,0,UT048-0,"Conjunctive coordinated clauses are usually juxtaposed without any coordinator. However, there are also some borrowed coordinators. The Russian coordinator is only used at the clause level.",wagner-nagy_grammar_2018[429],,
+Nganasan-UT049,33,UT049,1,UT049-1,,wagner-nagy_grammar_2018[414-415],,321 432 845 1058 1145 1358 1453 2016 2162 2698 2951 3108
+Nganasan-UT050,33,UT050,1,UT050-1,,wagner-nagy_grammar_2018[272],,511 602 1359 1454 1561 1649 1724 2017 2088 2243 2418 2525 2952 3208
+Nganasan-UT051,33,UT051,1,UT051-1,,wagner-nagy_grammar_2018[409],,248 433 1059 1146 1942 2018 2163 2699 2953
+Nganasan-UT052,33,UT052,0,UT052-0,,wagner-nagy_grammar_2018[409],,
+Nganasan-UT053,33,UT053,1,UT053-1,The abessive participle.,wagner-nagy_grammar_2018[266-267],,159 249 322 514 948 1060 1228 1457 1562 1650 1725 2019 2089 2164 2245 2419 2526 2674 2833 2954 3021 3113 3209 3302
+Nganasan-UT054,33,UT054,1,UT054-1,Passive structures can be formed from both transitive and intransitive verbs.,wagner-nagy_grammar_2018[295],,
+Nganasan-UT055,33,UT055,0,UT055-0,,wagner-nagy_grammar_2018[263-268],,
+Nganasan-UT056,33,UT056,1,UT056-1,,wagner-nagy_grammar_2018[263-268],,
+Nganasan-UT057,33,UT057,0,UT057-0,,wagner-nagy_grammar_2018[263-268],,
+Nganasan-UT058,33,UT058,1,UT058-1,The abessive participle refers to actions that have not yet occurred.,wagner-nagy_grammar_2018[266],,33 328 758 1366 1461 2020 2167 2249 2424 2839 2955 3116
+Nganasan-UT059,33,UT059,0,UT059-0,"However, the necessitative participle has also been treated as a future participle.",wagner-nagy_grammar_2018[263],,
+Nganasan-UT060,33,UT060,1,UT060-1,,wagner-nagy_grammar_2018[265],,438 608 761 1066 1148 1840 1946 2021 2168 2957 3118
+Nganasan-UT062,33,UT062,0,UT062-0,Participles show only partial agreement in case.,wagner-nagy_grammar_2018[263],,
 Nganasan-UT063,33,UT063,0,UT063-0,,bakro-nagy_nganasan_2022[770],,
-Nganasan-UT064,33,UT064,1,UT064-1,"However, there is a separate suffix to indicate professioals, e.g. basu-Ɂsʲi ‘professional hunter’.",wagner-nagy_grammar_2019[516],,763 1567 2022 2842 3307
+Nganasan-UT064,33,UT064,1,UT064-1,"However, there is a separate suffix to indicate professioals, e.g. basu-Ɂsʲi ‘professional hunter’.",wagner-nagy_grammar_2018[516],,763 1567 2022 2842 3307
 Nganasan-UT065,33,UT065,0,UT065-0,,bakro-nagy_nganasan_2022[769-770],,
-Nganasan-UT066,33,UT066,1,UT066-1,,wagner-nagy_grammar_2019[244-245],,690 764 1151 1468 1844 2023 2173 2712 2962 3126 3215
-Nganasan-UT067,33,UT067,0,UT067-0,"The negative verb must precede the main verb, e.g., ŋanuďətə ŋəmsu ŋuəi-kalʲi-Ɂ ńi-Ɂ mətu-Ɂ [ordinary meat one-CAR-ADV NEGAUX-IMP.2SG cut-CNG] ‘Don’t cut an ordinary meat!’",wagner-nagy_grammar_2019[388],,
-Nganasan-UT070,33,UT070,0,UT070-0,"However, there is a suffix that can be used in the attenuative meaning (i.e. to do something a bit).",wagner-nagy_grammar_2019[534],,
+Nganasan-UT066,33,UT066,1,UT066-1,,wagner-nagy_grammar_2018[244-245],,690 764 1151 1468 1844 2023 2173 2712 2962 3126 3215
+Nganasan-UT067,33,UT067,0,UT067-0,"The negative verb must precede the main verb, e.g., ŋanuďətə ŋəmsu ŋuəi-kalʲi-Ɂ ńi-Ɂ mətu-Ɂ [ordinary meat one-CAR-ADV NEGAUX-IMP.2SG cut-CNG] ‘Don’t cut an ordinary meat!’",wagner-nagy_grammar_2018[388],,
+Nganasan-UT070,33,UT070,0,UT070-0,"However, there is a suffix that can be used in the attenuative meaning (i.e. to do something a bit).",wagner-nagy_grammar_2018[534],,
 Nganasan-UT071,33,UT071,1,UT071-1,,,Beáta Wagner-Nagy (p.c. 2020),
 Nganasan-UT072,33,UT072,0,UT072-0,,,Beáta Wagner-Nagy (p.c. 2020),
-Nganasan-UT073,33,UT073,1,UT073-1,,wagner-nagy_grammar_2019[350],,169 261 333 526 616 691 858 956 1077 1152 1375 1472 1572 1660 1732 2024 2099 2177 2259 2332 2429 2538 2675 2963 3031 3129 3221 3313
-Nganasan-UT074,33,UT074,0,UT074-0,Analytic constructions are used.,wagner-nagy_grammar_2019[392],,
-Nganasan-UT075,33,UT075,1,UT075-1,,wagner-nagy_grammar_2019[152],,334 451 692 768 1078 1153 1248 1848 1956 2025 2178 2261 2431 2539 2964 3130
-Nganasan-UT076,33,UT076,1,UT076-1,"E.g., lative: ńi ‘onto’, locative: ńini, elative: ńitə, prolative: ńimənɨ.",wagner-nagy_grammar_2019[153],,
-Nganasan-UT077,33,UT077,0,UT077-0,,wagner-nagy_grammar_2019[193-201],,
-Nganasan-UT078,33,UT078,0,UT078-0,,wagner-nagy_grammar_2019[106],,
-Nganasan-UT079,33,UT079,0,UT079-0,,wagner-nagy_grammar_2019[158],,
-Nganasan-UT080,33,UT080,1,UT080-1,Plural or dual is rarely used.,wagner-nagy_grammar_2019[158],,49 172 625 694 1080 1251 1383 1480 2026 2180 2850 3033 3135 3317
-Nganasan-UT082,33,UT082,0,UT082-0,The lative is also used to express the recipient and the beneficiary.,wagner-nagy_grammar_2019[196-197],,
-Nganasan-UT083,33,UT083,0,UT083-0,,wagner-nagy_grammar_2019[191],,
-Nganasan-UT084,33,UT084,0,UT084-0,,wagner-nagy_grammar_2019[191],,
-Nganasan-UT085,33,UT085,1,UT085-1,Prolative is used to mark direction.,wagner-nagy_grammar_2019[200],,175 458 696 1388 1485 1577 1964 2027 2965 3139
-Nganasan-UT086,33,UT086,1,UT086-1,,wagner-nagy_grammar_2019[196],,51 176 266 339 459 533 627 697 777 873 965 1081 1160 1389 1486 1578 1668 1741 1856 1965 2028 2181 2264 2336 2435 2544 2736 2853 2966 3140 3320
-Nganasan-UT087,33,UT087,1,UT087-1,,wagner-nagy_grammar_2019[197],,177 267 340 460 534 628 698 778 874 1082 1161 1390 1487 1669 1742 1857 1966 2029 2182 2337 2545 2625 2737 2967 3141 3321
-Nganasan-UT088,33,UT088,1,UT088-1,,wagner-nagy_grammar_2019[199],,178 268 341 461 535 629 699 875 1083 1391 1488 1579 1670 1743 1967 2030 2108 2183 2338 2546 2626 2738 2968 3035 3142 3322
-Nganasan-UT089,33,UT089,0,UT089-0,,wagner-nagy_grammar_2019[196-200],,
-Nganasan-UT090,33,UT090,0,UT090-0,,wagner-nagy_grammar_2019[196-200],,
-Nganasan-UT091,33,UT091,0,UT091-0,,wagner-nagy_grammar_2019[191],,
-Nganasan-UT092,33,UT092,0,UT092-0,,wagner-nagy_grammar_2019[191],,
-Nganasan-UT093,33,UT093,1,UT093-1,The suffix has been recently developed from the lative postposition na.,wagner-nagy_grammar_2019[188-189],,632 968 1085 1396 1581 1675 2031 2110 2266 3323
-Nganasan-UT203,33,UT203,0,UT203-0,,wagner-nagy_grammar_2019[761-762],,
-Nganasan-UT095,33,UT095,0,UT095-0,,wagner-nagy_grammar_2019[188],,
-Nganasan-UT096,33,UT096,0,UT096-0,,wagner-nagy_grammar_2019[188],,
+Nganasan-UT073,33,UT073,1,UT073-1,,wagner-nagy_grammar_2018[350],,169 261 333 526 616 691 858 956 1077 1152 1375 1472 1572 1660 1732 2024 2099 2177 2259 2332 2429 2538 2675 2963 3031 3129 3221 3313
+Nganasan-UT074,33,UT074,0,UT074-0,Analytic constructions are used.,wagner-nagy_grammar_2018[392],,
+Nganasan-UT075,33,UT075,1,UT075-1,,wagner-nagy_grammar_2018[152],,334 451 692 768 1078 1153 1248 1848 1956 2025 2178 2261 2431 2539 2964 3130
+Nganasan-UT076,33,UT076,1,UT076-1,"E.g., lative: ńi ‘onto’, locative: ńini, elative: ńitə, prolative: ńimənɨ.",wagner-nagy_grammar_2018[153],,
+Nganasan-UT077,33,UT077,0,UT077-0,,wagner-nagy_grammar_2018[193-201],,
+Nganasan-UT078,33,UT078,0,UT078-0,,wagner-nagy_grammar_2018[106],,
+Nganasan-UT079,33,UT079,0,UT079-0,,wagner-nagy_grammar_2018[158],,
+Nganasan-UT080,33,UT080,1,UT080-1,Plural or dual is rarely used.,wagner-nagy_grammar_2018[158],,49 172 625 694 1080 1251 1383 1480 2026 2180 2850 3033 3135 3317
+Nganasan-UT082,33,UT082,0,UT082-0,The lative is also used to express the recipient and the beneficiary.,wagner-nagy_grammar_2018[196-197],,
+Nganasan-UT083,33,UT083,0,UT083-0,,wagner-nagy_grammar_2018[191],,
+Nganasan-UT084,33,UT084,0,UT084-0,,wagner-nagy_grammar_2018[191],,
+Nganasan-UT085,33,UT085,1,UT085-1,Prolative is used to mark direction.,wagner-nagy_grammar_2018[200],,175 458 696 1388 1485 1577 1964 2027 2965 3139
+Nganasan-UT086,33,UT086,1,UT086-1,,wagner-nagy_grammar_2018[196],,51 176 266 339 459 533 627 697 777 873 965 1081 1160 1389 1486 1578 1668 1741 1856 1965 2028 2181 2264 2336 2435 2544 2736 2853 2966 3140 3320
+Nganasan-UT087,33,UT087,1,UT087-1,,wagner-nagy_grammar_2018[197],,177 267 340 460 534 628 698 778 874 1082 1161 1390 1487 1669 1742 1857 1966 2029 2182 2337 2545 2625 2737 2967 3141 3321
+Nganasan-UT088,33,UT088,1,UT088-1,,wagner-nagy_grammar_2018[199],,178 268 341 461 535 629 699 875 1083 1391 1488 1579 1670 1743 1967 2030 2108 2183 2338 2546 2626 2738 2968 3035 3142 3322
+Nganasan-UT089,33,UT089,0,UT089-0,,wagner-nagy_grammar_2018[196-200],,
+Nganasan-UT090,33,UT090,0,UT090-0,,wagner-nagy_grammar_2018[196-200],,
+Nganasan-UT091,33,UT091,0,UT091-0,,wagner-nagy_grammar_2018[191],,
+Nganasan-UT092,33,UT092,0,UT092-0,,wagner-nagy_grammar_2018[191],,
+Nganasan-UT093,33,UT093,1,UT093-1,The suffix has been recently developed from the lative postposition na.,wagner-nagy_grammar_2018[188-189],,632 968 1085 1396 1581 1675 2031 2110 2266 3323
+Nganasan-UT203,33,UT203,0,UT203-0,,wagner-nagy_grammar_2018[761-762],,
+Nganasan-UT095,33,UT095,0,UT095-0,,wagner-nagy_grammar_2018[188],,
+Nganasan-UT096,33,UT096,0,UT096-0,,wagner-nagy_grammar_2018[188],,
 Nganasan-UT097,33,UT097,0,UT097-0,,bakro-nagy_nganasan_2022[761-763],,
-Nganasan-UT098,33,UT098,1,UT098-1,,wagner-nagy_grammar_2019[210],,702 2032 2969
-Nganasan-UT099,33,UT099,0,UT099-0,,wagner-nagy_grammar_2019[176],,
-Nganasan-UT100,33,UT100,0,UT100-0,"With paired body parts, dual is typically used. In modern texts also plural can be found.",wagner-nagy_grammar_2019[186],,
-Nganasan-UT101,33,UT101,1,UT101-1,"The non-pronominal possessor appears in the genitive case, whereas the pronominal possessor occurs in the nominative case (see also UT102).",wagner-nagy_grammar_2019[196],,2033
+Nganasan-UT098,33,UT098,1,UT098-1,,wagner-nagy_grammar_2018[210],,702 2032 2969
+Nganasan-UT099,33,UT099,0,UT099-0,,wagner-nagy_grammar_2018[176],,
+Nganasan-UT100,33,UT100,0,UT100-0,"With paired body parts, dual is typically used. In modern texts also plural can be found.",wagner-nagy_grammar_2018[186],,
+Nganasan-UT101,33,UT101,1,UT101-1,"The non-pronominal possessor appears in the genitive case, whereas the pronominal possessor occurs in the nominative case (see also UT102).",wagner-nagy_grammar_2018[196],,2033
 Nganasan-UT102,33,UT102,1,UT102-1,The nominative form is used with pronouns.,bakro-nagy_nganasan_2022[771],,345 705 887 1401 1498 2034 2189 2972 3149
-Nganasan-UT204,33,UT204,1,UT204-1,The possessive suffixes refer to the person and number of the possessor but also the number of the possessed.,wagner-nagy_grammar_2019[201],,
-Nganasan-UT104,33,UT104,1,UT104-1,The referential use of 2Sg possessive suffix may occur only when the marked NP occurs in the subject position (see also UT105).,wagner-nagy_grammar_2019[464-465],,709 1168 1402 1499 1861 2035 2975 3152
-Nganasan-UT105,33,UT105,1,UT105-1,Possessive suffixes can be used in the referential function that is similar to the definite article but it cannot be argued that the language has definite articles.,"wagner-nagy_grammar_2019[463, 209]",,466 710 782 1088 1169 1403 1500 1862 1972 2036 2193 2976 3153
-Nganasan-UT106,33,UT106,1,UT106-1,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent.",wagner-nagy_grammar_2019[122-123],,971 2037 2268 2443
-Nganasan-UT107,33,UT107,0,UT107-0,There are no relative pronouns.,wagner-nagy_grammar_2019[105],,
-Nganasan-UT108,33,UT108,0,UT108-0,There are no relative pronouns.,wagner-nagy_grammar_2019[105],,
-Nganasan-UT109,33,UT109,1,UT109-1,,wagner-nagy_grammar_2019[106-107],,185 274 467 713 890 972 1089 1267 1406 1678 1747 1973 2038 2115 2269 2345 2444 2554 3233 3329
-Nganasan-UT110,33,UT110,0,UT110-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-UT205,33,UT205,1,UT205-1,"In plural, the number marker and the case suffix are fused.",wagner-nagy_grammar_2019[94-95],,
-Nganasan-UT112,33,UT112,1,UT112-1,,wagner-nagy_grammar_2019[472-473],,
-Nganasan-UT113,33,UT113,1,UT113-1,,wagner-nagy_grammar_2019[472-473],,
-Nganasan-UT114,33,UT114,?,,,wagner-nagy_grammar_2019[471-503],,
-Nganasan-UT115,33,UT115,?,,,wagner-nagy_grammar_2019[488],,
+Nganasan-UT204,33,UT204,1,UT204-1,The possessive suffixes refer to the person and number of the possessor but also the number of the possessed.,wagner-nagy_grammar_2018[201],,
+Nganasan-UT104,33,UT104,1,UT104-1,The referential use of 2Sg possessive suffix may occur only when the marked NP occurs in the subject position (see also UT105).,wagner-nagy_grammar_2018[464-465],,709 1168 1402 1499 1861 2035 2975 3152
+Nganasan-UT105,33,UT105,1,UT105-1,Possessive suffixes can be used in the referential function that is similar to the definite article but it cannot be argued that the language has definite articles.,"wagner-nagy_grammar_2018[463, 209]",,466 710 782 1088 1169 1403 1500 1862 1972 2036 2193 2976 3153
+Nganasan-UT106,33,UT106,1,UT106-1,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent.",wagner-nagy_grammar_2018[122-123],,971 2037 2268 2443
+Nganasan-UT107,33,UT107,0,UT107-0,There are no relative pronouns.,wagner-nagy_grammar_2018[105],,
+Nganasan-UT108,33,UT108,0,UT108-0,There are no relative pronouns.,wagner-nagy_grammar_2018[105],,
+Nganasan-UT109,33,UT109,1,UT109-1,,wagner-nagy_grammar_2018[106-107],,185 274 467 713 890 972 1089 1267 1406 1678 1747 1973 2038 2115 2269 2345 2444 2554 3233 3329
+Nganasan-UT110,33,UT110,0,UT110-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-UT205,33,UT205,1,UT205-1,"In plural, the number marker and the case suffix are fused.",wagner-nagy_grammar_2018[94-95],,
+Nganasan-UT112,33,UT112,1,UT112-1,,wagner-nagy_grammar_2018[472-473],,
+Nganasan-UT113,33,UT113,1,UT113-1,,wagner-nagy_grammar_2018[472-473],,
+Nganasan-UT114,33,UT114,?,,,wagner-nagy_grammar_2018[471-503],,
+Nganasan-UT115,33,UT115,?,,,wagner-nagy_grammar_2018[488],,
 Nganasan-UT116,33,UT116,0,UT116-0,,klumpp_typology_2018;bakro-nagy_nganasan_2022[756-757],,
 Nganasan-UT117,33,UT117,1,UT117-1,There is a binary opposition regarding vowel length; phonologically long vowels constitute two syllables.,klumpp_typology_2018;bakro-nagy_nganasan_2022[756-757],,716 1281 2039
 Nganasan-UT118,33,UT118,0,UT118-0,,pajusalu_towards_2018,,
 Nganasan-UT119,33,UT119,0,UT119-0,,klumpp_typology_2018,,
 Nganasan-UT120,33,UT120,0,UT120-0,,pajusalu_towards_2018,,
-Nganasan-UT121,33,UT121,0,UT121-0,The maximal syllable is CV͡VC; any vowel or diphtong can appear in the nucleus position.,wagner-nagy_grammar_2019[63];bakro-nagy_nganasan_2022[757],,
+Nganasan-UT121,33,UT121,0,UT121-0,The maximal syllable is CV͡VC; any vowel or diphtong can appear in the nucleus position.,wagner-nagy_grammar_2018[63];bakro-nagy_nganasan_2022[757],,
 Nganasan-UT122,33,UT122,1,UT122-1,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[760],,
 Nganasan-UT123,33,UT123,1,UT123-1,,klumpp_typology_2018,,
 Nganasan-UT124,33,UT124,0,UT124-0,,bakro-nagy_nganasan_2022[760],,
 Nganasan-UT125,33,UT125,1,UT125-1,Primary stress falls on the penultimate syllable.,bakro-nagy_nganasan_2022[760],,81 82 1293 1294 1770 1771 2040 2041 2369 2370 2648 2649 2889 2890
-Nganasan-UT126,33,UT126,0,UT126-0,"However, words ending in long vowels or vowel sequences trigger stress.",wagner-nagy_grammar_2019[73],,
+Nganasan-UT126,33,UT126,0,UT126-0,"However, words ending in long vowels or vowel sequences trigger stress.",wagner-nagy_grammar_2018[73],,
 Nganasan-UT127,33,UT127,1,UT127-1,It is possible if a word is trisyllabic or longer.,pajusalu_towards_2018;bakro-nagy_nganasan_2022[760],,
 Nganasan-UT128,33,UT128,1,UT128-1,Occurs with limitations.,fejes_utilization_2018,,800 801 1101 1102 1595 1596 1886 1887 2042 2043 3054 3055
 Nganasan-UT129,33,UT129,1,UT129-1,Occurs with limitations.,fejes_utilization_2018,,804 805 2044 2045
@@ -7350,7 +7350,7 @@ Nganasan-UT138,33,UT138,1,UT138-1,,bakro-nagy_nganasan_2022[760],,
 Nganasan-UT139,33,UT139,1,UT139-1,,janhunen_nganasan_2020[183],,
 Nganasan-UT140,33,UT140,1,UT140-1,,janhunen_nganasan_2020,,
 Nganasan-UT141,33,UT141,0,UT141-0,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[757],,
-Nganasan-UT142,33,UT142,0,UT142-0,,wagner-nagy_grammar_2019[63];bakro-nagy_nganasan_2022[757],,
+Nganasan-UT142,33,UT142,0,UT142-0,,wagner-nagy_grammar_2018[63];bakro-nagy_nganasan_2022[757],,
 Nganasan-UT143,33,UT143,0,UT143-0,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[757],,
 Nganasan-UT144,33,UT144,0,UT144-0,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[757],,
 Nganasan-UT145,33,UT145,0,UT145-0,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[760],,
@@ -7375,201 +7375,201 @@ Nganasan-UT163,33,UT163,0,UT163-0,,pajusalu_towards_2018;bakro-nagy_nganasan_202
 Nganasan-UT164,33,UT164,0,UT164-0,,pajusalu_towards_2018;bakro-nagy_nganasan_2022[756],,
 Nganasan-UT165,33,UT165,1,UT165-1,,bakro-nagy_nganasan_2022[758-759],,127 128 571 572 664 665 1030 1031 1613 1614 1789 1790 2059 2060 2145 2146 2313 2314 2392 2393 2495 2496 2594 2595 2930 2931 3077 3078 3269 3270 3364 3365
 Nganasan-UT166,33,UT166,0,UT166-0,No proper consonant geminates at all.,pajusalu_towards_2018;bakro-nagy_nganasan_2022[756],,
-Nganasan-GB020,33,GB020,0,GB020-0,,wagner-nagy_grammar_2019[19],,
-Nganasan-GB021,33,GB021,0,GB021-0,,wagner-nagy_grammar_2019[308],,
-Nganasan-GB022,33,GB022,0,GB022-0,,wagner-nagy_grammar_2019,,
-Nganasan-GB023,33,GB023,0,GB023-0,,wagner-nagy_grammar_2019,,
-Nganasan-GB024,33,GB024,1,GB024-1,,wagner-nagy_grammar_2019[158],,3440 3500 3576 3637 3703 3769 3827 3908 3988 4133 4204 4331 4398 4468 4532 4581 4648 4721 4784 4842 4912 5092 5146 5237 5281 5354
-Nganasan-GB025,33,GB025,1,GB025-1,,wagner-nagy_grammar_2019[127],,3501 3577 3638 3704 3770 3828 3909 3989 4134 4279 4332 4399 4469 4533 4582 4649 4722 4785 4843 4913 5093 5147 5238 5282 5355
-Nganasan-GB026,33,GB026,0,GB026-0,,wagner-nagy_grammar_2019[96],,
-Nganasan-GB027,33,GB027,1,GB027-1,,wagner-nagy_grammar_2019[326-327],,3374 3375 3443 3444 3502 3503 3578 3579 3639 3640 3705 3706 3771 3772 3829 3830 3990 3991 4052 4053 4135 4136 4205 4206 4280 4281 4333 4334 4400 4401 4470 4471 4534 4535 4583 4584 4723 4724 4786 4787 4844 4845 4914 4915 4994 4995 5095 5096 5283 5284 5356 5357
-Nganasan-GB028,33,GB028,0,GB028-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB030,33,GB030,0,GB030-0,,wagner-nagy_grammar_2019[106],,
-Nganasan-GB031,33,GB031,1,GB031-1,,wagner-nagy_grammar_2019[106],,4536 4537 4538 4725 4726 4727 5097 5098 5099
-Nganasan-GB035,33,GB035,0,GB035-0,,wagner-nagy_grammar_2019[127],,
-Nganasan-GB036,33,GB036,0,GB036-0,,wagner-nagy_grammar_2019[127],,
-Nganasan-GB037,33,GB037,0,GB037-0,,wagner-nagy_grammar_2019[127],,
-Nganasan-GB038,33,GB038,0,GB038-0,,wagner-nagy_grammar_2019[127],,
-Nganasan-GB039,33,GB039,0,GB039-0,,wagner-nagy_grammar_2019[176],,
-Nganasan-GB041,33,GB041,0,GB041-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB042,33,GB042,0,GB042-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB043,33,GB043,1,GB043-1,,wagner-nagy_grammar_2019[95],,3994 4539
-Nganasan-GB044,33,GB044,1,GB044-1,,wagner-nagy_grammar_2019[95],,3440 3500 3576 3637 3703 3769 3827 3908 3988 4133 4204 4331 4398 4468 4532 4581 4648 4721 4784 4842 4912 5092 5146 5237 5281 5354
-Nganasan-GB046,33,GB046,0,GB046-0,The PL marker can have associative reading in some contexts.,"wagner-nagy_grammar_2019[187,188]",,
-Nganasan-GB047,33,GB047,1,GB047-1,,wagner-nagy_grammar_2019[513-514],,3377 3446 3582 3642 3708 3775 3833 4139 4209 4283 4404 4540 4586 4732 4789 4847 4996 5242 5289 5359
-Nganasan-GB048,33,GB048,1,GB048-1,,wagner-nagy_grammar_2019[516],,3378 3447 3507 3583 3643 3709 3779 3834 4140 4210 4284 4474 4541 4587 4656 4733 4790 4848 4923 4997 5154 5243 5290 5360
-Nganasan-GB049,33,GB049,1,GB049-1,,wagner-nagy_grammar_2019[518],,3448 3508 3584 3644 3710 3835 4141 4211 4285 4475 4542 4588 4734 4791 4849 5155 5244 5291 5361
-Nganasan-GB051,33,GB051,0,GB051-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB052,33,GB052,0,GB052-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB053,33,GB053,0,GB053-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB054,33,GB054,0,GB054-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB057,33,GB057,0,GB057-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB058,33,GB058,0,GB058-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB059,33,GB059,0,GB059-0,,wagner-nagy_grammar_2019[317],,
-Nganasan-GB065,33,GB065,1,GB065-1,,wagner-nagy_grammar_2019[317],,3379 3449 3509 3585 3645 3711 3776 3920 3997 4058 4142 4212 4344 4407 4476 4543 4589 4659 4735 4792 4850 4927 5105 5158 5245 5292 5362
-Nganasan-GB068,33,GB068,0,GB068-0,,wagner-nagy_grammar_2019[97],,
-Nganasan-GB069,33,GB069,0,GB069-0,,wagner-nagy_grammar_2019[97],,
-Nganasan-GB070,33,GB070,1,GB070-1,,wagner-nagy_grammar_2019[191],,3421 3450 3510 3617 3646 3679 3712 3838 3921 3998 4059 4143 4286 4345 4381 4408 4447 4544 4568 4590 4660 4736 4793 4851 4928 4965 5246 5293 5363
-Nganasan-GB071,33,GB071,0,GB071-0,NOM = ACC.,wagner-nagy_grammar_2019[107],,
-Nganasan-GB072,33,GB072,1,GB072-1,,wagner-nagy_grammar_2019[191],,3404 3551 3686 3806 3862 3882 3961 4019 4033 4256 4367 4386 4559 4571 4578 4700 4772 4812 4896 4945 4972 4986 5128 5192 5259 5335 5402
-Nganasan-GB073,33,GB073,1,GB073-1,,wagner-nagy_grammar_2019[108],,4545 4546 5010 5011
-Nganasan-GB074,33,GB074,0,GB074-0,,wagner-nagy_grammar_2019[152],,
-Nganasan-GB075,33,GB075,1,GB075-1,,wagner-nagy_grammar_2019[152],,3389 3455 3515 3589 3651 3717 3842 3926 4002 4148 4219 4291 4350 4412 4487 4547 4595 4741 4798 4856 4933 5107 5171 5251 5298 5368
-Nganasan-GB079,33,GB079,0,GB079-0,No prefixes in the language.,wagner-nagy_grammar_2019[509],,
-Nganasan-GB080,33,GB080,0,GB080-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB081,33,GB081,?,,"Infixiation mentioned, but no examples for verbs given.",wagner-nagy_grammar_2019[504],,
-Nganasan-GB082,33,GB082,0,GB082-0,,wagner-nagy_grammar_2019[233],,
-Nganasan-GB083,33,GB083,1,GB083-1,,wagner-nagy_grammar_2019[234],,3392 3457 3518 3591 3653 3719 3846 3928 4005 4151 4292 4352 4548 4597 4669 4743 4800 4858 5108 5174 5300 5370
-Nganasan-GB084,33,GB084,1,GB084-1,,wagner-nagy_grammar_2019[234],,4006 4549 5109 5175
-Nganasan-GB086,33,GB086,1,GB086-1,"Their aorist suffix will differ: for perfective verbs - -Ɂə, for imperfective - NTU.",wagner-nagy_grammar_2019[234],,4007 4008 4225 4226 4550 4551 5176 5177
-Nganasan-GB089,33,GB089,1,GB089-1,,wagner-nagy_grammar_2019[229],,3374 3443 3502 3578 3639 3705 3771 3829 3990 4052 4135 4205 4280 4333 4400 4470 4534 4583 4723 4786 4844 4914 4994 5095 5283 5356
-Nganasan-GB090,33,GB090,0,GB090-0,,wagner-nagy_grammar_2019[229],,
-Nganasan-GB091,33,GB091,1,GB091-1,,wagner-nagy_grammar_2019[229],,3394 3459 3520 3592 3655 3721 3849 3930 4010 4074 4228 4294 4418 4552 4599 4671 4745 4802 4860 5302 5372
-Nganasan-GB092,33,GB092,0,GB092-0,,wagner-nagy_grammar_2019[229],,
-Nganasan-GB093,33,GB093,1,GB093-1,,wagner-nagy_grammar_2019[230],,3593 3850 4011 4492 4553
-Nganasan-GB094,33,GB094,0,GB094-0,,wagner-nagy_grammar_2019[230],,
-Nganasan-GB095,33,GB095,0,GB095-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB096,33,GB096,0,GB096-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB098,33,GB098,0,GB098-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB099,33,GB099,0,GB099-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB103,33,GB103,0,GB103-0,Destinative/benefactive is marked on the nouns or demonstrative pronouns in the beneficiary or destinative constructions.,wagner-nagy_grammar_2019[211],,
-Nganasan-GB104,33,GB104,0,GB104-0,Instrumental marked on nouns.,wagner-nagy_grammar_2019[211],,
-Nganasan-GB105,33,GB105,0,GB105-0,,wagner-nagy_grammar_2019[395],,
-Nganasan-GB107,33,GB107,0,GB107-0,,wagner-nagy_grammar_2019[405],,
-Nganasan-GB108,33,GB108,0,GB108-0,"Destinative/benefactive, but no directional.",wagner-nagy_grammar_2019[211],,
-Nganasan-GB109,33,GB109,0,GB109-0,,wagner-nagy_grammar_2019[215],,
-Nganasan-GB110,33,GB110,0,GB110-0,,wagner-nagy_grammar_2019[222],,
-Nganasan-GB111,33,GB111,1,GB111-1,,wagner-nagy_grammar_2019[225],,3394 3459 3520 3592 3655 3721 3849 3930 4008 4010 4074 4226 4228 4294 4418 4551 4552 4599 4671 4745 4802 4860 5177 5302 5372
-Nganasan-GB113,33,GB113,1,GB113-1,,wagner-nagy_grammar_2019[304],,3396 3460 3523 3599 3724 3783 3855 3931 4012 4154 4295 4554 4600 4672 4746 4805 4937 5028 5113 5180 5253 5374
-Nganasan-GB114,33,GB114,0,GB114-0,"Nganasan has a separate reflexive conjugation, i.e. no dedicated reflexive marker.",wagner-nagy_grammar_2019[304],,
-Nganasan-GB115,33,GB115,1,GB115-1,,wagner-nagy_grammar_2019[303],,3398 3785 3857 3934 4014 4232 4555 4674 4807 5182
-Nganasan-GB116,33,GB116,0,GB116-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB117,33,GB117,1,GB117-1,,wagner-nagy_grammar_2019[356],,3399 3462 3525 3601 3660 3726 3786 3858 3935 4015 4159 4233 4296 4360 4424 4497 4556 4602 4675 4748 4808 4866 4938 5183 5255 5309 5376
-Nganasan-GB118,33,GB118,0,GB118-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB119,33,GB119,0,GB119-0,,wagner-nagy_grammar_2019[98],,
-Nganasan-GB120,33,GB120,0,GB120-0,,wagner-nagy_grammar_2019[98],,
-Nganasan-GB121,33,GB121,0,GB121-0,,wagner-nagy_grammar_2019[98],,
-Nganasan-GB122,33,GB122,0,GB122-0,,wagner-nagy_grammar_2019[504],,
-Nganasan-GB123,33,GB123,0,GB123-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB124,33,GB124,0,GB124-0,,wagner-nagy_grammar_2019[304],,
-Nganasan-GB126,33,GB126,1,GB126-1,,wagner-nagy_grammar_2019[354],,3791 3860 4165 4237 4364 4557 4750 5190 5257
-Nganasan-GB127,33,GB127,0,GB127-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB129,33,GB129,0,GB129-0,,wagner-nagy_grammar_2019,,
-Nganasan-GB130,33,GB130,1,GB130-1,,wagner-nagy_grammar_2019[289],,3402 3464 3527 3604 3663 3729 3792 3861 3939 4018 4086 4300 4365 4500 4558 4604 4680 4751 4811 4870 4943 5191 5258 5312 5378
-Nganasan-GB131,33,GB131,0,GB131-0,,wagner-nagy_grammar_2019[363],,
-Nganasan-GB132,33,GB132,0,GB132-0,,wagner-nagy_grammar_2019[363],,
-Nganasan-GB133,33,GB133,1,GB133-1,,wagner-nagy_grammar_2019[363],,3404 3862 4019 4367 4559 4812 4945 5192 5259
-Nganasan-GB134,33,GB134,1,GB134-1,,wagner-nagy_grammar_2019[429],,3405 3466 3529 3665 3731 3793 3863 4020 4088 4167 4302 4501 4560 4606 4753 4872 4946 5042 5118 5193 5314
-Nganasan-GB135,33,GB135,0,GB135-0,,wagner-nagy_grammar_2019[435-437],,
-Nganasan-GB136,33,GB136,0,GB136-0,,wagner-nagy_grammar_2019[363],,
-Nganasan-GB137,33,GB137,0,GB137-0,,wagner-nagy_grammar_2019[405],,
-Nganasan-GB138,33,GB138,0,GB138-0,,wagner-nagy_grammar_2019[405],,
-Nganasan-GB139,33,GB139,0,GB139-0,,wagner-nagy_grammar_2019[412-413],,
-Nganasan-GB140,33,GB140,0,GB140-0,,wagner-nagy_grammar_2019[406],,
-Nganasan-GB146,33,GB146,0,GB146-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB147,33,GB147,1,GB147-1,,wagner-nagy_grammar_2019[100],,3413 3474 3537 3609 3673 3739 3797 4095 4171 4308 4375 4438 4508 4561 4614 4690 4761 4817 4880 5201 5267 5322 5390
-Nganasan-GB148,33,GB148,0,GB148-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB149,33,GB149,0,GB149-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB150,33,GB150,0,GB150-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB151,33,GB151,0,GB151-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB152,33,GB152,0,GB152-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB155,33,GB155,1,GB155-1,A transitive verb can be formed from an intrasitive verb with a transitive-causative suffixes -BTU and -RU.,wagner-nagy_grammar_2019[304],,3396 3414 3460 3475 3523 3538 3599 3611 3724 3783 3800 3855 3931 3952 4012 4027 4154 4175 4246 4295 4376 4554 4562 4600 4615 4672 4691 4746 4762 4805 4881 4937 4958 5028 5113 5180 5205 5253 5323 5374
-Nganasan-GB156,33,GB156,0,GB156-0,,wagner-nagy_grammar_2019[304],,
-Nganasan-GB158,33,GB158,0,GB158-0,,wagner-nagy_grammar_2019[504],,
-Nganasan-GB159,33,GB159,0,GB159-0,,wagner-nagy_grammar_2019[504],,
-Nganasan-GB160,33,GB160,0,GB160-0,,wagner-nagy_grammar_2019[504],,
-Nganasan-GB165,33,GB165,0,GB165-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB166,33,GB166,0,GB166-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB167,33,GB167,0,GB167-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB170,33,GB170,0,GB170-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB171,33,GB171,0,GB171-0,No gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB172,33,GB172,0,GB172-0,No gender.,wagner-nagy_grammar_2019,,
-Nganasan-GB177,33,GB177,0,GB177-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB184,33,GB184,1,GB184-1,,wagner-nagy_grammar_2019[97],,3476 3539 3612 3674 3741 3953 4563 4692 4882 5121 5208 5324 5391
-Nganasan-GB185,33,GB185,0,GB185-0,,wagner-nagy_grammar_2019[127],,
-Nganasan-GB186,33,GB186,0,GB186-0,No articles.,wagner-nagy_grammar_2019,,
-Nganasan-GB187,33,GB187,1,GB187-1,,wagner-nagy_grammar_2019[511],,3417 3479 3542 3615 3676 3744 3955 4028 4177 4249 4378 4511 4564 4694 4764 4820 4885 5123 5269 5326 5393
-Nganasan-GB188,33,GB188,1,GB188-1,,wagner-nagy_grammar_2019[509],,4565 5124
-Nganasan-GB192,33,GB192,0,GB192-0,No grammatical gender.,wagner-nagy_grammar_2019[94],,
-Nganasan-GB193,33,GB193,1,GB193-1,,wagner-nagy_grammar_2019[308],,3476 3539 3612 3674 3741 3953 4563 4692 4882 5121 5208 5324 5391
-Nganasan-GB196,33,GB196,0,GB196-0,,wagner-nagy_grammar_2019[106],,
-Nganasan-GB197,33,GB197,0,GB197-0,,wagner-nagy_grammar_2019[106],,
-Nganasan-GB198,33,GB198,0,GB198-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB203,33,GB203,3,GB203-3,,wagner-nagy_grammar_2019[315],,4566 4567 4887 4888 5394 5395
-Nganasan-GB204,33,GB204,1,GB204-1,"The quantifiers differ in form: bǝnsǝ 'all; whole', bǝńd'ika 'every; all of them'.",wagner-nagy_grammar_2019[315],,3421 3617 3679 4381 4447 4567 4568 4888 4965 5395
-Nganasan-GB250,33,GB250,1,GB250-1,,wagner-nagy_grammar_2019[360],,3680 3749 4382 4569 4966
-Nganasan-GB252,33,GB252,0,GB252-0,,wagner-nagy_grammar_2019[359],,
-Nganasan-GB253,33,GB253,0,GB253-0,,wagner-nagy_grammar_2019[359],,
-Nganasan-GB254,33,GB254,1,GB254-1,,wagner-nagy_grammar_2019[359],,3618 3804 4031 4182 4253 4448 4515 4570 4967 5127 5213
-Nganasan-GB256,33,GB256,0,GB256-0,,wagner-nagy_grammar_2019[359],,
-Nganasan-GB257,33,GB257,1,GB257-1,"Verbless interrogative sentences have a high-pitch intonation pattern, the tone peek being higher than that of an affirmative sentence.",wagner-nagy_grammar_2019[380],,
-Nganasan-GB260,33,GB260,0,GB260-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB262,33,GB262,0,GB262-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB263,33,GB263,0,GB263-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB264,33,GB264,0,GB264-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB265,33,GB265,0,GB265-0,,wagner-nagy_grammar_2019[390],,
-Nganasan-GB266,33,GB266,1,GB266-1,,wagner-nagy_grammar_2019[390],,3551 3686 3806 3882 3961 4033 4256 4386 4571 4700 4772 4896 4972 5128 5335 5402
-Nganasan-GB270,33,GB270,0,GB270-0,,wagner-nagy_grammar_2019[390],,
-Nganasan-GB273,33,GB273,0,GB273-0,,wagner-nagy_grammar_2019[390],,
-Nganasan-GB275,33,GB275,0,GB275-0,,wagner-nagy_grammar_2019[390],,
-Nganasan-GB276,33,GB276,0,GB276-0,,wagner-nagy_grammar_2019[390],,
-Nganasan-GB285,33,GB285,0,GB285-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB286,33,GB286,0,GB286-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB291,33,GB291,0,GB291-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB296,33,GB296,0,GB296-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB297,33,GB297,0,GB297-0,,wagner-nagy_grammar_2019[379],,
-Nganasan-GB298,33,GB298,1,GB298-1,,wagner-nagy_grammar_2019[405],,3405 3466 3529 3665 3731 3793 3863 4020 4088 4167 4302 4501 4560 4606 4753 4872 4946 5042 5118 5193 5314
-Nganasan-GB299,33,GB299,0,GB299-0,,wagner-nagy_grammar_2019[405-406],,
-Nganasan-GB300,33,GB300,0,GB300-0,,wagner-nagy_grammar_2019[217],,
-Nganasan-GB301,33,GB301,0,GB301-0,,wagner-nagy_grammar_2019[330],,
-Nganasan-GB302,33,GB302,0,GB302-0,,wagner-nagy_grammar_2019[295],,
-Nganasan-GB303,33,GB303,0,GB303-0,,wagner-nagy_grammar_2019,,
-Nganasan-GB304,33,GB304,1,GB304-1,,wagner-nagy_grammar_2019[295],,3557 3690 3811 3888 3968 4119 4263 4572 4707 4776 4976 5132 5341 5406
-Nganasan-GB305,33,GB305,0,GB305-0,,wagner-nagy_grammar_2019[304],,
-Nganasan-GB306,33,GB306,0,GB306-0,,wagner-nagy_grammar_2019[519],,
-Nganasan-GB309,33,GB309,0,GB309-0,,wagner-nagy_grammar_2019[214-215],,
-Nganasan-GB312,33,GB312,0,GB312-0,,wagner-nagy_grammar_2019[214],,
-Nganasan-GB313,33,GB313,0,GB313-0,,wagner-nagy_grammar_2019[19],,
-Nganasan-GB314,33,GB314,0,GB314-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB315,33,GB315,0,GB315-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB316,33,GB316,0,GB316-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB317,33,GB317,0,GB317-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB318,33,GB318,0,GB318-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB319,33,GB319,0,GB319-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB320,33,GB320,0,GB320-0,,wagner-nagy_grammar_2019[95],,
-Nganasan-GB321,33,GB321,0,GB321-0,,wagner-nagy_grammar_2019[94],,
-Nganasan-GB322,33,GB322,0,GB322-0,Direct evidentiality is unmarked.,wagner-nagy_grammar_2019[275],,
-Nganasan-GB323,33,GB323,1,GB323-1,,wagner-nagy_grammar_2019[275],,3399 3462 3525 3601 3660 3726 3786 3858 3935 4015 4123 4124 4159 4233 4296 4360 4424 4497 4556 4573 4574 4602 4675 4748 4808 4866 4938 5183 5255 5309 5376
-Nganasan-GB324,33,GB324,0,GB324-0,,wagner-nagy_grammar_2019[130],,
-Nganasan-GB325,33,GB325,1,GB325-1,"There are two interrogative quantifiers kanə 'how many, which' and kaŋkə 'which, how much'.",wagner-nagy_grammar_2019[137],,
-Nganasan-GB326,33,GB326,1,GB326-1,,wagner-nagy_grammar_2019[382],,3814 4040 4575 5138 5225
-Nganasan-GB327,33,GB327,1,GB327-1,,wagner-nagy_grammar_2019[452],,3433 3494 3563 3627 3696 3761 3815 3894 4125 4324 4459 4524 4576 4715 4779 4835 4903 4983 5080 5226 5347 5411
-Nganasan-GB328,33,GB328,1,GB328-1,,wagner-nagy_grammar_2019[452],,3628 3816 3895 4041 4197 4269 4525 4577 5139 5227
-Nganasan-GB329,33,GB329,0,GB329-0,,wagner-nagy_grammar_2019[453],,
-Nganasan-GB330,33,GB330,0,GB330-0,,wagner-nagy_grammar_2019[453],,
-Nganasan-GB331,33,GB331,0,GB331-0,,wagner-nagy_grammar_2019[453],,
-Nganasan-GB333,33,GB333,1,GB333-1,"Cardinal numerals are compounded in numbers 11 and above. Between 11 and 19 the structure of the numerals is ""10 + 1, 2 …"". Numerals ending in 0 are also compounded: 20 is 2 + 10 etc.",wagner-nagy_grammar_2019[158],,
-Nganasan-GB334,33,GB334,0,GB334-0,,wagner-nagy_grammar_2019[158],,
-Nganasan-GB335,33,GB335,0,GB335-0,,wagner-nagy_grammar_2019[158],,
-Nganasan-GB336,33,GB336,0,GB336-0,,wagner-nagy_grammar_2019[158],,
-Nganasan-GB400,33,GB400,0,GB400-0,,wagner-nagy_grammar_2019,,
-Nganasan-GB401,33,GB401,0,GB401-0,,wagner-nagy_grammar_2019[in passim],,
-Nganasan-GB402,33,GB402,0,GB402-0,,wagner-nagy_grammar_2019[217],,
-Nganasan-GB403,33,GB403,0,GB403-0,,wagner-nagy_grammar_2019[217],,
-Nganasan-GB408,33,GB408,1,GB408-1,,wagner-nagy_grammar_2019[363],,3628 3816 3895 4041 4197 4269 4525 4577 5139 5227
-Nganasan-GB409,33,GB409,0,GB409-0,,wagner-nagy_grammar_2019[363],,
-Nganasan-GB410,33,GB410,1,GB410-1,The personal pronouns have the same form in the role of an object and subject.,"wagner-nagy_grammar_2019[363, 374]",,4578 4986
-Nganasan-GB415,33,GB415,0,GB415-0,,wagner-nagy_grammar_2019[106],,
-Nganasan-GB421,33,GB421,0,GB421-0,,wagner-nagy_grammar_2019[433],,
-Nganasan-GB422,33,GB422,0,GB422-0,,wagner-nagy_grammar_2019[433],,
-Nganasan-GB430,33,GB430,0,GB430-0,,wagner-nagy_grammar_2019[317],,
-Nganasan-GB431,33,GB431,0,GB431-0,,wagner-nagy_grammar_2019[317],,
-Nganasan-GB432,33,GB432,1,GB432-1,,wagner-nagy_grammar_2019[317],,3379 3449 3497 3509 3585 3633 3645 3711 3766 3776 3905 3920 3997 4044 4058 4142 4212 4328 4344 4407 4476 4528 4543 4579 4589 4644 4659 4735 4792 4850 4908 4927 4988 5105 5158 5232 5245 5292 5362
-Nganasan-GB433,33,GB433,1,GB433-1,,wagner-nagy_grammar_2019[317],,3375 3444 3501 3503 3577 3579 3638 3640 3704 3706 3770 3772 3828 3830 3909 3989 3991 4053 4134 4136 4206 4279 4281 4332 4334 4399 4401 4469 4471 4533 4535 4582 4584 4649 4722 4724 4785 4787 4843 4845 4913 4915 4995 5093 5096 5147 5238 5282 5284 5355 5357
-Nganasan-GB519,33,GB519,0,GB519-0,,wagner-nagy_grammar_2019[240],,
-Nganasan-GB520,33,GB520,0,GB520-0,,wagner-nagy_grammar_2019[222],,
-Nganasan-GB521,33,GB521,0,GB521-0,,wagner-nagy_grammar_2019[233],,
-Nganasan-GB522,33,GB522,1,GB522-1,,wagner-nagy_grammar_2019[106],,3439 3499 3574 3768 3823 3907 4047 4131 4203 4276 4330 4397 4465 4531 4580 4720 4783 4841 4910 4989 5145 5236 5280 5353 5421
+Nganasan-GB020,33,GB020,0,GB020-0,,wagner-nagy_grammar_2018[19],,
+Nganasan-GB021,33,GB021,0,GB021-0,,wagner-nagy_grammar_2018[308],,
+Nganasan-GB022,33,GB022,0,GB022-0,,wagner-nagy_grammar_2018,,
+Nganasan-GB023,33,GB023,0,GB023-0,,wagner-nagy_grammar_2018,,
+Nganasan-GB024,33,GB024,1,GB024-1,,wagner-nagy_grammar_2018[158],,3440 3500 3576 3637 3703 3769 3827 3908 3988 4133 4204 4331 4398 4468 4532 4581 4648 4721 4784 4842 4912 5092 5146 5237 5281 5354
+Nganasan-GB025,33,GB025,1,GB025-1,,wagner-nagy_grammar_2018[127],,3501 3577 3638 3704 3770 3828 3909 3989 4134 4279 4332 4399 4469 4533 4582 4649 4722 4785 4843 4913 5093 5147 5238 5282 5355
+Nganasan-GB026,33,GB026,0,GB026-0,,wagner-nagy_grammar_2018[96],,
+Nganasan-GB027,33,GB027,1,GB027-1,,wagner-nagy_grammar_2018[326-327],,3374 3375 3443 3444 3502 3503 3578 3579 3639 3640 3705 3706 3771 3772 3829 3830 3990 3991 4052 4053 4135 4136 4205 4206 4280 4281 4333 4334 4400 4401 4470 4471 4534 4535 4583 4584 4723 4724 4786 4787 4844 4845 4914 4915 4994 4995 5095 5096 5283 5284 5356 5357
+Nganasan-GB028,33,GB028,0,GB028-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB030,33,GB030,0,GB030-0,,wagner-nagy_grammar_2018[106],,
+Nganasan-GB031,33,GB031,1,GB031-1,,wagner-nagy_grammar_2018[106],,4536 4537 4538 4725 4726 4727 5097 5098 5099
+Nganasan-GB035,33,GB035,0,GB035-0,,wagner-nagy_grammar_2018[127],,
+Nganasan-GB036,33,GB036,0,GB036-0,,wagner-nagy_grammar_2018[127],,
+Nganasan-GB037,33,GB037,0,GB037-0,,wagner-nagy_grammar_2018[127],,
+Nganasan-GB038,33,GB038,0,GB038-0,,wagner-nagy_grammar_2018[127],,
+Nganasan-GB039,33,GB039,0,GB039-0,,wagner-nagy_grammar_2018[176],,
+Nganasan-GB041,33,GB041,0,GB041-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB042,33,GB042,0,GB042-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB043,33,GB043,1,GB043-1,,wagner-nagy_grammar_2018[95],,3994 4539
+Nganasan-GB044,33,GB044,1,GB044-1,,wagner-nagy_grammar_2018[95],,3440 3500 3576 3637 3703 3769 3827 3908 3988 4133 4204 4331 4398 4468 4532 4581 4648 4721 4784 4842 4912 5092 5146 5237 5281 5354
+Nganasan-GB046,33,GB046,0,GB046-0,The PL marker can have associative reading in some contexts.,"wagner-nagy_grammar_2018[187,188]",,
+Nganasan-GB047,33,GB047,1,GB047-1,,wagner-nagy_grammar_2018[513-514],,3377 3446 3582 3642 3708 3775 3833 4139 4209 4283 4404 4540 4586 4732 4789 4847 4996 5242 5289 5359
+Nganasan-GB048,33,GB048,1,GB048-1,,wagner-nagy_grammar_2018[516],,3378 3447 3507 3583 3643 3709 3779 3834 4140 4210 4284 4474 4541 4587 4656 4733 4790 4848 4923 4997 5154 5243 5290 5360
+Nganasan-GB049,33,GB049,1,GB049-1,,wagner-nagy_grammar_2018[518],,3448 3508 3584 3644 3710 3835 4141 4211 4285 4475 4542 4588 4734 4791 4849 5155 5244 5291 5361
+Nganasan-GB051,33,GB051,0,GB051-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB052,33,GB052,0,GB052-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB053,33,GB053,0,GB053-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB054,33,GB054,0,GB054-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB057,33,GB057,0,GB057-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB058,33,GB058,0,GB058-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB059,33,GB059,0,GB059-0,,wagner-nagy_grammar_2018[317],,
+Nganasan-GB065,33,GB065,1,GB065-1,,wagner-nagy_grammar_2018[317],,3379 3449 3509 3585 3645 3711 3776 3920 3997 4058 4142 4212 4344 4407 4476 4543 4589 4659 4735 4792 4850 4927 5105 5158 5245 5292 5362
+Nganasan-GB068,33,GB068,0,GB068-0,,wagner-nagy_grammar_2018[97],,
+Nganasan-GB069,33,GB069,0,GB069-0,,wagner-nagy_grammar_2018[97],,
+Nganasan-GB070,33,GB070,1,GB070-1,,wagner-nagy_grammar_2018[191],,3421 3450 3510 3617 3646 3679 3712 3838 3921 3998 4059 4143 4286 4345 4381 4408 4447 4544 4568 4590 4660 4736 4793 4851 4928 4965 5246 5293 5363
+Nganasan-GB071,33,GB071,0,GB071-0,NOM = ACC.,wagner-nagy_grammar_2018[107],,
+Nganasan-GB072,33,GB072,1,GB072-1,,wagner-nagy_grammar_2018[191],,3404 3551 3686 3806 3862 3882 3961 4019 4033 4256 4367 4386 4559 4571 4578 4700 4772 4812 4896 4945 4972 4986 5128 5192 5259 5335 5402
+Nganasan-GB073,33,GB073,1,GB073-1,,wagner-nagy_grammar_2018[108],,4545 4546 5010 5011
+Nganasan-GB074,33,GB074,0,GB074-0,,wagner-nagy_grammar_2018[152],,
+Nganasan-GB075,33,GB075,1,GB075-1,,wagner-nagy_grammar_2018[152],,3389 3455 3515 3589 3651 3717 3842 3926 4002 4148 4219 4291 4350 4412 4487 4547 4595 4741 4798 4856 4933 5107 5171 5251 5298 5368
+Nganasan-GB079,33,GB079,0,GB079-0,No prefixes in the language.,wagner-nagy_grammar_2018[509],,
+Nganasan-GB080,33,GB080,0,GB080-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB081,33,GB081,?,,"Infixiation mentioned, but no examples for verbs given.",wagner-nagy_grammar_2018[504],,
+Nganasan-GB082,33,GB082,0,GB082-0,,wagner-nagy_grammar_2018[233],,
+Nganasan-GB083,33,GB083,1,GB083-1,,wagner-nagy_grammar_2018[234],,3392 3457 3518 3591 3653 3719 3846 3928 4005 4151 4292 4352 4548 4597 4669 4743 4800 4858 5108 5174 5300 5370
+Nganasan-GB084,33,GB084,1,GB084-1,,wagner-nagy_grammar_2018[234],,4006 4549 5109 5175
+Nganasan-GB086,33,GB086,1,GB086-1,"Their aorist suffix will differ: for perfective verbs - -Ɂə, for imperfective - NTU.",wagner-nagy_grammar_2018[234],,4007 4008 4225 4226 4550 4551 5176 5177
+Nganasan-GB089,33,GB089,1,GB089-1,,wagner-nagy_grammar_2018[229],,3374 3443 3502 3578 3639 3705 3771 3829 3990 4052 4135 4205 4280 4333 4400 4470 4534 4583 4723 4786 4844 4914 4994 5095 5283 5356
+Nganasan-GB090,33,GB090,0,GB090-0,,wagner-nagy_grammar_2018[229],,
+Nganasan-GB091,33,GB091,1,GB091-1,,wagner-nagy_grammar_2018[229],,3394 3459 3520 3592 3655 3721 3849 3930 4010 4074 4228 4294 4418 4552 4599 4671 4745 4802 4860 5302 5372
+Nganasan-GB092,33,GB092,0,GB092-0,,wagner-nagy_grammar_2018[229],,
+Nganasan-GB093,33,GB093,1,GB093-1,,wagner-nagy_grammar_2018[230],,3593 3850 4011 4492 4553
+Nganasan-GB094,33,GB094,0,GB094-0,,wagner-nagy_grammar_2018[230],,
+Nganasan-GB095,33,GB095,0,GB095-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB096,33,GB096,0,GB096-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB098,33,GB098,0,GB098-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB099,33,GB099,0,GB099-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB103,33,GB103,0,GB103-0,Destinative/benefactive is marked on the nouns or demonstrative pronouns in the beneficiary or destinative constructions.,wagner-nagy_grammar_2018[211],,
+Nganasan-GB104,33,GB104,0,GB104-0,Instrumental marked on nouns.,wagner-nagy_grammar_2018[211],,
+Nganasan-GB105,33,GB105,0,GB105-0,,wagner-nagy_grammar_2018[395],,
+Nganasan-GB107,33,GB107,0,GB107-0,,wagner-nagy_grammar_2018[405],,
+Nganasan-GB108,33,GB108,0,GB108-0,"Destinative/benefactive, but no directional.",wagner-nagy_grammar_2018[211],,
+Nganasan-GB109,33,GB109,0,GB109-0,,wagner-nagy_grammar_2018[215],,
+Nganasan-GB110,33,GB110,0,GB110-0,,wagner-nagy_grammar_2018[222],,
+Nganasan-GB111,33,GB111,1,GB111-1,,wagner-nagy_grammar_2018[225],,3394 3459 3520 3592 3655 3721 3849 3930 4008 4010 4074 4226 4228 4294 4418 4551 4552 4599 4671 4745 4802 4860 5177 5302 5372
+Nganasan-GB113,33,GB113,1,GB113-1,,wagner-nagy_grammar_2018[304],,3396 3460 3523 3599 3724 3783 3855 3931 4012 4154 4295 4554 4600 4672 4746 4805 4937 5028 5113 5180 5253 5374
+Nganasan-GB114,33,GB114,0,GB114-0,"Nganasan has a separate reflexive conjugation, i.e. no dedicated reflexive marker.",wagner-nagy_grammar_2018[304],,
+Nganasan-GB115,33,GB115,1,GB115-1,,wagner-nagy_grammar_2018[303],,3398 3785 3857 3934 4014 4232 4555 4674 4807 5182
+Nganasan-GB116,33,GB116,0,GB116-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB117,33,GB117,1,GB117-1,,wagner-nagy_grammar_2018[356],,3399 3462 3525 3601 3660 3726 3786 3858 3935 4015 4159 4233 4296 4360 4424 4497 4556 4602 4675 4748 4808 4866 4938 5183 5255 5309 5376
+Nganasan-GB118,33,GB118,0,GB118-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB119,33,GB119,0,GB119-0,,wagner-nagy_grammar_2018[98],,
+Nganasan-GB120,33,GB120,0,GB120-0,,wagner-nagy_grammar_2018[98],,
+Nganasan-GB121,33,GB121,0,GB121-0,,wagner-nagy_grammar_2018[98],,
+Nganasan-GB122,33,GB122,0,GB122-0,,wagner-nagy_grammar_2018[504],,
+Nganasan-GB123,33,GB123,0,GB123-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB124,33,GB124,0,GB124-0,,wagner-nagy_grammar_2018[304],,
+Nganasan-GB126,33,GB126,1,GB126-1,,wagner-nagy_grammar_2018[354],,3791 3860 4165 4237 4364 4557 4750 5190 5257
+Nganasan-GB127,33,GB127,0,GB127-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB129,33,GB129,0,GB129-0,,wagner-nagy_grammar_2018,,
+Nganasan-GB130,33,GB130,1,GB130-1,,wagner-nagy_grammar_2018[289],,3402 3464 3527 3604 3663 3729 3792 3861 3939 4018 4086 4300 4365 4500 4558 4604 4680 4751 4811 4870 4943 5191 5258 5312 5378
+Nganasan-GB131,33,GB131,0,GB131-0,,wagner-nagy_grammar_2018[363],,
+Nganasan-GB132,33,GB132,0,GB132-0,,wagner-nagy_grammar_2018[363],,
+Nganasan-GB133,33,GB133,1,GB133-1,,wagner-nagy_grammar_2018[363],,3404 3862 4019 4367 4559 4812 4945 5192 5259
+Nganasan-GB134,33,GB134,1,GB134-1,,wagner-nagy_grammar_2018[429],,3405 3466 3529 3665 3731 3793 3863 4020 4088 4167 4302 4501 4560 4606 4753 4872 4946 5042 5118 5193 5314
+Nganasan-GB135,33,GB135,0,GB135-0,,wagner-nagy_grammar_2018[435-437],,
+Nganasan-GB136,33,GB136,0,GB136-0,,wagner-nagy_grammar_2018[363],,
+Nganasan-GB137,33,GB137,0,GB137-0,,wagner-nagy_grammar_2018[405],,
+Nganasan-GB138,33,GB138,0,GB138-0,,wagner-nagy_grammar_2018[405],,
+Nganasan-GB139,33,GB139,0,GB139-0,,wagner-nagy_grammar_2018[412-413],,
+Nganasan-GB140,33,GB140,0,GB140-0,,wagner-nagy_grammar_2018[406],,
+Nganasan-GB146,33,GB146,0,GB146-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB147,33,GB147,1,GB147-1,,wagner-nagy_grammar_2018[100],,3413 3474 3537 3609 3673 3739 3797 4095 4171 4308 4375 4438 4508 4561 4614 4690 4761 4817 4880 5201 5267 5322 5390
+Nganasan-GB148,33,GB148,0,GB148-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB149,33,GB149,0,GB149-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB150,33,GB150,0,GB150-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB151,33,GB151,0,GB151-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB152,33,GB152,0,GB152-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB155,33,GB155,1,GB155-1,A transitive verb can be formed from an intrasitive verb with a transitive-causative suffixes -BTU and -RU.,wagner-nagy_grammar_2018[304],,3396 3414 3460 3475 3523 3538 3599 3611 3724 3783 3800 3855 3931 3952 4012 4027 4154 4175 4246 4295 4376 4554 4562 4600 4615 4672 4691 4746 4762 4805 4881 4937 4958 5028 5113 5180 5205 5253 5323 5374
+Nganasan-GB156,33,GB156,0,GB156-0,,wagner-nagy_grammar_2018[304],,
+Nganasan-GB158,33,GB158,0,GB158-0,,wagner-nagy_grammar_2018[504],,
+Nganasan-GB159,33,GB159,0,GB159-0,,wagner-nagy_grammar_2018[504],,
+Nganasan-GB160,33,GB160,0,GB160-0,,wagner-nagy_grammar_2018[504],,
+Nganasan-GB165,33,GB165,0,GB165-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB166,33,GB166,0,GB166-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB167,33,GB167,0,GB167-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB170,33,GB170,0,GB170-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB171,33,GB171,0,GB171-0,No gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB172,33,GB172,0,GB172-0,No gender.,wagner-nagy_grammar_2018,,
+Nganasan-GB177,33,GB177,0,GB177-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB184,33,GB184,1,GB184-1,,wagner-nagy_grammar_2018[97],,3476 3539 3612 3674 3741 3953 4563 4692 4882 5121 5208 5324 5391
+Nganasan-GB185,33,GB185,0,GB185-0,,wagner-nagy_grammar_2018[127],,
+Nganasan-GB186,33,GB186,0,GB186-0,No articles.,wagner-nagy_grammar_2018,,
+Nganasan-GB187,33,GB187,1,GB187-1,,wagner-nagy_grammar_2018[511],,3417 3479 3542 3615 3676 3744 3955 4028 4177 4249 4378 4511 4564 4694 4764 4820 4885 5123 5269 5326 5393
+Nganasan-GB188,33,GB188,1,GB188-1,,wagner-nagy_grammar_2018[509],,4565 5124
+Nganasan-GB192,33,GB192,0,GB192-0,No grammatical gender.,wagner-nagy_grammar_2018[94],,
+Nganasan-GB193,33,GB193,1,GB193-1,,wagner-nagy_grammar_2018[308],,3476 3539 3612 3674 3741 3953 4563 4692 4882 5121 5208 5324 5391
+Nganasan-GB196,33,GB196,0,GB196-0,,wagner-nagy_grammar_2018[106],,
+Nganasan-GB197,33,GB197,0,GB197-0,,wagner-nagy_grammar_2018[106],,
+Nganasan-GB198,33,GB198,0,GB198-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB203,33,GB203,3,GB203-3,,wagner-nagy_grammar_2018[315],,4566 4567 4887 4888 5394 5395
+Nganasan-GB204,33,GB204,1,GB204-1,"The quantifiers differ in form: bǝnsǝ 'all; whole', bǝńd'ika 'every; all of them'.",wagner-nagy_grammar_2018[315],,3421 3617 3679 4381 4447 4567 4568 4888 4965 5395
+Nganasan-GB250,33,GB250,1,GB250-1,,wagner-nagy_grammar_2018[360],,3680 3749 4382 4569 4966
+Nganasan-GB252,33,GB252,0,GB252-0,,wagner-nagy_grammar_2018[359],,
+Nganasan-GB253,33,GB253,0,GB253-0,,wagner-nagy_grammar_2018[359],,
+Nganasan-GB254,33,GB254,1,GB254-1,,wagner-nagy_grammar_2018[359],,3618 3804 4031 4182 4253 4448 4515 4570 4967 5127 5213
+Nganasan-GB256,33,GB256,0,GB256-0,,wagner-nagy_grammar_2018[359],,
+Nganasan-GB257,33,GB257,1,GB257-1,"Verbless interrogative sentences have a high-pitch intonation pattern, the tone peek being higher than that of an affirmative sentence.",wagner-nagy_grammar_2018[380],,
+Nganasan-GB260,33,GB260,0,GB260-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB262,33,GB262,0,GB262-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB263,33,GB263,0,GB263-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB264,33,GB264,0,GB264-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB265,33,GB265,0,GB265-0,,wagner-nagy_grammar_2018[390],,
+Nganasan-GB266,33,GB266,1,GB266-1,,wagner-nagy_grammar_2018[390],,3551 3686 3806 3882 3961 4033 4256 4386 4571 4700 4772 4896 4972 5128 5335 5402
+Nganasan-GB270,33,GB270,0,GB270-0,,wagner-nagy_grammar_2018[390],,
+Nganasan-GB273,33,GB273,0,GB273-0,,wagner-nagy_grammar_2018[390],,
+Nganasan-GB275,33,GB275,0,GB275-0,,wagner-nagy_grammar_2018[390],,
+Nganasan-GB276,33,GB276,0,GB276-0,,wagner-nagy_grammar_2018[390],,
+Nganasan-GB285,33,GB285,0,GB285-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB286,33,GB286,0,GB286-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB291,33,GB291,0,GB291-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB296,33,GB296,0,GB296-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB297,33,GB297,0,GB297-0,,wagner-nagy_grammar_2018[379],,
+Nganasan-GB298,33,GB298,1,GB298-1,,wagner-nagy_grammar_2018[405],,3405 3466 3529 3665 3731 3793 3863 4020 4088 4167 4302 4501 4560 4606 4753 4872 4946 5042 5118 5193 5314
+Nganasan-GB299,33,GB299,0,GB299-0,,wagner-nagy_grammar_2018[405-406],,
+Nganasan-GB300,33,GB300,0,GB300-0,,wagner-nagy_grammar_2018[217],,
+Nganasan-GB301,33,GB301,0,GB301-0,,wagner-nagy_grammar_2018[330],,
+Nganasan-GB302,33,GB302,0,GB302-0,,wagner-nagy_grammar_2018[295],,
+Nganasan-GB303,33,GB303,0,GB303-0,,wagner-nagy_grammar_2018,,
+Nganasan-GB304,33,GB304,1,GB304-1,,wagner-nagy_grammar_2018[295],,3557 3690 3811 3888 3968 4119 4263 4572 4707 4776 4976 5132 5341 5406
+Nganasan-GB305,33,GB305,0,GB305-0,,wagner-nagy_grammar_2018[304],,
+Nganasan-GB306,33,GB306,0,GB306-0,,wagner-nagy_grammar_2018[519],,
+Nganasan-GB309,33,GB309,0,GB309-0,,wagner-nagy_grammar_2018[214-215],,
+Nganasan-GB312,33,GB312,0,GB312-0,,wagner-nagy_grammar_2018[214],,
+Nganasan-GB313,33,GB313,0,GB313-0,,wagner-nagy_grammar_2018[19],,
+Nganasan-GB314,33,GB314,0,GB314-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB315,33,GB315,0,GB315-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB316,33,GB316,0,GB316-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB317,33,GB317,0,GB317-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB318,33,GB318,0,GB318-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB319,33,GB319,0,GB319-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB320,33,GB320,0,GB320-0,,wagner-nagy_grammar_2018[95],,
+Nganasan-GB321,33,GB321,0,GB321-0,,wagner-nagy_grammar_2018[94],,
+Nganasan-GB322,33,GB322,0,GB322-0,Direct evidentiality is unmarked.,wagner-nagy_grammar_2018[275],,
+Nganasan-GB323,33,GB323,1,GB323-1,,wagner-nagy_grammar_2018[275],,3399 3462 3525 3601 3660 3726 3786 3858 3935 4015 4123 4124 4159 4233 4296 4360 4424 4497 4556 4573 4574 4602 4675 4748 4808 4866 4938 5183 5255 5309 5376
+Nganasan-GB324,33,GB324,0,GB324-0,,wagner-nagy_grammar_2018[130],,
+Nganasan-GB325,33,GB325,1,GB325-1,"There are two interrogative quantifiers kanə 'how many, which' and kaŋkə 'which, how much'.",wagner-nagy_grammar_2018[137],,
+Nganasan-GB326,33,GB326,1,GB326-1,,wagner-nagy_grammar_2018[382],,3814 4040 4575 5138 5225
+Nganasan-GB327,33,GB327,1,GB327-1,,wagner-nagy_grammar_2018[452],,3433 3494 3563 3627 3696 3761 3815 3894 4125 4324 4459 4524 4576 4715 4779 4835 4903 4983 5080 5226 5347 5411
+Nganasan-GB328,33,GB328,1,GB328-1,,wagner-nagy_grammar_2018[452],,3628 3816 3895 4041 4197 4269 4525 4577 5139 5227
+Nganasan-GB329,33,GB329,0,GB329-0,,wagner-nagy_grammar_2018[453],,
+Nganasan-GB330,33,GB330,0,GB330-0,,wagner-nagy_grammar_2018[453],,
+Nganasan-GB331,33,GB331,0,GB331-0,,wagner-nagy_grammar_2018[453],,
+Nganasan-GB333,33,GB333,1,GB333-1,"Cardinal numerals are compounded in numbers 11 and above. Between 11 and 19 the structure of the numerals is ""10 + 1, 2 …"". Numerals ending in 0 are also compounded: 20 is 2 + 10 etc.",wagner-nagy_grammar_2018[158],,
+Nganasan-GB334,33,GB334,0,GB334-0,,wagner-nagy_grammar_2018[158],,
+Nganasan-GB335,33,GB335,0,GB335-0,,wagner-nagy_grammar_2018[158],,
+Nganasan-GB336,33,GB336,0,GB336-0,,wagner-nagy_grammar_2018[158],,
+Nganasan-GB400,33,GB400,0,GB400-0,,wagner-nagy_grammar_2018,,
+Nganasan-GB401,33,GB401,0,GB401-0,,wagner-nagy_grammar_2018[in passim],,
+Nganasan-GB402,33,GB402,0,GB402-0,,wagner-nagy_grammar_2018[217],,
+Nganasan-GB403,33,GB403,0,GB403-0,,wagner-nagy_grammar_2018[217],,
+Nganasan-GB408,33,GB408,1,GB408-1,,wagner-nagy_grammar_2018[363],,3628 3816 3895 4041 4197 4269 4525 4577 5139 5227
+Nganasan-GB409,33,GB409,0,GB409-0,,wagner-nagy_grammar_2018[363],,
+Nganasan-GB410,33,GB410,1,GB410-1,The personal pronouns have the same form in the role of an object and subject.,"wagner-nagy_grammar_2018[363, 374]",,4578 4986
+Nganasan-GB415,33,GB415,0,GB415-0,,wagner-nagy_grammar_2018[106],,
+Nganasan-GB421,33,GB421,0,GB421-0,,wagner-nagy_grammar_2018[433],,
+Nganasan-GB422,33,GB422,0,GB422-0,,wagner-nagy_grammar_2018[433],,
+Nganasan-GB430,33,GB430,0,GB430-0,,wagner-nagy_grammar_2018[317],,
+Nganasan-GB431,33,GB431,0,GB431-0,,wagner-nagy_grammar_2018[317],,
+Nganasan-GB432,33,GB432,1,GB432-1,,wagner-nagy_grammar_2018[317],,3379 3449 3497 3509 3585 3633 3645 3711 3766 3776 3905 3920 3997 4044 4058 4142 4212 4328 4344 4407 4476 4528 4543 4579 4589 4644 4659 4735 4792 4850 4908 4927 4988 5105 5158 5232 5245 5292 5362
+Nganasan-GB433,33,GB433,1,GB433-1,,wagner-nagy_grammar_2018[317],,3375 3444 3501 3503 3577 3579 3638 3640 3704 3706 3770 3772 3828 3830 3909 3989 3991 4053 4134 4136 4206 4279 4281 4332 4334 4399 4401 4469 4471 4533 4535 4582 4584 4649 4722 4724 4785 4787 4843 4845 4913 4915 4995 5093 5096 5147 5238 5282 5284 5355 5357
+Nganasan-GB519,33,GB519,0,GB519-0,,wagner-nagy_grammar_2018[240],,
+Nganasan-GB520,33,GB520,0,GB520-0,,wagner-nagy_grammar_2018[222],,
+Nganasan-GB521,33,GB521,0,GB521-0,,wagner-nagy_grammar_2018[233],,
+Nganasan-GB522,33,GB522,1,GB522-1,,wagner-nagy_grammar_2018[106],,3439 3499 3574 3768 3823 3907 4047 4131 4203 4276 4330 4397 4465 4531 4580 4720 4783 4841 4910 4989 5145 5236 5280 5353 5421
 North_Karelian-UT001,8,UT001,0,UT001-0,,,Olga Melentjeva (p.c. 2019),
 North_Karelian-UT002,8,UT002,0,UT002-0,,,Olga Melentjeva (p.c. 2019),
 North_Karelian-UT003,8,UT003,0,UT003-0,,,Olga Melentjeva (p.c. 2019),
@@ -12085,7 +12085,7 @@ Udmurt-GB196,23,GB196,0,GB196-0,,winkler_udmurtische_2011[69],,
 Udmurt-GB197,23,GB197,0,GB197-0,,winkler_udmurtische_2011[69],,
 Udmurt-GB198,23,GB198,0,GB198-0,,winkler_udmurtische_2011[77],,
 Udmurt-GB203,23,GB203,3,GB203-3,,winkler_udmurtische_2011[76],,3420 3482 3544 3616 3678 3746 3803 3875 3957 4030 4106 4179 4314 4380 4446 4622 4696 4766 4822 4964 5061 5209 5271 5328
-Udmurt-GB204,23,GB204,1,GB204-1,"They differ formally byde 'every', bydes 'all' and in the order possibilities: both UQ-N for 'all' and only UQ-N for 'every'",dusenkova_-_2008,,3483 3484 3545 3546 3747 3748 3876 3877 3958 3959 4107 4108 4180 4181 4251 4252 4315 4316 4513 4514 4623 4624 4697 4698 4767 4768 4823 4824 4889 4890 5062 5063 5125 5126 5210 5211 5329 5330 5396
+Udmurt-GB204,23,GB204,1,GB204-1,"They differ formally byde 'every', bydes 'all' and in the order possibilities: both UQ-N for 'all' and only UQ-N for 'every'",dusenkova_2008,,3483 3484 3545 3546 3747 3748 3876 3877 3958 3959 4107 4108 4180 4181 4251 4252 4315 4316 4513 4514 4623 4624 4697 4698 4767 4768 4823 4824 4889 4890 5062 5063 5125 5126 5210 5211 5329 5330 5396
 Udmurt-GB250,23,GB250,0,GB250-0,,winkler_udmurtische_2011[142],,
 Udmurt-GB252,23,GB252,1,GB252-1,With the postposition dor-yn 'at-INE',winkler_udmurtische_2011[142],,3422 3485 3681 3750 3960 4109 4317 4383 4626 4699 4771 4825 4891 5212 5331 5397
 Udmurt-GB253,23,GB253,0,GB253-0,,winkler_udmurtische_2011[142],,

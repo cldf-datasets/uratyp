@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "784bd50",
+            "dc:created": "f31e044",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.3",
+            "dc:created": "v5.3-13-g3f7b10bee2",
             "dc:title": "Glottolog"
         }
     ],

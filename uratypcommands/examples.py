@@ -4,7 +4,6 @@
 import re
 
 from csvw.dsv import reader, UnicodeWriter
-from clldutils.clilib import PathType
 from cldfbench_uratyp import Dataset
 
 WORD_PATTERN = re.compile("(?P<Primary_Text>[^[]+)\[(?P<IPA>[^]]+)]\s*('|’|‘)(?P<Translation>[^'’’]+)('|’|’)")

@@ -8,7 +8,7 @@ from nameparser import HumanName
 from pybtex import database
 from clld.lib.bibtex import unescape
 from clldutils.misc import slug
-from clldutils.text import split_text, split_text_with_context
+from clldutils.text import split_text
 from clldutils.markup import iter_markdown_tables
 from csvw.dsv import reader
 from cldfbench import Dataset as BaseDataset, CLDFSpec
@@ -151,14 +151,11 @@ class Dataset(BaseDataset):
             lmap[lang['Glottocode']] = lang['ID']
 
         data = Data.from_repos(self.raw_dir, lmap, refkeys, args.log)
-        #data.check(refkeys)
-        print(data.stats())
 
         t = list(iter_markdown_tables(self.dir.joinpath('CONTRIBUTORS.md').read_text(encoding='utf8')))
         experts = collections.defaultdict(lambda: collections.defaultdict(list))
         for row in t[1][1]:
             row = list(zip(t[1][0], row))
-            #[('ID', '35'), ('Subgroup', 'Mari'), ('Language', 'Hill Mari'), ('UT', '✔'), ('Values and/or examples', 'Jeremy Bradley'), ('GB', '✔'), ('Values and/or examples', 'Jeremy Bradley, Denys Teptiuk, Marili Tomingas')]
             contrib, lid = None, None
             for k, v in row:
                 if k == 'Language':
@@ -188,7 +185,6 @@ class Dataset(BaseDataset):
         gb_features = {
             r['Feature_ID']: list(gb_codes(r['Possible Values']))
             for r in self.raw_dir.read_csv('gb.csv', dicts=True)}
-        eid = 0
 
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
             args.writer.objects['ContributionTable'].append(
@@ -230,7 +226,6 @@ class Dataset(BaseDataset):
                     IPA=ex.IPA,
                     Source=ex.Source,
                 ))
-                #eids.append(str(eid))
 
         for lid, vv in data.values.items():
             for fid, v in vv.items():
@@ -252,14 +247,6 @@ class Dataset(BaseDataset):
 
 
 def _checked_sources(s, refkeys, what, log):
-    #
-    # FIXME: If what == 'example':
-    # must recognize corpus refs, e.g.
-    # OUDB 1238:91
-    # Gusev et al. 2019:PKZ_1964_SU0205.PKZ.263 (055.003)
-    # UCKSPT:Yakimovich2015_txt10_100
-    # Komi-Zyrian corpus: Art 2011
-    #
     refpattern = re.compile(r'({})(\:\s*([0-9, f§XIV\-]+|in passim|[^\s]+))?'.format('|'.join(re.escape(k) for k in refkeys)))
 
     s = re.sub(r'\s+', ' ', s)
