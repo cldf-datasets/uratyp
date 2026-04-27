@@ -32,10 +32,7 @@ This folder contains the files that make up the UT part of UraTyp.<br/>
 1. `Features.csv`<br/> 
 Includes features, i.e., the questions used to collect the UT data. The first column provides the feature ID, the second column presents the feature itself, and the third column specifies the broader area (phonology, morphology, syntax, or lexicon) under which the feature could be classified. Detailed descriptions of features can be found in the `doc` folder. Each description also contains information on the criteria used when coding the respective feature.
 
-2. `Finaldata.csv`<br/>
-Presents all the data collected using the UT questionnaire in one table. It includes the names of the languages, their subfamilies, and the values (answers) for each feature (represented only by question ID).
-
-3. `language-tables`<br/>
+2. `language-tables`<br/>
 For each language, this folder contains a general table with values and a separate table with examples. The information in the general tables is organized as follows:<br/>
 (i) `ID` of the feature<br/>
 (ii) `Name` of the feature<br/> 
@@ -52,10 +49,7 @@ This folder contains the files that make up the GB part of UraTyp.
 1. `Features.csv`<br/>
 Includes features, i.e., the questions used to collect the GB data.
 
-2. `Finaldata.csv`<br/>
-Presents all the data collected using the GB questionnaire as one table. 
-
-3. `language-tables`<br/>
+2. `language-tables`<br/>
 For each language, this folder contains a general table with the values provided for the GB questionnaire and a table with examples. The organization of the information in these tables is similar to that of the UT tables described above: (i) `ID`, (ii) `Feature`, (iii) `Value`, (iv) `Source`, (v) `Comment`, (vi) `Example`
 
 ### `Languages.csv`
