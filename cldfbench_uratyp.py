@@ -14,6 +14,8 @@ from csvw.dsv import reader
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 from pycldf.sources import Source
 
+from uratypcommands.cldfmd import References, cldf_md
+
 GB_LANGUAGE_MAP = {
     #GB - UT
     # Central Mansi [cent2322]
@@ -104,7 +106,14 @@ class Dataset(BaseDataset):
             },
             {
                 "name": "Feature_Description",
-                "dc:description": "Relative path to a markdown document describing the feature",
+                "dc:format": "text/markdown",
+                "dc:conformsTo": "CLDF Markdown",
+            },
+            {
+                "name": "Source",
+                "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                "dc:description": "Sources cited in the feature description.",
+                "separator": ";",
             }
         )
         args.writer.cldf['LanguageTable', 'Glottocode'].null = ['?']
@@ -186,6 +195,7 @@ class Dataset(BaseDataset):
             r['Feature_ID']: list(gb_codes(r['Possible Values']))
             for r in self.raw_dir.read_csv('gb.csv', dicts=True)}
 
+        refs = References.from_sources(args.writer.cldf.sources)
         for sd, contrib in [('UT', 'Uralic Areal Typology'), ('GB', 'Grambank')]:
             args.writer.objects['ContributionTable'].append(
                 dict(ID=sd, Name=contrib))
@@ -194,7 +204,7 @@ class Dataset(BaseDataset):
                 param['Contribution_ID'] = sd
                 doc = self.cldf_dir / '..' / 'doc' / '{}.md'.format(param['ID'])
                 if doc.exists():
-                    param['Feature_Description'] = str(doc.relative_to(self.cldf_dir))
+                    param['Feature_Description'], param['Source'] = cldf_md(doc, refs)
                 args.writer.objects['ParameterTable'].append(param)
                 if sd == 'UT':
                     codes = [('1', 'yes'), ('0', 'no')]
@@ -215,7 +225,7 @@ class Dataset(BaseDataset):
         for (lid, eid), exs in data.examples.items():
             for ex in exs:
                 pk += 1
-                eids[eid].append(pk)
+                eids[(lid, eid)].append(pk)
                 args.writer.objects['ExampleTable'].append(dict(
                     ID=str(pk),
                     Language_ID=lmap[lid],
@@ -231,8 +241,8 @@ class Dataset(BaseDataset):
             for fid, v in vv.items():
                 exs = []
                 for eid in v.Example:
-                    if eid in eids:
-                        exs.extend(eids[eid])
+                    if (lid, eid) in eids:
+                        exs.extend(eids[(lid, eid)])
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, fid),
                     Language_ID=lmap[lid],

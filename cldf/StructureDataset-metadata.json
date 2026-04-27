@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "f31e044",
+            "dc:created": "9bb27d3",
             "dc:title": "Repository"
         },
         {
@@ -559,8 +559,15 @@
                         "name": "Contribution_ID"
                     },
                     {
-                        "dc:description": "Relative path to a markdown document describing the feature",
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
                         "name": "Feature_Description"
+                    },
+                    {
+                        "dc:description": "Sources cited in the feature description.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     }
                 ],
                 "foreignKeys": [

@@ -14,5 +14,6 @@ ideally in a separate virtual environment.
 - Validate it:
   ```shell
   pytest
+  cldf validate cldf --with-cldf-markdown
   ```
 
