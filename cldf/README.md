@@ -12,7 +12,7 @@ property | value
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://uralic.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/bedlan/uratyp-1
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/bedlan/uratyp-1/tree/aca7efb">bedlan/uratyp-1 aca7efb</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog v5.3</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/bedlan/uratyp-1/tree/ee05b99">bedlan/uratyp-1 ee05b99</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog v5.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | uratyp
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -157,5 +157,6 @@ Name/Property | Datatype | Description
 [ColumnSpec](http://cldf.clld.org/v1.0/terms.rdf#columnSpec) | `json` | 
 `Area` | `string` | 
 [Contribution_ID](http://cldf.clld.org/v1.0/terms.rdf#contributionReference) | `string` | Links a feature to the questionnaire it comes from.<br>References [contributions.csv::ID](#table-contributionscsv)
-`Feature_Description` | `string` | Relative path to a markdown document describing the feature
+`Feature_Description` | `string` | 
+[Source](http://cldf.clld.org/v1.0/terms.rdf#source) | list of `string` (separated by `;`) | Sources cited in the feature description.<br>References [sources.bib::BibTeX-key](./sources.bib)
 
