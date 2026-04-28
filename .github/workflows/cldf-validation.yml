@@ -12,12 +12,12 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.7]
+        python-version: [3.12]
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v6
     - name: Set up Python ${{ matrix.python-version }}
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v6
       with:
         python-version: ${{ matrix.python-version }}
     - name: Install dependencies
@@ -27,3 +27,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest --cldf-metadata=cldf/StructureDataset-metadata.json test.py
+        cldf validate cldf --with-cldf-markdown
