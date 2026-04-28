@@ -1,0 +1,159 @@
+ID,Name,Kildin.Saami,Source,Example,Comment
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,"Kert 1971:136-139, 178-181; Rießler 2022:227",,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Rießler 2022:233,,Only quantity phrases with a noun in the genitive singular or essive do not agree with verbal predicates.
+UT003,Can finite verbs agree in number with a nominal object?,0,Kert 1971:in passim; Rießler 2022:233-234,,
+UT004,Can an adnominal property word agree with the noun in case?,0,"Kert 1971:230, 272; Rießler 2022:233-234",,
+UT005,Is there non-agreement between an adnominal property word and the head noun?,1,Ilya Egorov (p.c. 2024),"UT005-1, UT005-2","Demonstrative pronouns do not agree in terms of case in the adnominal position when a noun is marked with a case other than comitative singular (but not plural), genitive, or nominative. Numerals from 'one' to 'six' demonstrate similar behavior. Demonstrative pronouns and numerals are marked with genetive, however, this form can be analyzed as an underspecified oblique form as well."
+UT006,Can adpositions be used to mark core verbal arguments?,0,Kert 1971:212-217; Rießler 2022:in passim,,
+UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Szabó 1984a; Szabó 1985,"UT008-1, UT008-2",Non-finites require marking an S/A-argument with genitive or comitative.
+UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Szabó 1984a; Szabó 1985,,
+UT010,"Do the characteristics of the object referent (topicality, animacy, definiteness) influence object marking?",0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT011,Does object marking correlate with aspectuality?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT012,Does object marking depend on the verb conjugation form?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT013,Is there differential subject marking?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Kert 1971:in passim; Rießler 2022:in passim,UT014,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT016,Is there grammatical marking of habituality?,1,Kert 1987,"UT016-1, UT116-2",Habitual and frequentative meanings are marked with the same derivational suffix.
+UT017,Is there grammatical marking of frequentativity?,1,Kert 1987,"UT005-1, UT116-2",Habitual and frequentative meanings are marked with the same derivational suffix.
+UT018,Is there grammatical marking of progressivity?,1,Maria Kosheleva (p.c. 2025),"UT018-1, UT018-2",
+UT019,Is it common to use a verb in the present tense for future time reference?,1,Kert 1971:195; Rießler 2022:227,"UT019-1, UT019-2","Telic verbs in the present tense refer to the future. However, atelic verbs in the present tense can only refer to the future in the context of planned activities."
+UT020,Is there grammatical marking of the immediate future?,1,Maria Kosheleva (p.c. 2024),UT020,An inchoative marker can have prospective meaning only in some idiolects.
+UT021,Is there grammatical marking of the pluperfect?,1,Kert 1971:198; Rießler 2022:230-231,UT021,
+UT022,Can aspect be expressed overtly in the negative marker?,0,Rießler 2022:235,,
+UT023,Can tense be expressed overtly in the negative marker?,0,Rießler 2022:235,,
+UT024,Is there grammatical marking of mirativity?,0,Kert 1971:in passim; Rießler 2022:in passim,,Perfect can sometimes have a mirative reading.
+UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,0,Kert 1971:178; Rießler 2022:227-231,,
+UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Kert 1971:199-200; Rießler 2022:227,"UT026-1, UT026-2",
+UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Kert 1971:199-200,UT027,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,0,Kert 1971:178; Rießler 2022:227-231,,
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,0,Kert 1971:178; Rießler 2022:227-231,,Epistemic possibility was encoded with potential mood in archaic language.
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Kert 1971:178; Rießler 2022:227-231,,
+UT031,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 3Sg?",0,Kert 1971:201-202; Rießler 2022:227-231,,There were jussive forms in archaic language.
+UT032,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 1Sg?",0,Kert 1971:201-202; Rießler 2022:227-231,,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT035,Is there a reflexive conjugation?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Ilya Egorov (p.c. 2024),UT200,
+UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Ilya Egorov (p.c. 2024),UT040,
+UT201,Can an infinitival verb form be used in a directive function?,1,Kert 1971:284,UT201,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Ilya Egorov (p.c. 2024),UT043,
+UT044,Are there sentences without overt verbal arguments?,1,Kert 1971:284,UT044,
+UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,1,Kert 1971:257-258,"UT045-1, UT045-2",
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Kert 1971:257-258,UT202,
+UT047,Can locative constructions commonly occur without a copula?,0,Kert 1971:258,,
+UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Kert 1971:219-220,"UT048-1, UT048-2, UT048-3",
+UT049,Does existential negation have a special negator?,0,Potseluev 2024,,
+UT050,Can standard negation be asymmetric in the present tense?,1,Potseluev 2024,"UT050-1, UT050-2",
+UT051,Can non-finite dependent clauses use the standard negation construction?,0,Potseluev 2024,,
+UT052,Is there a special negator that combines with non-finite forms?,0,Potseluev 2024,,
+UT053,Are there special negative non-finite forms?,1,Szabó 1985,UT053,
+UT054,Is there an impersonal passive construction?,1,Kert 1971:199,UT054,
+UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Szabó 1985,UT055,
+UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,1,Szabó 1985,"UT056-1, UT056-2, UT056-3","When used adnominally, the non-finite form on -əm <-эм> relativizes mostly non-core participants, however, occasionally it can relativize subject and object as well."
+UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Szabó 1985,,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",1,Szabó 1985,"UT058-1, UT058-2, UT058-3",
+UT059,Is there a future participle?,0,Szabó 1985,,
+UT060,Are there participles that can encode their subject with possessive suffixes?,0,Szabó 1985,,"Szabó (1985) provides some examples of tentative possessive suffixes attached to participles (third person only), however, the interpretation of these examples remains somewhat doubtful."
+UT062,Are there participles that must agree with the nouns they modify in case and number in all contexts?,0,Szabó 1985,,
+UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,1,Szabó 1985,"UT063-1, UT063-2",
+UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Szabó 1985,"UT064-1, UT064-2",
+UT065,Are there non-finite forms that can be used both as participles and converbs?,1,Szabó 1985,"UT065-1, UT065-2, UT053, UT058-2",
+UT066,Is OV the neutral order in affirmative imperative clauses?,0,Ilya Egorov (p.c. 2024),,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Potseluev 2024:in passim,,
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Kert 1971:in passim; Rießler 2022:in passim,,"There is a marker that can be used to express politeness, but it is not a dedicated morpheme (it takes on special connotations in certain communicative situations)."
+UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,0,Egorov and Sergienko 2022:108,,
+UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Egorov and Sergienko 2022:108,UT072,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Rießler 2022:227-228,"UT073-1, UT073-2",The agreement of adjectives in number has almost been lost in modern language.
+UT074,Is there a bound superlative degree marker on property words?,1,Rießler 2022:227-228,"UT074-1, UT074-2",
+UT075,Can adpositions have person/number marking?,1,Kert 1971:218,UT075,"The only adposition allowing a person marker is mʲiːlʲːtʲe 'along, behind, with'. However, person marking in this adposition has almost been lost in modern language."
+UT076,Are there adpositions that show a tripartite system?,0,Kert 1971:212-217,,
+UT077,Is there case compounding?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT078,Are there morphological cases only used with pronouns?,0,Kert 1971:172-177,,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,1,Rießler 2022:233,"UT079-1, UT079-2",
+UT080,Is the singular form of the noun also used with numerals greater than 1?,1,Kert 1971:230,UT080,
+UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT083,Is there a dedicated case that expresses a terminative meaning?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,1,Szabó 1984c,"UT084-1, UT084-2",
+UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT086,Is there a locative case that expresses goal?,1,Szabó 1984b,"UT086-1, UT086-2",
+UT087,Is there a locative case that expresses location?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT088,Is there a locative case that expresses source?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT089,Is there case syncretism for goal and location marking?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT090,Is there case syncretism for location and source marking?,1,Szabó 1984b,"UT090-1, UT090-2",
+UT091,Are there two sets of local cases?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT092,Are there three or more sets of local cases?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Szabó 1984c,"UT093-1, UT093-2, UT093-3",
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,1,Szabó 1984c,"UT095-1, UT095-2",
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT097,Is there a dedicated case that expresses equativity?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,
+UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Kert 1971:136-164; Rießler 2022:225-227,,
+UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Ilya Egorov (p.c. 2024),,
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Szabó 1984a; Szabó 1984b; Szabó 1984c,,Only genetive marking is possible in attributive constructions. External and predicative possessors require locative.
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Szabó 1984a,,
+UT204,Are singular and plural possessee distinguished in the possessive declension?,0,Kert 1971:156-160,,
+UT104,Can a 2Sg possessive suffix be used to mark definiteness?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT105,Can a 3Sg possessive suffix be used to mark definiteness?,0,Kert 1971:in passim; Rießler 2022:in passim,,
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Kert 1971:174; Rießler 2022:226-227,"UT106-1, UT106-2",
+UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,1,Artyom Boyko (p.c. 2024),UT107,
+UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,1,Artyom Boyko (p.c. 2024),UT108,"The use of mʲiː 'what' and kuː 'which' is more common, but kʲeː 'who' can sometimes still be used for inanimate objects as well."
+UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Ilya Egorov (p.c. 2024),UT109,
+UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Kert 1971:156-160,"UT110-1, UT110-2",
+UT205,Are case and number marked cumulatively across the paradigm?,1,Rießler 2022:225,,Number and case are marked comulatively within a case-number marker.
+UT112,Are there different words for mother’s brother and father’s brother?,1,"Kuruč 1985:78, 91; Antonova and Scheller 2021: че̄дзь","UT112-1, UT112-2, UT112-3",
+UT113,Are there different words for younger and older relatives for relations other than siblings?,1,"Kuruč 1985:91, 138, 196","UT112-2, UT112-3, UT113-1, UT113-2",
+UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,"Kuruč 1985:62, 217, 238, 273","UT114-1, UT114-2, UT114-3, UT114-4","There is a strict animacy distinction for the concepts 'new' and 'young'. For the concept 'old', there is a syncretic term wuəmʲː 'old (animate/inanimate)' alongside a specialized term puərʲesʲ 'old (animate); elder'."
+UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,"Kuruč 1985:146, 258.",,There is the distinction only for 'warm':pɒːhk ‘warm (of the atmosphere)’ vs lʸiːŋʸgʸ-esʸ ‘warm (of the liquids)’.
+UT116,Is there contrastive length for consonants?,1,Rießler 2022:221-223,"UT116-1, UT116-2",
+UT117,Is there contrastive length for vowels?,1,Buzanov et al. 2023,"UT116-1, UT117",
+UT118,Is there a contrast between short and long unstressed vowels?,0,Buzanov et al. 2023,,
+UT119,Is there a contrast in the length of geminate consonants?,1,Ilya Egorov (p.c. 2025),"UT119-1, UT119-2, UT119-3, UT119-4",
+UT120,Are there more than two phonological quantities?,1,Ilya Egorov (p.c. 2025),"UT120, UT119-1, UT119-2",
+UT121,Are there extralong syllables?,1,Rießler 2022:223-224,"UT121-1, UT121-2",
+UT122,Is the main foot structure trochaic?,1,Rießler 2022:224; Wilbur 2007:in passim,"UT122-1, UT122-2",Trisyllabic dactyl feet are also possible.
+UT123,Is there lexically distinctive word stress?,0,Rießler 2022:224; Wilbur 2007:in passim,,
+UT124,Is there morphologically conditioned stress?,1,Ilya Egorov (p.c. 2024),"UT124-1, UT124-2","The comitative plural and inchoative markers require secondary stress, otherwise three or four syllabic forms do not obligatory have a secondary stress on the third syllable."
+UT125,Is there fixed primary stress?,1,Rießler 2022:224; Wilbur 2007:in passim,"UT125-1, UT125-3, UT124-1",
+UT126,Is there stress in heavy syllables?,0,Rießler 2022:224; Wilbur 2007:in passim,,
+UT127,Is there non-initial primary stress?,0,Rießler 2022:224; Wilbur 2007:in passim,,
+UT128,Is there palatal vowel harmony?,0,Rießler 2022:221-224,,
+UT129,Is there velar vowel harmony?,0,Rießler 2022:221-224,,
+UT130,Is there labial vowel harmony?,0,Rießler 2022:221-224,,
+UT131,Are there closing diphthongs?,0,Buzanov et al. 2023,,
+UT132,Are there opening diphthongs?,1,Buzanov et al. 2023,"UT132-1, UT132-2","There are two lowering diphthongs:<уэ> /uə/ and <уа> /oa/  traditionally analyzed as /ua/. Some descriptions (e.g. Rießler 2022) analyze <е̄> and <я̄> as /ie/ and /ea/ respectively. In the modern language, /ie/ and /ea/ became monophthongs. Coarticulations triggered by palatalization can cause a diphthong-like effect."
+UT133,Is there a qualitative contrast between subsets of short and long vowels?,0,Buzanov et al. 2023,,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Buzanov et al. 2023,,
+UT135,Is there a high front rounded vowel /y/?,0,Buzanov et al. 2023,,
+UT136,Is there a mid-high front rounded vowel /ø/?,0,Buzanov et al. 2023,,
+UT137,Is there a high back unrounded vowel /ɯ ɨ/?,0,Buzanov et al. 2023,,
+UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,0,Buzanov et al. 2023,,
+UT139,Is there a low back rounded vowel /ɒ/?,1,Buzanov et al. 2023,"UT139-1, UT139-2",
+UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,0,Buzanov et al. 2023,,
+UT141,Are there word-initial consonant clusters?,1,Kert 1971:71,"UT141-1, UT141-2",Word-initial consonant clusters are restricted to recent Russian loanwords.
+UT142,Are there word-internal consonant clusters in the syllable onset?,0,Rießler 2022:223-224,,
+UT143,Are there consonant clusters in the syllable coda?,1,"Kert 1971:71; Rießler 2022:223-224","UT143-1, UT143-2",
+UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,Kert 1971:79-81,"UT143-2, UT144",
+UT145,Are there word-final clusters of three or more consonants?,0,Kert 1971:79-81,,
+UT146,Are there palatalized alveolar consonants?,1,Kuzmenkov and Rießler 2012,"UT146-1, UT146-2, UT-146-3, UT146-4",
+UT147,Are there palatalized labial and velar consonants?,1,"Kert 1971:63; Rießler 2022:221-223","UT147-1, UT147-2, UT-147-3, UT139-1",
+UT148,Is there a palatal stop?,0,"Kert 1971:63; Rießler 2022:221-223",,
+UT149,Is there a palatal nasal /ɲ/?,1,Kuzmenkov and Rießler 2012,"UT149-1, UT149-2",
+UT150,Is there a palatal lateral /ʎ/?,0,Kert 1971:63,,"There was palatal [ʎ] opposed to palatalized [lʲ] in more archaic dialects. Nowadays, a cluster /lʲj/ is attested on the place of [ʎ]."
+UT151,Is there a velar nasal /ŋ/?,1,"Kert 1971:63; Rießler 2022:221-223",UT151,
+UT152,Is there an alveolar affricate /t͡s/?,1,"Kert 1971:63; Rießler 2022:221-223","UT152-1, UT152-2",
+UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",1,"Kert 1971:63; Rießler 2022:221-223","UT121-2, UT153",
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,1,"Kert 1971:63; Rießler 2022:221-223","UT154-1, UT154-2",
+UT155,"Are there voiced plosives (e.g., /b g d/)?",1,"Kert 1971:63; Rießler 2022:221-223","UT155-1, UT155-2, UT155-3","Word-initial /b/, /d/, /g/ are restricted to functional words and recent borrowings."
+UT156,Is there a glottal stop /ʔ/?,0,"Kert 1971:63; Rießler 2022:221-223",,
+UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,"Kert 1971:63; Rießler 2022:221-223",,
+UT158,Is there a constraint on the word-initial alveolar trill /r/?,0,Kert 1971:62-64,,
+UT159,Is there a laryngeal fricative /h/?,1,Kert 1971:55-56,"UT159-1, UT159-2","[h] is analyzed as part of preaspiration occlusives in some descriptions (e.g.; Rießler 2022)."
+UT160,Is there a voiced velar fricative /ɣ/?,0,"Kert 1971:63; Rießler 2022:221-223",,[ɣ] is attested in place of the modern word-final and word-medial [g] in more archaic dialects.
+UT161,Is there a voiceless velar fricative /x/?,1,"Kert 1971:63; Rießler 2022:221-223","UT161-1, UT161-2, UT125-2",
+UT162,Is there a voiced dental fricative /ð/?,0,"Kert 1971:63; Rießler 2022:221-223",,[ð] is attested in place of the modern word-final and word-medial [d] in more archaic dialects.
+UT163,Is there a labio-velar approximant /w/?,1,Ilya Egorov (p.c. 2024),"UT163-1, UT163-2","There is no phonemic opposition /w/ vs /v/. [w] and [v] are in free variation, at least in some positions. It is difficult to determine which label - /w/ or /v/ - is more appropriate for this phoneme."
+UT164,Is there a voiceless labiodental fricative /f/?,1,"Kert 1971:63; Rießler 2022:221-223","UT164-1, UT164-2, UT164-3","/f/ is a rare, but absolutely full-fledged phoneme."
+UT165,Is there radical qualitative consonant gradation?,1,"Kert 1971:81-100; Rießler 2022:225","UT164-3, UT144, UT152-2, UT159-1",
+UT166,Is there quantitative consonant gradation?,1,"Kert 1971:81-100; Rießler 2022:225","UT116-1, UT116-2, UT166-1, UT166-2",

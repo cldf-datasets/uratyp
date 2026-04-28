@@ -10,25 +10,25 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Uralic Typological database - UraTyp",
-    "dcat:accessURL": "https://github.com/cldf-datasets/uratyp",
+    "dcat:accessURL": "https://github.com/bedlan/uratyp-1",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/cldf-datasets/uratyp",
+            "rdf:about": "https://github.com/bedlan/uratyp-1",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-161-g06e4aef",
+            "dc:created": "ee05b99",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -37,13 +37,10 @@
     ],
     "rdf:ID": "uratyp",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ValueTable",
-            "dc:extent": 11094,
+            "dc:extent": 13414,
             "tableSchema": {
                 "columns": [
                     {
@@ -99,6 +96,10 @@
                         "required": false,
                         "separator": ";",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_Comment"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#exampleReference",
@@ -160,7 +161,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 35,
+            "dc:extent": 39,
             "tableSchema": {
                 "columns": [
                     {
@@ -214,7 +215,7 @@
                         ],
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -278,7 +279,7 @@
             "url": "languages.csv"
         },
         {
-            "dc:extent": 44,
+            "dc:extent": 56,
             "tableSchema": {
                 "columns": [
                     {
@@ -298,7 +299,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CodeTable",
-            "dc:extent": 728,
+            "dc:extent": 714,
             "tableSchema": {
                 "columns": [
                     {
@@ -352,7 +353,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ExampleTable",
-            "dc:extent": 2895,
+            "dc:extent": 5421,
             "tableSchema": {
                 "columns": [
                     {
@@ -385,7 +386,7 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#analyzedWord",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Analyzed_Word"
                     },
                     {
@@ -394,7 +395,7 @@
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
                         "required": false,
-                        "separator": "\\t",
+                        "separator": "\t",
                         "name": "Gloss"
                     },
                     {
@@ -414,14 +415,30 @@
                         "name": "Meta_Language_ID"
                     },
                     {
+                        "dc:description": "The level of conformance of the example with the Leipzig Glossing Rules",
+                        "dc:extent": "singlevalued",
+                        "datatype": {
+                            "base": "string",
+                            "format": "WORD_ALIGNED|MORPHEME_ALIGNED"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#lgrConformance",
+                        "required": false,
+                        "name": "LGR_Conformance"
+                    },
+                    {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
                         "required": false,
                         "name": "Comment"
                     },
                     {
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
+                    },
+                    {
                         "datatype": "string",
-                        "name": "Original_Script"
+                        "name": "IPA"
                     }
                 ],
                 "foreignKeys": [
@@ -502,7 +519,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 360,
+            "dc:extent": 353,
             "tableSchema": {
                 "columns": [
                     {
@@ -527,6 +544,12 @@
                         "name": "Description"
                     },
                     {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    },
+                    {
                         "datatype": "string",
                         "name": "Area"
                     },
@@ -536,8 +559,15 @@
                         "name": "Contribution_ID"
                     },
                     {
-                        "dc:description": "Relative path to a markdown document describing the feature",
+                        "dc:conformsTo": "CLDF Markdown",
+                        "dc:format": "text/markdown",
                         "name": "Feature_Description"
+                    },
+                    {
+                        "dc:description": "Sources cited in the feature description.",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+                        "separator": ";",
+                        "name": "Source"
                     }
                 ],
                 "foreignKeys": [

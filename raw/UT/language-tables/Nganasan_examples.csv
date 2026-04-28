@@ -1,64 +1,69 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
-UT003-1,koða-Ɂa-kəińə,,koða-Ɂa-kəińə,,I killed both,
-UT003-2,koða-Ɂa-ńə,,koða-Ɂa-ńə,,I killed them,
-UT004-1,aniɁka-gəj ma-kəj,,aniɁka-gəj	ma-kəj,,two big houses,
-UT004-2, aniɁka-iɁ mað-uɁ ŋua-Ɂ,,aniɁka-iɁ	mað-uɁ	ŋua-Ɂ,big-GEN.PL	tent-GEN.PL	door,the doors of the big tents,
-UT008,təmuŋku büü-tü-ndə bəńďə-Ɂ ŋəmə-ki-Ɂə-Ɂ,,təmuŋku	büü-tü-ndə	bəńďə-Ɂ	ŋəmə-ki-Ɂə-Ɂ,mouse.[GEN]	go-ACT-LAT	all-PL	eat-RES-AOR-3PL,"When/While the mouse is going out, all of them started to eat",
-UT012,əmə bɨnɨ-mənɨ bakaðəə-rə huan-ə-Ɂ,,əmə bɨnɨ-mənɨ bakaðəə-rə huan-ə-Ɂ,this.[GEN] rope-PROL neck-2SGPOSS put.into-EP-IMP.2SG,Put your neck into this rope,Wagner-Nagy 2018: 195
-UT016,küði͡atuďa hiri-tə-mɨŋhi͡a-ntɨ čai,,küði͡atuďa	hiri-tə-mɨŋhi͡a-ntɨ	čai,in.themorning	cook-IPFV-HAB-AOR.[3SG]	tea.R.[ACC],S/he usually makes tea in the morning,
-UT017,büü-ďa : büü-Ɂnar-sa,,büü-ďa	:	büü-Ɂnar-sa,,go away : go away more than once,
-UT020,tǝu-Ɂki-Ɂi-nǝ / tǝu-Ɂki-Ɂǝ-m Dud'inka d'a,,tǝu-Ɂki-Ɂi-nǝ	/	tǝu-Ɂki-Ɂǝ-m	Dud'inka	d'a,fly-RES-AOR.RFL-1SG.RFL	/	fly-RES-AOR-1SG	Dudinka.R[GEN]	ALL,I'm just flying to Dudinka,Wagner-Nagy 2018: 238
-UT021,sɨtɨ bǝðürbüǝ ńemɨ-nǝ sǝd'ǝǝ-mǝnu kontu-d'üǝd'ǝǝ,,sɨtɨ	bǝðürbüǝ	ńemɨ-nǝ	sǝd'ǝǝ-mǝnu	kontu-d'üǝd'ǝǝ,s/he	dead.man.[ACC]	mother-GEN.1SGPOSS	way-PROL	carry-PPF.[3SG],He had carried a dead body across my morther's way,Wagner-Nagy 2018: 237
-UT022,munu-gǝ-tu :  ńi-gǝ-ti̮ munǝ-ˀ,,munu-gǝ-tu	:	ńi-gǝ-ti̮	munǝ-ˀ,say-ITER-PRS.3SG	:	NEG-ITER-PRS.3SG	say-CNG,(S)he regularly says : (S)he doesn't (regularly) say,
-UT023,ńi-sɨðǝ-ŋ maa-gǝlʲičǝ kuniɁi͡ai-gǝlʲiči mɨǝ-Ɂ,,ńi-sɨðǝ-ŋ	maa-gǝlʲičǝ	kuniɁi͡ai-gǝlʲiči	mɨǝ-Ɂ,NEG.AUX-FUT-2SG	what-EMPH	how-EMPH	do-CNG,You will not do anything,Wagner-Nagy 2018: 408
-UT027,mɨŋ ŋəmə-Ɂkə-suə i-hü-nüɁ ńaagəi-Ɂ kuntu-baaðəi-ńüɁ,,mɨŋ	ŋəmə-Ɂkə-suə	i-hü-nüɁ	ńaagəi-Ɂ	kuntu-baaðəi-ńüɁ,we	eat-RES-PST.[3SG]	be-COND-OBL.1PLPOSS	good-ADV	sleep-IRR.RFL-1PL.RFL,"If we had eaten, we would have slept well",Wagner-Nagy 2018: 256
-UT028,horə-tə ńi-sʲa kačəmə-ru-Ɂ əmə-Ɂ kalʲin-i-nüɁ bəŋku-rai-Ɂmənu čentɨ-rɨ-gə-bsɨðə-ŋ bitið-i-čə …,,horə-tə	ńi-sʲa	kačəmə-ru-Ɂ	əmə-Ɂ	kalʲin-i-nüɁ	bəŋku-rai-Ɂmənu	čentɨ-rɨ-gə-bsɨðə-ŋ	bitið-i-čə	…,face-LAT	NEG.AUX-INF	see-PASS-CNG	this-PL	armpit-EP-GEN.PL.1PLPOSS	deepening-LIM-PROL.PL	be.ready-CAUS-ITER-NEC-2SG	arrow-EP-ACC.PL.2SGPOSS,"You should prepare your arrows under my armpit, so that they won't see your face …",Wagner-Nagy 2018: 257
-UT029,bənti-mənu ďotü-r-üərəku,,bənti-mənu	ďotü-r-üərəku,outside-PROL	walk-FRQ-SPEC.[3SG],It seems she walks on the street,
-UT031,tə mað-u-tu ďa büü-ŋəi-ðə,,tə	mað-u-tu	ďa	büü-ŋəi-ðə,well	tent-EP-GEN.SG.3SGPOSS	ALL	go.away-IMP.RFL-3SG.RFL,Let her go home (back),
-UT032,tə ďej-ńə ďesɨ-gu-ðəm,,tə	ďej-ńə	ďesɨ-gu-ðəm,well	skin.on.the.tent-ACC.PL.1SGPOSS	cover-IMP-IMP.1SG,Let me cover it with skins,
-UT035,kouńďər-nu tahari͡aiɁ ŋua-tu bi͡arə-Ɂi-ðǝ,,kouńďər-nu	tahari͡aiɁ	ŋua-tu	bi͡arə-Ɂi-ðǝ,noon-ADV.LOC	now	door-3SGPOSS	open-AOR.RFL-3SG.RFL,At noon the door opened (entrance to the tent),Wagner-Nagy 2018: 228
-UT043,təgətə sʲatɨ-ďi konɨ-ďiə-m ďabaku ďigə ńii ďa hoðə-tə-sa,,təgətə	sʲatɨ-ďi	konɨ-ďiə-m	ďabaku	ďigə	ńii	ďa	hoðə-tə-sa,then	finish-INF	go-PST-1SG	red	mountain.[GEN]	in.the.direction.[GEN]	ALL	write-IPFV-INF,"After finishing it, I went to Krasnoyarsk to study",
-UT044,ďüməða-Ɂa,,ďüməða-Ɂa,snowfall-AUG.3SG,It is snowing,
-UT046,betі͡aŋɨ-či ńaagəə-Ɂ i-sʲüə-Ɂ,,betі͡aŋɨ-či	ńaagəə-Ɂ	i-sʲüə-Ɂ,broad.whitefish-PL.3SGPOSS	good-PL	be-PST-3PL,The broad whitefish were good,
-UT047,mənə tamnu-m,,mənə	tamnu-m,I	there-1SG,I am there,
-UT049,təə čuhənɨ peregovora ďaŋgu-Ɂ,,təə	čuhənɨ	peregovora	ďaŋgu-Ɂ,this.[GEN]	during	talk.RC.[GEN]	NEG.EXPRED-PL,There were no talks at that time,
-UT050,ńi-ŋɨ-ŋ čenɨ-Ɂ,,ńi-ŋɨ-ŋ	čenɨ-Ɂ,NEG.AUX-INTER-2SG	know-CNG,you do not know,
-UT053,təti ŋua-gəlʲičə-ðu ďaŋguj-ču əmɨsɨ-nɨʔ mej-məðɨmɨɁɨ͡a ŋua-ðu,,təti	ŋua-gəlʲičə-ðu	ďaŋguj-ču	əmɨsɨ-nɨʔ	mej-məðɨmɨɁɨ͡a	ŋua-ðu,that	door-EMPH-3SGPOSS	be.absent-AOR.[3SG]	thingy-GEN.1PLPOSS	do-PTCP.ABES	door-3SGPOSS,"There are no doors, the doors are not made",
-UT058,tuj-məðumaɁa,,tuj-məðumaɁa,,who has not arrived,
-UT060,iďa-Ɂa-mə aba-Ɂa-mə ńakələ-sɨəďəə,,iďa-Ɂa-mə	aba-Ɂa-mə	ńakələ-sɨəďəə,dad-AUG-ACC.1SGPOSS	mom(my)-AUG-ACC.1SGPOSS	take-PTCP.PST.[3SG],The one who took my father and my mother away,
-UT064,basu-tuə-Ɂ basu-kə-ndu-Ɂ,,basu-tuə-Ɂ	basu-kə-ndu-Ɂ,hunt-PTCP.PRS-PL	hunt-ITER-AOR-3PL,...hunters go hunting,
-UT066,əmtɨ ŋəmsu-ðə-rə ńakələ-Ɂ,,əmtɨ	ŋəmsu-ðə-rə	ńakələ-Ɂ,this	meat-DST-2SGPOSS	take-IMP.2SG,Take meat for yourself,
-UT073,mənə numə-naŋgu-m i-sʲüə-m,,mənə	numə-naŋgu-m	i-sʲüə-m,I	young-DIM-1SG	be-PST-1SG,I was a young (girl),
-UT075,"ďesɨ ðɨ təbtə tənɨ i ču, kaďa nu ntu i ču",,"ďesɨ	ðɨ	təbtə	tənɨ	i	ču,	kaďa	nu	ntu	i	ču",father-3SGPOSS	also	here	be-AOR.[3SG]	near-ADV-LOC-OBL.3SGPOSS	be-AOR.[3	SG],"The father is also there, near to her",Wagner-Nagy 2018: 107
-UT080,sʲiti tǝjbǝ,,sʲiti	tǝjbǝ,two	bird,two birds,
-UT085,ńajbɨ-mənɨ kuni-mənɨ ďotü-r-ü-gəj,,ńajbɨ-mənɨ	kuni-mənɨ	ďotü-r-ü-gəj,far-PROL	what-PROL	walk-FRQ-AOR-3DU,They walk in the tundra around,
-UT086,ńerə-btə-ə ma-tə ńenača-Ɂa aniɁə ma-tə čii-Ɂə,,ńerə-btə-ə	ma-tə	ńenača-Ɂa	aniɁə	ma-tə	čii-Ɂə,before-SPRL-ADJ.[GEN]	tent-LAT	huge-AUG.[GEN]	big.[GEN]	tent-LAT	come.in-AOR.[3SG],"He went into the first tent, the huge one, the big one",
-UT087,ma-tənu,,ma-tənu,tent-LOC,in the tent,
-UT088,ďesɨ-mə büü-Ɂnar-u gərədə-gətə father-1SGPOSS go-FRQ-AOR.[3 SG] town.R-EL,,ďesɨ-mə	büü-Ɂnar-u	gərədə-gətə	father-1SGPOSS	go-FRQ-AOR.[3	SG]	town.R-EL,My	father	often	leaves	town,,
-UT093,mənə Mari͡a-na sani-r-kə-tu-mi,,mənə	Mari͡a-na	sani-r-kə-tu-mi,I	Maria-COM	play-FREQ-ITER-AOR-1DU,And I played with Maria,
-UT097,tənə ńemi-rə təbtə kuɁ ńeəni͡аŋku mənə ńemɨ-rəkɨ-mə,,tənə	ńemi-rə	təbtə	kuɁ	ńeəni͡аŋku	mənə	ńemɨ-rəkɨ-mə,you/your	mother-2SGPOSS	also	very	pretty.[3SG]	I/my	mother-SIM-1SGPOSS,Your mother is as pretty as mine,
-UT098,ma-tə-mə mej-sʲiðə-m,,ma-tə-mə	mej-sʲiðə-m,tent-DST-ACC.1SGPOSS	make-FUT-1SG,I will make a tent for myself,Wagner-Nagy 2018: 212
-UT101,tahari͡aa sɨðɨrhobtə təɁ əmtɨ-rə ŋülʲi͡aðə kuhu təɁ,,tahari͡aa	sɨðɨrhobtə	təɁ	əmtɨ-rə	ŋülʲi͡aðə	kuhu	təɁ,now	really	you.know	this-2SGPOSS	wolf.[GEN]	skin	you.know,"So, this is indeed a wolf's pelt",
-UT102,(mǝnǝ) ńemɨ-mǝ,,(mǝnǝ)	ńemɨ-mǝ,I/my	mother-1SGPOSS,my mother,
-UT105,tahari͡aa kaŋkə-güə hi-ntənɨ hii ďalɨ-ďa ŋua-ðu bi͡arə-bti-Ɂi-ðə,,tahari͡aa	kaŋkə-güə	hi-ntənɨ	hii	ďalɨ-ďa	ŋua-ðu	bi͡arə-bti-Ɂi-ðə,now	when-EMPH	night-LOC	night	day-ALL	door-3SGPOSS	open-ATTEN-AOR.RFL-3SG.RFL,"After one night, the door opened",Wagner-Nagy 2018: 466
-UT106,sɨlɨ vs. maa,,sɨlɨ	vs.	maa,,who vs. what,Wagner-Nagy 2018: 131-133
-UT109,ouɁ təndə-mtu helɨðə-Ɂə,,ouɁ	təndə-mtu	helɨðə-Ɂə,EXCL	that-ACC.3SGPOSS	help-AOR.[3SG],He helped him,Wagner-Nagy 2018: 375
-UT111,ma-kəi-ńə,,ma-kəi-ńə,tent-DU-ACCPOSS,my two tents,
-UT117,maa ,maː,,,what,
-UT121,hu͡aaq,,,,woods,
-UT125,a'baʔa,,,,older sister,
-UT128-1,hoðür-tü,,,,his/her leer,
-UT128-2,ban-tu,,,,his/her dog,
-UT129-1,ďeńśi-ði,,,,its price,
-UT129-2,biə-ðı,,,,its price,
-UT130,śümürküj-,,,,"to calm down, to quiten",
-UT146-1,d´iiaʔsa,,,,skull,
-UT146-2,ɉesɨ,,,,father,
-UT149,ɲemɨ,,,,mother,
-UT151,nəŋhə,,,,problem,
-UT155,aba,,,,sister,
-UT156,maðǝɁ,,,,tents,
-UT159,nəŋhə,,,,problem,
-UT162,koðu,,,,blizzard,
-UT165-1,kətu,,,,nail,
-UT165-2,kəðu,,,,,
+UT003-1,koðaɁakəińə,,koða-Ɂa-kəińə,kill-AOR-1SG.DU.OBC,I killed both,Beáta Wagner-Nagy (p.c. 2020)
+UT003-2,koðaɁańə,,koða-Ɂa-ńə,kill-AOR-1SG.PL.OBC,I killed them,Beáta Wagner-Nagy (p.c. 2020)
+UT004-1,aniɁkagəj makəj,,aniɁka-gəj	ma-kəj,big-DU tent-DU,two big tents,Wagner-Nagy 2018:309
+UT004-2,aniɁkaiɁ maðuɁ ŋuaɁ,,aniɁka-iɁ	mað-uɁ	ŋua-Ɂ,big-GEN.PL	tent-GEN.PL	door,the doors of the big tents,Wagner-Nagy 2018:309
+UT008,təmuŋku büütündə bəńďəɁ ŋəməkiɁəɁ,,təmuŋku	büü-tü-ndə	bəńďə-Ɂ	ŋəmə-ki-Ɂə-Ɂ,mouse.GEN       go-ACT-LAT        all-PL        eat-RES-AOR-3PL,"When/While the mouse is going out, all of them started to eat",Wagner-Nagy 2018:438
+UT012,əmə bɨnɨmənɨ bakaðəərə huanəɁ,,əmə bɨnɨ-mənɨ bakaðəə-rə huan-ə-Ɂ,this.GEN rope-PROL neck-2SGPOSS put.into-EP-IMP.2SG,Put your neck into this rope,Wagner-Nagy 2018:195
+UT016,küði͡atuďa hiritəmɨŋhi͡antɨ čai,,küði͡atuďa	hiri-tə-mɨŋhi͡a-ntɨ	čai,in.themorning cook-IPFV-HAB-AOR.3SG tea.R.ACC,S/he usually makes tea in the morning,Wagner-Nagy 2018:535
+UT017,büüďa : büüɁnarsa,,büü-ďa	:	büü-Ɂnar-sa,go.away-INF : go.away-FRQ-INF,go away : go away more than once,Wagner-Nagy 2018:534
+UT020,tǝuɁkiɁinǝ / tǝuɁkiɁǝm Dud'inka d'a,,tǝu-Ɂki-Ɂi-nǝ	/	tǝu-Ɂki-Ɂǝ-m	Dud'inka	d'a,fly-RES-AOR.RFL-1SG.RFL        /        fly-RES-AOR-1SG        Dudinka.R.GEN       ALL,I'm just flying to Dudinka,Wagner-Nagy 2018:238
+UT021,sɨtɨ bǝðürbüǝ ńemɨnǝ sǝd'ǝǝmǝnu kontud'üǝd'ǝǝ,,sɨtɨ	bǝðürbüǝ	ńemɨ-nǝ	sǝd'ǝǝ-mǝnu	kontu-d'üǝd'ǝǝ,s/he        dead.man.ACC        mother-GEN.1SGPOSS        way-PROL        carry-PPF.3SG,He had carried a dead body across my morther's way,Wagner-Nagy 2018:237
+UT022,munugǝtu :  ńigǝti̮ munǝˀ,,munu-gǝ-tu	:	ńi-gǝ-ti̮	munǝ-ˀ,say-ITER-PRS.3SG	:	NEG-ITER-PRS.3SG	say-CNG,(S)he regularly says : (S)he doesn't (regularly) say,Beáta Wagner-Nagy (p.c. 2020)
+UT023,ńisɨðǝŋ maagǝlʲičǝ kuniɁi͡aigǝlʲiči mɨǝɁ,,ńi-sɨðǝ-ŋ	maa-gǝlʲičǝ	kuniɁi͡ai-gǝlʲiči	mɨǝ-Ɂ,NEG.AUX-FUT-2SG	what-EMPH	how-EMPH	do-CNG,You will not do anything,Wagner-Nagy 2018:408
+UT025,əiɁ kəməbaam tənə kəməbaam,,əiɁ kəmə-baa-m tənə kəmə-baa-m,oh catch-OPT-1SG you.ACC catch-OPT-1SG,"If only I could catch, catch you",Wagner-Nagy 2018:247
+UT027,mɨŋ ŋəməɁkəsuə ihünüɁ ńaagəiɁ kuntubaaðəińüɁ,,mɨŋ	ŋəmə-Ɂkə-suə	i-hü-nüɁ	ńaagəi-Ɂ	kuntu-baaðəi-ńüɁ,we eat-RES-PST.3SG be-COND-OBL.1PLPOSS good-ADV sleep-IRR.RFL-1PL.RFL,"If we had eaten, we would have slept well",Wagner-Nagy 2018:256
+UT028,horətə ńisʲa kačəməruɁ əməɁ kalʲininüɁ bəŋkuraiɁmənu čentɨrɨgəbsɨðəŋ bitiðičə …,,horə-tə	ńi-sʲa	kačəmə-ru-Ɂ	əmə-Ɂ	kalʲin-i-nüɁ	bəŋku-rai-Ɂmənu	čentɨ-rɨ-gə-bsɨðə-ŋ	bitið-i-čə	…,face-LAT	NEG.AUX-INF	see-PASS-CNG	this-PL	armpit-EP-GEN.PL.1PLPOSS	deepening-LIM-PROL.PL	be.ready-CAUS-ITER-NEC-2SG	arrow-EP-ACC.PL.2SGPOSS,"You should prepare your arrows under my armpit, so that they won't see your face …",Wagner-Nagy 2018:257
+UT029,bəntimənu ďotürüərəku,,bənti-mənu	ďotü-r-üərəku,outside-PROL        walk-FRQ-SPEC.3SG,It seems she walks on the street,Wagner-Nagy 2018:261
+UT031,tə maðutu ďa büüŋəiðə,,tə	mað-u-tu	ďa	büü-ŋəi-ðə,well	tent-EP-GEN.SG.3SGPOSS	ALL	go.away-IMP.RFL-3SG.RFL,Let her go home (back),Wagner-Nagy 2018:246
+UT032,tə ďejńə ďesɨguðəm,,tə	ďej-ńə	ďesɨ-gu-ðəm,well	skin.on.the.tent-ACC.PL.1SGPOSS	cover-IMP-IMP.1SG,Let me cover it with skins,Wagner-Nagy 2018:242
+UT035,kouńďərnu tahari͡aiɁ ŋuatu bi͡arəɁiðǝ,,kouńďər-nu	tahari͡aiɁ	ŋua-tu	bi͡arə-Ɂi-ðǝ,noon-ADV.LOC	now	door-3SGPOSS	open-AOR.RFL-3SG.RFL,At noon the door opened (entrance to the tent),Wagner-Nagy 2018:228
+UT043,təgətə sʲatɨďi konɨďiəm ďabaku ďigə ńii ďa hoðətəsa,,təgətə	sʲatɨ-ďi	konɨ-ďiə-m	ďabaku	ďigə	ńii	ďa	hoðə-tə-sa,then finish-INF go-PST-1SG red mountain.GEN in.the.direction.GEN ALL write-IPFV-INF,"After finishing it, I went to Krasnoyarsk to study",Wagner-Nagy 2018:444
+UT044,ďüməðaɁa,,ďüməða-Ɂa,snowfall-AUG.3SG,It is snowing,Wagner-Nagy 2018:188
+UT202,betі͡aŋɨči ńaagəəɁ isʲüəɁ,,betі͡aŋɨ-či        ńaagəə-Ɂ        i-sʲüə-Ɂ,broad.whitefish-PL.3SGPOSS        good-PL        be-PST-3PL,The broad whitefish were good,Wagner-Nagy 2018:350
+UT047,mənə tamnum,,mənə	tamnu-m,I	there-1SG,I am there,Wagner-Nagy 2018:358
+UT049,təə čuhənɨ peregovora ďaŋguɁ,,təə	čuhənɨ	peregovora	ďaŋgu-Ɂ,this.GEN  during talk.RC.GEN NEG.EXPRED-PL,There were no talks at that time,Wagner-Nagy 2018:415
+UT050,mənə tahari͡aiɁ ŋahugəlʲčəmə Sojamə ńintɨmə ŋəðüɁ,,mənə tahari͡aiɁ ŋahu-gəlʲčə-mə Soja-mə ńi-ntɨ-mə ŋəðü-Ɂ,I now elder.sister-EMP-ACC.1SGPOSS Soya-ACC.1SGPOSS NEG.AUX-AOR-1SG.OBC see-CNG,I do not see even my sister Soya,Wagner-Nagy 2018:273
+UT051,sʲürümənɨ ńini͡agəndɨŋ əndɨɁ əəə kojmugalʲiməɁ,,sʲürü-mənɨ ńi-ni͡agə-ndɨŋ əndɨ-Ɂ əəə kojmu-galʲi-m-ə-Ɂ,winter-PROL NEG.AUX-SUP-OBL.3PLPOSS sort.of-CNG oh bone.marrow-CAR-TRL-EP-CNG,In order that they do not get thin in winter,Wagner-Nagy 2018:411
+UT053,təti ŋuagəlʲičəðu ďaŋgujču əmɨsɨnɨʔ mejməðɨmɨɁɨ͡a ŋuaðu,,təti	ŋua-gəlʲičə-ðu	ďaŋguj-ču	əmɨsɨ-nɨʔ	mej-məðɨmɨɁɨ͡a	ŋua-ðu,that        door-EMPH-3SGPOSS        be.absent-AOR.3SG       thingy-GEN.1PLPOSS        do-PTCP.ABES        door-3SGPOSS,"There are no doors, the doors are not made",Wagner-Nagy 2018:267
+UT058,tujməðumaɁa,,tuj-məðumaɁa,arrive-ABES,who has not arrived,Wagner-Nagy 2018:266
+UT060,iďaɁamə abaɁamə ńakələsɨəďəə,,iďa-Ɂa-mə	aba-Ɂa-mə	ńakələ-sɨəďəə,dad-AUG-ACC.1SGPOSS        mom(my)-AUG-ACC.1SGPOSS        take-PTCP.PST.3SG,The one who took my father and my mother away,Wagner-Nagy 2018:265
+UT064,basutuəɁ basukənduɁ,,basu-tuə-Ɂ	basu-kə-ndu-Ɂ,hunt-PTCP.PRS-PL	hunt-ITER-AOR-3PL,hunters go hunting,Wagner-Nagy 2018:516
+UT066,əmtɨ ŋəmsuðərə ńakələɁ,,əmtɨ	ŋəmsu-ðə-rə	ńakələ-Ɂ,this	meat-DST-2SGPOSS	take-IMP.2SG,Take meat for yourself,Wagner-Nagy 2018:244
+UT073,mənə numənaŋgum isʲüəm,,mənə	numə-naŋgu-m	i-sʲüə-m,I	young-DIM-1SG	be-PST-1SG,I was a young (girl),Wagner-Nagy 2018:350
+UT075,"ďesɨðɨ təbtə tənɨ iču, kaďanuntu iču",,"ďesɨ-ðɨ təbtə tənɨ i-ču, kaďanu-ntu i-ču",father-3SGPOSS        also        here        be-AOR.3SG       near-OBL.3SGPOSS        be-AOR.3SG,"The father is also there, near to her",Wagner-Nagy 2018:112
+UT080,sʲiti tǝjbǝ,,sʲiti	tǝjbǝ,two	bird,two birds,Wagner-Nagy 2018:332
+UT085,ńajbɨmənɨ kunimənɨ ďotürügəj,,ńajbɨ-mənɨ	kuni-mənɨ	ďotü-r-ü-gəj,far-PROL	what-PROL	walk-FRQ-AOR-3DU,They walk in the tundra around,Wagner-Nagy 2018:200
+UT086,ńerəbtəə matə ńenačaɁa aniɁə matə čiiɁə,,ńerə-btə-ə	ma-tə	ńenača-Ɂa	aniɁə	ma-tə	čii-Ɂə,before-SPRL-ADJ.GEN tent-LAT  huge-AUG.GEN big.GEN tent-LAT come.in-AOR.3SG,"He went into the first tent, the huge one, the big one",Wagner-Nagy 2018:196
+UT087,matənu,,ma-tənu,tent-LOC,in the tent,Wagner-Nagy 2018:356
+UT088,ďesɨmə büüɁnaru gərədəgətə,,ďesɨ-mə büü-Ɂnar-u gərədə-gətə,father-1SGPOSS go-FRQ-AOR.3SG town.R-EL,My	father	often	leaves	town,Wagner-Nagy 2018:199
+UT093,mənə Mari͡ana sanirkətumi,,mənə	Mari͡a-na	sani-r-kə-tu-mi,I	Maria-COM	play-FREQ-ITER-AOR-1DU,And I played with Maria,Wagner-Nagy 2018:189
+UT098,matəmə mejsʲiðəm,,ma-tə-mə	mej-sʲiðə-m,Tent-DEST-ACC.1SGPOSS make-FUT-1SG,I will make a tent for myself,Wagner-Nagy 2018:212
+UT101,tahari͡aa sɨðɨrhobtə təɁ əmtɨrə ŋülʲi͡aðə kuhu təɁ,,tahari͡aa	sɨðɨrhobtə	təɁ	əmtɨ-rə	ŋülʲi͡aðə	kuhu	təɁ,now        really        you.know        this-2SGPOSS        wolf.GEN        skin        you.know,"So, this is indeed a wolf's pelt",Wagner-Nagy 2018:196
+UT102,(mǝnǝ) ńemɨmǝ,,(mǝnǝ)	ńemɨ-mǝ,I/my	mother-1SGPOSS,my mother,Wagner-Nagy 2018:317
+UT104,"tahari͡abə sʲelujki͡arə tahari͡aa təlʲi͡aiɁ ńiŋɨðə təlʲi͡aiɁ heŋimiďiɁə, tə",,"tahari͡abə sʲelujki͡a-rə tahari͡aa tə-lʲi͡ai-Ɂ ńi-ŋɨ-ðə tə-lʲi͡ai-Ɂ heŋi-miď-i-Ɂə, tə",now naked.horn.deer-2SGPOSS now that-LIM-ADV NEG.AUX-INTER-3SG.RFL that-LIM-ADV fall.down-MOM-EP-AOR.3SG well,And the reindeer … just fell down,Wagner-Nagy 2018:464
+UT105,tahari͡aa kaŋkəgüə hintənɨ hii ďalɨďa ŋuaðu bi͡arəbtiɁiðə,,tahari͡aa	kaŋkə-güə	hi-ntənɨ	hii	ďalɨ-ďa	ŋua-ðu	bi͡arə-bti-Ɂi-ðə,now	when-EMPH	night-LOC	night	day-ALL	door-3SGPOSS	open-ATTEN-AOR.RFL-3SG.RFL,"After one night, the door opened",Wagner-Nagy 2018:466
+UT106,sɨlɨ vs. maa,,sɨlɨ	vs.	maa,,who vs. what,Wagner-Nagy 2018:131-133
+UT109,ouɁ təndəmtu helɨðəɁə,,ouɁ	təndə-mtu	helɨðə-Ɂə,EXCL	that-ACC.3SGPOSS	help-AOR.[3SG],He helped him,Wagner-Nagy 2018:375
+UT117,maa,maː,,,what,Wagner-Nagy 2018:38
+UT125-1,ˈkɑðɑr,,,,light,Wagner-Nagy 2018:73
+UT125-2,kaˈðarmə,,,,my light,Wagner-Nagy 2018:73
+UT128-1,hoðür-tü,,,,his/her letter,Fejes 2018
+UT128-2,ban-tu,,,,his/her dog,Fejes 2018
+UT129-1,ďeńśi-ði,,,,its price,Fejes 2018
+UT129-2,biə-ðı,,,,its price,Fejes 2018
+UT130,śümürküj-,,,,"to calm down, to quiten",Fejes 2018
+UT132,hu͡aa,,,,tree,Wagner-Nagy 2018:51
+UT135,sʲüar,sʲyar,,,friend,Wagner-Nagy 2018:22
+UT137,nɨ,,,,woman,Wagner-Nagy 2018:757
+UT146-1,ďiaʔsa,,,,skull,Wagner-Nagy 2018:62
+UT146-2,ďesɨ,ɉesɨ,,,father,Wagner-Nagy 2018:22
+UT149,ńemɨ,ɲemɨ,,,mother,Wagner-Nagy 2018:38
+UT151,nəŋhə,,,,problem,Wagner-Nagy 2018:43
+UT153,maagəľičə,maːɡəlʲit͡ʃə,,,nothing,Wagner-Nagy 2018:22
+UT155,aba,,,,sister,Wagner-Nagy 2018:38
+UT156,maðǝɁ,,,,tents,Wagner-Nagy 2018:37
+UT159,ŋaŋ,,,,bad,Wagner-Nagy 2018:38
+UT162,koðu,,,,blizzard,Wagner-Nagy 2018:35
+UT165-1,kətu,,,,nail,Wagner-Nagy 2018:35
+UT165-2,kəðu,,,nail.GEN,,Wagner-Nagy 2018:35
