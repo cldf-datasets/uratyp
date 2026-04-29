@@ -129,6 +129,7 @@ class Dataset(BaseDataset):
                 'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#exampleReference'})
 
     def cmd_makecldf(self, args):
+        args.writer.cldf.properties['dc:description'] = self.dir.joinpath('README.md').read_text(encoding='utf8')
         bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
         refs_by_lid = collections.defaultdict(list)
         refkeys = {}
