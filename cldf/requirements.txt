@@ -5,7 +5,7 @@ bibtexparser==2.0.0b9
 bs4==0.0.2
 certifi==2026.1.4
 cldfbench==1.14.2
--e git+https://github.com/bedlan/uratyp-1@ee05b99c610cb641e2bd20edd9cc4048f437d308#egg=cldfbench_uratyp
+-e git+https://github.com/bedlan/uratyp-1@b99fc33961ca3f533c716ac19474e60706ae1dca#egg=cldfbench_uratyp
 cldfcatalog==1.6.0
 cldfzenodo==2.2.1
 clld==11.5.3

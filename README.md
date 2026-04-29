@@ -6,9 +6,9 @@ The UraTyp 2.0 dataset includes information on 353 linguistic features spanning 
 
 If you use the UraTyp 2.0 data, please cite the dataset as follows:<br/>
  
-Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinemägi, Karl Pajusalu, Minerva Piha, Przemysław Podleśny, Mihkel Rünkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, & Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6392555
+> Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinemägi, Karl Pajusalu, Minerva Piha, Przemysław Podleśny, Mihkel Rünkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, & Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5236365
 
-# Overview
+## Overview
 
 Building the UraTyp database and developing the UT list of features has its origins in the typology dataset compiled by the research initiative BEDLAN (Biological Evolution and the Diversification of Languages, www.bedlan.net) using seed money provided by the Kone Foundation in 2013. The actual work on the UraTyp database began in 2018 within the framework of the project *Kipot ja kielet* ‘Pots and languages’ (funded by the University of Turku in 2018–2020), a joint initiative between the University of Turku, University of Tartu, and Uppsala University. The process of developing the UT list of features and collecting the data was coordinated by Miina Norvik. The features were originally designed and managed by Gerson Klumpp, Helle Metslang, Miina Norvik, Karl Pajusalu, and Eva Saar. Feedback on the UT questionnaire was provided by Jeremy Bradley and Ksenia Shagal. The work also involved collaboration with the global Grambank initiative, as the UT list of features was intended to supplement the GB list of features. The latter was developed at the Department of Cultural and Linguistic Evolution at the Max Planck Institute for the Science of Human History and at the Max Planck Institute for Evolutionary Anthropology. To ensure the compatibility of the two datasets, this collaboration also required adherence to the general principles of feature development and data collection established by the Grambank team. The GB principles were introduced by Harald Hammarström and Michael Dunn. 
 
@@ -22,7 +22,8 @@ Any grammar or data source inherently reflects a certain linguistic variety, inc
 
 Most of the datasets include examples whenever a feature was coded as present. The examples were added either by the language expert or by the coder. These originate from various types of sources: grammar books or sketches, language corpora, research articles, and text collections; in cases where the language expert was a native speaker, constructed examples were also allowed. Examples illustrating morphological or syntactic features come with glosses, while phonological features are represented using the International Phonetic Alphabet. 
 
-# Contents
+## Contents
+
 The raw version of the dataset (found in the **`raw`** folder of the repository) is organized into folders and tables; the data structure is described in detail below. All tables are provided as CSV (comma-separated values) files.
 
 ### `UT`
@@ -68,13 +69,13 @@ This file provides the possible values for the GB questions.
 
 This file contains literary sources used to answer the questions and provide examples.   
 
-# Funders and supporters
+## Funders and supporters
 SumuraSyyni (2014-2016) and AikaSyyni (2017-2021) funded by the Kone Foundation for Outi Vesakoski and UraLex (2014-2016) for Unni-Päivi Leino; Kipot ja kielet (2018-2020) funded by the University of Turku for Päivi Onkamo; URKO (Uralilainen Kolmio = ‘Uralic Triangle’ 2020-2022) funded by the Academy of Finland for Sirkka Saarinen, Päivi Onkamo, and Harri Tolvanen; The Collegium for Transdisciplinary Studies in Archaeology, Genetics and Linguistics, University of Tartu (2018–); Nikolai, Gerda, and Kadri Rõuk Legacy Fund (2022-2024). PRG2184 “From East to West: Typological shift in Estonian and the Southern Finnic languages against the background of Uralic” (2024-2028), TK215 “Estonian Roots: Centre of Excellence for transdisciplinary studies on ethnogenesis and cultural diversity” (2024-2030).
 
-# Providing feedback
+## Providing feedback
 If you would like to give feedback, please contact Miina Norvik (miina.norvik@ut.ee) or use `Issues` in GitHub.
 
-# Terms of use
+## Terms of use
 
 This dataset is licensed under a CC-BY-4.0 license
 
