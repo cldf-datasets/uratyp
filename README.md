@@ -6,7 +6,7 @@ The UraTyp 2.0 dataset includes information on 353 linguistic features spanning 
 
 If you use the UraTyp 2.0 data, please cite the dataset as follows:<br/>
  
-Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinemägi, Karl Pajusalu, Minerva Piha, Przemysław Podleśny, Mihkel Rünkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, & Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6392555
+> Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinemägi, Karl Pajusalu, Minerva Piha, Przemysław Podleśny, Mihkel Rünkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, & Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6392555
 
 # Overview
 

@@ -1,52 +1,44 @@
 # Creators
 
 
-
-Creators of the original concept.
-
-
-| Name                | GitHub user | Role   |
-|---------------------|-------------|--------|
-| Miina Norvik        | @MiinaNo    | author |
-| Robert Forkel       | @xrotwang   | author |
-| Uldis Balodis       |             | author |
-| Jeremy Bradley      |             | author |
-| Michael Dunn        | @evoling    | author |
-| Ilya Egorov         |             | author |
-| Idaliia Feodotova   |             | author |
-| Terhi Honkola       |             | author |
-| Atte Huhtala        |             | author |
-| Yingqi Jing         | @JakeJing   | author |
-| Markus Juutinen     |             | author |
-| Olle Kejonen        |             | author |
-| Gerson Klumpp       |             | author |
-| Richard Kowalik     |             | author |
-| Nikolay Kuznetsov   |             | author |
-| Miika Lehtinen      |             | author |
-| Helle Metslang      |             | author |
-| Merit Niinemägi     |             | author |
-| Karl Pajusalu       |             | author |
-| Minerva Piha        |             | author |
+| Name               | GitHub user | Role   |
+|--------------------|-------------|--------|
+| Miina Norvik       | @MiinaNo    | author |
+| Robert Forkel      | @xrotwang   | author |
+| Uldis Balodis      |             | author |
+| Jeremy Bradley     |             | author |
+| Michael Dunn       | @evoling    | author |
+| Ilya Egorov        |             | author |
+| Idaliia Feodotova  |             | author |
+| Terhi Honkola      |             | author |
+| Atte Huhtala       |             | author |
+| Yingqi Jing        | @JakeJing   | author |
+| Markus Juutinen    |             | author |
+| Olle Kejonen       |             | author |
+| Gerson Klumpp      |             | author |
+| Richard Kowalik    |             | author |
+| Nikolay Kuznetsov  |             | author |
+| Miika Lehtinen     |             | author |
+| Helle Metslang     |             | author |
+| Merit Niinemägi    |             | author |
+| Karl Pajusalu      |             | author |
+| Minerva Piha       |             | author |
 | Przemysław Podleśny |             | author |
-| Mihkel Rünkla       |             | author |
-| Eva Saar            |             | author |
-| Sirkka Saarinen     |             | author |
-| Denys Teptiuk       |             | author |
-| Pire Teras          |             | author |
-| Marili Tomingas     |             | author |
-| Tuuli Tuisk         |             | author |
-|  Janek Vaab         |             | author |
-| Outi Vesakoski      |             | author |
+| Mihkel Rünkla      |             | author |
+| Eva Saar           |             | author |
+| Sirkka Saarinen    |             | author |
+| Denys Teptiuk      |             | author |
+| Pire Teras         |             | author |
+| Marili Tomingas    |             | author |
+| Tuuli Tuisk        |             | author |
+| Janek Vaab         |             | author |
+| Outi Vesakoski     |             | author |
 
 
-## 
 
 ## Contributors
 
-
-
 Contributors refers to both those who were consulted while filling out the tables and those who contributed by adding examples and/or reviewing the values. If there is no check mark in the box, the corresponding table is not yet available.
-
 
 
 | ID | Subgroup  | Language            | UT | Values and/or examples                                              | GB | Values and/or examples                                  |
@@ -90,6 +82,4 @@ Contributors refers to both those who were consulted while filling out the table
 | 37 | Saami     | Akkala Saami        | ✔  | Ilya Egorov                                                         | ✔  | Ilya Egorov                                             |
 | 38 | Saami     | Ter Saami           | ✔  | Ilya Egorov                                                         | ✔  | Ilya Egorov                                             |
 | 39 | Samoyedic | Tundra Enets        |    |                                                                     | ✔  | Olesya Khanina                                          |
-
-
 

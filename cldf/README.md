@@ -6,13 +6,16 @@
 
 **Sources**: [sources.bib](./sources.bib)
 
+The UraTyp 2.0 dataset includes information on 353 linguistic features spanning the domains of morphology, syntax, phonology, and, to a lesser extent, the lexicon. The data have been collected from all branches of the Uralic language family.
+
 property | value
  --- | ---
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinemägi, Karl Pajusalu, Minerva Piha, Przemysław Podleśny, Mihkel Rünkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, & Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6392555
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF StructureDataset](http://cldf.clld.org/v1.0/terms.rdf#StructureDataset)
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://uralic.clld.org
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/bedlan/uratyp-1
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/bedlan/uratyp-1/tree/77930fb">bedlan/uratyp-1 77930fb</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog v5.3</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/bedlan/uratyp-1/tree/d11447d">bedlan/uratyp-1 d11447d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.3">Glottolog v5.3</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | uratyp
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution

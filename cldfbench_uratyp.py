@@ -12,7 +12,7 @@ from clldutils.text import split_text
 from clldutils.markup import iter_markdown_tables
 from csvw.dsv import reader
 from cldfbench import Dataset as BaseDataset, CLDFSpec
-from pycldf.sources import Source
+from pycldf.sources import Source, Sources
 
 from uratypcommands.cldfmd import References, cldf_md
 
@@ -130,7 +130,7 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         bibdata = database.parse_file(str(self.raw_dir.joinpath('sources.bib')))
-        refs = collections.defaultdict(list)
+        refs_by_lid = collections.defaultdict(list)
         refkeys = {}
         for key, entry in bibdata.entries.items():
             src = Source.from_entry(key, entry)
@@ -138,7 +138,8 @@ class Dataset(BaseDataset):
                 src[k] = unescape(src[k])
             for lid in src.get('langref', '').split(','):
                 lid = lid.strip()
-                refs[lid].append(src.id)
+                if lid:
+                    refs_by_lid[lid].append(src.id)
             rk = src.get('key')
             if not rk:
                 rk = src.refkey(year_brackets=None)
@@ -149,15 +150,16 @@ class Dataset(BaseDataset):
 
         self._schema(args)
 
-        lmap = {}
+        lmap, lomap = {}, {}
         for lang in self.raw_dir.read_csv('Languages.csv', dicts=True):
             lang['ISO639P3code'] = lang.pop('ISO.639.3')
-            lang['Source'] = refs.get(lang['Name'], [])
+            #lang['Source'] = refs.get(lang['Name'], [])
             del lang['citations']
             args.writer.objects['LanguageTable'].append(lang)
             lmap[lang['Name']] = lang['ID']
             lmap[unidecode(lang['Name'])] = lang['ID']
             lmap[lang['Glottocode']] = lang['ID']
+            lomap[lang['ID']] = lang
 
         data = Data.from_repos(self.raw_dir, lmap, refkeys, args.log)
 
@@ -224,6 +226,7 @@ class Dataset(BaseDataset):
         eids, pk = collections.defaultdict(list), 0
         for (lid, eid), exs in data.examples.items():
             for ex in exs:
+                refs_by_lid[lid].extend([Sources.parse(ref)[0] for ref in ex.Source])
                 pk += 1
                 eids[(lid, eid)].append(pk)
                 args.writer.objects['ExampleTable'].append(dict(
@@ -243,6 +246,7 @@ class Dataset(BaseDataset):
                 for eid in v.Example:
                     if (lid, eid) in eids:
                         exs.extend(eids[(lid, eid)])
+                refs_by_lid[lid].extend([Sources.parse(ref)[0] for ref in v.Source])
                 args.writer.objects['ValueTable'].append(dict(
                     ID='{}-{}'.format(lid, fid),
                     Language_ID=lmap[lid],
@@ -254,6 +258,8 @@ class Dataset(BaseDataset):
                     Source=v.Source,
                     Source_Comment="; ".join(v.SourceComment),
                 ))
+        for lid, srcids in refs_by_lid.items():
+            lomap[lmap[lid]]['Source'] = sorted(set(srcids))
 
 
 def _checked_sources(s, refkeys, what, log):
