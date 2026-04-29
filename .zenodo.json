@@ -6,7 +6,7 @@
         "linguistics"
     ],
     "upload_type": "dataset",
-    "description": "<p<When you use the dataset, please also cite to the following paper introducing the data collection process:</p><blockquote><p>Miina Norvik, Yingqi Jing, Michael Dunn, Robert Forkel, Terhi Honkola, Gerson Klumpp, Richard Kowalik, Helle Metslang, Karl Pajusalu, Minerva Piha, Eva Saar, Sirkka Saarinen and Outi Vesakoski (ms. 2021) Uralic typology in the light of new comprehensive data sets (submitted to <emph>Journal of Uralic Linguistics</emph>)</p></blockquote><p>The status of the manuscript will be updated here and at <a href='https://bedlan.net/'>https://bedlan.net/</a>.</p>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Miina Norvik, Robert Forkel, Uldis Balodis, Jeremy Bradley, Michael Dunn, Ilya Egorov, Idaliia Feodotova, Terhi Honkola, Atte Huhtala, Yingqi Jing, Markus Juutinen, Olle Kejonen, Gerson Klumpp, Richard Kowalik, Nikolay Kuznetsov, Miika Lehtinen, Helle Metslang, Merit Niinem\u00e4gi, Karl Pajusalu, Minerva Piha, Przemys\u0142aw Podle\u015bny, Mihkel R\u00fcnkla, Eva Saar, Sirkka Saarinen, Denys Teptiuk, Pire Teras, Marili Tomingas, Tuuli Tuisk, Janek Vaab, &amp; Outi Vesakoski. (2026). Uralic Typological database - UraTyp (v2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5236365</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     },
@@ -15,16 +15,37 @@
             "name": "Miina Norvik"
         },
         {
-            "name": "Yingqi Jing"
+            "name": "Robert Forkel"
+        },
+        {
+            "name": "Uldis Balodis"
+        },
+        {
+            "name": "Jeremy Bradley"
         },
         {
             "name": "Michael Dunn"
         },
         {
-            "name": "Robert Forkel"
+            "name": "Ilya Egorov"
+        },
+        {
+            "name": "Idaliia Feodotova"
         },
         {
             "name": "Terhi Honkola"
+        },
+        {
+            "name": "Atte Huhtala"
+        },
+        {
+            "name": "Yingqi Jing"
+        },
+        {
+            "name": "Markus Juutinen"
+        },
+        {
+            "name": "Olle Kejonen"
         },
         {
             "name": "Gerson Klumpp"
@@ -33,7 +54,16 @@
             "name": "Richard Kowalik"
         },
         {
+            "name": "Nikolay Kuznetsov"
+        },
+        {
+            "name": "Miika Lehtinen"
+        },
+        {
             "name": "Helle Metslang"
+        },
+        {
+            "name": "Merit Niinem\u00e4gi"
         },
         {
             "name": "Karl Pajusalu"
@@ -42,10 +72,31 @@
             "name": "Minerva Piha"
         },
         {
+            "name": "Przemys\u0142aw Podle\u015bny"
+        },
+        {
+            "name": "Mihkel R\u00fcnkla"
+        },
+        {
             "name": "Eva Saar"
         },
         {
             "name": "Sirkka Saarinen"
+        },
+        {
+            "name": "Denys Teptiuk"
+        },
+        {
+            "name": "Pire Teras"
+        },
+        {
+            "name": "Marili Tomingas"
+        },
+        {
+            "name": "Tuuli Tuisk"
+        },
+        {
+            "name": "Janek Vaab"
         },
         {
             "name": "Outi Vesakoski"

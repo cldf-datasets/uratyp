@@ -1,167 +1,159 @@
 ID,Name,Nganasan,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Beáta Wagner-Nagy (p.c. 2020),,"There is an agreement with the logical subject. In the comitative construction the agreement is dual (plural), however a few instances of singular. the verb is always in dual if the subject in a pronoun in dual. If there are two grammatical subjects (such as my mother and my father) in a sentence, the predicate is in the dual. This expresses that the two subjects act together. After quantifiers such as ŋukəgəə ‘many, much’, bǝnsǝ ‘all’ or numerals, the predicate agrees formally with the subject, i.e. it appears in the singular."
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Wagner-Nagy 2018: 369,,The predicate agrees in person and number with the subject.
-UT003,Can finite verbs agree in number with the nominal object?,1,Beáta Wagner-Nagy (p.c. 2020),"UT003-1, UT003-2","Verbs in the objective conjugation agree with the object in number, the ending depends on the number. The verbal marker for object in dual is complex, it contains the dual marker."
-UT004,Can an adnominal property word agree with the noun in case?,1,Beáta Wagner-Nagy (p.c. 2020),"UT004-1, UT004-2","Yes, but only partially: Only the declination of three grammatical cases (nominative, accusative, genitive) can appear on adjectives. In all other cases, the pre-modifier is in the genitive case. "
-UT005,Are there cases that do not show agreement in terms of case?,1,Beáta Wagner-Nagy (p.c. 2020),,In all locative cases.
-UT006,Can adpositions be used to mark core verbal arguments?,0,,,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,Wagner-Nagy 2018: 152,,
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,Wagner-Nagy 2018: 437-438,UT008,The subject of the temporal clause may be appear in the genitive.
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,0,,,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,Wagner-Nagy 2018: 195,,
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,1,Beáta Wagner-Nagy (p.c. 2020),,"There is an agreement with the logical subject. In the comitative construction the agreement is dual (plural), however a few instances of singular, the verb is always in dual if the subject in a pronoun in dual. If there are two grammatical subjects (such as my mother and my father) in a sentence, the predicate is in the dual. This expresses that the two subjects act together. After quantifiers such as ŋukəgəə ‘many, much’, bǝnsǝ ‘all’ or numerals, the predicate agrees formally with the subject, i.e. it appears in the singular."
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,0,Wagner-Nagy 2018:369,,The predicate agrees in person and number with the subject.
+UT003,Can finite verbs agree in number with a nominal object?,1,Beáta Wagner-Nagy (p.c. 2020),"UT003-1, UT003-2","Verbs in the objective conjugation agree with the object in number, the ending depends on the number. The verbal marker for object in dual is complex, it contains the dual marker."
+UT004,Can an adnominal property word agree with the noun in case?,1,Beáta Wagner-Nagy (p.c. 2020),"UT004-1, UT004-2","Only the declination of three grammatical cases (nominative, accusative, genitive) can appear on adjectives. In all other cases, the pre-modifier is in the genitive case. "
+UT005,Is there non-agreement between an adnominal property word and the head noun? ,1,Beáta Wagner-Nagy (p.c. 2020),,In all locative cases.
+UT006,Can adpositions be used to mark core verbal arguments?,0,Wagner-Nagy 2022:761-762,,
+UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Wagner-Nagy 2018:437-438,UT008,The subject of the temporal clause may be appear in the genitive.
+UT009,Can non-finite clauses use a special means for core argument (P) marking?,0,Wagner-Nagy 2022:in passim,,
+UT010,"Do the characteristics of the object referent (topicality, animacy, definiteness) influence object marking?",0,Wagner-Nagy 2018:195,,
 UT011,Does object marking correlate with aspectuality?,0,Beáta Wagner-Nagy (p.c. 2020),,
-UT012,Does the marking of the object depend on the verb conjugation form?,1,Beáta Wagner-Nagy (p.c. 2020),UT012,With some imperative forms the nominative is used.
-UT013,Is there differential subject marking?,0,Wagner-Nagy 2018: 193,,"In the active sentence, the over subject is always expressed with the nominative case."
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,Wagner-Nagy 2018: 364,,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,,,
-UT016,Is there a grammatical device for habituality?,1,Wagner-Nagy 2018: 534-535,UT016,The suffix -mUNHA shows that a situation takes place reguraly.
-UT017,Is there a grammatical device for frequentative?,1,Wagner-Nagy 2018: 534,UT017,
-UT018,Is there a grammatical device for progressivity?,0,Wagner-Nagy 2018: 233,,"However, the imperfective verbs in the aorist tense refer to the present tense and thus express progressivity. "
-UT019,Is it common to use a verb in the present tense for future time reference?,0,Wagner-Nagy 2018: 233,,
-UT020,Is there a grammatical device for immediate future?,1,Beáta Wagner-Nagy (p.c. 2020),UT020,The resultative is used to indicate that an action will start immediately.
-UT021,Is there a grammatical device for pluperfect?,1,Beáta Wagner-Nagy (p.c. 2020),UT021,
-UT022,Can aspect be expressed overtly on the negative marker?,1,Beáta Wagner-Nagy (p.c. 2020),UT022,
-UT023,Can tense be expressed overtly on the negative marker?,1,Beáta Wagner-Nagy (p.c. 2020),UT023,All tense markers can appear on the negative auxiliary.
-UT024,Is there grammatical marking of mirativity?,1,"Wagner-Nagy 2018: 259, 540",,The dubitative mood may be used to express surprise. There is also an exclamative clitic that has a mirative usage.
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,Wagner-Nagy 2018: 246,,"Optative may be used to express wishes or admonition. This mood is, however, rarely attested."
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,1,Beáta Wagner-Nagy (p.c. 2020),,
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,1,Beáta Wagner-Nagy (p.c. 2020),UT027,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Beáta Wagner-Nagy (p.c. 2020),UT028,"There is necessitive (or debitive mood), but it is only seldom used."
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Wagner-Nagy 2018: 260-261,UT029,There is a speculative mood that is used to express speaker's assumptions.
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,?,,,
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,Wagner-Nagy 2018: 246,UT031,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,1,Wagner-Nagy 2018: 242,UT032,
-UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Wagner-Nagy 2018: 435-437,,
-UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Wagner-Nagy 2018: 241,,
-UT035,Is there reflexive conjugation?,1,Wagner-Nagy 2018: 225,UT035,
-UT036,Are there syntactically ditransitive verbs?,0,Wagner-Nagy 2018: 394-404,,
-UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Wagner-Nagy 2018: 233,,"Reflexive-medial conjugation shows the same person/number marking, e.g. ďeŋhiďi-Ɂi-ti is used for 2DU and 3DU (< ďembiɁsʲi 'to dress')."
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,,,
-UT039,Can third person plural verb forms be used for impersonal reference?,0,,,Passive sentences are formed using a passive suffix or a passive participle.
-UT040,Can second person singular verb forms be used in generic meaning?,0,,,
-UT042,Are clauses with only infinitive predicates possible?,0,,,
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,Wagner-Nagy 2018: 442-443,UT043,The bare infinitive occurs with motion verbs.
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,Wagner-Nagy 2018: 288,UT044,
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,Wagner-Nagy 2018: 347,,
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,Wagner-Nagy 2018: 350,UT046,Tense and mood markers only appear on verbal categories.
-UT047,Can locative adverbial phrases act as predicates without a copula?,1,Wagner-Nagy 2018: 358,UT047,"If the pivot is expressed by a pronoun, copula is not obligatory."
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",0,Wagner-Nagy 2018: 429,,"Conjunctive coordinated clauses are usually juxtaposed without any coordinator. However, there are also some borrowed coordinators. The Russian coordinator is only used at the clause level."
-UT049,Does existential negation have a separate operator?,1,Wagner-Nagy 2018: 414-415,UT049,
-UT050,Can standard negation be asymmetric in the present tense?,1,Wagner-Nagy 2018: 272,UT050,
-UT051,Can non-finite dependent clauses use the standard negation construction?,1,Wagner-Nagy 2018: 409,,
-UT052,Is there a special negator that combines with non-finite forms?,0,Wagner-Nagy 2018: 409,,
-UT053,Are there special negative non-finite forms?,1,Wagner-Nagy 2018: 266-267,UT053,The abessive participle.
-UT054,Is there an impersonal passive construction?,1,Wagner.Nagy 2018: 295,,Passive structures can be formed from both transitive and intransitive verbs.
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,,,
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,,,
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,,,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,Wagner-Nagy 2018: 266,UT058,The abessive participle refers to actions that have not yet occurred.
-UT059,Is there a future participle?,0,Wagner-Nagy 2018: 263,,"However, Helimski (1998) treated the necessitative participle as a future participle. "
-UT060,Are there participles that can encode their subject by possessive suffixes?,1,Wagner-Nagy 2018: 265,UT060,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,0,,,
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,Wagner-Nagy 2018: 263,,Participles show only partial agreement in case.
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,0,,,
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,Wagner-Nagy 2018: 516,UT064,"However, there is a separate suffix to indicate professioals, e.g. basu-Ɂsʲi ‘professional hunter’."
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,,,
-UT066,Is OV the neutral order in affirmative imperative clauses?,1,Wagner-Nagy 2018: 244-245,UT066,
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Wagner-Nagy 2018: 388,,"The negative verb must precede the main verb, e.g. ŋanuďətə ŋəmsu ŋuəi-kalʲi-Ɂ ńi-Ɂ mətu-Ɂ [ordinary meat one-CAR-ADV NEGAUX-IMP.2SG cut-CNG] ‘Don’t cut an ordinary meat!’"
-UT068,Are there preverbs?,0,,,
-UT069,Are there verbal prefixes?,0,,,
-UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Wagner-Nagy 2018: 534,,"However, there is a suffix that can be used in the attenuative meaning (i.e. to do sth a bit)."
-UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,,,
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",0,,,
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Wagner-Nagy 2018: 350,UT073,
-UT074,Is it possible to form synthetic superlative?,0,Wagner-Nagy 2018: 392,,Analytic constructions are used.
-UT075,Can adpositions have person/number marking?,1,Wagner-Nagy 2018: 152,UT075,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,Wagner-Nagy 2018: 153,,
-UT077,Is case compounding possible?,0,Wagner-Nagy 2018: 193-201,,
-UT078,Are there case categories only found in pronouns?,0,Wagner-Nagy 2018: 106,,
-UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Wagner-Nagy 2018: 158,,
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,Wagner-Nagy 2018: 158,UT080,Plural or dual is rarely used.
-UT081,Is there a genitive case that has an affix?,0,Wagner-Nagy 2018: 190-191,,"Historically, there was an endin (-ŋ). "
-UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,0,Wagner-Nagy 2018: 196-197,,The lative is also used to express the recipient and the beneficiary.
-UT083,Is there a terminative case?,0,Wagner-Nagy 2018: 191,,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Wagner-Nagy 2018: 191,,
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,1,Wagner-Nagy 2018: 200,UT085,Prolative is used to mark direction.
-UT086,Is there a locative case that marks goal?,1,Wagner-Nagy 2018: 196,UT086,
-UT087,Is there a locative case that marks location?,1,Wagner-Nagy 2018: 197,UT087,
-UT088,Is there a locative case that marks source?,1,Wagner-Nagy 2018: 199,UT088,
-UT089,Is there case syncretism of goal and location marking?,0,Wagner-Nagy 2018: 196-200,,
-UT090,Is there case syncretism of location and source marking?,0,Wagner-Nagy 2018: 196-200,,
-UT091,Are there two sets of local cases?,0,Wagner-Nagy 2018: 191,,
-UT092,Is there a third set of local cases?,0,Wagner-Nagy 2018: 191,,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,1,Wagner-Nagy 2018: 188-189,UT093,The suffix has been recently developed from the lative postposition na.
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,,,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Wagner-Nagy 2018: 188,,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Wagner-Nagy 2018: 188,,
-UT097,Is there a separate morphological marker for expressing equative meaning?,1,Wagner-Nagy 2018: 390,UT097,In addition to a postpositional phrase also the similative marker can be used to express equality.
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,1,Wagner-Nagy 2018: 210,UT098,
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Wagner-Nagy 2018: 176,,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,0,Wagner-Nagy 2018: 186,,"With paired body parts, dual is typically used. In modern texts also plural can be found."
-UT101,Can the marking of the possessor in the attributive construction vary?,1,Wagner-Nagy 2018: 196,UT101,"The non-pronominal possessor appears in the genitive case, whereas the pronominal possessor occurs in the nominative case (see also UT102)."
-UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,Beáta Wagner-Nagy (p.c. 2020),UT102,The nominative form is used with pronouns.
-UT103,Is non-singular possession marked in the possessive declension?,1,Wagner-Nagy 2018: 201,,The possessive suffixes refer to the person and number of the possessor but also the number of the possessed.
-UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,Wagner-Nagy 2018: 465,,The referential use of 2sg possessive suffix may occur only when the marked NP occurs in the subject position (see also UT105).
-UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,"Wagner-Nagy 2018: 463, 209",UT105,Possessive suffixes can be used in the referential function that is similar to the definite article but it cannot be argued that the language has definite articles.
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,Wagner-Nagy 2018: 122-123,UT106,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent."
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,Wagner-Nagy 2018: 105,,There are no relative pronouns.
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,Wagner-Nagy 2018: 105,,There are no relative pronouns.
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,Wagner-Nagy 2018: 106-107,UT109,
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,0,Wagner-Nagy 2018: 95,,
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,Wagner-Nagy 2018: 95,UT111,"In plural, the number marker and the case suffix are fused."
-UT112,Are there different words for mother’s brother and father’s brother?,1,Wagner-Nagy 2018: 472-473,,
-UT113,Are there different words for younger and older relative for other relations than siblings?,1,Wagner-Nagy 2018: 472-473,,
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,?,,,
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,?,,,
-UT116,Is there contrastive length of consonants?,0,Klumpp et al. 2018,,
-UT117,Is there contrastive length of vowels?,1,Klumpp et al. 2018,UT117,
-UT118,Is there contrast between short and long unstressed vowels?,0,Pajusalu et al. 2018,,
-UT119,Is there contrast in duration of geminate consonants?,0,Klumpp et al. 2018,,
+UT012,Does object marking depend on the verb conjugation form?,1,Wagner-Nagy 2022:772,UT012,With imperative forms the nominative is used.
+UT013,Is there differential subject marking?,0,Wagner-Nagy 2018:193,,"In the active sentence, the over subject is always expressed with the nominative case."
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,Wagner-Nagy 2018:364,,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Wagner-Nagy 2018:364,,
+UT016,Is there grammatical marking of habituality?,1,Wagner-Nagy 2018:534-535,UT016,The suffix -mUNHA shows that a situation takes place reguraly.
+UT017,Is there grammatical marking of frequentativity?,1,Wagner-Nagy 2018:534,UT017,
+UT018,Is there grammatical marking of progressivity?,0,Wagner-Nagy 2018:233,,"However, the imperfective verbs in the aorist tense refer to the present tense and thus express progressivity. "
+UT019,Is it common to use a verb in the present tense for future time reference?,0,Wagner-Nagy 2018:233,,
+UT020,Is there grammatical marking of the immediate future?,1,Wagner-Nagy 2022:767,UT020,The resultative is used to indicate that an action will start immediately.
+UT021,Is there grammatical marking of the pluperfect?,1,Wagner-Nagy 2022:766,UT021,
+UT022,Can aspect be expressed overtly in the negative marker?,1,Beáta Wagner-Nagy (p.c. 2020),UT022,
+UT023,Can tense be expressed overtly in the negative marker?,1,Beáta Wagner-Nagy (p.c. 2020),UT023,All tense markers can appear on the negative auxiliary.
+UT024,Is there grammatical marking of mirativity?,1,"Wagner-Nagy 2018:259, 540",,The dubitative mood may be used to express surprise. There is also an exclamative clitic that has a mirative usage.
+UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,1,Wagner-Nagy 2018:246-247,UT025,"Optative may be used to express wishes or admonition. This mood is, however, rarely attested."
+UT026,Is there morphological marking on the verb dedicated to irrealis?,1,Wagner-Nagy 2018:255,UT027,
+UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,1,Wagner-Nagy 2018:256,UT027,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,Wagner-Nagy 2018:256-257,UT028,"There is necessitive (or debitive mood), but it is only seldom used."
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Wagner-Nagy 2018:260-261,UT029,There is a speculative mood that is used to express speaker's assumptions.
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Wagner-Nagy 2018:240-262,,
+UT031,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 3Sg?",1,Wagner-Nagy 2018:246,UT031,
+UT032,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 1Sg?",1,Wagner-Nagy 2018:242,UT032,
+UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Wagner-Nagy 2018:435-437,,
+UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Wagner-Nagy 2018:241,,
+UT035,Is there a reflexive conjugation?,1,Wagner-Nagy 2018:225,UT035,
+UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,1,Wagner-Nagy 2018:233,,"Reflexive-medial conjugation shows the same person/number marking, e.g., ďeŋhiďi-Ɂi-ti is used for 2DU and 3DU (< ďembiɁsʲi 'to dress')."
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,0,Wagner-Nagy 2022:769-770,,Passive sentences are formed using a passive suffix or a passive participle.
+UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Wagner-Nagy 2018:434,,"In generic statement, normally the 2nd person possessive suffix is used as subject marker."
+UT201,Can an infinitival verb form be used in a directive function?,?,Wagner-Nagy 2018:in passim,,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Wagner-Nagy 2018:442-444,UT043,Typically supine structures are used; the bare infinitive occurs with motion verbs. 
+UT044,Are there sentences without overt verbal arguments?,1,Wagner-Nagy 2018:288,UT044,
+UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Wagner-Nagy 2018:347,,
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Wagner-Nagy 2018:350,UT202,Tense and mood markers only appear on verbal categories.
+UT047,Can locative constructions commonly occur without a copula?,1,Wagner-Nagy 2018:358,UT047,"If the pivot is expressed by a pronoun, copula is not obligatory."
+UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",0,Wagner-Nagy 2018:429,,"Conjunctive coordinated clauses are usually juxtaposed without any coordinator. However, there are also some borrowed coordinators. The Russian coordinator is only used at the clause level."
+UT049,Does existential negation have a special negator?,1,Wagner-Nagy 2018:414-415,UT049,
+UT050,Can standard negation be asymmetric in the present tense?,1,Wagner-Nagy 2018:272,UT050,
+UT051,Can non-finite dependent clauses use the standard negation construction?,1,Wagner-Nagy 2018:409,UT051,
+UT052,Is there a special negator that combines with non-finite forms?,0,Wagner-Nagy 2018:409,,
+UT053,Are there special negative non-finite forms?,1,Wagner-Nagy 2018:266-267,UT053,The abessive participle.
+UT054,Is there an impersonal passive construction?,1,Wagner-Nagy 2018:295,,Passive structures can be formed from both transitive and intransitive verbs.
+UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",0,Wagner-Nagy 2018:263-268,,
+UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,1,Wagner-Nagy 2018:263-268,,
+UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Wagner-Nagy 2018:263-268,,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",1,Wagner-Nagy 2018:266,UT058,The abessive participle refers to actions that have not yet occurred.
+UT059,Is there a future participle?,0,Wagner-Nagy 2018:263,,"However, the necessitative participle has also been treated as a future participle. "
+UT060,Are there participles that can encode their subject with possessive suffixes?,1,Wagner-Nagy 2018:265,UT060,
+UT062,Are there participles that must agree with the nouns they modify in case and number in all contexts?,0,Wagner-Nagy 2018:263,,Participles show only partial agreement in case.
+UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,0,Wagner-Nagy 2022:770,,
+UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Wagner-Nagy 2018:516,UT064,"However, there is a separate suffix to indicate professioals, e.g. basu-Ɂsʲi ‘professional hunter’."
+UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Wagner-Nagy 2022:769-770,,
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,Wagner-Nagy 2018:244-245,UT066,
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Wagner-Nagy 2018:388,,"The negative verb must precede the main verb, e.g., ŋanuďətə ŋəmsu ŋuəi-kalʲi-Ɂ ńi-Ɂ mətu-Ɂ [ordinary meat one-CAR-ADV NEGAUX-IMP.2SG cut-CNG] ‘Don’t cut an ordinary meat!’"
+UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Wagner-Nagy 2018:534,,"However, there is a suffix that can be used in the attenuative meaning (i.e. to do something a bit)."
+UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Beáta Wagner-Nagy (p.c. 2020),,
+UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,0,Beáta Wagner-Nagy (p.c. 2020),,
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,1,Wagner-Nagy 2018:350,UT073,
+UT074,Is there a bound superlative degree marker on property words?,0,Wagner-Nagy 2018:392,,Analytic constructions are used.
+UT075,Can adpositions have person/number marking?,1,Wagner-Nagy 2018:152,UT075,
+UT076,Are there adpositions that show a tripartite system?,1,Wagner-Nagy 2018:153,,"E.g., lative: ńi ‘onto’, locative: ńini, elative: ńitə, prolative: ńimənɨ."
+UT077,Is there case compounding?,0,Wagner-Nagy 2018:193-201,,
+UT078,Are there morphological cases only used with pronouns?,0,Wagner-Nagy 2018:106,,
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Wagner-Nagy 2018:158,,
+UT080,Is the singular form of the noun also used with numerals greater than 1?,1,Wagner-Nagy 2018:158,UT080,Plural or dual is rarely used.
+UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,0,Wagner-Nagy 2018:196-197,,The lative is also used to express the recipient and the beneficiary.
+UT083,Is there a dedicated case that expresses a terminative meaning?,0,Wagner-Nagy 2018:191,,
+UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,0,Wagner-Nagy 2018:191,,
+UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,1,Wagner-Nagy 2018:200,UT085,Prolative is used to mark direction.
+UT086,Is there a locative case that expresses goal?,1,Wagner-Nagy 2018:196,UT086,
+UT087,Is there a locative case that expresses location?,1,Wagner-Nagy 2018:197,UT087,
+UT088,Is there a locative case that expresses source?,1,Wagner-Nagy 2018:199,UT088,
+UT089,Is there case syncretism for goal and location marking?,0,Wagner-Nagy 2018:196-200,,
+UT090,Is there case syncretism for location and source marking?,0,Wagner-Nagy 2018:196-200,,
+UT091,Are there two sets of local cases?,0,Wagner-Nagy 2018:191,,
+UT092,Are there three or more sets of local cases?,0,Wagner-Nagy 2018:191,,
+UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,1,Wagner-Nagy 2018:188-189,UT093,The suffix has been recently developed from the lative postposition na.
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Wagner-Nagy 2018:761-762,,
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Wagner-Nagy 2018:188,,
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Wagner-Nagy 2018:188,,
+UT097,Is there a dedicated case that expresses equativity?,0,Wagner-Nagy 2022:761-763,,
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,1,Wagner-Nagy 2018:210,UT098,
+UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Wagner-Nagy 2018:176,,
+UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,0,Wagner-Nagy 2018:186,,"With paired body parts, dual is typically used. In modern texts also plural can be found."
+UT101,Can the marking of the possessor in the attributive construction vary?,1,Wagner-Nagy 2018:196,UT101,"The non-pronominal possessor appears in the genitive case, whereas the pronominal possessor occurs in the nominative case (see also UT102)."
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,1,Wagner-Nagy 2022:771,UT102,The nominative form is used with pronouns.
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,1,Wagner-Nagy 2018:201,,The possessive suffixes refer to the person and number of the possessor but also the number of the possessed.
+UT104,Can a 2Sg possessive suffix be used to mark definiteness?,1,Wagner-Nagy 2018:464-465,UT104,The referential use of 2Sg possessive suffix may occur only when the marked NP occurs in the subject position (see also UT105).
+UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,"Wagner-Nagy 2018:463, 209",UT105,Possessive suffixes can be used in the referential function that is similar to the definite article but it cannot be argued that the language has definite articles.
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Wagner-Nagy 2018:122-123,UT106,"The distinction is made between humans vs. non-humans. However, in certain cases, 'what' can also be used for a human referent."
+UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Wagner-Nagy 2018:105,,There are no relative pronouns.
+UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Wagner-Nagy 2018:105,,There are no relative pronouns.
+UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Wagner-Nagy 2018:106-107,UT109,
+UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",0,Wagner-Nagy 2018:95,,
+UT205,Are case and number marked cumulatively across the paradigm?,1,Wagner-Nagy 2018:94-95,,"In plural, the number marker and the case suffix are fused."
+UT112,Are there different words for mother’s brother and father’s brother?,1,Wagner-Nagy 2018:472-473,,
+UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Wagner-Nagy 2018:472-473,,
+UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,?,Wagner-Nagy 2018:471-503,,
+UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,?,Wagner-Nagy 2018:488,,
+UT116,Is there contrastive length for consonants?,0,Klumpp et al. 2018; Wagner-Nagy 2022:756-757,,
+UT117,Is there contrastive length for vowels?,1,Klumpp et al. 2018; Wagner-Nagy 2022:756-757,UT117,There is a binary opposition regarding vowel length; phonologically long vowels constitute two syllables.
+UT118,Is there a contrast between short and long unstressed vowels?,0,Pajusalu et al. 2018,,
+UT119,Is there a contrast in the length of geminate consonants?,0,Klumpp et al. 2018,,
 UT120,Are there more than two phonological quantities?,0,Pajusalu et al. 2018,,
-UT121,Are there extralong syllables?,1,Wagner-Nagy 2018: 63,UT121,
-UT122,Is the main foot structure trochaic?,1,Pajusalu et al. 2018,,
+UT121,Are there extralong syllables?,0,Wagner-Nagy 2018:63; Wagner-Nagy 2022:757,,The maximal syllable is CV͡VC; any vowel or diphtong can appear in the nucleus position. 
+UT122,Is the main foot structure trochaic?,1,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,
 UT123,Is there lexically distinctive word stress?,1,Klumpp et al. 2018,,
-UT124,Is there morphologically conditioned stress?,0,Wagner-Nagy 2018,,
-UT125,Is there fixed primary stress?,1,Wagner-Nagy 2018:73,UT125,
-UT126,Is there stress in heavy syllables?,0,Wagner-Nagy 2018:73,,"However, see Wagner-Nagy (2018: 73): ""words that end in long vowels or in vowel sequences trigger stress""."
-UT127,Is there non-initial primary stress?,1,Pajusalu et al. 2018,,It is possible but rare.
-UT128,Is there palatal vowel harmony?,1,Fejes 2018,"UT128-1, UT128-2",with limitations
-UT129,Is there velar vowel harmony?,1,Fejes 2018,"UT129-1, UT129-2",with limitations
-UT130,Is there labial vowel harmony?,1,Fejes 2018,UT130,with limitations
-UT131,Are there rising diphthongs?,1,Janhunen and Gruzdeva 2020,,"""Nganasan has bimoraic long vowels and vowel sequences, some of which are of a Proto-Samoyedic
-origin, as well as two monomoraic “diphthongs”, which Wagner-Nagy renders as [͡ia] and [u͡a], but which could more properly be rendered by monosegmental symbols like [ä] and [å], respectively, especially as they are actually often pronounced as monophthongs"" (Janhunen and Gruzdeva 2020)."
-UT132,Are there lowering diphthongs?,1,Fejes 2018,,"/ia/, /ua/ could be also interpreted as monophthongs"
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,Pajusalu et al. 2018,,
+UT124,Is there morphologically conditioned stress?,0,Wagner-Nagy 2022:760,,
+UT125,Is there fixed primary stress?,1,Wagner-Nagy 2022:760,"UT125-1, UT125-2",Primary stress falls on the penultimate syllable.
+UT126,Is there stress in heavy syllables?,0,Wagner-Nagy 2018:73,,"However, words ending in long vowels or vowel sequences trigger stress."
+UT127,Is there non-initial primary stress?,1,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,It is possible if a word is trisyllabic or longer.
+UT128,Is there palatal vowel harmony?,1,Fejes 2018,"UT128-1, UT128-2",Occurs with limitations.
+UT129,Is there velar vowel harmony?,1,Fejes 2018,"UT129-1, UT129-2",Occurs with limitations.
+UT130,Is there labial vowel harmony?,1,Fejes 2018,UT130,Occurs with limitations.
+UT131,Are there closing diphthongs?,0,Wagner-Nagy 2022:756,,
+UT132,Are there opening diphthongs?,1,Fejes 2018; Wagner-Nagy 2022:756,UT132,"Two diphthongs that have phonemic status: /i͡a/ and /u͡a/. However, they have also been interpreted as monophthongs (see Janhunen and Gruzdeva 2020)."
+UT133,Is there a qualitative contrast between subsets of short and long vowels?,0,Pajusalu et al. 2018,,
 UT134,Are there full vs. reduced vowels as contrastive subsets?,0,Pajusalu et al. 2018,,
-UT135,Is there front high rounded vowel ü [y]?,1,Pajusalu et al. 2018,,"""There would be three unrounded back vowels /a ë ï/, three rounded back vowels /å o u/, three unrounded front vowels /ä e i/, and one lonely high rounded front vowel /ü/ (Janhunen and Gruzdeva 2020)"""
-UT136,Is there front midhigh rounded vowel ö [ø]?,0,Pajusalu et al. 2018,,
-UT137,Is there back high unrounded vowel ï [ɯ]?,1,Wagner-Nagy 2018,,also defined as /ɨ/
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,1,Wagner-Nagy 2018,,also defined as /ǝ/
-UT139,Is there back low round vowel [ɒ]?,1,Janhunen and Gruzdeva 2020,,/å/ is also defined as /ua/
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,1,Janhunen and Gruzdeva 2020,,/ä/ is also defined as /ⁱa/
-UT141,Are there word-initial consonant clusters?,0,Pajusalu et al. 2018,,
-UT142,Are there word-internal consonant clusters in syllable onset?,0,Wagner-Nagy 2018: 63,,
-UT143,Are there consonant clusters in syllable coda?,0,Pajusalu et al. 2018,,
-UT144,Are there clusters of three or more consonants in a word between vowels?,0,Pajusalu et al. 2018,,
-UT145,Are there word-final clusters of three or more consonants?,0,Pajusalu et al. 2018,,
-UT146,Are there palatalized dentals?,1,Wagner-Nagy 2018,"UT146-1, UT146-2",
-UT147,Are there palatalized labials and velars?,0,Pajusalu et al. 2018,,
-UT148,Is there palatal stop [c]?,0,Pajusalu et al. 2018,,
-UT149,Is there palatal nasal [ɲ]?,1, Wagner-Nagy 2018,UT149,
-UT150,Is there palatal lateral [ʎ]?,0,Wagner-Nagy 2018,,
-UT151,Is there phonemic velar nasal [ŋ]?,1,Wagner-Nagy 2018,UT151,
-UT152,Is there dental affricate [t͡s]?,0,Wagner-Nagy 2018,,
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",0,Eagner-Nagy 2018,,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,0,Wagner-Nagy 2018,,
-UT155,"Are there voiced plosives [b, g, d]?",1,Wagner-Nagy 2018,UT155,
-UT156,Is there glottal stop [ˀ]?,1,Wagner-Nagy 2018,UT156,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,Wagner-Nagy 2018,,
-UT158,Is there a constraint on word-initial r?,1,Wagner-Nagy 2018: 45,,
-UT159,Is there laryngeal fricative [h]?,1,Wagner-Nagy 2018,UT159,
-UT160,Is there voiced velar fricative [ɣ]?,0,Pajusalu et al. 2018,,
-UT161,Is there voiceless velar fricative [x]?,0,Pajusalu et al. 2018,,
-UT162,Is there voiced dental fricative [ð]?,1,Wagner-Nagy 2018,UT162,"""It is totally unnecessary to distinguish notationally the intervocalic spirant [ð] and the postnasal voiced stop [d], as they represent allophones of a single phoneme that could easily be rendered as /d/ (Janhunen and Gruzdeva 2020)"""
-UT163,Is there phonemic labio-velar approximant [w]?,0,Pajusalu et al. 2018,,
-UT164,Is there voiceless labiodental fricative [f]?,0,Pajusalu et al. 2018,,
-UT165,Is there radical qualitative consonant gradation?,1,Wagner-Nagy 2018,"UT165-1, UT165-2",
-UT166,Is there quantitative consonant gradation?,0,Pajusalu et al. 2018,,
+UT135,Is there a high front rounded vowel /y/?,1,Pajusalu et al. 2018; Wagner-Nagy 2022:756,UT135,
+UT136,Is there a mid-high front rounded vowel /ø/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,
+UT137,Is there a high back unrounded vowel /ɯ ɨ/?,1,Wagner-Nagy 2022:760,UT137,
+UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,1,Wagner-Nagy 2022:760,,
+UT139,Is there a low back rounded vowel /ɒ/?,1,Janhunen and Gruzdeva 2020:183,,
+UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,1,Janhunen and Gruzdeva 2020,,
+UT141,Are there word-initial consonant clusters?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:757,,
+UT142,Are there word-internal consonant clusters in the syllable onset?,0,Wagner-Nagy 2018:63; Wagner-Nagy 2022:757,,
+UT143,Are there consonant clusters in the syllable coda?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:757,,
+UT144,Are there word-internal intervocalic clusters of three or more consonants?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:757,,
+UT145,Are there word-final clusters of three or more consonants?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:760,,
+UT146,Are there palatalized alveolar consonants?,1, Wagner-Nagy 2022:760,"UT146-1, UT146-2",
+UT147,Are there palatalized labial and velar consonants?,0,Pajusalu et al. 2018,,
+UT148,Is there a palatal stop?,0,Wagner-Nagy 2022:756,,The palatal stop [c] occurs as an allophone of /t͡ʃ/.
+UT149,Is there a palatal nasal /ɲ/?,1,Wagner-Nagy 2022:756,UT149,
+UT150,Is there a palatal lateral /ʎ/?,0,Wagner-Nagy 2022:756,,
+UT151,Is there a velar nasal /ŋ/?,1,Wagner-Nagy 2022:756,UT151,
+UT152,Is there an alveolar affricate /t͡s/?,0,Wagner-Nagy 2022:756,,
+UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",1,Wagner-Nagy 2022:756,UT153,
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,0,Wagner-Nagy 2022:756,,
+UT155,"Are there voiced plosives (e.g., /b g d/)?",1,Wagner-Nagy 2022:756,UT155,"Only /b/ and /g/, whereas /d/ appears as an allophone of /nt/ and in some Russians loanwords. However, see UT162 for a comment by Janhunen and Gruzdeva (2020).  "
+UT156,Is there a glottal stop /ʔ/?,1,Wagner-Nagy 2022:756,UT156,
+UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,Wagner-Nagy 2022:756,,
+UT158,Is there a constraint on the word-initial alveolar trill /r/?,1,Wagner-Nagy 2022:756-757,,"/Ɂ/, /j/, and /r/ are not allowed in word-initial position."
+UT159,Is there a laryngeal fricative /h/?,1,Wagner-Nagy 2022:756,UT159,
+UT160,Is there a voiced velar fricative /ɣ/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:756,,
+UT161,Is there a voiceless velar fricative /x/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:756,,
+UT162,Is there a voiced dental fricative /ð/?,1,Wagner-Nagy 2022:756,UT162,"However, according to Janhunen and Gruzdeva (2020), the intervocalic spirant [ð] and the postnasal voiced stop [d] represent allophones of a single phoneme that could  be rendered as /d/."
+UT163,Is there a labio-velar approximant /w/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:756,,
+UT164,Is there a voiceless labiodental fricative /f/?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:756,,
+UT165,Is there radical qualitative consonant gradation?,1,Wagner-Nagy 2022:758-759,"UT165-1, UT165-2",
+UT166,Is there quantitative consonant gradation?,0,Pajusalu et al. 2018; Wagner-Nagy 2022:756,,No proper consonant geminates at all.

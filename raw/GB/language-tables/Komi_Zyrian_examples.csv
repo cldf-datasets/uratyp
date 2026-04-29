@@ -1,70 +1,74 @@
 ID,Primary_Text,IPA,Analyzed,Gloss,Translation,Example_Source
 GB024,кык морт,kɨk mort,kɨk mort,two person.NOM.SG,two people,Lytkin 1955:180
-GB025,тайӧ мортыс,tajɘ mortɨs,tajɘ mort-ɨs,DEM.PROX person-DEF.NOM.SG,this person,Lytkin 1955:199
-GB027-1,Ваня Петякӧд уджалӧны,vaɲa pecakɘd ud͡ʒalɘnɨ,vaɲa peca-kɘd ud͡ʒal-ɘnɨ,Vanya Petya-COM work-PRES.3PL,Vanya and Petya are working,Lytkin 1955:146
-GB027-2,кылыс да делӧыс лэбын моз вожалӧ,kɨlɨs da ɟelɘɨs lebɨn moz voʒalɘ,kɨl-ɨs da ɟelɘ-ɨs lebɨn moz voʒal-ɘ,word-DEF.NOM and act-DEF.NOM pitchfork like split-PRES.3SG,words and deeds split like [the teeth on] a pitchfork,Lytkin 1955:272
-GB044,пуртъяс,purtjas,purt-jas,knife-PL,knives,Lytkin 1955:135
-GB046,батьӧяс,bacɘjas,bac-ɘ-jas,father-PX.1SG-PL,my father and the other members of the family,Lytkin 1955:134
-GB047,узьӧм,uʑɘm,uʑ-ɘm,sleep-AN,sleep; sleeping,Lytkin 1955:154
+GB027-1,Ваня Петякӧд уджалӧны,vɑɲɑ pecɑkɘd ud͡ʒɑlɘnɨ,vɑɲɑ pecɑ-kɘd ud͡ʒɑl-ɘnɨ,Vanya Petya-COM work-PRS.3PL,Vanya and Petya are working,Lytkin 1955:146
+GB027-2,кылыс да делӧыс лэбын моз вожалӧ,kɨlɨs dɑ ɟelɘɨs lebɨn moz voʒɑlɘ,kɨl-ɨs dɑ ɟelɘ-ɨs lebɨn moz voʒɑl-ɘ,word-POSS.3SG.NOM and act-POSS.3SG.NOM pitchfork like split-PRS.3SG,[his/her] words and deeds split like [the teeth on] a pitchfork,Lytkin 1955:272
+GB044,пуртъяс,purtjɑs,purt-jɑs,knife-PL,knives,Lytkin 1955:135
+GB046,батьӧяс,bɑcɘjɑs,bɑc-ɘ-jɑs,father-POSS.1SG-PL,my father and the other members of the family,Lytkin 1955:134
+GB047,узьӧм,uʑɘm,uʑ-ɘm,sleep-AN,"sleep, sleeping",Lytkin 1955:154
 GB048,гижысь,giʒɨɕ,giʒ-ɨɕ,write-AG,writer,Lytkin 1955:154
-GB049,сёян,ɕojan,ɕoj-an,eat-ONMLZ,food,Lytkin 1955:155
-GB065,дядьлӧн пиыс,ɟaɟlɘn piɨs,ɟaɟ-lɘn pi-ɨs,uncle-GEN son-PX.3SG,uncle's son,Lytkin 1955:141
-GB070-1,гӧрд мӧс сьӧд мӧскӧс нюлӧ,gɘrd mɘs ɕɘd mɘskɘs ɲulɘ,gɘrd mɘs ɕɘd mɘsk-ɘs ɲul-ɘ,red cow black cow-ACC lick-PRES.3SG,the red cow licks the black cow,Lytkin 1955:142
-GB070-2,мӧслы сет турун,mɘslɨ ɕet turun,mɘs-lɨ ɕet turun,cow-DAT give.IMP.2SG grass/hay,give hay to the cow!,Lytkin 1955:141
-GB071-1,ми тӧдам сійӧс,mi tɘdam sijɘs,mi tɘd-a-m sijɘs,1PL.NOM know-PRES/FUT-1PL 3SG.ACC,we know him,Lytkin 1955:192
-GB071-2,мукӧдъяс сылы отсалісны,mukɘdjas sɨlɨ otsalisnɨ,mukɘd-jas sɨ-lɨ otsal-i-snɨ,other-PL 3SG-DAT help-PST1-3PL,the others helped him,Lytkin 1955:207
-GB072,керкаын,kerkaɨn,kerka-ɨn,house-LOC,in a house,Lytkin 1955:147
-GB073,миянкӧд,mijankɘd,mijan-kɘd,1PL-COM,with us,Lytkin 1955:194
-GB075,тэ понда,te ponda,te ponda,2SG because.of,because of you,Lytkin 1955:262
-GB082-1,гижан,giʒan,giʒ-a-n,write-PRES/FUT-2SG,you write/you will write,Lytkin 1955:218
-GB082-2,гижӧны,giʒɘnɨ,giʒ-ɘ-nɨ,write-PRES-3PL,they write,Lytkin 1955:218
-GB082-3,ог гиж,og giʒ,o-g giʒ,NEG.PRES/FUT-1SG write.CNG,I do not write/I will not write,Lytkin 1955:218
+GB049,сёян,ɕojɑn,ɕoj-ɑn,eat-ONMLZ,food,Lytkin 1955:155
+GB065,дядьлӧн пиыс,ɟɑɟlɘn piɨs,ɟɑɟ-lɘn pi-ɨs,uncle-GEN son-POSS.3SG,uncle's son,Lytkin 1955:141
+GB070-1,гӧрд мӧс сьӧд мӧскӧс нюлӧ,gɘrd mɘs ɕɘd mɘskɘs ɲulɘ,gɘrd mɘs ɕɘd mɘsk-ɘs ɲul-ɘ,red cow black cow-ACC lick-PRS.3SG,the red cow licks the black cow,Lytkin 1955:142
+GB070-2,мӧслы сет турун,mɘslɨ ɕet turun,mɘs-lɨ ɕet turun,cow-DAT give.IMP.2SG grass/hay[ACC],give hay to the cow!,Lytkin 1955:141
+GB071-1,ми тӧдам сійӧс,mi tɘdɑm sijɘs,mi tɘd-ɑ-m sijɘs,1PL.NOM know-PRS/FUT-1PL 3SG.ACC,we know him,Lytkin 1955:192
+GB071-2,мукӧдъяс сылы отсалісны,mukɘdjɑs sɨlɨ otsɑlisnɨ,mukɘd-jɑs sɨ-lɨ otsɑl-i-snɨ,other-PL 3SG-DAT help-PST1-3PL,the others helped him,Lytkin 1955:207
+GB072,керкаын,kerkɑɨn,kerkɑ-ɨn,house-LOC,in a house,Lytkin 1955:147
+GB073,миянкӧд,mijɑnkɘd,mijɑn-kɘd,1PL-COM,with us,Lytkin 1955:194
+GB075,тэ понда,te pondɑ,te pondɑ,2SG because.of,because of you,Lytkin 1955:262
+GB082-1,гижан,giʒɑn,giʒ-ɑ-n,write-PRS/FUT-2SG,you write/you will write,Lytkin 1955:218
+GB082-2,гижӧны,giʒɘnɨ,giʒ-ɘ-nɨ,write-PRS-3PL,they write,Lytkin 1955:218
+GB082-3,ог гиж,og giʒ,o-g giʒ,NEG.PRS/FUT-1SG write.CNG,I do not write/I will not write,Lytkin 1955:218
 GB083-1,гижин,giʒin,giʒ-i-n,write-PST1-2SG,you wrote,Lytkin 1955:214
 GB083-2,мунӧмыд,munɘmɨd,mun-ɘm-ɨd,go-PST2-2SG,you have gone,Lytkin 1955:214
 GB086-1,гижис,giʒis,giʒ-i-s,write-PST1-2SG,you wrote/you were writing,Lytkin 1955:215
-GB086-2,мунӧма,munəma,mun-əm-a,go-PST2-3SG,he has gone,Lytkin 1955:215
-GB089,регыд ми лоам век кежлӧ ӧтлаынӧсь,regɨd mi loam vek keʒlɘ ɘtlaɨnɘɕ,regɨd mi lo-a-m vek keʒlɘ ɘtlaɨn-ɘɕ,soon 1PL be-PRES/FUT-1PL always for together-PL,soon we will be together forever,Lytkin 1955:214
-GB091,урожай идралӧм бӧрын вӧчам свадьба,uroʒaj idralɘm bɘrɨn vɘt͡ɕam svaɟba,uroʒaj idral-ɘm bɘrɨn vɘt͡ɕ-a-m svaɟba,crops harvest-AN after do-PRES/FUT-1PL wedding,when the harvesting of crops is over we will organise a wedding,Lytkin 1955:214
+GB086-2,мунӧма,munəmɑ,mun-əm-ɑ,go-PST2-3SG,he has gone,Lytkin 1955:215
+GB089,регыд ми лоам век кежлӧ ӧтлаынӧсь,regɨd mi loɑm vek keʒlɘ ɘtlɑɨnɘɕ,regɨd mi lo-ɑ-m vek keʒlɘ ɘtlɑɨn-ɘɕ,soon 1PL be-PRS/FUT-1PL always for together-PL,soon we will be together forever,Lytkin 1955:214
+GB091,урожай идралӧм бӧрын вӧчам свадьба,uroʒɑj idrɑlɘm bɘrɨn vɘt͡ɕɑm svɑɟbɑ,uroʒɑj idrɑl-ɘm bɘrɨn vɘt͡ɕ-ɑ-m svɑɟbɑ,crops harvest-AN after do-PRS/FUT-1PL wedding,when the harvesting of crops is over we will organise a wedding,Lytkin 1955:214
 GB113-1,сёрнитӧдны,ɕorɲitɘdnɨ,ɕorɲi-t-ɘd-nɨ,talk-V-TR-INF,to make someone talk,Lytkin 1955:231
 GB113-2,пыртны,pɨrtnɨ,pɨr-t-nɨ,enter-TR-INF,to lead in,Lytkin 1955:235
 GB114,мыссьыны,mɨɕɕɨnɨ,mɨɕ-ɕ-ɨnɨ,wash-REFL-INF,to wash oneself,Lytkin 1955:236
-GB115,тышкасьны,tɨʃkaɕnɨ,tɨʃka-ɕ-nɨ,strike-RECP-INF,to fight one another,Lytkin 1955:237
-GB117,Бать вӧлі партийнӧй мортӧн,bac vɘli parcijnɘj mortɘn,bac vɘli parcijnɘj mort-ɘn,father COP.PST1 partisan person-INST,The father was a party member.,"Komi-Zyrian corpus: Komi mu, 2016.05.10"
-GB121,найӧ кутасны бурӧн казьтыны миянлысь ним,najɘ kutasnɨ burɘn kaʑtɨnɨ mijanlɨɕ ɲim,najɘ kut-asnɨ bur-ɘn kaʑt-ɨnɨ mijan-lɨɕ ɲim,3PL hold-FUT.3PL good-INST remember-INF 1PL-ABL name,they will recall our name(s) with appreciation,Lytkin 1955:214
+GB115,тышкасьны,tɨʃkɑɕnɨ,tɨʃkɑ-ɕ-nɨ,strike-RECP-INF,to fight one another,Lytkin 1955:237
+GB117,Бать вӧлі партийнӧй мортӧн,bɑc vɘli pɑrcijnɘj mortɘn,bɑc vɘli pɑrcijnɘj mort-ɘn,father COP.PST1 partisan person-INST,The father was a party member.,"Komi-Zyrian corpus: Komi mu, 2016.05.10"
+GB121,найӧ кутасны бурӧн казьтыны миянлысь ним,nɑjɘ kutɑsnɨ burɘn kɑʑtɨnɨ mijɑnlɨɕ ɲim,nɑjɘ kut-ɑsnɨ bur-ɘn kɑʑt-ɨnɨ mijɑn-lɨɕ ɲim,3PL hold-FUT.3PL good-INST remember-INF 1PL-ABL name,they will recall our name(s) with appreciation,Lytkin 1955:214
 GB122,сёйны-юны,ɕojnɨ-junɨ,ɕoj-nɨ-ju-nɨ,eat-INF-drink-INF,"to eat, to feed oneself",Beznosikova et al. 2000:сёйны-юны
-GB126,"Москваясад, дерт, быдторджык эм","moskvajasad, ɟert, bɨdtord͡ʒɨk em","moskva-jas-ad, ɟert, bɨdtor-d͡ʒɨk em",Moscow-PL-PX.2SG.LOC/ILL of.course everything-COMP EX.COP,In Moscow and alike cities there is almost everything.,Lytkin 1955:135
-GB134-1,Том морт помаліс Москваса государственнӧй юридическӧй университет,tom mort pomalis moskvasa gosudarstvenːɘj juriɟit͡ɕeskɘj uɲiverɕicet,tom mort pomal-is moskva-sa gosudarstvenːɘj juriɟit͡ɕeskɘj uɲiverɕicet,young man.NOM finish-PST1.3SG Moscow-ADJ state.ADJ law.ADJ university.NOM,The young man graduated from the Moscow State University of Law.,Komi-Zyrian corpus: Parma gor 2019.04.04
-GB134-2,"том фельдшер, коді помаліс Сыктывкарса медколледж","tom feʎdʃer, kodi pomalis sɨktɨvkarsa medkoʎːed͡ʒ","tom feʎdʃer, kodi pomal-is sɨktɨvkar-sa medkoʎːed͡ʒ",young feldsher.NOM REL finish-PST1.3SG Syktyvkar-ADJ medical.college.NOM,a young feldsher who graduated from the Syktyvkar college,Komi-Zyrian corpus: Parma Gor 2012.10.11
-GB135,"Челядь шензьӧмӧн видзӧдӧны, кыдзи уджалӧ комбайн","t͡ɕeʎaɟ ʃenʑɘmɘn vid͡ʑɘdɘnɨ, kɨd͡ʑi ud͡ʒalɘ kombajn","t͡ɕeʎaɟ ʃenʑ-ɘm-ɘn vid͡ʑɘd-ɘnɨ, kɨd͡ʑi ud͡ʒal-ɘ kombajn",child.PL be.surprised-AN-INS look-PRES.3PL how work-PRES.3SG combine.harvester,The children watched the combine work with amazement.,Lytkin 1955:271
+GB123,Кокнас туп-тапкерис,koknɑs tup-tɑpkeris,kok-nɑs tup-tɑp-ker-is,foot-POSS.INS pit-a-pat.do-PST.3SG,[S/he] stamped his/her feet,Lytkin 1955:250
+GB126,"Москваясад, дерт, быдторджык эм","moskvɑjɑsɑd, ɟert, bɨdtord͡ʒɨk em","moskvɑ-jɑs-ɑd, ɟert, bɨdtor-d͡ʒɨk em",Moscow-PL-POSS.2SG.LOC/ILL of.course everything-COMP EX.COP,In Moscow and alike cities there is almost everything.,Lytkin 1955:135
+GB134-1,Том морт помаліс Москваса государственнӧй юридическӧй университет,tom mort pomɑlis moskvɑsɑ gosudɑrstvenːɘj juriɟit͡ɕeskɘj uɲiverɕicet,tom mort pomɑl-is moskvɑ-sɑ gosudɑrstvenːɘj juriɟit͡ɕeskɘj uɲiverɕicet,young man.NOM finish-PST1.3SG Moscow-ADJ state.ADJ law.ADJ university.NOM,The young man graduated from the Moscow State University of Law.,Komi-Zyrian corpus: Parma gor 2019.04.04
+GB134-2,"том фельдшер, коді помаліс Сыктывкарса медколледж","tom feʎdʃer, kodi pomɑlis sɨktɨvkɑrsɑ medkoʎːed͡ʒ","tom feʎdʃer, kodi pomɑl-is sɨktɨvkɑr-sɑ medkoʎːed͡ʒ",young feldsher.NOM REL finish-PST1.3SG Syktyvkar-ADJ medical.college.NOM,a young feldsher who graduated from the Syktyvkar college,Komi-Zyrian corpus: Parma Gor 2012.10.11
+GB135,"Челядь шензьӧмӧн видзӧдӧны, кыдзи уджалӧ комбайн","t͡ɕeʎɑɟ ʃenʑɘmɘn vid͡ʑɘdɘnɨ, kɨd͡ʑi ud͡ʒɑlɘ kombɑjn","t͡ɕeʎɑɟ ʃenʑ-ɘm-ɘn vid͡ʑɘd-ɘnɨ, kɨd͡ʑi ud͡ʒɑl-ɘ kombɑjn",child.PL be.surprised-AN-INS look-PRS.3PL how work-PRS.3SG combine.harvester,The children watched the combine work with amazement.,Lytkin 1955:271
 GB139-1,эн гиж,en giʒ,en giʒ,NEG.IMP.2SG write.CNG.SG,Don't write!,Lytkin 1955:219
-GB139-2,он гиж,on giʒ,on giʒ,NEG.PRES.2SG write.CNG.SG,You do not write.,Lytkin 1955:218
+GB139-2,он гиж,on giʒ,on giʒ,NEG.PRS.2SG write.CNG.SG,You do not write.,Lytkin 1955:218
 GB148,кыйсьыны,kɨjɕɨnɨ,kɨj-ɕ-ɨnɨ,hunt-ANTIP-INF,to hunt (in general),Lytkin 1955:237
-GB152-1,Шонді петтӧдз колхозникъяс уджалісны му вылын,ʃondi petːɘd͡ʑ kolxozɲikjas ud͡ʒalisnɨ mu vɨlɨn,ʃondi pet-ːɘd͡ʑ kolxozɲik-jas ud͡ʒal-isnɨ mu vɨl-ɨn,sun exit-CVB.SEQ kolkhoz.worker-PL work-PST1.3PL earth on-INE,By the time the sun rose the kolkhoz workers had been working in the field.,Lytkin 1955:246
-GB152-2,Рӧднӧй завод йылысь думайтігӧн сьӧлӧмыслы вӧлі кокни,rɘdnɘj zavod jɨlɨɕ dumajtigɘn ɕɘlɘmɨslɨ vɘli kokɲi,rɘdnɘj zavod jɨlɨɕ dumajt-igɘn ɕɘlɘm-ɨs-lɨ vɘli kokɲi,native factory about think-CVB.SYN heart.PX.3SG.DAT COP.PST1 light,While thinking about the factory at home he felt lightness in his heart.,Lytkin 1955:244
-GB155,ме дорӧда пурт кузнечлы,me dorɘda purt kuzɲet͡ɕlɨ,me dor-ɘd-a purt kuzɲet͡ɕ-lɨ,1SG forge-CAUS-PRES.1SG knife smith-DAT,I am having a knife forged by a smith.,Lytkin 1955:233
-GB160-1,А луныс ӧд вӧлі лӧнь-лӧнь,a lunɨs ɘd vɘli lɘɲ-lɘɲ,a lun-ɨs ɘd vɘli lɘɲ-lɘɲ,but day-DEF.NOM INTS COP.PST1 quiet-quiet,"But, you know, the day was very quiet.",Komi-Zyrian corpus: Art 2011
+GB152-1,Шонді петтӧдз колхозникъяс уджалісны му вылын,ʃondi petːɘd͡ʑ kolxozɲikjɑs ud͡ʒɑlisnɨ mu vɨlɨn,ʃondi pet-ːɘd͡ʑ kolxozɲik-jɑs ud͡ʒɑl-isnɨ mu vɨl-ɨn,sun exit-CVB.SEQ kolkhoz.worker-PL work-PST1.3PL earth on-INE,By the time the sun rose the kolkhoz workers had been working in the field.,Lytkin 1955:246
+GB152-2,Рӧднӧй завод йылысь думайтігӧн сьӧлӧмыслы вӧлі кокни,rɘdnɘj zɑvod jɨlɨɕ dumɑjtigɘn ɕɘlɘmɨslɨ vɘli kokɲi,rɘdnɘj zɑvod jɨlɨɕ dumɑjt-igɘn ɕɘlɘm-ɨs-lɨ vɘli kokɲi,native factory about think-CVB.SYN heart-POSS.3SG-DAT COP.PST1 light,While thinking about the factory at home he felt lightness in his heart.,Lytkin 1955:244
+GB155,ме дорӧда пурт кузнечлы,me dorɘdɑ purt kuzɲet͡ɕlɨ,me dor-ɘd-ɑ purt kuzɲet͡ɕ-lɨ,1SG forge-CAUS-PRS.1SG knife smith-DAT,I am having a knife forged by a smith.,Lytkin 1955:233
+GB160-1,А луныс ӧд вӧлі лӧнь-лӧнь,ɑ lunɨs ɘd vɘli lɘɲ-lɘɲ,ɑ lun-ɨs ɘd vɘli lɘɲ-lɘɲ,but day-DEF.NOM INTS COP.PST1 quiet-quiet,"But, you know, the day was very quiet.",Komi-Zyrian corpus: Art 2011
 GB160-2,ӧтиӧн-ӧтиӧн,ɘciɘn-ɘciɘn,ɘci-ɘn-ɘci-ɘn,one-INST-one-INST,one by one,Beznosikova et al. 2000:ӧтиӧн-ӧтиӧн
-GB187,няньтор,ɲaɲtor,ɲaɲ-tor,bread-DIM,a small loaf of bread,Lytkin 1955:156
+GB187,няньтор,ɲɑɲtor,ɲɑɲ-tor,bread-DIM,a small loaf of bread,Lytkin 1955:156
 GB193,ён вӧв,jon vɘv,jon vɘv,strong horse,a strong horse,Lytkin 1955:159
-GB204-1,став во,stav vo,stav vo,all year,all year,
-GB204-2,быд во,bɨd vo,bɨd vo,every year,every year,
-GB254,Иванлӧн эм книга,ivanlɘn em kɲiga,ivan-lɘn em kɲiga,Ivan-GEN EX.COP book,Ivan has a book,Lytkin 1955:141
-GB264,Мыйкӧ бара эг-ӧ вунӧдӧ ми?,mɨjkɘ bara eg-ɘ vunɘdɘ mi?,mɨjkɘ bara eg-ɘ vunɘd-ɘ mi?,something again NEG.IND.PST1.1PL-Q forget-CNG.PL 1PL,Haven't we forgotten anything after all?,Lytkin 1955:281
-GB266,алмаз чорыдджык стальысь,almaz t͡ɕorɨdː͡ʒɨk staʎɨɕ,almaz t͡ɕorɨd-ː͡ʒɨk staʎ-ɨɕ,diamond hard-COMP steel-ELA,Diamond is harder than steel,Lytkin 1955:144
-GB273,Ме пӧ сы серти латшкӧсджык,me pɘ sɨ ɕerci lat͡ʃkɘsd͡ʒɨk,me pɘ sɨ ɕerci lat͡ʃkɘs-d͡ʒɨk,1SG IS 3SG as stocky-COMP,One says that I am stockier than him.,Komi-Zyrian corpus: Art 2012
-GB276,Водз кӧдзӧмыд бӧльӧ бур,vod͡ʑ kɘd͡ʑɘmɨd bɘʎɘ bur,vod͡ʑ kɘd͡ʑ-ɘm-ɨd bɘʎɘ bur,early sow-AN-DEF COMP good,Early sowing is better,Lytkin 1955:281
-GB296,дзим-дзурк пасьтасьны,d͡ʑim-d͡ʑurk paɕtaɕnɨ ,d͡ʑim-d͡ʑurk paɕta-ɕ-nɨ ,neatly dress-REFL-INF,to dress up neatly,Beznosikova et al. 2000:дзим-дзурк
-GB304,Керкаяс стрӧитсьӧны плӧтникъясӧн,kerkajas strɘitɕɘnɨ plɘtɲikjasɘn,kerka-jas strɘit-ɕ-ɘnɨ plɘtɲik-jas-ɘn,house-PL build-PASS-PRES.3PL carpenter-PL-INS,Houses are being built by carpenters,Lytkin 1955:238
-GB305,Тадзи асьсӧ зілис збоймӧдны ,tad͡ʑi aɕsɘ ziʎis zbojmɘdnɨ,tad͡ʑi aɕ-sɘ ziʎ-is zboj-m-ɘd-nɨ,this.way REFL-3SG.ACC strive-PST1.3SG dynamic-V.INCH-CAUS-INF,"By doing so, he tried to gather up more courage (lit. to make himself brave(r)).",Komi-Zyrian corpus: Art 2007
-GB312,мунамӧй!,munamɘj!,mun-am-ɘj!,go-1PL-IMP,let's go!,Lytkin 1955:218
-GB323,Иван мунӧма,ivan munɘma,ivan mun-ɘm-a,Ivan go-PST2-3SG,Ivan has allegedly gone,Lytkin 1955:215
+GB204-1,став во,stɑv vo,stɑv vo,all year,all year,Nikolay Kuznetsov (p.c. 2023)
+GB204-2,быд во,bɨd vo,bɨd vo,every year,every year,Nikolay Kuznetsov (p.c. 2023)
+GB254,Иванлӧн эм книга,ivɑnlɘn em kɲigɑ,ivɑn-lɘn em kɲigɑ,Ivan-GEN EX.COP book,Ivan has a book,Lytkin 1955:141
+GB260,Аддзöмаöсь сэтысь нефтьсö?,ɑdd͡ʑɘmɑɘɕ setɨɕ ɲefcsɘ,ɑdd͡ʑ-ɘm-ɑ-ɘɕ setɨɕ ɲefc-sɘ,find-PST2-3-PL from-there oil-DEF.ACC,Have they found oil there?,Sel'kov 1967:23
+GB264,Мыйкӧ бара эг-ӧ вунӧдӧ ми?,mɨjkɘ bɑrɑ eg-ɘ vunɘdɘ mi?,mɨjkɘ bɑrɑ eg-ɘ vunɘd-ɘ mi?,something again NEG.IND.PST1.1PL-Q forget-CNG.PL 1PL,Haven't we forgotten anything after all?,Lytkin 1955:281
+GB266,алмаз чорыдджык стальысь,ɑlmɑz t͡ɕorɨdː͡ʒɨk stɑʎɨɕ,ɑlmɑz t͡ɕorɨd-ː͡ʒɨk stɑʎ-ɨɕ,diamond hard-COMP steel-ELA,Diamond is harder than steel,Lytkin 1955:144
+GB273,Ме пӧ сы серти латшкӧсджык,me pɘ sɨ ɕerci lɑt͡ʃkɘsd͡ʒɨk,me pɘ sɨ ɕerci lɑt͡ʃkɘs-d͡ʒɨk,1SG IS 3SG as stocky-COMP,One says that I am stockier than him.,Komi-Zyrian corpus: Art 2012
+GB276,Водз кӧдзӧмыд бӧльӧ бур,vod͡ʑ kɘd͡ʑɘmɨd bɘʎɘ bur,vod͡ʑ kɘd͡ʑ-ɘm-ɨd bɘʎɘ bur,early sow-AN-POSS.2SG COMP good,Early sowing is better,Lytkin 1955:281
+GB286,Совхозса выль директор та йылысь тöдö?,sovxozsɑ vɨʎ ɟirektor tɑ jɨlɨɕ tɘdɘ,sovxoz-sɑ vɨʎ ɟirektor tɑ jɨlɨɕ tɘd-ɘ,sovkhoz-ADJ new direktor this about know-PRS.3SG,Does the new director of the sovkhoz know about it?,Sel'kov 1967:24
+GB296,дзим-дзурк пасьтасьны,d͡ʑim-d͡ʑurk pɑɕtɑɕnɨ,d͡ʑim-d͡ʑurk pɑɕtɑ-ɕ-nɨ,neatly dress-REFL-INF,to dress up neatly,Beznosikova et al. 2000:дзим-дзурк
+GB299,абу мунöмыд,ɑbu munɘmɨd,ɑbu mun-ɘm-ɨd,NEG go-PST2-2SG,You haven’t left,Ludykova et al. 2000:223
+GB301,ми Лёнякöд,mi ʎoɲɑkɘd,mi ʎoɲɑ-kɘd,we Lyonya-COM,Lyonya and I,Ludykova et al. 2000:77
+GB304,Керкаяс стрӧитсьӧны плӧтникъясӧн,kerkɑjɑs strɘitɕɘnɨ plɘtɲikjɑsɘn,kerkɑ-jɑs strɘit-ɕ-ɘnɨ plɘtɲik-jɑs-ɘn,house-PL build-PASS-PRS.3PL carpenter-PL-INS,Houses are being built by carpenters,Lytkin 1955:238
+GB305,Тадзи асьсӧ зілис збоймӧдны,tɑd͡ʑi ɑɕsɘ ziʎis zbojmɘdnɨ,tɑd͡ʑi ɑɕ-sɘ ziʎ-is zboj-m-ɘd-nɨ,this.way REFL-3SG.ACC strive-PST1.3SG dynamic-V.INCH-CAUS-INF,"By doing so, he tried to gather up more courage (lit. to make himself brave(r)).",Komi-Zyrian corpus: Art 2007
+GB312,мунамӧй!,munɑmɘj!,mun-ɑm-ɘj!,go-1PL-IMP,let's go!,Lytkin 1955:218
+GB323,Иван мунӧма,ivɑn munɘmɑ,ivɑn mun-ɘm-ɑ,Ivan go-PST2-3SG,Ivan has allegedly gone,Lytkin 1955:215
 GB325-1,кымын,kɨmɨn,kɨmɨn,how.many,how many,Lytkin 1955:200
-GB325-2,мыйта,mɨjta,mɨjta,how.much,how much,Lytkin 1955:200
-GB328,журналын йӧзӧдтӧм гижӧдъяс,ʒurnalɨn jɘzɘdtɘm giʒɘdjas,ʒurnal-ɨn jɘzɘd-tɘm giʒ-ɘd-jas,journal-INE publish-PTCP.NEG write-N-PL,writings which have not been published in a journal,Komi-Zyrian corpus: Art 2011
-GB333,кӧкъямысдас,kɘkjamɨsdas,kɘkjamɨs-das,eight-ten,eighty,Lytkin 1955:186
-GB415-1,тэ медся шуда мортыс му вылас,te medɕa ʃuda mortɨs mu vɨlas,te medɕa ʃud-a mort-ɨs mu vɨl-as,2SG SUPL luck-ADJ person-DEF.NOM.SG earth on-DEF.INE,You (familiar) are the happiest person in the world.,"Komi-Zyrian corpus: Komi mu, 2015.12.31"
-GB415-2,ті шуда морт,ti ʃuda mort,ti ʃud-a mort,2PL luck-ADJ person.NOM.SG,You (polite) are a lucky man!,Komi-Zyrian corpus: Art 2008
-GB421,"Ті ӧд тӧданныд, мый менам невестаӧй шань","ti ɘd tɘdanːɨd, mɨj menam ɲevestaɘj ʃaɲ","ti ɘd tɘd-anːɨd, mɨj menam ɲevesta-ɘj ʃaɲ",2PL INTS know-PRES.2PL REL 1SG.GEN daughter.in.law-PX.1SG.NOM good,But you know that my daughter-in-law is good (as a person).,Komi-Zyrian corpus: Art 2012
-GB519,Мед лоӧ Рӧдинаным озыр!,med loɘ rɘɟinanɨm ozɨr!,med lo-ɘ rɘɟina-nɨm ozɨr!,IMP be-PRES.3SG matherland-PX1PL rich,May our Motherland be rich!,Lytkin 1955:218
-GB520,"мунӧ вӧлі туй кузя, кор ме видзӧдлі ӧшиньӧд","munɘ vɘli tuj kuʑa, kor me vid͡ʑɘdli ɘʃiɲɘd","mun-ɘ vɘl-i tuj kuʑa, kor me vid͡ʑɘdl-i ɘʃiɲ-ɘd",go-PRES.3SG be-PST1 road along when 1SG look-1SG window-PROL,He was going down the road when I looked through the window.,Lytkin 1955:215
-GB522,Гижа пероӧн,giʒa peroɘn,giʒ-a pero-ɘn,write-PRES.1SG pen-INS,I am writing with a pen,Lytkin 1955:208
+GB325-2,мыйта,mɨjtɑ,mɨjtɑ,how.much,how much,Lytkin 1955:200
+GB328,журналын йӧзӧдтӧм гижӧдъяс,ʒurnɑlɨn jɘzɘdtɘm giʒɘdjɑs,ʒurnɑl-ɨn jɘzɘd-tɘm giʒ-ɘd-jɑs,journal-INE publish-PTCP.NEG write-N-PL,writings which have not been published in a journal,Komi-Zyrian corpus: Art 2011
+GB333,кӧкъямысдас,kɘkjɑmɨsdɑs,kɘkjɑmɨs-dɑs,eight-ten,eighty,Lytkin 1955:186
+GB415-1,тэ медся шуда мортыс му вылас,te medɕɑ ʃudɑ mortɨs mu vɨlɑs,te medɕɑ ʃud-ɑ mort-ɨs mu vɨl-ɑs,2SG SUPL luck-ADJ person-DEF.NOM.SG earth on-DEF.INE,You (familiar) are the happiest person in the world.,"Komi-Zyrian corpus: Komi mu, 2015.12.31"
+GB415-2,ті шуда морт,ti ʃudɑ mort,ti ʃud-ɑ mort,2PL luck-ADJ person.NOM.SG,You (polite) are a lucky man!,Komi-Zyrian corpus: Art 2008
+GB421,"Ті ӧд тӧданныд, мый менам невестаӧй шань","ti ɘd tɘdɑnːɨd, mɨj menɑm ɲevestɑɘj ʃɑɲ","ti ɘd tɘd-ɑnːɨd, mɨj menɑm ɲevestɑ-ɘj ʃɑɲ",2PL INTS know-PRS.2PL REL 1SG.GEN daughter.in.law-POSS.1SG.NOM good,But you know that my daughter-in-law is good (as a person).,Komi-Zyrian corpus: Art 2012
+GB519,Мед лоӧ Рӧдинаным озыр!,med loɘ rɘɟinɑnɨm ozɨr!,med lo-ɘ rɘɟinɑ-nɨm ozɨr!,IMP be-PRS.3SG matherland-POSS.1PL rich,May our Motherland be rich!,Lytkin 1955:218
+GB520,"мунӧ вӧлі туй кузя, кор ме видзӧдлі ӧшиньӧд","munɘ vɘli tuj kuʑɑ, kor me vid͡ʑɘdli ɘʃiɲɘd","mun-ɘ vɘl-i tuj kuʑɑ, kor me vid͡ʑɘdl-i ɘʃiɲ-ɘd",go-PRS.3SG be-PST1 road along when 1SG look-1SG window-PROL,He was going down the road when I looked through the window.,Lytkin 1955:215
+GB522,Гижа перӧöн,giʒɑ perɘɘn,giʒ-ɑ perɘ-ɘn,write-PRS.1SG pen-INS,I am writing with a pen,Lytkin 1955:208

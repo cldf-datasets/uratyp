@@ -1,167 +1,159 @@
 ID,Name,Meadow.Mari,Source,Example,Comment
-UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,EG 198,,
-UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,EG 57,UT002,"“On occasion, a grammatically singular noun that refers to a group of sorts (e.g., калык [kɑlək] ‘people’, кӱтӱ [kyty] ‘herd’, еш [jeʃ] ‘family’), or pair nouns/collective nouns [...], co-occur with plural forms of verbs. In these cases, singular verbal forms are however also possible, and recommended by prescriptive grammarians.”"
-UT003,Can finite verbs agree in number with the nominal object?,0,Jeremy Bradley (p.c. 2020),,
-UT004,Can an adnominal property word agree with the noun in case?,0,EG 97,,There is no case agreement within noun phrases at all.
-UT005,Are there cases that do not show agreement in terms of case?,0,EG 97,,There is no case agreement within noun phrases at all.
+UT001,Is there a distinct category of dual for verbal agreement with a dual subject?,0,Riese et al. 2019:198,,
+UT002,Is non-agreement in number between the nominal subject and verbal predicate possible?,1,Riese et al. 2019:57,UT002,"“On occasion, a grammatically singular noun that refers to a group of sorts (e.g., калык [kɑlək] ‘people’, кӱтӱ [kyty] ‘herd’, еш [jeʃ] ‘family’), or pair nouns/collective nouns [...], co-occur with plural forms of verbs. In these cases, singular verbal forms are however also possible, and recommended by prescriptive grammarians.”"
+UT003,Can finite verbs agree in number with a nominal object?,0,Jeremy Bradley (p.c. 2020),,
+UT004,Can an adnominal property word agree with the noun in case?,0,Riese et al. 2019:97,,There is no case agreement within noun phrases at all.
+UT005,Is there non-agreement between an adnominal property word and the head noun? ,0,Riese et al. 2019:97,,There is no case agreement within noun phrases at all.
 UT006,Can adpositions be used to mark core verbal arguments?,0,Jeremy Bradley (p.c. 2020),,
-UT007,Can adpositions be used to mark non-core/oblique verbal arguments?,1,"EG 163-164, 172",UT007,It could however be reasoned that postpositions that encode oblique arguments have been subject to morphologization and that it is only description tradition and orthographic norms that prevent them from being considered case suffixed (EG 163-164).
-UT008,Can non-finite clauses entail a special way for a core argument (S/A) marking?,1,EG 254,UT008,"“The gerunds in -мек(е) [-mek(e)] and -меш(ке) [-meʃ(ke)] take possessive suffixes; their agent, which can (but does not have to) differ from the agent of the superordinate (often finite) verb, can be marked by a preceding pronoun or noun. If the agent of the gerundial action is a noun, it can be in the nominative or the genitive. Inanimate nouns generally occur in the nominative, while animate nouns occur in either the nominative or genitive. When used with a genitive form, the gerund usually has a possessive suffix third person.” (EG 254) The same applies to participles (EG 261, 265, 266); the picture is more complicated with postpositions (EG 160) where the government depends on the individual postposition."
-UT009,Can non-finite clauses entail a special way for a core argument (P) marking?,1,EG 70,UT009,
-UT010,"Do characteristics of object referent (topicality, animacy, definiteness) influence object marking?",0,Jeremy Bradley (p.c. 2020),,Differential object marking can be attested only in non-finite clauses (EG 70).
-UT011,Does object marking correlate with aspectuality?,0,EG 70,,
-UT012,Does the marking of the object depend on the verb conjugation form?,0,Jeremy Bradley (p.c. 2020),,
+UT008,Can non-finite clauses use a special means for core argument (S/A) marking?,1,Riese et al. 2019:254,UT008,"“The gerunds in -мек(е) [-mek(e)] and -меш(ке) [-meʃ(ke)] take possessive suffixes; their agent, which can (but does not have to) differ from the agent of the superordinate (often finite) verb, can be marked by a preceding pronoun or noun. If the agent of the gerundial action is a noun, it can be in the nominative or the genitive. Inanimate nouns generally occur in the nominative, while animate nouns occur in either the nominative or genitive. When used with a genitive form, the gerund usually has a possessive suffix third person.” (Riese et al. 2019:254) The same applies to participles (EG 261, 265, 266); the picture is more complicated with postpositions (Riese et al. 2019:160) where the government depends on the individual postposition."
+UT009,Can non-finite clauses use a special means for core argument (P) marking?,1,Riese et al. 2019:70,"UT009-1, UT009-2",
+UT010,"Do the characteristics of the object referent (topicality, animacy, definiteness) influence object marking?",0,Jeremy Bradley (p.c. 2020),,Differential object marking can be attested only in non-finite clauses (Riese et al. 2019:70).
+UT011,Does object marking correlate with aspectuality?,0,Riese et al. 2019:70,,
+UT012,Does object marking depend on the verb conjugation form?,0,Jeremy Bradley (p.c. 2020),,
 UT013,Is there differential subject marking?,0,Jeremy Bradley (p.c. 2020),,
-UT014,"Can S and A be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",1,corp,UT014,
-UT015,"Can S and P be conflated morphologically across clause boundaries, i.e. act as syntactic pivot?",0,Jeremy Bradley (p.c. 2020),,
-UT016,Is there a grammatical device for habituality?,1,"EG 222-228, 286, 292","UT016-1, UT016-2","Compound past tenses I & II (formed by present-tense form followed by ‘to be’ in the third person singular, either in simple past I or II) are habitual (the distinction between them is evidential). Also, aspectual auxiliaries (light verbs) илаш ‘to live’ and шогалаш ‘to stand up’ can be coupled with a converb and give the resulting pairing a habitual value."
-UT017,Is there a grammatical device for frequentative?,1,"EG 389-390, 290","UT017-1, UT017-2","Numerous defivational suffixes, descending by their productivity: v-л [-l]: лӱмдаш [lymdɑʃ] ‘to name’ → лӱмдылаш [lymdəlɑʃ] ‘to call names’, -ешт [-eʃt]: колаш [kolɑʃ] ‘to hear’ → колышташ [koləʃtɑʃ] ‘to listen’, -кал [-kɑl]: ойыраш [ojərɑʃ] ‘to separate’ → ойыркалаш [ojərkɑlɑʃ] ‘to sort’, -ед [-ed]: пуаш [puɑʃ] ‘to give’ → пуэдаш [puedɑʃ] ‘to hand out’. Also auxiliary опташ ‘to place (several items)’."
-UT018,Is there a grammatical device for progressivity?,1,EG 286,UT018,Aspectual auxiliary (light verb) илаш [ilɑʃ] ‘to live’ is used.
-UT019,Is it common to use a verb in the present tense for future time reference?,1,EG 205-208,UT019,"Especially in combination with atelic verbs or verbal pairings, the verb тӱҥалаш [tyŋɑlɑʃ] ‘to begin’ is used as a future auxiliary."
-UT020,Is there a grammatical device for immediate future?,0,EG 214,,"Simple past tense 1 forms can, in a structure presumably borrowed from Russian, be used to denote something that is about to happen in the immediate future."
-UT021,Is there a grammatical device for pluperfect?,1,"EG 272-273, 228-233","UT021-1, UT021-2","The usual way of expressing this is using the converb of prior action. Also simple past III & IV (distinction between them is evidential), formed by a simple past II form followed by a past-tense form (simple past I and II respectively) of the verb ‘to be’ in the third person singular, are “used to denote an action in the past that preceded another action, or was interrupted by it”."
-UT022,Can aspect be expressed overtly on the negative marker?,0,Jeremy Bradley (p.c. 2020),,
-UT023,Can tense be expressed overtly on the negative marker?,1,EG 278-279,"UT023-1, UT023-2",
-UT024,Is there grammatical marking of mirativity?,0,EG 334-337,,"The particle улмаш [ulmɑʃ] (‘to be’ in simple past II, 3SG) is placed after verbs in sentences in order to “to imply an uncertainty of sorts, or an inference, and in some cases also that an event was unexpected and surprising”, e.g. паша-ште лий-м-ем годым тудо мал-а улмаш [pɑʃɑ-ʃte lij-m-em godəm tudo mɑl-ɑ ulmɑʃ] (work-INE be(come)-PTCP.PASS-PX1SG when 3SG sleep-3SG be.PST2.3SG) 'While I was at work, it turned out s/he was sleeping'. However, there is no grammatical disctinction between evidential and mirative form."
-UT025,Is there morphological marking on the verb dedicated to the expression of desire or wish?,1,EG 242-250,UT025,
-UT026,Is there morphological marking for irrealis (e.g. hypothetical state of affairs)?,0,EG 199,,Only periphrastic forms are used.
-UT027,Are verbs marked in a specific mood in counterfactual conditional clauses?,0,EG 199,,
-UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"EG 257-259, 263-265","UT028-1, Ut028-2","There is a necessitive infinitive with the ending -мыла/-мӹлӓ [-məlɑ/-mə̈læ], and the future-necessitive participle in -шашлык/-шӓшлык [-ʃɑʃlək/-ʃæʃlək]."
-UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,EG 263-265,UT029,"The future-necessitive participle in -шаш [-ʃɑʃ], which prototypically denotes necessity, can in some cases be used in this function."
-UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Jeremy Bradley (p.c. 2020),,"There is, however, a suffix -ан [-ɑn] that can be attached to participles (EG 253) to indicate that they denote possible states rather than real states, e.g. почмо [pot͡ɕmo] 'opened', почман [pot͡ɕmɑn] 'openable'."
-UT031,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 3Sg?,1,EG 235-242,UT031,
-UT032,Is there morphological marking on the verb used to express indirect commands/wishes etc. directed to the 1Sg?,0,Jeremy Bradley (p.c. 2020),,
+UT014,"Can S and A be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",1,MMC,UT014,
+UT015,"Can S and P be conflated morphologically across clause boundaries, i.e., act as a syntactic pivot?",0,Jeremy Bradley (p.c. 2020),,
+UT016,Is there grammatical marking of habituality?,1,"Riese et al. 2019:222-228, 286, 292","UT016-1, UT016-2","Compound past tenses I & II (formed by present-tense form followed by ‘to be’ in the third person singular, either in simple past I or II) are habitual (the distinction between them is evidential). Also, aspectual auxiliaries (light verbs) илаш ‘to live’ and шогалаш ‘to stand up’ can be coupled with a converb and give the resulting pairing a habitual value."
+UT017,Is there grammatical marking of frequentativity?,1,"Riese et al. 2019:389-390, 290","UT017-1, UT017-2","Numerous defivational suffixes, descending by their productivity: v-л [-l]: лӱмдаш [lymdɑʃ] ‘to name’ → лӱмдылаш [lymdəlɑʃ] ‘to call names’, -ешт [-eʃt]: колаш [kolɑʃ] ‘to hear’ → колышташ [koləʃtɑʃ] ‘to listen’, -кал [-kɑl]: ойыраш [ojərɑʃ] ‘to separate’ → ойыркалаш [ojərkɑlɑʃ] ‘to sort’, -ед [-ed]: пуаш [puɑʃ] ‘to give’ → пуэдаш [puedɑʃ] ‘to hand out’. Also auxiliary опташ ‘to place (several items)’."
+UT018,Is there grammatical marking of progressivity?,1,Riese et al. 2019:286,UT018,Aspectual auxiliary (light verb) илаш [ilɑʃ] ‘to live’ is used.
+UT019,Is it common to use a verb in the present tense for future time reference?,1,Riese et al. 2019:205-208,UT019,"Especially in combination with atelic verbs or verbal pairings, the verb тӱҥалаш [tyŋɑlɑʃ] ‘to begin’ is used as a future auxiliary."
+UT020,Is there grammatical marking of the immediate future?,0,Riese et al. 2019:214,,"Simple past tense 1 forms can, in a structure presumably borrowed from Russian, be used to denote something that is about to happen in the immediate future."
+UT021,Is there grammatical marking of the pluperfect?,1,"Riese et al. 2019:272-273, 228-233","UT021-1, UT021-2","The usual way of expressing this is using the converb of prior action. Also simple past III & IV (distinction between them is evidential), formed by a simple past II form followed by a past-tense form (simple past I and II respectively) of the verb ‘to be’ in the third person singular, are “used to denote an action in the past that preceded another action, or was interrupted by it”."
+UT022,Can aspect be expressed overtly in the negative marker?,0,Jeremy Bradley (p.c. 2020),,
+UT023,Can tense be expressed overtly in the negative marker?,1,Riese et al. 2019:278-279,"UT023-1, UT023-2",
+UT024,Is there grammatical marking of mirativity?,0,Riese et al. 2019:334-337,,"The particle улмаш [ulmɑʃ] (‘to be’ in simple past II, 3SG) is placed after verbs in sentences in order to “to imply an uncertainty of sorts, or an inference, and in some cases also that an event was unexpected and surprising”, e.g. паша-ште лий-м-ем годым тудо мал-а улмаш [pɑʃɑ-ʃte lij-m-em godəm tudo mɑl-ɑ ulmɑʃ] (work-INE be(come)-PTCP.PASS-PX1SG when 3SG sleep-3SG be.PST2.3SG) 'While I was at work, it turned out s/he was sleeping'. However, there is no grammatical disctinction between evidential and mirative form."
+UT025,Is there morphological marking on the verb dedicated to the expression of a desire or wish?,1,Riese et al. 2019:242-250,UT025,
+UT026,Is there morphological marking on the verb dedicated to irrealis?,0,Riese et al. 2019:199,,Only periphrastic forms are used.
+UT027,Are verbs marked with a non-indicative mood in counterfactual conditional clauses?,0,Riese et al. 2019:199,,
+UT028,Is there morphological marking on the verb dedicated to the expression of deontic necessity?,1,"Riese et al. 2019:257-259, 263-265","UT028-1, UT028-2","There is a necessitive infinitive with the ending -мыла/-мӹлӓ [-məlɑ/-mə̈læ], and the future-necessitive participle in -шашлык/-шӓшлык [-ʃɑʃlək/-ʃæʃlək]."
+UT029,Is there morphological marking on the verb dedicated to the expression of epistemic possibility?,1,Riese et al. 2019:263-265,UT029,"The future-necessitive participle in -шаш [-ʃɑʃ], which prototypically denotes necessity, can in some cases be used in this function."
+UT030,Is there morphological marking on the verb dedicated to the expression of deontic possibility?,0,Jeremy Bradley (p.c. 2020),,"There is, however, a suffix -ан [-ɑn] that can be attached to participles (Riese et al. 2019:253) to indicate that they denote possible states rather than real states, e.g. почмо [pot͡ɕmo] 'opened', почман [pot͡ɕmɑn] 'openable'."
+UT031,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 3Sg?",1,Riese et al. 2019:235-242,UT031,
+UT032,"Is there morphological marking on the verb used to direct commands/wishes, etc. to the 1Sg?",0,Jeremy Bradley (p.c. 2020),,
 UT033,Is it common to use the imperative/jussive in complement clauses introduced by predicates expressing wish/desire/will?,0,Jeremy Bradley (p.c. 2020),,
 UT034,Is there morphological marking on the verb dedicated to the expression of apprehension?,0,Jeremy Bradley (p.c. 2020),,
-UT035,Is there reflexive conjugation?,0,EG 391-392,,Realized by a highly productive derivational suffix.
-UT036,Are there syntactically ditransitive verbs?,1,EG 79,UT036,"One of the prototypical usage situations for the dative, which unlike the dative in Turkic or Ob-Ugric languages is not used in a spatial sense."
+UT035,Is there a reflexive conjugation?,0,Riese et al. 2019:391-392,,Realized by a highly productive derivational suffix.
 UT037,Can non-singular 2nd and 3rd person have the same person/number marking or morphosyntactic treatment?,0,Jeremy Bradley (p.c. 2020),,
-UT038,Can an impersonal (or passive) form be used instead of a finite plural form with an overt subject expression?,0,Jeremy Bradley (p.c. 2020),,The reflexive marker -алт [-ɑlt] can  be used to create impersonal clauses that lack actual impersonal/passive semantics but rather show that an action was carried out involuntarily (see EG 392). Morphologically the verb is then 3SG. Subject marking is not possible then.
-UT039,Can third person plural verb forms be used for impersonal reference?,1,OMJ 53,UT039,Probably Russian influence.
-UT040,Can second person singular verb forms be used in generic meaning?,1,EG 434,UT040,
-UT042,Are clauses with only infinitive predicates possible?,1,Jeremy Bradley (p.c. 2020),"UT042-1, UT042–2","Exclamative clauses and in sentences used to express a desire can have bare infinitive predicates (EG 255). In negation, the nominalization is used in negative existentical clauses to indicate emphatic negation (EG 379)."
-UT043,Can verbs in purposive subordinate clauses be in bare infinitive form?,1,EG 255,UT043,
-UT044,Are there sentences without overt verbal arguments (e.g. weather verbs)?,1,MED: кылмыкташ,UT044,"This typically happens in Mari (only) with causative verb forms. The verbs meaning ‘rain’, ‘snow’ , and ‘blow’ (wind) require a subject."
-UT045,Is copula needed for predicate nominals in the 3rd person form of the present tense?,0,EG 295-296,,"Copula is not needed, e.g. тудо пиалан [tudo piɑlɑn] (3SG happy) 's/he is happy'; it is, however, possible to use  one."
-UT046,Is a copula needed for predicate nominals in the past and/or future tense?,1,EG 296-301,"UT046-1, UT046-2",
-UT047,Can locative adverbial phrases act as predicates without a copula?,1,EG 305,UT047,
-UT048,"Can the same coordinating conjunction be used for NPs, VPs, and clauses?",1,OMJ 103,"UT048-1, UT048-2",
-UT049,Does existential negation have a separate operator?,1,"EG 296, 303","UT049-1, UT049-2",
-UT050,Can standard negation be asymmetric in the present tense?,1,EG 203,"UT050-1, UT050-2",
+UT200,Can the 3rd person plural verb form and impersonal (passive) verb form be encoded in the same way?,1,Riese et al. 2017:53,UT200,Probably Russian influence.
+UT040,Are 2nd person singular verb forms commonly used with a generic meaning?,1,Riese et al. 2019:434,UT040,
+UT201,Can an infinitival verb form be used in a directive function?,1,Krasnova et al. 2017:150-151,UT201,
+UT043,Can verbs in purposive subordinate clauses be infinitive forms?,1,Riese et al. 2019:255,UT043,
+UT044,Are there sentences without overt verbal arguments?,1,Riese et al. 2014:кылмыкташ,UT044,"This typically happens in Mari (only) with causative verb forms. The verbs meaning ‘rain’, ‘snow’ , and ‘blow’ (wind) require a subject."
+UT045,Is a copula commonly used for predicate nominals in the 3rd person singular forms of the present tense?,0,Riese et al. 2019:295-296,,"Copula is not needed, e.g. тудо пиалан [tudo piɑlɑn] (3SG happy) 's/he is happy'; it is, however, possible to use  one."
+UT202,Is a copula commonly used for predicate nominals in the past tense?,1,Riese et al. 2019:296-301,UT202,
+UT047,Can locative constructions commonly occur without a copula?,1,Riese et al. 2019:305,UT047,
+UT048,"Is the same coordinating conjunction commonly used for NPs, VPs, and clauses?",1,Riese et al. 2017:103,"UT048-1, UT048-2",
+UT049,Does existential negation have a special negator?,1,"Riese et al. 2019:296, 303","UT049-1, UT049-2",
+UT050,Can standard negation be asymmetric in the present tense?,1,Riese et al. 2019:203,"UT050-1, UT050-2",
 UT051,Can non-finite dependent clauses use the standard negation construction?,0,Jeremy Bradley (p.c. 2020),,
-UT052,Is there a special negator that combines with non-finite forms?,1,"EG 251, 379-381","UT052-1, UT052-2",The element -ды- [-də- ~ -tə-] is contained in numerous non-finite forms.
-UT053,Are there special negative non-finite forms?,1,"EG 251, 379-381","UT053-1, UT053-2, UT053-3",
-UT054,Is there an impersonal passive construction?,0,EG 391-392,,Realized by a highly productive derivational suffix.
-UT055,"Are there nonfinite forms specialized on the relativization of particular core participants, e.g. subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,EG 251,"UT055-1, UT055-2",
-UT056,"Are there nonfinite forms that can relativize at least all core participants (S/A/P) and possibly also some noncore participants, e.g. locative adverbials, instruments, etc.?",1,EG 251,"UT056-1, UT056-2",
-UT057,"Are there nonfinite forms that can relativize at least some noncore participants, e.g. locative adverbials or instruments, but cannot relativize all or some of the core participants, e.g. subjects?",0,Jeremy Bradley (p.c. 2020),,
-UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negation marker?",1,EG 251,"UT058-1, UT058-2","While the participle is historically complex (negation element + ending of passive participle), it is treated as a unit in modern language."
-UT059,Is there a future participle?,1,EG 263-265,"UT059-1, UT059-2",
-UT060,Are there participles that can encode their subject by possessive suffixes?,1,EG 261,UT060,
-UT061,Can subject in at least some participial subordinate clauses be encoded in the same way as in independent clauses?,1,EG 261,"UT061-1, UT061-2","“The subject of a passive participle can also be indicated by a noun placed before the participle. As a tendency, inanimate nouns occur in the nominative, while animate nouns occur in the genitive, with the participle taking a matching possessive suffix.”"
-UT062,Are there participles that obligatorily agree with the nouns they modify in case and number (in all contexts)?,0,EG 97,,No agreement between modifiers and superordinate nouns in general; participles do not differ from this norm.
-UT063,Are there nonfinite forms that can be used both as participles and action nominalizations?,1,EG 252-253,UT063,Works with all participles but the active participle.
-UT064,Are there nonfinite forms that can be used both as participles and agentive nominalizations?,1,EG 259,"UT064-1, UT064-2",
-UT065,"Are there nonfinite forms that can be used both as participles and converbs without any additional morphological material, such as case markers?",0,EG 251,,"The converb in -н, which overwhelmingly forms adverbial forms, forms a very small set of adjectives. This is not a productive process (EG 269)."
-UT066,Is OV the neutral order in affirmative imperative clauses?,1,EG 21,,"The basic word order is SOV. There is no obvious deviation from the norm in the imperative, at least not on a regular basis."
-UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,EG 279,,"“The negation verb and the connegative form are tied to one another tightly in Mari. It is unusual for other elements (e.g., adverbs, pronouns) to occupy the space between them and it is unusual for the word order to change – the connegative form by default follows the negation verb.”"
-UT068,Are there preverbs?,0,Jeremy Bradley (p.c. 2020),,
-UT069,Are there verbal prefixes?,0,Jeremy Bradley (p.c. 2020),,
+UT052,Is there a special negator that combines with non-finite forms?,1,"Riese et al. 2019:251, 379-381","UT052-1, UT052-2",The element -ды- [-də- ~ -tə-] is contained in numerous non-finite forms.
+UT053,Are there special negative non-finite forms?,1,"Riese et al. 2019:251, 379-381","UT053-1, UT053-2, UT053-3",
+UT054,Is there an impersonal passive construction?,0,Riese et al. 2019:391-392,,Realized by a highly productive derivational suffix.
+UT055,"Are there non-finite forms specializing in the relativization of particular core participants, e.g., subjects (S/A), direct objects (P), absolutive participants (S/P)?",1,Riese et al. 2019:251,"UT055-1, UT055-2",
+UT056,Are there non-finite forms that can relativize all core participants (S/A/P) and possibly also some non-core participants?,1,Riese et al. 2019:251,"UT056-1, UT056-2",
+UT057,Are there non-finite forms that can relativize at least some non-core participants but cannot relativize all core participants?,0,Jeremy Bradley (p.c. 2020),,
+UT058,"Is there a specialized negative participial form, which cannot be analyzed as a specific participial marker + negative marker?",1,Riese et al. 2019:251,"UT058-1, UT058-2","While the participle is historically complex (negation element + ending of passive participle), it is treated as a unit in modern language."
+UT059,Is there a future participle?,1,Riese et al. 2019:263-265,"UT059-1, UT059-2",
+UT060,Are there participles that can encode their subject with possessive suffixes?,1,Riese et al. 2019:261,UT060,
+UT062,Are there participles that must agree with the nouns they modify in case and number in all contexts?,0,Riese et al. 2019:97,,No agreement between modifiers and superordinate nouns in general; participles do not differ from this norm.
+UT063,Are there non-finite forms that can be used both as participles and action nominalizations?,1,Riese et al. 2019:252-253,UT063,Works with all participles but the active participle.
+UT064,Are there non-finite forms that can be used both as participles and agentive nominalizations?,1,Riese et al. 2019:259,"UT064-1, UT064-2",
+UT065,Are there non-finite forms that can be used both as participles and converbs?,0,Riese et al. 2019:251,,"The converb in -н, which overwhelmingly forms adverbial forms, forms a very small set of adjectives. This is not a productive process (Riese et al. 2019:269)."
+UT066,Is OV the neutral order in affirmative imperative clauses?,1,Riese et al. 2019:21,,"The basic word order is SOV. There is no obvious deviation from the norm in the imperative, at least not on a regular basis."
+UT067,Is it possible to place an object between the negative marker and the main verb in imperative constructions?,0,Riese et al. 2019:279,,"“The negation verb and the connegative form are tied to one another tightly in Mari. It is unusual for other elements (e.g., adverbs, pronouns) to occupy the space between them and it is unusual for the word order to change – the connegative form by default follows the negation verb.”"
 UT070,Is there diminutive (hypocoristic) marking on verbs?,0,Jeremy Bradley (p.c. 2020),,
-UT071,Can modifiers of action nominalization in agent and patient roles both be encoded like possessors?,1,EG 252-253,"UT071-1, UT071-2",
-UT072,"Can the modifier of action nominalization in patient role (e.g. ""drinking of coffee"") be encoded like the direct object?",1,EG 250,UT072,"“Non-finite verbal forms are not inflected for tense and mood, but maintain some verbal properties, for example the argument structure (i.e., they can still have objects)."""
-UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,EG 97,,"Adjectives do not agree with the noun in number in the predicateve position, e.g. нине сӱрет-влак сылне ул-ыт [nine syret-vlɑk səlne ul-ət] (these picture-PL beautiful be-PRS.3PL) 'these pictures are beautiful'."
-UT074,Is it possible to form synthetic superlative?,0,EG 104,,Analytic formation is used.
-UT075,Can adpositions have person/number marking?,1,EG 160-163,UT075,
-UT076,"Are there separate adpositions to express goal, source, and location (without there being syncretism)?",1,EG 185-186,"UT076-1, UT076-2, UT076-3",
-UT077,Is case compounding possible?,1,EG 375,UT077,"“Genitive forms, especially of pronouns, can be used as nominals meaning ‘my one, mine’, ‘your one, yours’, ‘his/her own one, his/hers’, etc. In this case, they can be declined as nouns. Other suffixes, also case suffixes, can follow the genitive suffix.”"
-UT078,Are there case categories only found in pronouns?,0,Jeremy Bradley (p.c. 2020),,The morphologization of certain postpositions (e.g. дек ‘to’) is proceeding faster on demonstrative pronouns: туддек ‘to him/her’ (EG 136).
-UT079,Does the numeral modification of a noun have an effect on its case selection?,0,EG 109,,"The nominative case is used on both occasions, e.g. пӧрт [pørt] 'house' кок пӧрт [kok pørt] 'two houses'."
-UT080,Is the singular form of the noun also used with numerals bigger than 1?,1,EG 109,"UT080-1, UT080-2",
-UT081,Is there a genitive case that has an affix?,1,EG 74-76,UT081,
-UT082,Is there a case used to express indirect object/receiver/goal (different from a local case)?,1,EG 78-81,UT082,
-UT083,Is there a terminative case?,0,Jeremy Bradley (p.c. 2020),,
-UT084,Is there a separate case to indicate without what/who an action takes place / does not take place?,0,Jeremy Bradley (p.c. 2020),,
-UT085,Is there a separate case to mark the motion along or by the referent of the noun (prolative)?,0,Jeremy Bradley (p.c. 2020),,
-UT086,Is there a locative case that marks goal?,1,EG 84-88,UT086,
-UT087,Is there a locative case that marks location?,1,EG 82-84,UT087,
-UT088,Is there a locative case that marks source?,0,EG 172-174,,The postposition деч [det͡ɕ] ‘from’ could be said to be a de-facto case for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (EG 163-164)
-UT089,Is there case syncretism of goal and location marking?,0,EG 82-88,,
-UT090,Is there case syncretism of location and source marking?,0,Jeremy Bradley (p.c. 2020),,
-UT091,Are there two sets of local cases?,0,Jeremy Bradley (p.c. 2020),,"The three postpositions - деке [deke] ‘to’ (EG 169-170), дене [dene] ‘with’ (EG 170-172), деч [det͡ɕ] ‘from’ (EG 172-174) - used similar to external local cases in Finnic languages could be said to be de-facto cases for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (EG 163-164)."
-UT092,Is there a third set of local cases?,0,Jeremy Bradley (p.c. 2020),,
-UT093,Is there a separate case for marking the means by which something is carried out (instrumental) and/or accompaniement (comitative)?,0,EG 170-172,,The postposition дене [dene] ‘with’ could be said to be a de-facto case for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (EG 163-164). NB! The so-called comitative case mentioned in Mari grammars and textbooks has a radically different function.
-UT094,"Is there a separate case for marking accompaniment, which is different from the instrumental?",0,Jeremy Bradley (p.c. 2020),,
-UT095,Is there a separate case for marking the result of change (translative) and/or a state of being (essive)?,0,Jeremy Bradley (p.c. 2020),,
-UT096,"Is there a separate case for marking the state of being (essive), which is different from the translative?",0,Jeremy Bradley (p.c. 2020),,
-UT097,Is there a separate morphological marker for expressing equative meaning?,1,EG 91-93,UT097,"“The comparative case is used to express similarity, likeness and can usually be translated into English as ‘like something/someone’, ‘as something/someone’. The object/person with which a noun in the comparative is compared can be used in varying syntactic functions in the sentence: subject, object, etc.”."
-UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,EG 294,,The dative is used to mark benefactors.
-UT099,Is there in addition to the basic declension a declension different from a possessive declension? ,0,Jeremy Bradley (p.c. 2020),,
-UT100,Is it possible to use singular with paired body parts/clothing/accessories that accompany them?,1,EG 56; MED,"UT100-1, UT100-2",
-UT101,Can the marking of the possessor in the attributive construction vary?,0,EG 61-68,,
-UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,EG 61-68,,"It should be noted that inanimate nouns traditionally did not occur in the genitive at all; inanimate nouns serving as a modification do occur in the nominative (EG 61-68), e.g. Вена университет [Venɑ universitet] (Vienna.NOM university) University of Vienna’ (see www.mari-language.com)."
-UT103,Is non-singular possession marked in the possessive declension?,1,OMJ 516,"UT103-1, UT103-2",
-UT104,Can 2Sg possessive suffix be used to mark definiteness?,1,OMJ 125,UT104,"“Like the possessive suffix third person singular […] this possessive suffix can beused as a determining element, though its usage is more typical of folklore texts” (OMJ 125)."
-UT105,Can 3Sg possessive suffix be used to mark definiteness?,1,OMJ 125,UT105,The possessive suffix is used to indicate a rreference to something previously discussed or otherwise salient to the conversation. It is especially commonly used to refer to a subset of a larger whole that is salient.
-UT106,Is there human vs. non-human distinction distinction in independent interrogative pronouns?,1,EG 148,"UT106-1, UT106-2",
-UT107,"When used as a relative pronoun, is it common to use 'who' for animates other than humans?",0,MED,,
-UT108,"When used as a relative pronoun, is it common to use 'who' for inanimates?",0,MED,,
-UT109,Can a demonstrative stem be used in the function of a pronoun with 3rd person singular human referent?,1,OMJ 333; MED,"UT109-1, UT109-2",
-UT110,Are there possessive suffixes whose position in relation to case/number suffixes can vary? ,1,OMJ 516,"UT110-1, UT110-2",The “degrees of freedom” depend on the case.
-UT111,Is the order of number and case suffixes fixed across the paradigm the same?,1,OMJ 516,,There are no indications which would show that Cx before Nx is possible.
-UT112,Are there different words for mother’s brother and father’s brother?,1,OMJ 70-72; MED,"UT112-1, UT112-2, UT112-3",
-UT113,Are there different words for younger and older relative for other relations than siblings?,1,OMJ 70-72; MED,"UT113-1, UT113-2, UT113-3, UT113-4, UT113-5",
-UT114,Is there animacy distinction for both concepts 'new/young' and 'old'?,1,OMJ 243; MED,"UT114-1, UT114-2, UT114-3, UT114-4",
-UT115,Is there distinction for both 'warm' and 'cold' based on whether referring to weather or to temperature of objects?,0,MED,,"The same word is used in both cases, e.g. шокшо игечe [ʃokʃo iget͡ɕe] 'hot weather' - шокшо вӱд [ʃokʃo vyd] ‘hot water’; йӱштӧ игечe [jyʃtø iget͡ɕe] ‘cold weather’ - йӱштӧ вӱд [jyʃtø vyd] ‘cold water’."
-UT116,Is there contrastive length of consonants?,0,EG 24,,"Geminate (long) consonants only occur at morpheme boundaries. Minimal pairs are possible: ныллымше [nəlːəmʃe] ‘fortieth’ (← ныл [nəl] ‘four’ + лу [lu] ‘ten’ + ORD), нылымше [nələmʃe] ‘fourth’ (← ныл [nəl] ‘four’ + ORD)."
-UT117,Is there contrastive length of vowels?,0,EG 23,,"Reduced vowels are shorter than full vowels, but there is a clear qualitative difference between non-reduced and reduced vowels, so it cannot be reasoned that vowel length alone is distinctive."
-UT118,Is there contrast between short and long unstressed vowels?,0,EG 23,,No distinctive vowel length at all.
-UT119,Is there contrast in duration of geminate consonants?,0,Jeremy Bradley (p.c. 2020),,
-UT120,Are there more than two phonological quantities?,0,EG 23,,
-UT121,Are there extralong syllables?,0,EG 23,,No distinctive vowel length at all; geminate consonants only at morpheme boundaries.
+UT071,Can modifiers of action nominalizations in agent and patient roles both be encoded like possessors?,1,Riese et al. 2019:252-253,"UT071-1, UT071-2",
+UT072,Can the modifier of action nominalizations in the patient role be encoded like a direct object?,1,Riese et al. 2019:250,UT072,"“Non-finite verbal forms are not inflected for tense and mood, but maintain some verbal properties, for example the argument structure (i.e., they can still have objects)."""
+UT073,Do core adjectives agree with the subject noun in number in the predicative position?,0,Riese et al. 2019:97,,"Adjectives do not agree with the noun in number in the predicateve position, e.g. нине сӱрет-влак сылне ул-ыт [nine syret-vlɑk səlne ul-ət] (these picture-PL beautiful be-PRS.3PL) 'these pictures are beautiful'."
+UT074,Is there a bound superlative degree marker on property words?,0,Riese et al. 2019:104,,Analytic formation is used.
+UT075,Can adpositions have person/number marking?,1,Riese et al. 2019:160-163,UT075,
+UT076,Are there adpositions that show a tripartite system?,1,Riese et al. 2019:185-186,"UT076-1, UT076-2, UT076-3",
+UT077,Is there case compounding?,1,Riese et al. 2019:375,UT077,"“Genitive forms, especially of pronouns, can be used as nominals meaning ‘my one, mine’, ‘your one, yours’, ‘his/her own one, his/hers’, etc. In this case, they can be declined as nouns. Other suffixes, also case suffixes, can follow the genitive suffix.”"
+UT078,Are there morphological cases only used with pronouns?,0,Jeremy Bradley (p.c. 2020),,The morphologization of certain postpositions (e.g. дек ‘to’) is proceeding faster on demonstrative pronouns: туддек ‘to him/her’ (Riese et al. 2019:136).
+UT079,Does the numeral modification of a noun have an effect on its case selection?,0,Riese et al. 2019:109,,"The nominative case is used on both occasions, e.g. пӧрт [pørt] 'house' кок пӧрт [kok pørt] 'two houses'."
+UT080,Is the singular form of the noun also used with numerals greater than 1?,1,Riese et al. 2019:109,"UT080-1, UT080-2",
+UT082,Is there a dedicated case that expresses indirect object/recipient/goal (different from a local case)?,1,Riese et al. 2019:78-81,UT082,
+UT083,Is there a dedicated case that expresses a terminative meaning?,0,Saarinen 2022:437-443,,
+UT084,Is there a dedicated case that expresses the absence of a referent (abessive)?,0,Saarinen 2022:437-443,,
+UT085,Is there a dedicated case that expresses motion along or by a referent (prolative)?,0,Saarinen 2022:437-443,,
+UT086,Is there a locative case that expresses goal?,1,Riese et al. 2019:84-88,UT086,
+UT087,Is there a locative case that expresses location?,1,Riese et al. 2019:82-84,UT087,
+UT088,Is there a locative case that expresses source?,0,Riese et al. 2019:172-174,,The postposition деч [det͡ɕ] ‘from’ could be said to be a de-facto case for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (Riese et al. 2019:163-164)
+UT089,Is there case syncretism for goal and location marking?,0,Riese et al. 2019:82-88,,
+UT090,Is there case syncretism for location and source marking?,0,Jeremy Bradley (p.c. 2020),,
+UT091,Are there two sets of local cases?,0,Saarinen 2022:437-443,,"The three postpositions - деке [deke] ‘to’ (Riese et al. 2019:169-170), дене [dene] ‘with’ (Riese et al. 2019:170-172), деч [det͡ɕ] ‘from’ (Riese et al. 2019:172-174) - used similar to external local cases in Finnic languages could be said to be de-facto cases for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (Riese et al. 2019:163-164)."
+UT092,Are there three or more sets of local cases?,0,Saarinen 2022:437-443,,
+UT093,Is there a dedicated case that expresses the means by which something is carried out (instrumental) and/or accompaniment (comitative)?,0,Riese et al. 2019:170-172,,The postposition дене [dene] ‘with’ could be said to be a de-facto case for which the morphologization is complete; it is only description tradition and orthography that justifies its classification as a postposition rather than a case suffix (Riese et al. 2019:163-164). NB! The so-called comitative case mentioned in Mari grammars and textbooks has a radically different function.
+UT203,"Is there a case that expresses the means by which something is carried out (instrumental), which is different from a case that expresses accompaniment (comitative) or other relations?",0,Saarinen 2022:437-443,,
+UT095,Is there a dedicated case that expresses the result of a change of state (translative) and/or a state of being (essive)?,0,Saarinen 2022:437-443,,
+UT096,"Is there a case that expresses a state of being (essive), which is different from a case that expresses the result of a change of state (translative) or other relations?",0,Saarinen 2022:437-443,,
+UT097,Is there a dedicated case that expresses equativity?,1,Riese et al. 2019:91-93,UT097,"“The comparative case is used to express similarity, likeness and can usually be translated into English as ‘like something/someone’, ‘as something/someone’. The object/person with which a noun in the comparative is compared can be used in varying syntactic functions in the sentence: subject, object, etc.”."
+UT098,Is there an inflectional nominal marker for expressing benefactive or destinative semantics independent from the dative?,0,Riese et al. 2019:294,,The dative is used to mark benefactors.
+UT099,Is there (in addition to the basic declension) a declension different from a possessive declension? ,0,Jeremy Bradley (p.c. 2020),,
+UT100,Is it possible to use the singular with the paired body parts/clothing/accessories that accompany them?,1,Riese et al. 2019:56; Riese et al. 2014,"UT100-1, UT100-2",
+UT101,Can the marking of the possessor in the attributive construction vary?,0,Riese et al. 2019:61-68,,
+UT102,Can the possessor in the attributive construction be encoded with the nominative?,0,Riese et al. 2019:61-68,,"It should be noted that inanimate nouns traditionally did not occur in the genitive at all; inanimate nouns serving as a modification do occur in the nominative (Riese et al. 2019:61-68), e.g. Вена университет [Venɑ universitet] (Vienna.NOM university) University of Vienna’ (see www.mari-language.com)."
+UT204,Are singular and plural possessee distinguished in the possessive declension? ,0,Riese et al. 2017:516,,
+UT104,Can a 2Sg possessive suffix be used to mark definiteness?,1,Riese et al. 2017:125,UT104,"“Like the possessive suffix third person singular […] this possessive suffix can beused as a determining element, though its usage is more typical of folklore texts” (Riese et al. 2017:125)."
+UT105,Can a 3Sg possessive suffix be used to mark definiteness?,1,Riese et al. 2017:125,UT105,The possessive suffix is used to indicate a rreference to something previously discussed or otherwise salient to the conversation. It is especially commonly used to refer to a subset of a larger whole that is salient.
+UT106,Is there a human vs. non-human distinction in independent interrogative pronouns?,1,Riese et al. 2019:148,"UT106-1, UT106-2",
+UT107,Does 'who' commonly appear as a relative pronoun used for animates other than humans?,0,Riese et al. 2014,,
+UT108,Does 'who' commonly appear as a relative pronoun used for inanimates?,0,Riese et al. 2014,,
+UT109,Can a demonstrative stem be used as a pronoun with a 3Sg human referent?,1,Riese et al. 2017:333; Riese et al. 2014,"UT109-1, UT109-2",
+UT110,"Are there possessive suffixes, the position of which varies in relation to case/number suffixes?",1,Riese et al. 2017:516,"UT110-1, UT110-2",The “degrees of freedom” depend on the case.
+UT205,Are case and number marked cumulatively across the paradigm?,0,"Saarinen 2022:435-436, 445",,
+UT112,Are there different words for mother’s brother and father’s brother?,1,Riese et al. 2017:70-72; Riese et al. 2014,"UT112-1, UT112-2, UT112-3",
+UT113,Are there different words for younger and older relatives for relations other than siblings?,1,Riese et al. 2017:70-72; Riese et al. 2014,"UT113-1, UT113-2, UT113-3, UT113-4, UT113-5",
+UT114,Is there an animacy distinction for both concepts: 'new/young' and 'old'?,1,Riese et al. 2017:243; Riese et al. 2014,"UT114-1, UT114-2, UT114-3, UT114-4",
+UT115,Is there a distinction for both 'warm' and 'cold' depending on whether reference is to weather or the temperature of objects?,0,Riese et al. 2014,,"The same word is used in both cases, e.g. шокшо игечe [ʃokʃo iget͡ɕe] 'hot weather' - шокшо вӱд [ʃokʃo vyd] ‘hot water’; йӱштӧ игечe [jyʃtø iget͡ɕe] ‘cold weather’ - йӱштӧ вӱд [jyʃtø vyd] ‘cold water’."
+UT116,Is there contrastive length for consonants?,0,Riese et al. 2019:24,,"Geminate (long) consonants only occur at morpheme boundaries. Minimal pairs are possible: ныллымше [nəlːəmʃe] ‘fortieth’ (← ныл [nəl] ‘four’ + лу [lu] ‘ten’ + ORD), нылымше [nələmʃe] ‘fourth’ (← ныл [nəl] ‘four’ + ORD)."
+UT117,Is there contrastive length for vowels?,0,Riese et al. 2019:23,,"Reduced vowels are shorter than full vowels, but there is a clear qualitative difference between non-reduced and reduced vowels, so it cannot be reasoned that vowel length alone is distinctive."
+UT118,Is there a contrast between short and long unstressed vowels?,0,Riese et al. 2019:23,,No distinctive vowel length at all.
+UT119,Is there a contrast in the length of geminate consonants?,0,Jeremy Bradley (p.c. 2020),,
+UT120,Are there more than two phonological quantities?,0,Riese et al. 2019:23,,
+UT121,Are there extralong syllables?,0,Riese et al. 2019:23,,No distinctive vowel length at all; geminate consonants only at morpheme boundaries.
 UT122,Is the main foot structure trochaic?,0,Jeremy Bradley (p.c. 2020),,
-UT123,Is there lexically distinctive word stress?,1,"EG 23, 32","UT123-1, UT123-2","However, as final unstressed [e] is reduced, it could be argued that the qualitative difference of this vowel is critical to the phonological disctinction between these words."
-UT124,Is there morphologically conditioned stress?,1,EG 31-34,,"In Meadow Mari, suffixes containing full vowels are stressed, but this is in line with the regular stress rules."
-UT125,Is there fixed primary stress?,0,EG 31-34,,"The last full vowel (i.e. anything but [ə] or unstressed/reduced final [e], [o], [ø]) is stressed: пеледыш [peˈledəʃ] ‘flower’, пеледеш [peleˈdeʃ] ‘blossoms’."
-UT126,Is there stress in heavy syllables?,1,EG 31-34,UT126,Syllable structure has no transparent effect on where stress falls.
-UT127,Is there non-initial primary stress?,1,EG 31-34,"UT127-1, UT127-2","The last full vowel (i.e. anything but [ə] or unstressed/reduced final [e], [o], [ø]) is stressed."
-UT128,Is there palatal vowel harmony?,1,EG 36-38,"UT128-1, UT128-2, UT128-3, Ut128-4","Only for labial vowels.
-"
-UT129,Is there velar vowel harmony?,0,EG 36-38,,
-UT130,Is there labial vowel harmony?,1,EG 36-38,"UT130-1, UT130-2, UT130-3, UT130-4",Further palato-velar distinction for labial vowels.
-UT131,Are there rising diphthongs?,0,EG 23,,
-UT132,Are there lowering diphthongs?,0,EG 23,,
-UT133,Is there qualitative contrast between subsets of short and long vowels?,0,EG 23,,
-UT134,Are there full vs. reduced vowels as contrastive subsets?,1,"EG 23, 32","UT134-1, UT134-2",
-UT135,Is there front high rounded vowel ü [y]?,1,EG 23,UT135,
-UT136,Is there front midhigh rounded vowel ö [ø]?,1,EG 23,UT136,
-UT137,Is there back high unrounded vowel ï [ɯ]?,0,EG 23,,
-UT138,Is there back midhigh unrounded vowel ë [ɤ]?,0,EG 23; RHM 44,,"There is however a “mid unrounded central vowel, reduced vowel similarly to the English reduced vowel that is denoted in different ways (alone, lemon, heaven)”, e.g. пыл [pəl] ‘cloud’."
-UT139,Is there back low round vowel [ɒ]?,0,EG 23,,
-UT140,Is there contrast between low and mid front vowels (ä [æ] vs. e [e])?,0,EG 23,,
-UT141,Are there word-initial consonant clusters?,1,MED,UT141,Fairly rare and the effect of a fairly recent loss of reduced vowels that did not happen in all varieties of Mari.
-UT142,Are there word-internal consonant clusters in syllable onset?,1,EG 58,UT142,
-UT143,Are there consonant clusters in syllable coda?,1,MED,UT143,
-UT144,Are there clusters of three or more consonants in a word between vowels?,1,MED,UT144,
+UT123,Is there lexically distinctive word stress?,1,"Riese et al. 2019:23, 32","UT123-1, UT123-2","However, as final unstressed [e] is reduced, it could be argued that the qualitative difference of this vowel is critical to the phonological disctinction between these words."
+UT124,Is there morphologically conditioned stress?,1,Riese et al. 2019:31-34,,"In Meadow Mari, suffixes containing full vowels are stressed, but this is in line with the regular stress rules."
+UT125,Is there fixed primary stress?,0,Riese et al. 2019:31-34,,"The last full vowel (i.e. anything but [ə] or unstressed/reduced final [e], [o], [ø]) is stressed: пеледыш [peˈledəʃ] ‘flower’, пеледеш [peleˈdeʃ] ‘blossoms’."
+UT126,Is there stress in heavy syllables?,1,Riese et al. 2019:31-34,UT126,Syllable structure has no transparent effect on where stress falls.
+UT127,Is there non-initial primary stress?,1,Riese et al. 2019:31-34,"UT127-1, UT127-2","The last full vowel (i.e. anything but [ə] or unstressed/reduced final [e], [o], [ø]) is stressed."
+UT128,Is there palatal vowel harmony?,1,Riese et al. 2019:36-38,"UT128-1, UT128-2, UT128-3, Ut128-4",Only for labial vowels.
+UT129,Is there velar vowel harmony?,0,Riese et al. 2019:36-38,,
+UT130,Is there labial vowel harmony?,1,Riese et al. 2019:36-38,"UT130-1, UT130-2, UT130-3, UT130-4",Further palato-velar distinction for labial vowels.
+UT131,Are there closing diphthongs?,0,Riese et al. 2019:23,,
+UT132,Are there opening diphthongs?,0,Riese et al. 2019:23,,
+UT133,Is there a qualitative contrast between subsets of short and long vowels?,0,Riese et al. 2019:23,,
+UT134,Are there full vs. reduced vowels as contrastive subsets?,1,"Riese et al. 2019:23, 32","UT134-1, UT134-2",
+UT135,Is there a high front rounded vowel /y/?,1,Riese et al. 2019:23,UT135,
+UT136,Is there a mid-high front rounded vowel /ø/?,1,Riese et al. 2019:23,UT136,
+UT137,Is there a high back unrounded vowel /ɯ ɨ/?,0,Riese et al. 2019:23,,
+UT138,Is there a mid-high back unrounded vowel /ɤ ɘ/?,0,Riese et al. 2019:23; Krasnova et al. 2017: 44,,"There is however a “mid unrounded central vowel, reduced vowel similarly to the English reduced vowel that is denoted in different ways (alone, lemon, heaven)”, e.g. пыл [pəl] ‘cloud’."
+UT139,Is there a low back rounded vowel /ɒ/?,0,Riese et al. 2019:23,,
+UT140,Is there a contrast between mid front vowels (/e/ or /ɛ/) and low front vowels (/æ/ or /a/)?,0,Riese et al. 2019:23,,
+UT141,Are there word-initial consonant clusters?,1,Riese et al. 2014,UT141,Fairly rare and the effect of a fairly recent loss of reduced vowels that did not happen in all varieties of Mari.
+UT142,Are there word-internal consonant clusters in the syllable onset?,1,Riese et al. 2019:58,UT142,
+UT143,Are there consonant clusters in the syllable coda?,1,Riese et al. 2014,UT143,
+UT144,Are there word-internal intervocalic clusters of three or more consonants?,1,Riese et al. 2014,UT144,
 UT145,Are there word-final clusters of three or more consonants?,0,Jeremy Bradley (p.c. 2020),,
-UT146,Are there palatalized dentals?,0,EG 22,,The palatal consonants [ʎ] and [ɲ] are frequently mislabelled as palatalized. Palatalized pronunciation under Russian influence and especially in Russian loan words does happen.
-UT147,Are there palatalized labials and velars?,0,EG 22,,Only in Russian loan words among contemporary speakers.
-UT148,Is there palatal stop [c]?,0,EG 22,,
-UT149,Is there palatal nasal [ɲ]?,1,EG 22,UT149,
-UT150,Is there palatal lateral [ʎ]?,1,EG 22,UT150,
-UT151,Is there phonemic velar nasal [ŋ]?,1,Jeremy Bradley (p.c. 2020),UT151,
-UT152,Is there dental affricate [t͡s]?,0,OMJ 23,,Only in Russian loan words.
-UT153,"Is there non-alveolar affricate (e.g. [t͡ʃ], [͡cɕ])?",1,EG 22,,
-UT154,Is there a phonological contrast between [s] and postalveolar sibilant [ʃ]?,1,EG 22,UT154,
-UT155,"Are there voiced plosives [b, g, d]?",1,EG 24,,"Historically as allophones of the fricatives /β/, /γ/, /δ/ after homorganic nasals, i.e.: [mb], [ŋg], [nd]. “The historical pronunciation of these sounds is encountered only rarely today: [β] has generally been replaced by [v]; /b/ is perceived as an independent phoneme; the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
-UT156,Is there glottal stop [ˀ]?,0,EG 22,UT153,
-UT157,Is there phonological contrast between plain and labial velar consonants (e.g. [k] vs. [kʷ])?,0,EG 22,,
-UT158,Is there a constraint on word-initial r?,0,EG 22; OMJ 26,,"It is uncommon, but not excluded. There are some words of proto-Uralic origin that have an initial r. There are some varieties in which intial r is preceded by prothetic ə, however, presumably under Chuvash indluence."
-UT159,Is there laryngeal fricative [h]?,0,EG 22,,
-UT160,Is there voiced velar fricative [ɣ]?,0,EG 24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: […] the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
-UT161,Is there voiceless velar fricative [x]?,0,EG 24; OMJ 23,,Only in Russian loan words. 
-UT162,Is there voiced dental fricative [ð]?,0,EG 24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: […] the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
-UT163,Is there phonemic labio-velar approximant [w]?,1,EG 24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: [β] has generally been replaced by [v]”."
-UT164,Is there voiceless labiodental fricative [f]?,0,OMJ 21,,Only in Russian loan words.
-UT165,Is there radical qualitative consonant gradation?,0,EG 34,,"There is alternation between [t] and [d] (not marked in orthography; д is used regardless of pronunciation) that has been said to resembles consonant gradation or final consonant devoicing: кид [kit] ‘hand’, кит-лан [kit-lɑn] hand-PX1PL, кид-ем [kid-em] hand-PX1SG. However, the historical explanation here is that [d] was spirantized to [ð] between vowels, and was later replaced by [d] under Russian influence."
+UT146,Are there palatalized alveolar consonants?,0,Riese et al. 2019:22,,The palatal consonants [ʎ] and [ɲ] are frequently mislabelled as palatalized. Palatalized pronunciation under Russian influence and especially in Russian loan words does happen.
+UT147,Are there palatalized labial and velar consonants?,0,Riese et al. 2019:22,,Only in Russian loan words among contemporary speakers.
+UT148,Is there a palatal stop?,0,Riese et al. 2019:22,,
+UT149,Is there a palatal nasal /ɲ/?,1,Riese et al. 2019:22,UT149,
+UT150,Is there a palatal lateral /ʎ/?,1,Riese et al. 2019:22,UT150,
+UT151,Is there a velar nasal /ŋ/?,1,Jeremy Bradley (p.c. 2020),UT151,
+UT152,Is there an alveolar affricate /t͡s/?,0,Riese et al. 2017:23,,Only in Russian loan words.
+UT153,"Is there a non-alveolar affricate (e.g., /t͡ʃ/, /t͡ɕ/)?",1,Riese et al. 2019:22,,
+UT154,Is there a phonological contrast between an unvoiced alveolar sibilant /s/ and an unvoiced postalveolar sibilant /ʃ/?,1,Riese et al. 2019:22,UT154,
+UT155,"Are there voiced plosives (e.g., /b g d/)?",1,Riese et al. 2019:24,,"Historically as allophones of the fricatives /β/, /γ/, /δ/ after homorganic nasals, i.e.: [mb], [ŋg], [nd]. “The historical pronunciation of these sounds is encountered only rarely today: [β] has generally been replaced by [v]; /b/ is perceived as an independent phoneme; the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
+UT156,Is there a glottal stop /ʔ/?,0,Riese et al. 2019:22,UT153,
+UT157,"Is there a phonological contrast between plain and labial velar consonants (e.g., /k/ vs. /kʷ/)?",0,Riese et al. 2019:22,,
+UT158,Is there a constraint on the word-initial alveolar trill /r/?,0,Riese et al. 2019:22; Riese et al. 2017:26,,"It is uncommon, but not excluded. There are some words of proto-Uralic origin that have an initial r. There are some varieties in which intial r is preceded by prothetic ə, however, presumably under Chuvash indluence."
+UT159,Is there a laryngeal fricative /h/?,0,Riese et al. 2019:22,,
+UT160,Is there a voiced velar fricative /ɣ/?,0,Riese et al. 2019:24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: […] the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
+UT161,Is there a voiceless velar fricative /x/?,0,Riese et al. 2019:24; Riese et al. 2017:23,,Only in Russian loan words.
+UT162,Is there a voiced dental fricative /ð/?,0,Riese et al. 2019:24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: […] the sounds [γ] and [δ] are mainly realized as [g] and [d] in all positions.”"
+UT163,Is there a labio-velar approximant /w/?,1,Riese et al. 2019:24,,"“Historically, Mari had three voiced fricative phonemes: /β/, /γ/ and /δ/ […] The historical pronunciation of these sounds is encountered only rarely today: [β] has generally been replaced by [v]”."
+UT164,Is there a voiceless labiodental fricative /f/?,0,Riese et al. 2017:21,,Only in Russian loan words.
+UT165,Is there radical qualitative consonant gradation?,0,Riese et al. 2019:34,,"There is alternation between [t] and [d] (not marked in orthography; д is used regardless of pronunciation) that has been said to resembles consonant gradation or final consonant devoicing: кид [kit] ‘hand’, кит-лан [kit-lɑn] hand-PX1PL, кид-ем [kid-em] hand-PX1SG. However, the historical explanation here is that [d] was spirantized to [ð] between vowels, and was later replaced by [d] under Russian influence."
 UT166,Is there quantitative consonant gradation?,0,Jeremy Bradley (p.c. 2020),,
